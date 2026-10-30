@@ -1,0 +1,8 @@
+{
+  "path": "br-go",
+  "code": "BR-GO",
+  "name": "Goiás",
+  "level": "state",
+  "repo": "https://github.com/lexifina/brazil-goias-law",
+  "build": "built: Constituição do Estado de Goiás and the Leis Complementares, from Legisla Goiás (Casa Civil)"
+}
