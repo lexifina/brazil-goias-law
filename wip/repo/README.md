@@ -10,9 +10,9 @@ It follows the shared design of [lexifina/global-law](https://github.com/lexifin
 | Folder | Act | Versions |
 | --- | --- | ---: |
 | `constituicao/` | Constituição do Estado de Goiás (5 October 1989), text in force | 1 |
-| `lc-<year>-<number>/` | the Leis Complementares, added part by part | 1 each |
+| `lc-<year>-<number>/` | the Leis Complementares the Casa Civil lists as in force, partly revoked or promulgated (198 acts) | 1 each |
 
-**Partial:** the Leis Complementares are being added part by part, so the history may still gain earlier commits. An act the Casa Civil shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the Casa Civil as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Ordinary Leis, decrees and the Emendas Constitucionais as acts are not included yet.
+Three altered Leis Complementares whose alteration notes cite no date are left out. An act the Casa Civil shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the Casa Civil as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Ordinary Leis, decrees and the Emendas Constitucionais as acts are not included yet.
 
 ## Source
 

@@ -1,8 +1,15 @@
-{"name": "Goiás", "full": "the State of Goiás (Estado de Goiás)", "code": "BR-GO", "slug": "brazil-goias",
- "publisher": "Secretaria de Estado da Casa Civil de Goiás", "site": "Legisla Goiás", "site_url": "https://legisla.casacivil.go.gov.br",
- "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `constituicao/` | Constituição do Estado de Goiás (5 October 1989), text in force | 1 |\n| `lc-<year>-<number>/` | the Leis Complementares, added part by part | 1 each |\n\n**Partial:** the Leis Complementares are being added part by part, so the history may still gain earlier commits. An act the Casa Civil shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the Casa Civil as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Ordinary Leis, decrees and the Emendas Constitucionais as acts are not included yet.",
+{
+ "name": "Goiás",
+ "full": "the State of Goiás (Estado de Goiás)",
+ "code": "BR-GO",
+ "slug": "brazil-goias",
+ "publisher": "Secretaria de Estado da Casa Civil de Goiás",
+ "site": "Legisla Goiás",
+ "site_url": "https://legisla.casacivil.go.gov.br",
+ "holds": "| Folder | Act | Versions |\n| --- | --- | ---: |\n| `constituicao/` | Constituição do Estado de Goiás (5 October 1989), text in force | 1 |\n| `lc-<year>-<number>/` | the Leis Complementares the Casa Civil lists as in force, partly revoked or promulgated (198 acts) | 1 each |\n\nThree altered Leis Complementares whose alteration notes cite no date are left out. An act the Casa Civil shows no alteration for is given **as enacted**, credited to the act itself. An altered act is given **only as its text in force**, credited to the Casa Civil as the oldest version available: the wordings in between are not reconstructed yet, so no earlier version is shown rather than a wrong one. Ordinary Leis, decrees and the Emendas Constitucionais as acts are not included yet.",
  "dates": "An unaltered act is dated by its publication in the Diário Oficial do Estado (Goiás laws almost always take effect on publication); the Constituição by its promulgation. An altered act's text in force is dated by the latest date among the alterations the Casa Civil's notes cite (\"Redação dada pela ...\", \"Acrescido pela ...\", \"Revogado pela ...\", including a stated \"vigência a partir de\"); \"Vide\" notes do not date a version. Commits are at noon in Goiânia.",
  "built": "Each compiled text becomes one file per Art.; articles of the Ato das Disposições Constitucionais Transitórias are `adt-*`. Headings of the Títulos, Capítulos and Seções stand above the first article under them; `000-titulo.md` holds the title, the ementa and the preamble. For the text in force, the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes are left out. Tables are one line per row, with cells separated by ` | `.",
  "limits": "Not a complete history: an altered act starts at its text in force. The text is not the official version: only the Diário Oficial do Estado is authoritative. Text after the last article (place, date, signatures) stays in the last article's file. The compiled Constituição numbers the first transitional article \"Art. 11º\" (as printed); its file is `adt-0011` and holds the transitional articles up to the next higher number.",
  "build": "built: Constituição do Estado de Goiás and the Leis Complementares, from Legisla Goiás (Casa Civil)",
- "terms": "- The site publishes its records as open data (\"Dados Abertos\": JSON and other formats).\n"}
+ "terms": "- The site publishes its records as open data (\"Dados Abertos\": JSON and other formats).\n"
+}
