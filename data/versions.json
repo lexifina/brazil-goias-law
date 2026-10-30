@@ -1,0 +1,2791 @@
+{
+ "country": "BR-GO",
+ "acts": [
+  {
+   "slug": "constituicao",
+   "short": "CE-GO",
+   "title": "Constituição do Estado de Goiás",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103152",
+   "versions": [
+    {
+     "from": "2025-12-17",
+     "units": 225,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/constituicao_estadual",
+     "sha256": "bf63eeeb7143a5c194f79ca259957cd2faa3d15eb4bf7209b375822f0d75995f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-176",
+   "short": "LC 176/2022",
+   "title": "Lei Complementar nº 176, de 2022 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105771",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105771",
+     "sha256": "c573285fe985321f8542629ce900c1b69512537761463b7e515e096c7a3377b9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-207",
+   "short": "LC 207/2025",
+   "title": "Lei Complementar nº 207, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111012",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111012",
+     "sha256": "9cc5a046cd6905e0740c91df9f5c92eba5773386eddd222b34a99ad0b7f7886a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-033",
+   "short": "LC 33/2001",
+   "title": "Lei Complementar nº 33, de 2001",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101012",
+   "versions": [
+    {
+     "from": "2020-01-15",
+     "units": 19,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101012",
+     "sha256": "729cfdc3a3222337596c117e2588651074d9c632be2e0c24ac7b1573d6183eaa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-040",
+   "short": "LC 40/2003",
+   "title": "Lei Complementar nº 40, de 2003 (Introduz alterações na Lei Complementar nº 1, de 19 de dezembro de 1989, na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101004",
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101004",
+     "sha256": "230b8cd9dc2af86025a340b38863d4e5cbf88005f68b09c7574a6b94807dc8c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-103",
+   "short": "LC 103/2013",
+   "title": "Lei Complementar nº 103, de 2013",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101090",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 16,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101090",
+     "sha256": "a6048845e28a6464bde1971efe08a0cb04a9da2d94d46a797ce2b0d214c9640b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-133",
+   "short": "LC 133/2017",
+   "title": "Lei Complementar nº 133, de 2017 (Dispõe sobre normas para encerramento da execução orçamentária, financeira e contábil de exercício financeiro.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101120",
+   "versions": [
+    {
+     "from": "2022-04-28",
+     "units": 11,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101120",
+     "sha256": "8a187694adc32a591e6b5f1207a2d98a85e8bf32212e02f92347012cca8b5cca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-179",
+   "short": "LC 179/2023",
+   "title": "Lei Complementar nº 179, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106589",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106589",
+     "sha256": "b38dc516d03edb464389f13488fc56c8aa8e20dbd24cf2a9d73bf23b5a5526a1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-180",
+   "short": "LC 180/2023",
+   "title": "Lei Complementar nº 180, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106590",
+   "versions": [
+    {
+     "from": "2023-01-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106590",
+     "sha256": "f6a18e9905ef2b87961ba87c32e8f2744c7ab8e02f61b44ead4da1199e5675a5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-056",
+   "short": "LC 56/2006",
+   "title": "Lei Complementar nº 56, de 2006",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100988",
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100988",
+     "sha256": "99d2340fbb4f18b7cdbaad8c58d0301f2a82d6dbb05db64f8f405d0d1947c36b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-052",
+   "short": "LC 52/2005",
+   "title": "Lei Complementar nº 52, de 2005 (Altera o art. 16 da Lei Complementar no 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100994",
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100994",
+     "sha256": "504c74cd9ef6117b4b3d3bb2e79c03893479fb63c10ee01cb97320b63792254b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-057",
+   "short": "LC 57/2006",
+   "title": "Lei Complementar nº 57, de 2006 (Altera o art. 3o da Lei Complementar no 01, de 19 de dezembro de 1989, com alterações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100989",
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100989",
+     "sha256": "2977f24a6f739243dcccdae5c927833deb4064cfa3992e76c09f84dfb34ed5cd"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-123",
+   "short": "LC 123/2016",
+   "title": "Lei Complementar nº 123, de 2016 (Altera a Lei Complementar nº 58, de 04 de julho de 2006, e dispõe sobre a reestruturação da carreira de Procurador do Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101110",
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101110",
+     "sha256": "d4bbd71eca0262e63f20c2d32cff144b0daaaa751a035f0935825ce8156a1ec7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-206",
+   "short": "LC 206/2025",
+   "title": "Lei Complementar nº 206, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110784",
+   "versions": [
+    {
+     "from": "2025-06-03",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110784",
+     "sha256": "c194cdff6e7d42b22fbd16a18fb0db53e7a8c744007f99516f2dcd892fb51e1a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-079",
+   "short": "LC 79/2010",
+   "title": "Lei Complementar nº 79, de 2010 (Prorroga, até 31 de dezembro de 2010, o prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64 /2008)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101066",
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101066",
+     "sha256": "8211a698126f615d734082536916c5a53c367e292db178a1149b61bb4e88280d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-195",
+   "short": "LC 195/2024",
+   "title": "Lei Complementar nº 195, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109434",
+   "versions": [
+    {
+     "from": "2024-09-02",
+     "units": 12,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109434",
+     "sha256": "bf2eace69df7aac7eefe04a77014318bc68e1d917a792de9e58d5171950e709a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-050",
+   "short": "LC 50/2005",
+   "title": "Lei Complementar nº 50, de 2005 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100992",
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100992",
+     "sha256": "154e1067551f666b785b818932bf6451a48bd7585470d2f1a2a736d347d18fc7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-034",
+   "short": "LC 34/2001",
+   "title": "Lei Complementar nº 34, de 2001",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101013",
+   "versions": [
+    {
+     "from": "2001-10-08",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101013",
+     "sha256": "2a9619da52b83b130bbb9f68a7e44471a2888bf2014c448d4d53b0ce6144e901"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-055",
+   "short": "LC 55/2005",
+   "title": "Lei Complementar nº 55, de 2005 (Altera dispositivo da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100997",
+   "versions": [
+    {
+     "from": "2005-10-06",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100997",
+     "sha256": "04a9e31b761ec6bc32531ccb76bc672f77a93e81a5f5cb456daffc22340cc3e6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-158",
+   "short": "LC 158/2020",
+   "title": "Lei Complementar nº 158, de 2020",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103569",
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103569",
+     "sha256": "6b5062ffb0570f779f0248b10cd578fae06f5067649fb6f72eee868946cfb033"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-181",
+   "short": "LC 181/2023",
+   "title": "Lei Complementar nº 181, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106682",
+   "versions": [
+    {
+     "from": "2023-05-22",
+     "units": 28,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106682",
+     "sha256": "2a7c063fa58bdc8528d7a1abe19931b0c56e52a6fc2af00a707b954beb840b6c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-004",
+   "short": "LC 4/1990",
+   "title": "Lei Complementar nº 4, de 1990 (Altera a Lei Complementar n° 2, de 16 de janeiro de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101045",
+   "versions": [
+    {
+     "from": "1995-07-18",
+     "units": 22,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101045",
+     "sha256": "ee7de1bf1dbce395bc1ae1021070c9106fb610cae6e868b970b85994ff0cda55"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-036",
+   "short": "LC 36/2002",
+   "title": "Lei Complementar nº 36, de 2002 (Altera a redação do art. 17 da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101010",
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101010",
+     "sha256": "3f6a3c10f17039d25668c1843b77c0a808cbbd3228bc92ff37990e55a846877e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-058",
+   "short": "LC 58/2006",
+   "title": "Lei Complementar nº 58, de 2006 (Dispõe sobre a organização da Procuradoria-Geral do Estado e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 66,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100990",
+     "sha256": "a6bac4e362729debd2fce48bf08bdf95b45179253f2f298a7acaf72948d50f0f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-074",
+   "short": "LC 74/2009",
+   "title": "Lei Complementar nº 74, de 2009 (Altera a Lei Complementar nº 72, de 24 de março de 2009)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101062",
+   "versions": [
+    {
+     "from": "2009-09-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101062",
+     "sha256": "4efb1cf4211f7ec3326a30fd634323ca68440ef8e8d7d40604b79c50f07a6896"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-151",
+   "short": "LC 151/2019",
+   "title": "Lei Complementar nº 151, de 2019 (Altera a Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Nacional.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101138",
+   "versions": [
+    {
+     "from": "2019-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101138",
+     "sha256": "34e06226ac91be7be8ee95809c581ac0e03a760e87e283926681b4abd69b5b8b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-199",
+   "short": "LC 199/2024",
+   "title": "Lei Complementar nº 199, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109824",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109824",
+     "sha256": "28dcaeb3879feacfac10142d8b9a4a79786b7d4cb8dccd4dc07431d40cc49f04"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-194",
+   "short": "LC 194/2024",
+   "title": "Lei Complementar nº 194, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109170",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109170",
+     "sha256": "8050b865712082c81bdb2e2de6fa5bd71c3a76e81bac7a72f58f01047abf18c8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-117",
+   "short": "LC 117/2015",
+   "title": "Lei Complementar nº 117, de 2015 (Institui, no âmbito do Estado de Goiás, o Estatuto da Microempresa e da Empresa de Pequeno Porte e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101104",
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "units": 71,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101104",
+     "sha256": "9b0ce6feec7251276b024f9aaba6ad9c9d3ba75377614e7ee6ee27038db6b946"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-186",
+   "short": "LC 186/2023",
+   "title": "Lei Complementar nº 186, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107842",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107842",
+     "sha256": "ac7bdcd680c2a19f3d77dabc995a9581a7386fb00ced2e5077ded7f28a81671f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-127",
+   "short": "LC 127/2017",
+   "title": "Lei Complementar nº 127, de 2017 (Altera a Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101114",
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101114",
+     "sha256": "e39a4a27bf5202323b6e32d4ea3ab520bcfd580d1d57a2efcd0a00cd94f05dbf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-025",
+   "short": "LC 25/1998",
+   "title": "Lei Complementar nº 25, de 1998 (Institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023",
+   "versions": [
+    {
+     "from": "2025-06-02",
+     "units": 283,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101023",
+     "sha256": "a00ba4a59aa0fa72e0a9a1d63bb612128261609a71e83527721df45f8b7d0a1c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-184",
+   "short": "LC 184/2023",
+   "title": "Lei Complementar nº 184, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107461",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 12,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107461",
+     "sha256": "892e03c99ff1ebe71db2cdad01992540d35102a4fab9f828e82ed1984ca9e707"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-187",
+   "short": "LC 187/2023",
+   "title": "Lei Complementar nº 187, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107847",
+   "versions": [
+    {
+     "from": "2023-10-06",
+     "units": 12,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107847",
+     "sha256": "d8d905ce59ca283ccaa76f8c6b56f6097ffc7df7326d232391cc15841b11e1ef"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-118",
+   "short": "LC 118/2015",
+   "title": "Lei Complementar nº 118, de 2015",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101105",
+   "versions": [
+    {
+     "from": "2016-10-21",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101105",
+     "sha256": "b744356dc7408d56d295ebaa349b8388f23bd63f4852faac267b1d8da2402cde"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-166",
+   "short": "LC 166/2021",
+   "title": "Lei Complementar nº 166, de 2021",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104672",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104672",
+     "sha256": "abb4486d638ad01b7ac201b16876cb84fb5744176fcd650424877231aa2048a9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-172",
+   "short": "LC 172/2022",
+   "title": "Lei Complementar nº 172, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105298",
+   "versions": [
+    {
+     "from": "2022-04-08",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105298",
+     "sha256": "634f4ceb9d10220947037e898a7ca86d912c3a2076d628a03f2f7b5e953abfca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-087",
+   "short": "LC 87/2011",
+   "title": "Lei Complementar nº 87, de 2011 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, entre outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101074",
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101074",
+     "sha256": "d6a2a96b6b363bcea4469b75f1fccf7691393de6d12180d225416070d9587b4a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-164",
+   "short": "LC 164/2021",
+   "title": "Lei Complementar nº 164, de 2021 (Altera a Lei Complementar nº 58, de 4 de julho de 2006, e a Lei nº 17.928, de 27 de dezembro de 2012.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104187",
+   "versions": [
+    {
+     "from": "2021-07-07",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104187",
+     "sha256": "d8b6a285beb41d93f46da4fca88b37c5af2888e99d57deee0454f49510ed2651"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-185",
+   "short": "LC 185/2023",
+   "title": "Lei Complementar nº 185, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107462",
+   "versions": [
+    {
+     "from": "2023-07-07",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107462",
+     "sha256": "9b9a15ee0ffe792dd658ca709edf1a1eed450a9a97ea7f6223d10dfc3849b122"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-208",
+   "short": "LC 208/2025",
+   "title": "Lei Complementar nº 208, de 2025 (Dispõe sobre a regulamentação do Fundo de Estabilização Econômica de Goiás - FEG.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111039",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 14,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111039",
+     "sha256": "fec88bdbb54c9951acfe8fe5aac2bb777884ace9c4dcb98913180aebf02e6edc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-156",
+   "short": "LC 156/2020",
+   "title": "Lei Complementar nº 156, de 2020",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103302",
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103302",
+     "sha256": "f38463418e7b71539fb1d6e64ed78549f77cd4f473e5e1e6394db596919bf2c7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-043",
+   "short": "LC 43/2003",
+   "title": "Lei Complementar nº 43, de 2003 (Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101007",
+   "versions": [
+    {
+     "from": "2003-11-12",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101007",
+     "sha256": "f8e256b2224b14346ed5228474ef83488075ea225da2aa2f18c1860e2b8f43bf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-167",
+   "short": "LC 167/2021",
+   "title": "Lei Complementar nº 167, de 2021",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104675",
+   "versions": [
+    {
+     "from": "2021-12-07",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104675",
+     "sha256": "414a93a26f7b00825d67cc2f87dbd5b262c10ca0bea645219ae624b18090638f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-157",
+   "short": "LC 157/2020",
+   "title": "Lei Complementar nº 157, de 2020 (Dispõe sobre a política de transição de governo no Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103469",
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "units": 10,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103469",
+     "sha256": "929c4b157f6da56f3f532c8ed8cc52f250a90ec60eeb122ed46110f0da31da6c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-038",
+   "short": "LC 38/2003",
+   "title": "Lei Complementar nº 38, de 2003 (Altera a Lei Complementar no 24, de 08 de junho de 1998, Lei Orgânica da Procuradoria-Geral do Estado, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101002",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 1,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101002",
+     "sha256": "930edb668af0c7180d91b1cdf9ff887ca2bb853da5bc580642f779915ebaa712"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-021",
+   "short": "LC 21/1997",
+   "title": "Lei Complementar nº 21, de 1997 (Altera a Lei Complementar nº 1, de 19 de dezembro de 1989,na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101025",
+   "versions": [
+    {
+     "from": "1997-05-14",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101025",
+     "sha256": "9deb7bafa02cf1c8df431d7da2fe4d4cbe91f24791e4cd4c008a7563b44a69bc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-030",
+   "short": "LC 30/2000",
+   "title": "Lei Complementar nº 30, de 2000 (Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999, nas partes que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101017",
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101017",
+     "sha256": "4ec3f4e6cf11cb71b4b0813f923b8b84b1bf478799c16a8539a580a605b10b60"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-129",
+   "short": "LC 129/2017",
+   "title": "Lei Complementar nº 129, de 2017 (Altera dispositivo da Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101116",
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101116",
+     "sha256": "0a2d3dfdb2415afe97545f652d463d8a8a224f20ca61615291cfc4fae004a45e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-165",
+   "short": "LC 165/2021",
+   "title": "Lei Complementar nº 165, de 2021 (Altera a Lei Complementar nº 58, de 4 de julho de 2006.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104290",
+   "versions": [
+    {
+     "from": "2021-09-10",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104290",
+     "sha256": "3e37c70637be56d874fcd4f8169e714db612160d1f4a2d2e357d640f23803ac9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-104",
+   "short": "LC 104/2013",
+   "title": "Lei Complementar nº 104, de 2013 (Institui o Código de Direitos, Garantias e Obrigações do Contribuinte no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101091",
+   "versions": [
+    {
+     "from": "2014-04-23",
+     "units": 38,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101091",
+     "sha256": "9b5b224c288bc6bfb759b12b805cbb273d5db72462dc013f03f80902e4fcaaea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-048",
+   "short": "LC 48/2004",
+   "title": "Lei Complementar nº 48, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101000",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101000",
+     "sha256": "907b2704a16dab6ee7b988396ab60d5ad58135c7b90e986f33333d00b3727462"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-049",
+   "short": "LC 49/2004",
+   "title": "Lei Complementar nº 49, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101001",
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101001",
+     "sha256": "f722f0d7005baee0d064b0aba450f4f7f05338acfdf01ae87686c198583faf2f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-067",
+   "short": "LC 67/2009",
+   "title": "Lei Complementar nº 67, de 2009 (Altera a Lei Complementar no 26, de 28 de dezembro de 1998, na parte que especifica)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101054",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101054",
+     "sha256": "a1e133fdfb7673d851e51294cf69f0cb5b56f9f3fd0d335192c6e9f4c0b2b70d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-068",
+   "short": "LC 68/2009",
+   "title": "Lei Complementar nº 68, de 2009",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101055",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101055",
+     "sha256": "9fa75e9a1d7fb303466505285d1547c6f4758ee7ca01f5df3c4f7ec6a6e71a68"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-069",
+   "short": "LC 69/2009",
+   "title": "Lei Complementar nº 69, de 2009 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101056",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101056",
+     "sha256": "293cef29cb60516db5d53e2f31893bdf8a743d0d6977c3af0ab663aac63d58c9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-070",
+   "short": "LC 70/2009",
+   "title": "Lei Complementar nº 70, de 2009 (Introduz alterações na Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101057",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101057",
+     "sha256": "e6413a4394f1aaaec4ccb55e6685e700068c55c1a837d57f2be83badd1a66429"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-071",
+   "short": "LC 71/2009",
+   "title": "Lei Complementar nº 71, de 2009 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que dispõe sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101058",
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101058",
+     "sha256": "1b4363e704313010c34fd365647d0765f40570cf460dfc4d43029f76583b97c9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-155",
+   "short": "LC 155/2020",
+   "title": "Lei Complementar nº 155, de 2020 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103010",
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103010",
+     "sha256": "e8c8e5383943f53db4bc86b501ee73fe4adad7b2bd5a48284421a8b176bb003b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-140",
+   "short": "LC 140/2018",
+   "title": "Lei Complementar nº 140, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101127",
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101127",
+     "sha256": "9f1cc1ad4ef80dfed74327516852764514bb67990444dd92e66b4b30732b45d2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-150",
+   "short": "LC 150/2019",
+   "title": "Lei Complementar nº 150, de 2019 (Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, que institui a autarquia Goiás Previdência - GOIASPREV.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101137",
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101137",
+     "sha256": "5d4459e171d206417da9631ca7f116f4dd8ded35953b5529ddb69c8e890831ae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-196",
+   "short": "LC 196/2024",
+   "title": "Lei Complementar nº 196, de 2024 (Dispõe sobre as responsabilidades das Microrregiões de Saneamento Básico e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109458",
+   "versions": [
+    {
+     "from": "2024-09-12",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109458",
+     "sha256": "941a7afc9f3983e29244a3195f99d3c122feaf94cb53a298348d11837c8dd58a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-215",
+   "short": "LC 215/2026",
+   "title": "Lei Complementar nº 215, de 2026 (Altera a Lei Complementar nº 205, de 19 de maio de 2025, que institui a Política Estadual de Fomento à Inovação em Inteligência Artificial no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117340",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117340",
+     "sha256": "e6a03d56047b06b1af11930ef20251f23beb2d8ac62d1b1447deaf227643d451"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-132",
+   "short": "LC 132/2017",
+   "title": "Lei Complementar nº 132, de 2017 (Altera o art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101119",
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101119",
+     "sha256": "27285e699d40eb7bd1275ca97b1d8c9c234fa7830ee8c3ddb2c8c85b402eb320"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1996-020",
+   "short": "LC 20/1996",
+   "title": "Lei Complementar nº 20, de 1996 (Estabelece diretrizes para controle, gestão e fiscalização do Fundo Estadual do Meio ambiente e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101028",
+   "versions": [
+    {
+     "from": "2016-11-18",
+     "units": 16,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101028",
+     "sha256": "6071b8400f4288cc3a649d49f98025e0c5e4bcaf3cdcfd6f9168cb40b77de673"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-096",
+   "short": "LC 96/2012",
+   "title": "Lei Complementar nº 96, de 2012 (Altera o art. 16 da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101083",
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101083",
+     "sha256": "ecdb37791679fc94f375344e098b33dce0c2358fb02649247e851f5aa0152b73"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1993-014",
+   "short": "LC 14/1993",
+   "title": "Lei Complementar nº 14, de 1993 (Altera dispositivo da Lei Complementar n° 02, de 16 de janeiro de 1990, com modificações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101033",
+   "versions": [
+    {
+     "from": "1993-03-17",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101033",
+     "sha256": "dc36ca4fc1c73d87dc7ea13b2dedb5ce6ae65a989ab6f3b2bc42a8608559ec7f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-191",
+   "short": "LC 191/2024",
+   "title": "Lei Complementar nº 191, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108668",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108668",
+     "sha256": "af6249b75d85da6848cbf49d7ef11f0717898e8ecb5ba71a12288f01aaf15ad4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-130",
+   "short": "LC 130/2017",
+   "title": "Lei Complementar nº 130, de 2017",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101117",
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "units": 259,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101117",
+     "sha256": "192d2f8ccdcd14b4962ef7928b77ae6a88e84e2f5340b772801cd1453d4d58d4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-017",
+   "short": "LC 17/1995",
+   "title": "Lei Complementar nº 17, de 1995 (Altera a redação do inciso IV do art. 3º da Lei Complementar nº 1, de 19 de dezembro de 1989.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101031",
+   "versions": [
+    {
+     "from": "1995-09-14",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101031",
+     "sha256": "8463c22e09249d8aa43237b968a83d56e14f85740aa86e2da65ca71f47fe864f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-135",
+   "short": "LC 135/2017",
+   "title": "Lei Complementar nº 135, de 2017",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101122",
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101122",
+     "sha256": "a01f979dd2ad798636acd51d065123d7476de41e30ff371608939e55d83009ca"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-210",
+   "short": "LC 210/2025",
+   "title": "Lei Complementar nº 210, de 2025 (Altera o art. 27 e seu parágrafo único da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111809",
+   "versions": [
+    {
+     "from": "2025-12-12",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111809",
+     "sha256": "80c1231eb89843cb4980a0f490bbee0497d2c6248e5f163c979c573f5b93e362"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-028",
+   "short": "LC 28/2000",
+   "title": "Lei Complementar nº 28, de 2000 (Dispõe sobre alterações na Lei Complementar nº 24, de 8 de junho de 1998 (Lei Orgânica da Procuradoria-Geral do Estado de Goiás) e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101015",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 1,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101015",
+     "sha256": "439e1bf179f84052d1dd9fbc0496119c65b868af07c11e95ef39d8b972cf5e9c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-029",
+   "short": "LC 29/2000",
+   "title": "Lei Complementar nº 29, de 2000 (Institui o regime de previdência estadual e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101016",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101016",
+     "sha256": "c037215051170aa05a49979b0c298ff69cd43d2d1a581eac863b52839891dd6c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-053",
+   "short": "LC 53/2005",
+   "title": "Lei Complementar nº 53, de 2005 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100995",
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100995",
+     "sha256": "861b375969ffde556a8515c30f7f49583f2bb8cf3e9625cb8d85c65e6e072c81"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-131",
+   "short": "LC 131/2017",
+   "title": "Lei Complementar nº 131, de 2017 (Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118",
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101118",
+     "sha256": "382978c8b6ac72d45b6b91481fe56b18e48539a5cf444e60ab35a2b739a5ac05"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-041",
+   "short": "LC 41/2003",
+   "title": "Lei Complementar nº 41, de 2003 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101005",
+   "versions": [
+    {
+     "from": "2003-09-17",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101005",
+     "sha256": "90993b21779cb63218a837c52d6a012569eea4779641b218e3afe5bc5bcb5e89"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-037",
+   "short": "LC 37/2002",
+   "title": "Lei Complementar nº 37, de 2002",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101011",
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101011",
+     "sha256": "2fe717fbf7f50c6f5fab568620b32b2271ef3d94168e86a735bf61b236d5e84f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-089",
+   "short": "LC 89/2011",
+   "title": "Lei Complementar nº 89, de 2011",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101076",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 14,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101076",
+     "sha256": "af49c99ce49b2ae7022d1ab16107733b29c44c7e7b5e07419c48d7af39e9ab21"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-084",
+   "short": "LC 84/2011",
+   "title": "Lei Complementar nº 84, de 2011 (Altera a Lei Complementar nº 51, de 19 de abril de 2005, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101070",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101070",
+     "sha256": "d471302f187e1172eced2826053a94f1a24b6f110543db26a30d494db1232a62"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-083",
+   "short": "LC 83/2011",
+   "title": "Lei Complementar nº 83, de 2011 (Altera a Lei Complementar nº 25, de 06 de julho de 1998  Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101071",
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101071",
+     "sha256": "2037e95658868bec3d663b05a6cb476993eca902a7d4ff2aae05fdd1c19150f5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-163",
+   "short": "LC 163/2021",
+   "title": "Lei Complementar nº 163, de 2021 (Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103965",
+   "versions": [
+    {
+     "from": "2021-05-14",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103965",
+     "sha256": "d57a89d5ab8b3a750f623af8fc6feaad577cb5d33d527d50ebd58d2262020f8b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-088",
+   "short": "LC 88/2011",
+   "title": "Lei Complementar nº 88, de 2011 (Introduz alterações na Lei Complementar nº 77, de 22 de janeiro de 2010.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101075",
+   "versions": [
+    {
+     "from": "2011-10-18",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101075",
+     "sha256": "029efab6e2f03c34b96e2ddbebee1ed393fe90f6284d67b86724f26854bb4768"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-059",
+   "short": "LC 59/2006",
+   "title": "Lei Complementar nº 59, de 2006 (Dispõe sobre a aposentadoria especial que especifica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100991",
+   "versions": [
+    {
+     "from": "2006-11-22",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100991",
+     "sha256": "40ac9462704ba261d4b9945ccab20c1015a820297d83c834de5b93bd32569737"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-146",
+   "short": "LC 146/2018",
+   "title": "Lei Complementar nº 146, de 2018 (Introduz alterações na Lei Complementar nº 142, de 26 de junho de 2018.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101133",
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101133",
+     "sha256": "9c6397fcd20516c6150428861df974d0a611524878f1b4878c2d39a61633ee0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-008",
+   "short": "LC 8/1991",
+   "title": "Lei Complementar nº 8, de 1991 (Altera aplicação do § 3° do art. 7° da Lei Complementar n° 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101041",
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101041",
+     "sha256": "abc37dee2436ce4ec63aa943cc523347467ff1c407ba6cdc4011368d38f1f6ae"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-003",
+   "short": "LC 3/1990",
+   "title": "Lei Complementar nº 3, de 1990 (Introduz alterações na Lei Complementar n° 2, de janeiro de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101044",
+   "versions": [
+    {
+     "from": "1990-03-14",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101044",
+     "sha256": "ae9b72a1836a5d1e0e988ad79b70e77b184c95005e679e729e340e943b471c0b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-111",
+   "short": "LC 111/2014",
+   "title": "Lei Complementar nº 111, de 2014 (Altera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101098",
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101098",
+     "sha256": "3b70836a30bec5749cd337a295b1a2b7aa806bd172d99de91928d802565b9625"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-145",
+   "short": "LC 145/2018",
+   "title": "Lei Complementar nº 145, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101132",
+   "versions": [
+    {
+     "from": "2018-08-20",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101132",
+     "sha256": "c359efff07d5bd33b00fd3280f6a945c9581cd4cd45e22a7a6c988deee53d1e1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-119",
+   "short": "LC 119/2015",
+   "title": "Lei Complementar nº 119, de 2015 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101106",
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101106",
+     "sha256": "b7427c9f9a6a75464daae158c41f674c81448de68c80a9f3248f9d6edafcc381"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-152",
+   "short": "LC 152/2020",
+   "title": "Lei Complementar nº 152, de 2020 (Altera a Lei Complementar nº 33, de 1º de agosto de 2001.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101139",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101139",
+     "sha256": "78f97684607119785e9585cb4fd7315eb93b3097d936fefa350351855e076652"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-153",
+   "short": "LC 153/2020",
+   "title": "Lei Complementar nº 153, de 2020 (Altera a Lei Complementar n° 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101140",
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101140",
+     "sha256": "d04f0bd1068861ee65433880d846758168efedd5998704ad1ca0d1185848bb19"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-092",
+   "short": "LC 92/2012",
+   "title": "Lei Complementar nº 92, de 2012 (Introduz alterações no art. 79 da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101079",
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101079",
+     "sha256": "129b725581be565ab17e3e4b26eaac3354a5ebbe2d37e0bc4cdd29d60d378783"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-149",
+   "short": "LC 149/2019",
+   "title": "Lei Complementar nº 149, de 2019",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101136",
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101136",
+     "sha256": "2eda7a5d9dd2dcd9e81061e398910dc4a5dcba692118ce88fd9dc3b484cfcce0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-047",
+   "short": "LC 47/2004",
+   "title": "Lei Complementar nº 47, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100999",
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100999",
+     "sha256": "c3e2d05d19adf07f227d9458160619f171e6290a48f178657566bdf6772e322c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1992-011",
+   "short": "LC 11/1992",
+   "title": "Lei Complementar nº 11, de 1992 (Introduz alterações na Lei Complementar n° 02, de 16 de janeiro de 1990, com modificações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101035",
+   "versions": [
+    {
+     "from": "1993-03-11",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101035",
+     "sha256": "b6086f47ac5794ab90ef82ec7317b42ae5531602e149b7395393e8c8a0c91c2d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-178",
+   "short": "LC 178/2022",
+   "title": "Lei Complementar nº 178, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106480",
+   "versions": [
+    {
+     "from": "2022-12-16",
+     "units": 11,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106480",
+     "sha256": "993dc9ec9507a0bf902893a77f10a4c5cbfa6048685d5ddc050f0f8763f91f6f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-002",
+   "short": "LC 2/1990",
+   "title": "Lei Complementar nº 2, de 1990 (Dispõe sobre a criação, fusão, desmembramento, incorporação e instalação de municípios e distritos e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101043",
+   "versions": [
+    {
+     "from": "1995-09-21",
+     "units": 24,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101043",
+     "sha256": "69e5b53eab735d15e44d672d8dfae98357ae103b0d864ce0e42ac41500e97fb2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-141",
+   "short": "LC 141/2018",
+   "title": "Lei Complementar nº 141, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101128",
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101128",
+     "sha256": "97b7338ca039c91adba3384ceec9a4ddc167491eeee76168f95b90714aa47519"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-115",
+   "short": "LC 115/2015",
+   "title": "Lei Complementar nº 115, de 2015 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101102",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101102",
+     "sha256": "8ec4a943f05a6bb74a742fd8c2bef7322931fbcb8023ceb79c8738d2a9d0e8a4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-116",
+   "short": "LC 116/2015",
+   "title": "Lei Complementar nº 116, de 2015 (Revoga a Lei Complementar nº 62, de 09 de outubro de 2008.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103",
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101103",
+     "sha256": "0dce3d596bade01c9e79fa182a1ce7571e2b826339f9af9c15d201d4ff894a66"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-064",
+   "short": "LC 64/2008",
+   "title": "Lei Complementar nº 64, de 2008",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101052",
+   "versions": [
+    {
+     "from": "2012-12-31",
+     "units": 13,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101052",
+     "sha256": "9692f12b117c0f11e26b314168090ce9a55a83bdf732642a1004f018e272c731"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-120",
+   "short": "LC 120/2015",
+   "title": "Lei Complementar nº 120, de 2015 (Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101107",
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101107",
+     "sha256": "914ad48821947bae469d98cd843a3f78851968d49f4fee2c821a56ebe7d43f93"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-200",
+   "short": "LC 200/2024",
+   "title": "Lei Complementar nº 200, de 2024 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110153",
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110153",
+     "sha256": "fae928e7021c82c32993cd1a329cd4cd62318ebf6f5231f83ce1174b89373f93"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-143",
+   "short": "LC 143/2018",
+   "title": "Lei Complementar nº 143, de 2018 (Altera a Lei Complementar nº 66, de 27 de janeiro de 2009.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101130",
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101130",
+     "sha256": "d95a7fc9a73f1b35e27faf5a967a07a8e9f2ce9d844374a3774758d96dbbe6f7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-188",
+   "short": "LC 188/2023",
+   "title": "Lei Complementar nº 188, de 2023 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107856",
+   "versions": [
+    {
+     "from": "2023-10-17",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107856",
+     "sha256": "708effb56a2503372e0ae3145f6719e46b84afef4c878f9ded4f56afc68d53e1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-138",
+   "short": "LC 138/2018",
+   "title": "Lei Complementar nº 138, de 2018 (Dispõe sobre as responsabilidades e a eficiência da gestão pública no Estado de Goiás, cria a Comissão de Eficiência de Alto Nível e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101125",
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "units": 50,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101125",
+     "sha256": "9bb5bba6cc28d073492ee13cc256c255dd74e96f12adfa1c24ae4d809d041cfb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-015",
+   "short": "LC 15/1995",
+   "title": "Lei Complementar nº 15, de 1995 (Altera dispositivo da Lei Complementar nº 2, de 16 de janeiro de 1990,com a redação dada pela Lei Complementar nº 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101029",
+   "versions": [
+    {
+     "from": "1995-07-21",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101029",
+     "sha256": "7366dca7024f873b384000d677b53f0c97ba6befdb2e1ab651ba1c0e9da0b0c8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-007",
+   "short": "LC 7/1991",
+   "title": "Lei Complementar nº 7, de 1991 (Altera dispositivo da Lei Complementar n° 2 de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4 , de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101040",
+   "versions": [
+    {
+     "from": "1991-09-30",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101040",
+     "sha256": "bc034203f6a679d2030a9897672e73d62b4b211a0eaec7cee259c9fd4c50b36b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-112",
+   "short": "LC 112/2014",
+   "title": "Lei Complementar nº 112, de 2014 (Regulamenta o art. 109, da Constituição Estadual para estabelecer normas suplementares de finanças públicas)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101099",
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101099",
+     "sha256": "b5b857b39b89a2099239a61d83b58a685fc58e85f806d9fdebb5cf0f18c9173a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-105",
+   "short": "LC 105/2013",
+   "title": "Lei Complementar nº 105, de 2013 (Altera o § 4° do art. 6° da Lei Complementar nº 27, de 30 de dezembro de 1999, com alterações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101092",
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101092",
+     "sha256": "0f755355c9023be7d3b6208cc227dca118fa76bd5ac015efee535e50ccd92eb4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-125",
+   "short": "LC 125/2016",
+   "title": "Lei Complementar nº 125, de 2016 (Altera as Leis Complementares nº 20, de 10 de dezembro de 1996, e nº 27, de 30 de dezembro de 1999.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101112",
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101112",
+     "sha256": "b5c48cdb3b8bfb117ffdb5850617ab5f78d0df5534b825f24dbe672b66cc75c9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-044",
+   "short": "LC 44/2003",
+   "title": "Lei Complementar nº 44, de 2003 (Altera a Lei Complementar nº 24, de 8 de junho de 1998, na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101008",
+   "versions": [
+    {
+     "from": "2006-07-04",
+     "units": 1,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101008",
+     "sha256": "770f3eeb48056dd54c8363ddf3f8e99ab0a4fa378b10ca57ad1df0ed277241b0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-065",
+   "short": "LC 65/2008",
+   "title": "Lei Complementar nº 65, de 2008",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101051",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 17,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101051",
+     "sha256": "1bc6fcf2c826281f37c763c4ab8d69d2c6707a073b869c4cb7de7652d224259f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-046",
+   "short": "LC 46/2004",
+   "title": "Lei Complementar nº 46, de 2004 (Institui contribuição previdenciária do pessoal que especifica, altera a Lei Complementar nº 29, de 12 de abril de 2000 e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100998",
+   "versions": [
+    {
+     "from": "2010-01-22",
+     "units": 1,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100998",
+     "sha256": "11db06fa153441c3eb825d20b17f6ae46ebc8a1ec37e4f46b8a3d73992d7fead"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-085",
+   "short": "LC 85/2011",
+   "title": "Lei Complementar nº 85, de 2011 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as Diretrizes e Bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101069",
+   "versions": [
+    {
+     "from": "2011-04-25",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101069",
+     "sha256": "89969eeab8bf9f64d3a7481786a1d2ca6aeca22dbd738a63b41f76bb9ac6f0de"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-039",
+   "short": "LC 39/2003",
+   "title": "Lei Complementar nº 39, de 2003 (Dispõe sobre a fiscalização do transporte de passageiros na área da Rede Metropolitana de Transportes Coletivos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101003",
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "units": 13,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101003",
+     "sha256": "842494a901b22e0eebb4030216671e4d1c74a550a3069e1f96c29718eeb9e8bb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-114",
+   "short": "LC 114/2015",
+   "title": "Lei Complementar nº 114, de 2015 (Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101101",
+   "versions": [
+    {
+     "from": "2015-05-22",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101101",
+     "sha256": "9475eb77bd3ac298d9a9f69048a8a7e4d8827cce9bed069164644502c7d84678"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-205",
+   "short": "LC 205/2025",
+   "title": "Lei Complementar nº 205, de 2025 (Institui a Política Estadual de Fomento à Inovação em Inteligência Artificial no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110694",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 80,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110694",
+     "sha256": "b7829af82f1a6eb39c23088be0c688082fe8f5c09e18e4883f17672d831e3610"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-094",
+   "short": "LC 94/2012",
+   "title": "Lei Complementar nº 94, de 2012 (Introduz alterações na Lei Complementar nº 58, de 04 de julho de 2006.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101081",
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101081",
+     "sha256": "941ae13308821d37aa5edd209fe334daa454a2788bf2a6418782ce49d99f7fe8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1989-001",
+   "short": "LC 1/1989",
+   "title": "Lei Complementar nº 1, de 1989 (Institui o Sistema Estadual de Ciência e Tecnologia de Goiás - SECT-GO e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101046",
+   "versions": [
+    {
+     "from": "2018-06-26",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101046",
+     "sha256": "7b3f06c16b3fcdfa72f3c1634236a552c9b8d67ea12fab9fee32a2209877eaab"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-202",
+   "short": "LC 202/2025",
+   "title": "Lei Complementar nº 202, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110434",
+   "versions": [
+    {
+     "from": "2025-02-20",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110434",
+     "sha256": "0c16918f23c3b6408a6d0e289970591ed0deea37bf65d6bcd0dcf3d5dd6109b9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-086",
+   "short": "LC 86/2011",
+   "title": "Lei Complementar nº 86, de 2011 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as Diretrizes e Bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101073",
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101073",
+     "sha256": "ea77c3066f2227409daf3e5586878c5d6298a78a057d48f65ab30c0b1eac02ea"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-197",
+   "short": "LC 197/2024",
+   "title": "Lei Complementar nº 197, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109502",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 33,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109502",
+     "sha256": "c3929245d76097a193c1136a167587039fbca9a8be45890deebee7a98ea5faf8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-136",
+   "short": "LC 136/2017",
+   "title": "Lei Complementar nº 136, de 2017",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101123",
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "units": 13,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101123",
+     "sha256": "4d43b1dbe793e9031ef19e0999030256e1e5aa215c2b4513da8da35802ef99b7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-080",
+   "short": "LC 80/2011",
+   "title": "Lei Complementar nº 80, de 2011",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101067",
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101067",
+     "sha256": "b31256817a951a19820de0064e334daabfa757233eb64e69b28edd3250151687"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-170",
+   "short": "LC 170/2022",
+   "title": "Lei Complementar nº 170, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105156",
+   "versions": [
+    {
+     "from": "2022-03-21",
+     "units": 23,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105156",
+     "sha256": "6da3d66fdd13536844eef27b6bc34bbb5c41f1274b7b2107c9511b572dbb87f7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-193",
+   "short": "LC 193/2024",
+   "title": "Lei Complementar nº 193, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108860",
+   "versions": [
+    {
+     "from": "2024-05-22",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108860",
+     "sha256": "7e626844c7436ba9a23d188075ae8894a1c9fde85e836b4170a7270426cfdd4f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-018",
+   "short": "LC 18/1995",
+   "title": "Lei Complementar nº 18, de 1995 (Altera a Lei Complementar nº 2, de 16 de janeiro de 1990, alterada pela Lei Complementar nº 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101032",
+   "versions": [
+    {
+     "from": "1995-09-27",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101032",
+     "sha256": "f37dbb4ec3aa21ced8a79fae7e9faca7a27847d7552d98aeed41bc193dfbc154"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-075",
+   "short": "LC 75/2009",
+   "title": "Lei Complementar nº 75, de 2009 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás, e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101061",
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101061",
+     "sha256": "dbf400a80f7ab5c7b5b4be9a4cfcbcc0bd0d3dddc3bf4caeb62641032303b929"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-124",
+   "short": "LC 124/2016",
+   "title": "Lei Complementar nº 124, de 2016 (Altera as Leis Complementares nºs 66, de 27 de janeiro de 2009, 77, de 22 de janeiro de 2010, e 118, de 06 de novembro de 2015, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101111",
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101111",
+     "sha256": "7c14b4ccbe5c850a67133d1b822755105ce5dfe71e078cc99c12f9d46ce37bd9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-035",
+   "short": "LC 35/2001",
+   "title": "Lei Complementar nº 35, de 2001 (Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101014",
+   "versions": [
+    {
+     "from": "2001-12-26",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101014",
+     "sha256": "2b041f103aa00fecaf508e5f4ae7c04cbd4966b5ebe59096e09afc9461d7dea8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-121",
+   "short": "LC 121/2015",
+   "title": "Lei Complementar nº 121, de 2015 (Institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101108",
+   "versions": [
+    {
+     "from": "2019-11-04",
+     "units": 12,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101108",
+     "sha256": "413bbf62413b78d020eab6b02946b072ee2f029c4a4ab0faf342c9f9480845dc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-139",
+   "short": "LC 139/2018",
+   "title": "Lei Complementar nº 139, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101126",
+   "versions": [
+    {
+     "from": "2024-11-04",
+     "units": 36,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101126",
+     "sha256": "df0f6800342ac0839e8946d5fc6bd8cce17bee0d36972f66981ff5660567597b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-101",
+   "short": "LC 101/2013",
+   "title": "Lei Complementar nº 101, de 2013 (Altera dispositivos da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101088",
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101088",
+     "sha256": "dce34c214105d8ca940d7fe92fe29823f2ce680980cdb77ee880b94990ae3723"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-102",
+   "short": "LC 102/2013",
+   "title": "Lei Complementar nº 102, de 2013 (Introduz alterações nas Leis Complementares nº 77, de 22 de janeiro de 2010, e nº 66, de 27 de janeiro de 2009, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101089",
+   "versions": [
+    {
+     "from": "2017-07-12",
+     "units": 55,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101089",
+     "sha256": "19ecc145c3471a40c3fe1a73c9ae3e31df57a8d32168e68e446c6ff78bd2d19d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-128",
+   "short": "LC 128/2017",
+   "title": "Lei Complementar nº 128, de 2017 (Altera a Lei Complementar nº 126, de 27 de dezembro de 2016.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101115",
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101115",
+     "sha256": "0c8c7a46f93f9b3dc709f5291ba36ef509a5b4bfee6eb46b769545a4fec99310"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-182",
+   "short": "LC 182/2023",
+   "title": "Lei Complementar nº 182, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107157",
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "units": 30,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107157",
+     "sha256": "66d244271e034d95683950e6e0f7f15860166ca7f11e477f3f5a9676abb10a8d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-183",
+   "short": "LC 183/2023",
+   "title": "Lei Complementar nº 183, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107266",
+     "sha256": "b47526cbb073dbaa2f5fc75e1b13a969126bdfb4053ef7891648cbceaa1b4b92"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-190",
+   "short": "LC 190/2023",
+   "title": "Lei Complementar nº 190, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108256",
+   "versions": [
+    {
+     "from": "2023-12-22",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108256",
+     "sha256": "d801c5097d5c338eddeef0c0ae5bac6c6c656445b766162957f173f7a48dbde1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-109",
+   "short": "LC 109/2014",
+   "title": "Lei Complementar nº 109, de 2014 (Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101096",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101096",
+     "sha256": "66a71c99f5613d55b2340a71d0c651302a2d3cee8fe7a0c564ca283d8b39a0de"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-110",
+   "short": "LC 110/2014",
+   "title": "Lei Complementar nº 110, de 2014",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101097",
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101097",
+     "sha256": "3ce70996d6b3c89782c1669365516d223449a96ecdc366d04b2f7fe993081234"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-054",
+   "short": "LC 54/2005",
+   "title": "Lei Complementar nº 54, de 2005",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100996",
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100996",
+     "sha256": "6e56752a01f710c88ed6f9ee9b3632682c05f10cf8801715c05df77d07e1db50"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-216",
+   "short": "LC 216/2026",
+   "title": "Lei Complementar nº 216, de 2026 (Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118534",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118534",
+     "sha256": "15f0a58f92212c38d28607fc4b0f70ce0e9e2ae37aedb34286404551ed9b9339"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-122",
+   "short": "LC 122/2015",
+   "title": "Lei Complementar nº 122, de 2015 (Dispõe sobre a apropriação de recursos financeiros que especifica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101109",
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101109",
+     "sha256": "b2ca8e7dcf083f6a888592f14db0b3f6bcc7c435b673c2ce3c6c34c95a743e18"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-211",
+   "short": "LC 211/2025",
+   "title": "Lei Complementar nº 211, de 2025 (Altera a Lei Complementar nº 208, de 7 de julho de 2025, que dispõe sobre a regulamentação do Fundo de Estabilização Econômica de Goiás - FEG.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111978",
+   "versions": [
+    {
+     "from": "2025-12-23",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111978",
+     "sha256": "8cdde9c7bdfa2e45b98923ae92b7148f677d03ddc32c2420e4d95cc20be1427a"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-201",
+   "short": "LC 201/2025",
+   "title": "Lei Complementar nº 201, de 2025 (Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110411",
+   "versions": [
+    {
+     "from": "2025-01-24",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110411",
+     "sha256": "dd96586b7be8cf7b37732b0890211ba96cc62be85392ef213777c97bdf2a8e2e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-072",
+   "short": "LC 72/2009",
+   "title": "Lei Complementar nº 72, de 2009",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101059",
+   "versions": [
+    {
+     "from": "2009-09-04",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101059",
+     "sha256": "ce36901ddcc408d446bc88aac91ca3728900305e372269534784b0658191f9f4"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2024-192",
+   "short": "LC 192/2024",
+   "title": "Lei Complementar nº 192, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108707",
+   "versions": [
+    {
+     "from": "2024-05-21",
+     "units": 11,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108707",
+     "sha256": "52658baf841f2dea15ae5085e2b88de45e376557418e0c9187e8eb619088994e"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-144",
+   "short": "LC 144/2018",
+   "title": "Lei Complementar nº 144, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101131",
+   "versions": [
+    {
+     "from": "2024-09-20",
+     "units": 39,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101131",
+     "sha256": "e56e59828237c2d6de04eab2083e058adc7c35d508a0d84aeb89adb941e403d9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-177",
+   "short": "LC 177/2022",
+   "title": "Lei Complementar nº 177, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106018",
+   "versions": [
+    {
+     "from": "2022-08-24",
+     "units": 21,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/106018",
+     "sha256": "a81767c6d91bf6edfea8064a89ed341c850a2dceaef8c32f1f727432f2bc9440"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-134",
+   "short": "LC 134/2017",
+   "title": "Lei Complementar nº 134, de 2017 (Altera a Lei Complementar no 66, de 27 de janeiro de 2009, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101121",
+   "versions": [
+    {
+     "from": "2017-11-27",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101121",
+     "sha256": "7a5e1bfdc4b25dbc2bc094d151bdb88fb4cd3f8551717c36c6b87eefd9033311"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-006",
+   "short": "LC 6/1991",
+   "title": "Lei Complementar nº 6, de 1991 (Adota regime especial para a aposentadoria dos pilotos de aeronaves do Estado e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101039",
+   "versions": [
+    {
+     "from": "1991-01-30",
+     "units": 13,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101039",
+     "sha256": "ca9f32d7f2cf56c387d0d458d51d4df64b2194bcd7bdf63ba87bee7b1d86f6e9"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-078",
+   "short": "LC 78/2010",
+   "title": "Lei Complementar nº 78, de 2010",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101065",
+   "versions": [
+    {
+     "from": "2010-04-05",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101065",
+     "sha256": "3f531242278380c0e1edfd14b6a089a528791cdb0eb2a586685550e3207ac56f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-081",
+   "short": "LC 81/2011",
+   "title": "Lei Complementar nº 81, de 2011",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101068",
+   "versions": [
+    {
+     "from": "2022-07-01",
+     "units": 20,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101068",
+     "sha256": "5476d6f45b93483480372c4674bb64f8f44f75078eb960032374a3af02304546"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-142",
+   "short": "LC 142/2018",
+   "title": "Lei Complementar nº 142, de 2018 (Dispõe sobre o Sistema Estadual de Ciência e Tecnologia de Goiás - SECT-GO - e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101129",
+   "versions": [
+    {
+     "from": "2018-11-13",
+     "units": 10,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101129",
+     "sha256": "5dd9ebbe6cea424bfd0eb1cc312146667a10c08babe951f0bee103f2bc51bed7"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-042",
+   "short": "LC 42/2003",
+   "title": "Lei Complementar nº 42, de 2003 (Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998 e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101006",
+   "versions": [
+    {
+     "from": "2006-02-02",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101006",
+     "sha256": "36d2cbaf7eec4368b6bf1acf456071193dc6cd1e05d98a66cb64f09ff7855c52"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-066",
+   "short": "LC 66/2009",
+   "title": "Lei Complementar nº 66, de 2009 (Institui a autarquia Goiás Previdência - GOIASPREV)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101053",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 44,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101053",
+     "sha256": "6cad798ff778165a5cd0ef7d9723c66e0a609d1314911b2895878df29b0e3fff"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-091",
+   "short": "LC 91/2012",
+   "title": "Lei Complementar nº 91, de 2012",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101078",
+   "versions": [
+    {
+     "from": "2012-04-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101078",
+     "sha256": "5f401e281b690376ea198c774238f4a565575e1f6f840a7c4a366cd956dd4caa"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-073",
+   "short": "LC 73/2009",
+   "title": "Lei Complementar nº 73, de 2009 (Introduz alterações na Lei Complementar nº 58, de 04 de julho de 2006, que dispõe sobre a organização da Procuradoria-Geral do Estado e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101060",
+   "versions": [
+    {
+     "from": "2016-05-02",
+     "units": 2,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101060",
+     "sha256": "1be58025524211b3016f35e48e5de8c5e4b69e2f383d57613cb6b8270a25f790"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-093",
+   "short": "LC 93/2012",
+   "title": "Lei Complementar nº 93, de 2012 (Introduz alterações no Sistema Estadual de Ciência e Tecnologia de Goiás -SECT-GO, instituído pela Lei Complementar nº 01, de 19 de dezembro de 1989.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101080",
+   "versions": [
+    {
+     "from": "2012-06-28",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101080",
+     "sha256": "335aa9771975d22286207300651d7819998e55c2b53a10322bb6fc69ac8b321d"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-063",
+   "short": "LC 63/2008",
+   "title": "Lei Complementar nº 63, de 2008 (Altera as Leis Complementares nos 20, de 10 de dezembro de 1996, 27, de 30 de dezembro de 1999, e 58, de 04 de julho de 2006, e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101050",
+   "versions": [
+    {
+     "from": "2008-12-02",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101050",
+     "sha256": "396464c4f03834475da6dc6e51d9bb13567271928e4015929bdca35304b22dd0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-098",
+   "short": "LC 98/2012",
+   "title": "Lei Complementar nº 98, de 2012 (Altera o art. 4o da Lei Complementar nº 20, de 10 de dezembro de 1996, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101085",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101085",
+     "sha256": "05c081cf31dc2438e91d7b061a9e89bd6d5a938e1cba490e228a96591a6714d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-099",
+   "short": "LC 99/2012",
+   "title": "Lei Complementar nº 99, de 2012 (Altera a Lei Complementar no 58, de 04 de julho de 2006, que dispõe sobre a organização da Procuradoria-Geral do Estado e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101086",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101086",
+     "sha256": "073422e1969dedefa3b19648a55bef12729a4bab1a3cf677bd5e82f6ca837642"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-100",
+   "short": "LC 100/2012",
+   "title": "Lei Complementar nº 100, de 2012",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101087",
+   "versions": [
+    {
+     "from": "2012-12-27",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101087",
+     "sha256": "1f689a6eacbdb6aeca5f4b96fbb45f2a6380057a09ecc6ffe7b9344453666874"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-126",
+   "short": "LC 126/2016",
+   "title": "Lei Complementar nº 126, de 2016 (Altera as Leis Complementares nºs 66, de 27 de janeiro de 2009, e nº 77, de 22 de janeiro de 2010 e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103355",
+   "versions": [
+    {
+     "from": "2017-05-22",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103355",
+     "sha256": "5c2928ef7c80cd991ecd0225766fc2da979193eaf52d394256781e4357bfe291"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-203",
+   "short": "LC 203/2025",
+   "title": "Lei Complementar nº 203, de 2025 (Altera a Lei Complementar nº 197, de 20 de setembro de 2024.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110443",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110443",
+     "sha256": "f7332075d83f828bd9e00fb21a2d88f1142bdaf6091995575163b22d080e54b1"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-173",
+   "short": "LC 173/2022",
+   "title": "Lei Complementar nº 173, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105414",
+   "versions": [
+    {
+     "from": "2022-04-29",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105414",
+     "sha256": "bd1ce841e1d266f6556ce020c28faa059e36ed1b40fc5c4a71fd9d12e10cdca8"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-213",
+   "short": "LC 213/2026",
+   "title": "Lei Complementar nº 213, de 2026 (Altera a Lei Complementar nº 58, de 04 de julho de 2006, que dispõe sobre a organização da Procuradoria-Geral do Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114926",
+   "versions": [
+    {
+     "from": "2026-05-28",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114926",
+     "sha256": "cfc62a922f714508eecc5dc04b100ae6b62b873c1308f7a3add6c3328c338c08"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-106",
+   "short": "LC 106/2013",
+   "title": "Lei Complementar nº 106, de 2013 (Altera dispositivo da Lei Complementar nº 58, de 04 de julho de 2006, que dispõe sobre a organização da Procuradoria-Geral do Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101093",
+   "versions": [
+    {
+     "from": "2013-12-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101093",
+     "sha256": "80a3a9e98a2ed082bdbb93a44c408d43c297bda2e73986319da86b300f93df15"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1992-012",
+   "short": "LC 12/1992",
+   "title": "Lei Complementar nº 12, de 1992",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101036",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101036",
+     "sha256": "016c33c1381546cc705ee0607a26c5afa5bb6e3d8368b39eb30243aa2f7f2b49"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1992-013",
+   "short": "LC 13/1992",
+   "title": "Lei Complementar nº 13, de 1992 (Introduz alterações na Lei Complementar n° 1, de 19 de dezembro de 1989.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101037",
+   "versions": [
+    {
+     "from": "1992-12-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101037",
+     "sha256": "69d4c18d0214b4b3f2f578a9211379b17e7a7db5921771dcfb9001186b824faf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1998-026",
+   "short": "LC 26/1998",
+   "title": "Lei Complementar nº 26, de 1998 (Estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101024",
+   "versions": [
+    {
+     "from": "2025-12-11",
+     "units": 126,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101024",
+     "sha256": "b701f70bdec5dcc25aac6ba0fc46e66b448e2a116d74cf98b4e16fad5fa489b2"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-060",
+   "short": "LC 60/2008",
+   "title": "Lei Complementar nº 60, de 2008 (Altera a Lei Complementar no 26, de 28 de dezembro de 1998, que dispõe sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101047",
+   "versions": [
+    {
+     "from": "2008-02-01",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101047",
+     "sha256": "51811b08cf614d93bff82feab56d2fe58b15e74f49ab68059e97050cb9f1437b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2026-214",
+   "short": "LC 214/2026",
+   "title": "Lei Complementar nº 214, de 2026 (Altera a Lei Complementar nº 161, de 30 de dezembro de 2020, que dispõe sobre o Regime Próprio de Previdência Social do Estado de Goiás - RPPS/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/116000",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/116000",
+     "sha256": "1a827c117d7def0ab7971a0e666ac1259d4ccd00b3cc7b61ba3f7b9901be68d5"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-032",
+   "short": "LC 32/2000",
+   "title": "Lei Complementar nº 32, de 2000",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101019",
+   "versions": [
+    {
+     "from": "2000-10-03",
+     "units": 15,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101019",
+     "sha256": "4cc950fc6f313e1045ef109b2599fff013417ce264b80de1f034e7f285e131d6"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-209",
+   "short": "LC 209/2025",
+   "title": "Lei Complementar nº 209, de 2025 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111330",
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111330",
+     "sha256": "390e9eff45d45b6d2442b73cc1c41ae8e751b79fda4b038f93b81db4aad9281b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-095",
+   "short": "LC 95/2012",
+   "title": "Lei Complementar nº 95, de 2012 (Altera a Lei Complementar nº 58, de 04 de julho de 2006, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101082",
+   "versions": [
+    {
+     "from": "2012-10-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101082",
+     "sha256": "6f3c9e8fe92a1302054b8f20adab569adc00f06d94cacb2b247cdefcb6ad97bb"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-022",
+   "short": "LC 22/1997",
+   "title": "Lei Complementar nº 22, de 1997 (Altera a redação do inciso I do art. 3º da Lei Complementar nº 20, de 10 de dezembro de 1996.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101026",
+   "versions": [
+    {
+     "from": "1997-12-31",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101026",
+     "sha256": "a94bba55b38af62ad4027772fbb4d9ba51f55c99d801333b9ee26e9dd8411d04"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-076",
+   "short": "LC 76/2009",
+   "title": "Lei Complementar nº 76, de 2009",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101063",
+   "versions": [
+    {
+     "from": "2009-12-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101063",
+     "sha256": "88b7f87fd5db017e9bc8c3c2cf97007926aaf382b975773fb6c0577d65ef8f9f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-137",
+   "short": "LC 137/2017",
+   "title": "Lei Complementar nº 137, de 2017 (Altera a Lei Complementar n° 77, de 22 de janeiro de 2010, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101124",
+   "versions": [
+    {
+     "from": "2017-12-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101124",
+     "sha256": "7279118ce0fc2889f937db2a52143d2f858fedf6600ab85642a22ebfa90cfa15"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-160",
+   "short": "LC 160/2020",
+   "title": "Lei Complementar nº 160, de 2020 (Institui o Fundo de Equalização para o Empreendedor - FUNDEQ.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103687",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 15,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103687",
+     "sha256": "0bb6008a7a2527c10c24d1249bc4905c37a622ee81e7d708e9a96b6fe709cbdc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-168",
+   "short": "LC 168/2021",
+   "title": "Lei Complementar nº 168, de 2021",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104720",
+   "versions": [
+    {
+     "from": "2021-12-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104720",
+     "sha256": "441009e3365b49b0cd5f6c14ca185db24a15d768c02d0a42affdbfab6c877b56"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-169",
+   "short": "LC 169/2021",
+   "title": "Lei Complementar nº 169, de 2021",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/104731",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 24,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/104731",
+     "sha256": "19aaeb412eebe968f846e9b61055851971270589ae4f034beed2f459ca8778bf"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-154",
+   "short": "LC 154/2020",
+   "title": "Lei Complementar nº 154, de 2020 (Revoga os dispositivos legais que especifica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101141",
+   "versions": [
+    {
+     "from": "2020-01-31",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101141",
+     "sha256": "eee4112ad8502dc3c71637f44140d235f5e6446f3231df4b472efbc4f0a3e8ba"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2021-162",
+   "short": "LC 162/2021",
+   "title": "Lei Complementar nº 162, de 2021 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e as bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103914",
+   "versions": [
+    {
+     "from": "2021-03-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103914",
+     "sha256": "e2920b60ae33dc4124ffc0d939abfa617cfaee5a9194df935a64b374c8579166"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2008-061",
+   "short": "LC 61/2008",
+   "title": "Lei Complementar nº 61, de 2008",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101048",
+   "versions": [
+    {
+     "from": "2008-06-02",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101048",
+     "sha256": "3e46e10d1cf723af903f07fd6fac93773035aad45d539ffd93e038841e65d70f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-175",
+   "short": "LC 175/2022",
+   "title": "Lei Complementar nº 175, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105756",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105756",
+     "sha256": "288d7127a593a7a2123101e00ac5e4a5ecd29eba956e459293216e2da668655f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-174",
+   "short": "LC 174/2022",
+   "title": "Lei Complementar nº 174, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105757",
+   "versions": [
+    {
+     "from": "2022-06-30",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105757",
+     "sha256": "a3e78e6e4b141faef93c7aecc9396ef929e29ad8e4aa090e91fef4d252955864"
+    }
+   ]
+  },
+  {
+   "slug": "lc-1999-027",
+   "short": "LC 27/1999",
+   "title": "Lei Complementar nº 27, de 1999",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101020",
+   "versions": [
+    {
+     "from": "2023-01-04",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101020",
+     "sha256": "5dd4d1494fb4b943e990552cb5fe3f658429b0256365f43d71bb17c0df5197b0"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-045",
+   "short": "LC 45/2003",
+   "title": "Lei Complementar nº 45, de 2003 (Institui alteração na Lei Complementar nº 26, de 28 de dezembro de 1998, nas partes que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101009",
+   "versions": [
+    {
+     "from": "2003-12-30",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101009",
+     "sha256": "dbb9baaed97c7bebb184e938c49b0dbdf5f4b2a48994c39d13b4a9d4cb40f11f"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-107",
+   "short": "LC 107/2013",
+   "title": "Lei Complementar nº 107, de 2013 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101094",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101094",
+     "sha256": "bc01070b59a72455cd3b616a2ad6775239b612dd4db0fb397c587ba1600d79cc"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-108",
+   "short": "LC 108/2013",
+   "title": "Lei Complementar nº 108, de 2013 (Altera as Leis Complementares que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101095",
+   "versions": [
+    {
+     "from": "2013-12-31",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101095",
+     "sha256": "0aed11c0391a1669470807aac21e1deaf685433917d25e7753e5c984327fdf24"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-113",
+   "short": "LC 113/2014",
+   "title": "Lei Complementar nº 113, de 2014 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, que cria a permuta temporária, a remoção interna e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101100",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101100",
+     "sha256": "c2487ecb8c915e5abead7d18e971d6cc757836edf38d7df7ee3c3a755ec34204"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-161",
+   "short": "LC 161/2020",
+   "title": "Lei Complementar nº 161, de 2020 (Dispõe sobre o Regime Próprio de Previdência Social do Estado de Goiás - RPPS/GO e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103671",
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "units": 160,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103671",
+     "sha256": "23d8b32995c24f642af28a27afe021c656d593d20102d1474287fc8ad2615c01"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-212",
+   "short": "LC 212/2025",
+   "title": "Lei Complementar nº 212, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111992",
+   "versions": [
+    {
+     "from": "2025-12-30",
+     "units": 7,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111992",
+     "sha256": "e3cb4c40bd59c4ec2ecedfd5cca427452b83b57107138e897f374d2e09370c2c"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-171",
+   "short": "LC 171/2022",
+   "title": "Lei Complementar nº 171, de 2022",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/105263",
+   "versions": [
+    {
+     "from": "2022-03-31",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/105263",
+     "sha256": "8ec77e25956d711cec4df7354d99ec7dfe29984699317301c877f91692d78d8b"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2025-204",
+   "short": "LC 204/2025",
+   "title": "Lei Complementar nº 204, de 2025 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110544",
+   "versions": [
+    {
+     "from": "2025-03-31",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110544",
+     "sha256": "7a9985ccb2cad8d28f837453c013164f2452709e0907445f5644f068baf6a660"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2023-189",
+   "short": "LC 189/2023",
+   "title": "Lei Complementar nº 189, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107908",
+   "versions": [
+    {
+     "from": "2023-10-31",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107908",
+     "sha256": "278568b25d6b1cb43f159b2aa006956f70ccf181486c7c6a753800d931d43efe"
+    }
+   ]
+  }
+ ]
+}

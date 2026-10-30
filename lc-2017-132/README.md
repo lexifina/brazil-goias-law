@@ -1,0 +1,9 @@
+# Lei Complementar nº 132, de 2017 (Altera o art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)
+
+LC 132/2017 · 1 versions, from 2017-10-11 (latest in force: 2017-10-11) · <https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101119>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
