@@ -22,10 +22,32 @@
    "url": "https://legisla.casacivil.go.gov.br",
    "retrieved": "2026-10-30",
    "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
-   "notes": "22 acts in this part."
+   "notes": "49 acts in this part."
   }
  ],
  "laws": {
+  "lc-2015-115": {
+   "label": "Lei Complementar nº 115, de 2015",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2015-07-16",
+   "published": "2015-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101102",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2015-116": {
+   "label": "Lei Complementar nº 116, de 2015",
+   "title": "Revoga a Lei Complementar nº 62, de 09 de outubro de 2008.",
+   "kind": "law",
+   "enacted": "2015-07-16",
+   "published": "2015-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2008-064": {
    "label": "Lei Complementar nº 64, de 2008",
    "title": "Estabelece diretrizes para criação, utilização e prestação de contas de fundos rotativos nos Poderes Executivo, Legislativo e Judiciário e no Ministério Público",
@@ -33,6 +55,17 @@
    "enacted": "2008-12-16",
    "published": "2008-12-19",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101052",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2015-120": {
+   "label": "Lei Complementar nº 120, de 2015",
+   "title": "Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.",
+   "kind": "law",
+   "enacted": "2015-12-16",
+   "published": "2015-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101107",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -48,6 +81,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2018-143": {
+   "label": "Lei Complementar nº 143, de 2018",
+   "title": "Altera a Lei Complementar nº 66, de 27 de janeiro de 2009.",
+   "kind": "law",
+   "enacted": "2018-07-17",
+   "published": "2018-07-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101130",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2023-188": {
    "label": "Lei Complementar nº 188, de 2023",
    "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
@@ -55,6 +99,72 @@
    "enacted": "2023-10-17",
    "published": "2023-10-17",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107856",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-138": {
+   "label": "Lei Complementar nº 138, de 2018",
+   "title": "Dispõe sobre as responsabilidades e a eficiência da gestão pública no Estado de Goiás, cria a Comissão de Eficiência de Alto Nível e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-01-18",
+   "published": "2018-01-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101125",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1995-015": {
+   "label": "Lei Complementar nº 15, de 1995",
+   "title": "Altera dispositivo da Lei Complementar nº 2, de 16 de janeiro de 1990,com a redação dada pela Lei Complementar nº 4, de 17 de julho de 1990.",
+   "kind": "law",
+   "enacted": "1995-07-18",
+   "published": "1995-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101029",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1991-007": {
+   "label": "Lei Complementar nº 7, de 1991",
+   "title": "Altera dispositivo da Lei Complementar n° 2 de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4 , de 17 de julho de 1990.",
+   "kind": "law",
+   "enacted": "1991-09-18",
+   "published": "1991-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101040",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2014-112": {
+   "label": "Lei Complementar nº 112, de 2014",
+   "title": "Regulamenta o art. 109, da Constituição Estadual para estabelecer normas suplementares de finanças públicas",
+   "kind": "law",
+   "enacted": "2014-09-18",
+   "published": "2014-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101099",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2013-105": {
+   "label": "Lei Complementar nº 105, de 2013",
+   "title": "Altera o § 4° do art. 6° da Lei Complementar nº 27, de 30 de dezembro de 1999, com alterações posteriores.",
+   "kind": "law",
+   "enacted": "2013-11-18",
+   "published": "2013-11-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101092",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2016-125": {
+   "label": "Lei Complementar nº 125, de 2016",
+   "title": "Altera as Leis Complementares nº 20, de 10 de dezembro de 1996, e nº 27, de 30 de dezembro de 1999.",
+   "kind": "law",
+   "enacted": "2016-11-18",
+   "published": "2016-11-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101112",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -103,6 +213,28 @@
    "restores": null,
    "note": null
   },
+  "lc-2003-039": {
+   "label": "Lei Complementar nº 39, de 2003",
+   "title": "Dispõe sobre a fiscalização do transporte de passageiros na área da Rede Metropolitana de Transportes Coletivos.",
+   "kind": "law",
+   "enacted": "2003-05-19",
+   "published": "2003-05-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101003",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2015-114": {
+   "label": "Lei Complementar nº 114, de 2015",
+   "title": "Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.",
+   "kind": "law",
+   "enacted": "2015-05-19",
+   "published": "2015-05-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101101",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2025-205": {
    "label": "Lei Complementar nº 205, de 2025",
    "title": "Institui a Política Estadual de Fomento à Inovação em Inteligência Artificial no Estado de Goiás.",
@@ -110,6 +242,17 @@
    "enacted": "2025-05-19",
    "published": "2025-05-19",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110694",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2012-094": {
+   "label": "Lei Complementar nº 94, de 2012",
+   "title": "Introduz alterações na Lei Complementar nº 58, de 04 de julho de 2006.",
+   "kind": "law",
+   "enacted": "2012-09-19",
+   "published": "2012-09-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101081",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -136,6 +279,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2011-086": {
+   "label": "Lei Complementar nº 86, de 2011",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as Diretrizes e Bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2011-06-20",
+   "published": "2011-06-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101073",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2024-197": {
    "label": "Lei Complementar nº 197, de 2024",
    "title": "Estabelece os requisitos e as condições para a realização de transação terminativa de litígios em matéria tributária e institui o regime de ajuizamento seletivo de execuções fiscais.",
@@ -143,6 +297,28 @@
    "enacted": "2024-09-20",
    "published": "2024-09-23",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109502",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2017-136": {
+   "label": "Lei Complementar nº 136, de 2017",
+   "title": "Dispõe sobre a aplicação da alínea \"b\" do inciso II do § 2° do art. 101 do Ato das Disposições Constitucionais Transitórias da Constituição Federal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-20",
+   "published": "2017-12-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101123",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2011-080": {
+   "label": "Lei Complementar nº 80, de 2011",
+   "title": "Revigora, até 31 de dezembro de 2011, a prorrogação do prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64/2008.",
+   "kind": "law",
+   "enacted": "2011-01-21",
+   "published": "2011-01-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101067",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -169,6 +345,50 @@
    "restores": null,
    "note": null
   },
+  "lc-1995-018": {
+   "label": "Lei Complementar nº 18, de 1995",
+   "title": "Altera a Lei Complementar nº 2, de 16 de janeiro de 1990, alterada pela Lei Complementar nº 4, de 17 de julho de 1990.",
+   "kind": "law",
+   "enacted": "1995-09-21",
+   "published": "1995-09-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101032",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-075": {
+   "label": "Lei Complementar nº 75, de 2009",
+   "title": "Altera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás, e dá outras providências",
+   "kind": "law",
+   "enacted": "2009-09-21",
+   "published": "2009-09-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101061",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2016-124": {
+   "label": "Lei Complementar nº 124, de 2016",
+   "title": "Altera as Leis Complementares nºs 66, de 27 de janeiro de 2009, 77, de 22 de janeiro de 2010, e 118, de 06 de novembro de 2015, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2016-10-21",
+   "published": "2016-10-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101111",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2001-035": {
+   "label": "Lei Complementar nº 35, de 2001",
+   "title": "Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.",
+   "kind": "law",
+   "enacted": "2001-12-21",
+   "published": "2001-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2015-121": {
    "label": "Lei Complementar nº 121, de 2015",
    "title": "Institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.",
@@ -191,6 +411,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2013-101": {
+   "label": "Lei Complementar nº 101, de 2013",
+   "title": "Altera dispositivos da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2013-05-22",
+   "published": "2013-05-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101088",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2013-102": {
    "label": "Lei Complementar nº 102, de 2013",
    "title": "Introduz alterações nas Leis Complementares nº 77, de 22 de janeiro de 2010, e nº 66, de 27 de janeiro de 2009, e dá outras providências.",
@@ -198,6 +429,17 @@
    "enacted": "2013-05-22",
    "published": "2013-06-03",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101089",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2017-128": {
+   "label": "Lei Complementar nº 128, de 2017",
+   "title": "Altera a Lei Complementar nº 126, de 27 de dezembro de 2016.",
+   "kind": "law",
+   "enacted": "2017-05-22",
+   "published": "2017-05-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101115",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -213,6 +455,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2023-183": {
+   "label": "Lei Complementar nº 183, de 2023",
+   "title": "Autoriza a administração pública do Estado de Goiás a abrir créditos adicionais com a utilização, como origem de recursos, da disponibilidade descomprometida com o cancelamento de restos a pagar no exercício.",
+   "kind": "law",
+   "enacted": "2023-06-22",
+   "published": "2023-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2023-190": {
    "label": "Lei Complementar nº 190, de 2023",
    "title": "Institui a garantia do pagamento do complemento tarifário em favor das concessionárias do Sistema Integrado de Transporte da Rede Metropolitana de Transporte Coletivo da Grande Goiânia - SIT/RMTC e altera a Lei Complementar estadual nº 169, de 29 de dezembro de 2021.",
@@ -224,6 +477,39 @@
    "restores": null,
    "note": null
   },
+  "lc-2014-109": {
+   "label": "Lei Complementar nº 109, de 2014",
+   "title": "Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.",
+   "kind": "law",
+   "enacted": "2014-04-23",
+   "published": "2014-04-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101096",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2014-110": {
+   "label": "Lei Complementar nº 110, de 2014",
+   "title": "Altera a Lei Complementar nº 104, de 09 de outubro de 2013, que institui o Código de Direitos, Garantias e Obrigações do Contribuinte no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-04-23",
+   "published": "2014-04-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101097",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2005-054": {
+   "label": "Lei Complementar nº 54, de 2005",
+   "title": "Altera o caput do artigo 1o da Lei Complementar no 27, de 30 de dezembro de 1999, que cria a Região Metropolitana, autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, a Secretaria Executiva e a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia e dá outras providências.",
+   "kind": "law",
+   "enacted": "2005-05-23",
+   "published": "2005-05-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2026-216": {
    "label": "Lei Complementar nº 216, de 2026",
    "title": "Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ.",
@@ -231,6 +517,17 @@
    "enacted": "2026-10-23",
    "published": "2026-10-23",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118534",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2015-122": {
+   "label": "Lei Complementar nº 122, de 2015",
+   "title": "Dispõe sobre a apropriação de recursos financeiros que especifica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2015-12-23",
+   "published": "2015-12-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101109",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -270,6 +567,70 @@
   }
  },
  "acts": [
+  {
+   "slug": "lc-2015-115",
+   "short": "LC 115/2015",
+   "title": "Lei Complementar nº 115, de 2015 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101102",
+   "first_law": "lc-2015-115",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101102",
+     "sha256": "8ec4a943f05a6bb74a742fd8c2bef7322931fbcb8023ceb79c8738d2a9d0e8a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 115, DE 16 DE JULHO DE 2015\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os dispositivos a seguir especificados da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás, passam a vigorar com a seguinte redação:\n\"Art. 23 . ........................................................................\n§ 1º O mandato do Presidente e do Vice-Presidente é de 02 (dois) anos, permitida uma reeleição.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24 Cada Câmara ou Comissão é presidida por um Presidente eleito por seus membros, para um mandato de 02 (dois) anos, permitida uma reeleição.\n................................................................................ (NR)\"\nArt. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 16 de julho de 2015, 127º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nRaquel Figueiredo Alessandri Teixeira\n(D.O. de 21-07-2015)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-116",
+   "short": "LC 116/2015",
+   "title": "Lei Complementar nº 116, de 2015 (Revoga a Lei Complementar nº 62, de 09 de outubro de 2008.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101103",
+   "first_law": "lc-2015-116",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101103",
+     "sha256": "0dce3d596bade01c9e79fa182a1ce7571e2b826339f9af9c15d201d4ff894a66",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 116, DE 16 DE JULHO DE 2015\nRevoga a Lei Complementar nº 62, de 09 de outubro de 2008.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 159 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogada a Lei Complementar nº 62, de 09 de outubro de 2008, que aprova o Plano Estadual de Educação para o decênio 2008/2017 e dá outras providências.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 16 de julho de 2015, 127º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nRaquel Figueiredo Alessandri Teixeira\n(D.O. de 21-07-2015)\n"
+      }
+     }
+    }
+   ]
+  },
   {
    "slug": "lc-2008-064",
    "short": "LC 64/2008",
@@ -356,6 +717,38 @@
    ]
   },
   {
+   "slug": "lc-2015-120",
+   "short": "LC 120/2015",
+   "title": "Lei Complementar nº 120, de 2015 (Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101107",
+   "first_law": "lc-2015-120",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101107",
+     "sha256": "914ad48821947bae469d98cd843a3f78851968d49f4fee2c821a56ebe7d43f93",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 120, DE 16 DE DEZEMBRO DE 2015\nIntroduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 102 da Lei Complementar nº 77, de 22 de janeiro de 2010, passa a vigorar com a seguinte redação:\n\"Art. 102. Por lei específica de iniciativa do Chefe do Poder Executivo estadual, poderá ser instituído regime de previdência complementar para os servidores estaduais titulares de cargo efetivo, observado o disposto no art. 202 e seus parágrafos da Constituição Republicana, no que couber, por intermédio de entidade fechada de previdência complementar, de natureza pública, que oferecerá aos respectivos participantes planos de benefícios somente na modalidade de contribuição definida.\n§ 1º Somente após a aprovação da lei de que trata o caput poder-se-á fixar, para o valor das aposentadorias e pensões a serem concedidas pelo RPPS e RPPM, o limite máximo estabelecido para os benefícios do RGPS de que trata o art. 201 da Constituição Republicana.\n§ 2º Somente mediante sua prévia e expressa opção, o disposto neste artigo poderá ser aplicado ao servidor que houver ingressado no serviço público estadual até a data da publicação da lei instituidora do correspondente regime de previdência complementar.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 16 de dezembro de 2015, 127º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 18-12-2015)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2024-200",
    "short": "LC 200/2024",
    "title": "Lei Complementar nº 200, de 2024 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
@@ -388,6 +781,38 @@
    ]
   },
   {
+   "slug": "lc-2018-143",
+   "short": "LC 143/2018",
+   "title": "Lei Complementar nº 143, de 2018 (Altera a Lei Complementar nº 66, de 27 de janeiro de 2009.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101130",
+   "first_law": "lc-2018-143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-07-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101130",
+     "sha256": "d95a7fc9a73f1b35e27faf5a967a07a8e9f2ce9d844374a3774758d96dbbe6f7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 143, DE 17 JULHO DE 2018\nAltera a Lei Complementar nº 66, de 27 de janeiro de 2009.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 26-A da Lei Complementar nº 66, de 27 de janeiro de 2009, que institui a autarquia Goiás Previdência -GOIASPREV-, passa a vigorar com a seguinte redação:\n\"Art. 26-A. Fica criado o Comitê de Investimento no âmbito da GOIASPREV para acompanhar, fiscalizar e auxiliar na execução da Política de Investimento dos regimes de previdência de que trata esta Lei Complementar, observando e promovendo os princípios de governança, transparência e eficiência na gestão e aplicação dos recursos, competindo-lhe ainda:\nI - a emissão de parecer, quando necessário, sobre as análises técnicas, econômicas, financeiras e conjunturais da política de investimento;\nII - a avaliação e o acompanhamento das opções de investimentos e estratégias que envolvam compra, venda, renovação e realocação dos ativos da carteira dos regimes de previdência estaduais, em consonância com a política de investimento;\nIII - o preenchimento da Autorização de Aplicação e Resgate -APR-, nos termos das normas emanadas pelo órgão federal competente.\n§ 1º O Comitê de Investimento será composto pelo Presidente e por, no mínimo, dois profissionais técnicos lotados na GOIASPREV, que mantenham vínculo com o ente federativo na qualidade de servidor titular de cargo efetivo ou de livre nomeação e exoneração, com certificação profissional comprovada para atuação no mercado financeiro de capitais.\n§ 2º Os profissionais técnicos a que se refere o § 1º deste artigo serão designados em ato administrativo expedido pelo Presidente.\n§ 3º As atribuições dos membros do Comitê de Investimento serão definidas em Regulamento.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 17 de julho de 2018, 130º da República.\nJOSÉ ELITON DE FIGUERÊDO JÚNIOR\n(D.O. de 18-07-2018)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2023-188",
    "short": "LC 188/2023",
    "title": "Lei Complementar nº 188, de 2023 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
@@ -414,6 +839,468 @@
        "label": "Art. 2º",
        "kind": "article",
        "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo seus efeitos aos mandatos vigentes do Presidente e do Vice-Presidente.\nGoiânia, 17 de outubro de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-138",
+   "short": "LC 138/2018",
+   "title": "Lei Complementar nº 138, de 2018 (Dispõe sobre as responsabilidades e a eficiência da gestão pública no Estado de Goiás, cria a Comissão de Eficiência de Alto Nível e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101125",
+   "first_law": "lc-2018-138",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-01-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101125",
+     "sha256": "9bb5bba6cc28d073492ee13cc256c255dd74e96f12adfa1c24ae4d809d041cfb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 138, DE 18 DE JANEIRO DE 2018.\nMensagem de veto\nDispõe sobre as responsabilidades e a eficiência da gestão pública no Estado de Goiás, cria a Comissão de Eficiência de Alto Nível e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1º A gestão pública no Estado de Goiás obedecerá aos princípios constantes dos arts. 37, caput, e 92, caput, das Constituições Federal e Estadual, respectivamente, especificamente o da eficiência como uma das diretrizes prioritárias do Estado, notadamente nas áreas de planejamento, orçamento, pessoal e finanças, patrimonial, contábil, previdenciária, tributária e fiscal, observados os preceitos da Lei Complementar federal nº 101, de 4 de maio de 2000, e da Lei nº 4.320, de 17 de março de 1964.\n§ 1º Para efeito desta Lei, entende-se eficiência como a capacidade da Administração Pública de otimizar os meios e recursos disponíveis de forma a entregar mais e melhores serviços aos cidadãos, satisfazendo as demandas sociais e observando-se os preceitos estabelecidos no Decreto 5.462, de 09 de agosto de 2001, que institui o Código de Ética da Alta Administração Pública Estadual, bem como o Novo Regime Fiscal estabelecido nas Emendas Constitucionais nos 54 e 55, de 02 de junho e 12 de setembro de 2017, respectivamente.\n§ 2º O disposto nesta Lei aplica-se aos órgãos da administração direta, autárquica, fundacional, inclusive aos respectivos fundos, empresas públicas e de economia mista do Poder Executivo e por adesão aos Poderes Legislativo e Judiciário do Estado de Goiás, inclusive ao Ministério Público, Tribunal de Contas do Estado, Tribunal de Contas dos Municípios e Defensoria Pública do Estado, bem como aos Municípios, todos responsáveis pela correta administração e distribuição eficiente dos recursos públicos e pelo patrimônio do Estado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A prestação dos serviços públicos pelo Poder Executivo, bem como a administração de seus bens e do pessoal, observarão os princípios constitucionais referidos no art. 1º desta Lei, visando ao cumprimento das metas e dos programas estabelecidos no Plano de Desenvolvimento de Longo Prazo, bem como dos demais instrumentos de planejamento e controle da Administração Pública, como os estabelecidos no inciso X do art. 37 e nos incisos I e II do art. 29 da Constituição Estadual.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA CRIAÇÃO DA COMISSÃO DE EFICIÊNCIA DE ALTO NÍVEL\nArt. 3º Fica instituída a Comissão de Eficiência de Alto Nível (CEAN), órgão especial de caráter consultivo ao Governo do Estado, com o objetivo de propiciar contínuo e progressivo aperfeiçoamento da gestão pública, sendo composto por:\nI - 3 (três) representantes do Poder Executivo;\nII - um representante da Assembleia Legislativa, indicado pelo seu Presidente;\nIII - 3 (três) representantes do ensino superior, indicados entre as instituições: federal, estadual e particular;\nIV - 3 (três) representantes do setor produtivo, indicados entre as seguintes entidades empresariais: Federação das Indústrias do Estado de Goiás (FIEG), Federação do Comércio do Estado de Goiás (Fecomércio), Federação da Câmara de Dirigentes Lojistas do Estado de Goiás (FCDL), Federação de Agricultura e Pecuária do Estado de Goiás (FAEG), Federação das Associações Comerciais, Industriais e Agropecuárias do Estado de Goiás (FACIEG) e Associação Goiana da Micro e Pequena Empresa (AGPE);\nV - um representante do Tribunal de Contas do Estado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a indicação ao Chefe do Poder Executivo, visando à designação de membro do Conselho de Eficiência de Alto Nível, é indispensável que ela recaia sobre cidadão que:\nI - possua reputação ilibada e notório conhecimento, demonstrável mediante:\na) experiência profissional de, no mínimo 10 (dez) anos no setor público ou privado, na área de atuação direta ou indireta do órgão ou da entidade que representa, prioritariamente nas áreas de gestão e planejamento e fiscal;\nb) possuir formação acadêmica de nível superior, em área compatível com a de atuação do órgão ou da entidade que representa;\nII - não se enquadre nas hipóteses de inelegibilidade previstas nas alíneas do inciso I do caput do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990, e alterações posteriores.\nParágrafo único. Os membros do CEAN não serão remunerados, sendo que:\nI - a composição do CEAN dar-se-á no prazo de 60 (sessenta) dias, a contar da publicação desta Lei;\nII - caberá aos membros elaborar o Regimento Interno no prazo de 30 (trinta) dias após a sua instalação, o qual será aprovado mediante decreto;\nIII - a presidência do CEAN será eleita por maioria absoluta de seus membros, com mandato de um ano, podendo ser reeleita uma única vez;\nIV - o CEAN deliberará por maioria simples, cabendo ao presidente o voto de desempate, e se reunirá, periodicamente, na forma estabelecida em seu Regimento, que disporá também sobre os demais aspectos de sua estrutura funcional;\nV - o CEAN será assessorado por uma Secretaria Executiva, que preparará material técnico de suporte às deliberações do colegiado;\nVI - o Secretário Executivo será remunerado, indicado pelo Secretário de Gestão e Planejamento e nomeado pelo Governador do Estado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O CEAN tem a missão, em caráter consultivo e espontâneo, de assessorar o Governador do Estado no acompanhamento e na avaliação da gestão pública, com vista ao contínuo aperfeiçoamento da eficiência da Administração, notadamente na:\nI - avaliação da estrutura organizacional dos órgãos e das entidades, visando à obtenção de melhor relação entre seu custo e suas competências;\nII - avaliação contínua do número de servidores e empregados, tendo em vista sua redistribuição ou, ainda, instauração de concurso público para suprir eventuais deficiências nos serviços, bem como sugestão de medidas para possível redução dos quadros de pessoal;\nIII - avaliação contínua de políticas de custeio e investimentos, inclusive nas fundações, fundos, empresas e autarquias do Estado, sob critérios e procedimentos que verifiquem a efetiva e eficaz entrega de resultados;\nIV - recomendação de metas de contenção de despesas correntes, pela racionalização da gestão administrativa, buscando sempre aprimorar a utilização dos recursos públicos disponíveis;\nV - recomendação sobre a situação fiscal e financeira do Estado, bem como dos limites de endividamento mobiliário, contratual e previdenciário e da dívida consolidada estadual.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Cabe ainda ao CEAN:\nI - avaliar o Plano de Desenvolvimento de Longo Prazo, podendo apresentar propostas para o seu aperfeiçoamento, de forma a garantir a eficiência da gestão em benefício do desenvolvimento do Estado;\nII - sugerir diretrizes e critérios complementares, quando da elaboração e tramitação das leis que instituírem o Plano Plurianual e as Diretrizes Orçamentárias, tendo em vista a elaboração do Orçamento Anual do Estado, a fim de se recomendar uma trajetória de equilíbrio fiscal financeiro às contas públicas;\nIII - avaliar o Risco Financeiro do Estado, com seus componentes obrigacionais relevantes, a serem observados e projetados ao longo do período, bem como utilizar critérios de mensuração dos lastros e garantias oferecidos pelo Estado nas operações financeiras de que participar, direta ou indiretamente, como parte devedora;\nIV - propor medidas de incentivo ao empreendedorismo no Estado por meio da progressiva simplificação de exigências burocráticas e pela redução de obrigações acessórias no campo tributário;\nV - acompanhar e avaliar o processo de execução orçamentária, tendo em vista os objetivos que ensejaram os respectivos dispêndios, recomendando soluções para a correção de desvios ou insuficiências;\nVI - acompanhar e avaliar a fixação ou alteração de limites para a dívida consolidada e mobiliária do Estado, para operações de crédito e concessão de garantias;\nVII - sugerir critérios objetivos de aferição da excelência na gestão de atividades dos órgãos e entidades públicas, aplicados tanto às funções meio como às finalísticas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA GESTÃO EFICIENTE DOS INSTRUMENTOS DE PLANEJAMENTO\n## Seção I\n## Do Plano de Desenvolvimento de Longo Prazo\nArt. 7º O Estado, para fomentar o desenvolvimento econômico e social, elaborará e executará o Plano de Desenvolvimento de Longo Prazo, para um horizonte de vinte anos, com o objetivo de ampliar a eficiência administrativa e assegurar o equilíbrio fiscal da gestão pública, de modo a garantir o crescimento econômico e a qualidade de vida da população.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Plano de Desenvolvimento de Longo Prazo deverá abordar os seguintes aspectos:\nI - a análise da evolução recente do Estado de Goiás, considerando seu papel no contexto nacional e internacional;\nII - o mapeamento dos principais investimentos públicos e privados, em andamento ou concluídos recentemente no Estado;\nIII - a elaboração de análises prospectivas do ambiente, visando identificar ameaças, oportunidades, principais potencialidades e debilidades, bem como a construção de cenários prospectivos alternativos referentes ao desenvolvimento de Goiás, com uma visão integrada das dimensões social, econômica, ambiental, institucional e tecnológica;\nIV - a elaboração da visão do Estado para o horizonte de 20 (vinte) anos, contendo as metas quantitativas de longo prazo, organizadas por eixos de desenvolvimento, quantificação de variáveis e posição relativa, em face de outros estados da federação;\nV - a criação de carteira de programas e projetos estruturantes públicos e oportunidades privadas de médio e longo prazos para o Estado, desdobrando a visão de futuro em resultados concretos, com ações, metas, fontes de recursos avaliadas e asseguradas, marcos críticos e mecanismos de governança;\nVI - proposição de modelo de governança para gerenciamento do plano, que garanta a efetiva execução dos programas e projetos para o alcance dos resultados.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os Planos Plurianuais, as Diretrizes Orçamentárias e os Orçamentos Anuais previstos na Constituição Estadual serão elaborados em consonância com o Plano de Desenvolvimento de Longo Prazo.\nParágrafo único. O CEAN deverá analisar e fazer recomendações acerca da consonância de cada PPA, LDO e LOA ao Plano de Desenvolvimento de Longo Prazo (PDLP).\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Plano de Desenvolvimento de Longo Prazo deverá ser avaliado anualmente e revisto a cada 04(quatro) anos, antecedendo a elaboração do Plano Plurianual, e deverá ser enviado à Assembleia Legislativa até 45 (quarenta e cinco) dias após o encerramento de cada exercício.\nParágrafo único. O CEAN deverá analisar e fazer recomendações acerca das avaliações e revisões do PDLP.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## Seção II\n## Da Agenda Estratégica de Governo\n## (Programa Goiás Mais Competitivo e Inovador)\nArt. 11. A Agenda Estratégica constitui um conjunto de programas, projetos e/ou atividades definidos como prioritários para o Governo, sendo executados e monitorados através de uma sistemática intensiva e mediante uma governança efetiva, estando alinhados aos instrumentos de planejamento governamental, com aderência ao PDLP.\n§ 1º As prioridades da AEG serão selecionadas dentre os programas, projetos e/ou atividades constantes do PDLP e PPA, conforme os seguintes critérios: relevância, oportunidade, criticidade, tempestividade e governabilidade.\n§ 2º Após selecionadas as prioridades, deverão elas ser focalizadas conforme estratificação que representa o maior impacto nas metas e resultados pactuados.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O gerenciamento da Agenda Estratégica de Governo deve ser realizado de forma intensiva pelo órgão central de planejamento, ao qual compete:\nI - assessorar o Governador, os órgãos e as entidades responsáveis pelos programas, projetos e/ou atividades estratégicas na tomada de decisões, por meio da consolidação de informações e da elaboração de estudos técnicos e análises conjunturais, setoriais e regionais;\nII - implementar sistemática de monitoramento e avaliação para os programas, projetos e/ou atividades prioritárias e para os indicadores relacionados, com vistas ao alcance das metas estratégicas pactuadas;\nIII - viabilizar a ação coordenada entre os órgãos e as entidades governamentais com o objetivo de alcançar a transversalidade necessária à implementação das políticas públicas;\nIV - colaborar na implementação e consolidação de iniciativas de inovação que gerem aumento da eficiência da ação pública governamental;\nV - atuar de forma proativa na identificação e resolução dos entraves que impeçam a efetiva implementação da Agenda Estratégica de Governo;\nVI - fortalecer uma concepção de arranjo institucional, pautado na articulação entre o órgão central de planejamento e os demais órgãos e entidades da Administração, atuando de forma integrada, sistematizada e orientada para resultados;\nVII - realizar anualmente a avaliação da AEG de forma a subsidiar os ajustes e repactuações acerca das metas estabelecidas.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Os programas, projetos e/ou atividades prioritários terão precedência na indicação e disponibilização de recursos orçamentários e financeiros, na tramitação dos processos, na análise e registro nos sistemas corporativos e nos procedimentos licitatórios e legais no âmbito da Controladoria-Geral do Estado, Procuradoria-Geral do Estado, Secretaria de Estado da Casa Civil, Secretaria da Fazenda e demais Secretarias de Estado.\nParágrafo único. A operacionalização das prioridades dar-se-á por meio de Selo de Prioridade, nas modalidades virtual e física, a ser vinculado a cada programa, projeto e/ou atividade da AEG. Os sistemas informatizados do Poder Executivo deverão ser adequados para reconhecer e permitir o trâmite e a execução célere dos processos com Selo de Prioridade.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## Seção III\n## Da Carta de Serviços Públicos\nArt. 14. A Carta de Serviços Públicos visa informar aos cidadãos quais os serviços prestados por cada órgão ou entidade, bem como a forma de acesso a eles e quais os compromissos e padrões de atendimentos estabelecidos, promovendo a transparência e o controle social.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Cada órgão e entidade do Poder Executivo, confeccionará sua Carta de Serviços, informando ao cidadão quais atividades e meios fazem parte de sua missão, bem como estabelecendo prazos máximos para sua realização ou provisão.\nParágrafo único. As Cartas de Serviços são de caráter obrigatório e permanente, devendo ser disponíveis e atualizadas no sítio do respectivo órgão ou entidade e no Portal da Transparência do Governo de Goiás, e o acesso aos serviços será disponibilizado eletronicamente, sempre que possível.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Contratualização de Resultados\n## (Pacto pela Gestão Pública Eficiente)\nArt. 16. A Contratualização de Resultados tem o objetivo de aprimorar a eficiência técnica e operacional dos órgãos e das entidades, a fim de entregar aos cidadãos serviços com maior qualidade e agilidade, por meio da gestão integrada, com foco no aperfeiçoamento da capacidade institucional e na melhor aplicação dos recursos.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. A Contratualização de Resultados objetiva fundamentalmente:\nI - formalizar a pactuação da Agenda Estratégica do Governo entre o Governador e os órgãos e as entidades da Administração, mediante a coordenação do órgão central de planejamento;\nII - viabilizar a implementação das Cartas de Serviços;\nIII - definir obrigações e responsabilidades entre as partes envolvidas, bem como mecanismos de incentivo e gestão por resultados;\nIV - assegurar maior objetividade na tradução das diretrizes globais e das políticas públicas setoriais, com a definição de metas concretas;\nV - ampliar a autonomia gerencial, orçamentária e financeira dos órgãos ou das entidades, responsáveis pelos resultados;\nVI - estimular, valorizar e reconhecer servidores, dirigentes e órgãos ou entidades que cumpram suas metas e atinjam os resultados previstos;\nVII - dar transparência às ações das instituições públicas envolvidas e facilitar o controle social sobre a atividade estatal.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## Seção V\n## Dos Serviços Públicos\nArt. 18. Para cada serviço público selecionado serão definidas metas quantificáveis, aferidas por meio de indicadores divulgados por instituições especializadas, constantes de bases oficiais, que deverão estar detalhadas nos instrumentos de planejamento PDLP, PPA e AEG.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. A avaliação dos serviços públicos se dará anualmente, mediante o aprimoramento no desenho, implementação e monitoramento das políticas, dos programas e das ações selecionados, com foco na eficiência, eficácia e efetividade.\nParágrafo único. O CEAN deverá analisar e fazer recomendações acerca das avaliações dos serviços públicos.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "## Subseção I\n## Da Gestão Eficiente da Infraestrutura Rodoviária de Transportes\nArt. 20. Na gestão eficiente da infraestrutura rodoviária, o Estado providenciará alocação qualificada de recursos e fiscalização adequada dos contratos de construção, reconstrução, manutenção e sinalização da malha viária estadual, adotando em situações específicas o regime de concessão de rodovias.\nParágrafo único. A infraestrutura de logística e de transportes deve ser pautada na eficiência e no ganho de competitividade, tendo como consequência efeitos positivos em todo o ciclo da cadeia produtiva, com foco:\nI - na seleção de projetos estruturantes e estratégicos;\nII - na eficácia dos recursos disponibilizados, buscando aprimorar o sistema de transporte e logística rodoviário, elevando a trafegabilidade das rodovias;\nIII - na redução de perdas de produção, tempo e maior acesso a serviços de boa qualidade, implantando medidas que levem à estruturação do setor, em ações convergentes para melhoria de toda a malha rodoviária estadual;\nIV - na avaliação da qualidade das rodovias estaduais, por meio da elaboração de um relatório anual.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "## Subseção II\n## Da Gestão Eficiente da Educação\nArt. 21. Na gestão eficiente da educação pública será adotada a implantação de modelo de gestão escolar para resultados, com foco:\nI - no fortalecimento dos instrumentos estaduais de ensino;\nII - na qualidade do aprendizado, com vistas à proficiência em português e matemática, evasão escolar e ao fluxo idade-série;\nIII - na expansão dos instrumentos pedagógicos estaduais para os municípios, por meio do estabelecimento de planos de ações e termos de compromissos das metas da AEG pactuadas com municípios focalizados;\nIV - no apoio aos municípios para ampliação do acesso à educação infantil;\nV - no apoio aos municípios na institucionalização e implementação da educação fiscal e da educação financeira e às instituições de ensino privadas e públicas na inserção desses conteúdos na matriz curricular.\n§ 1º As escolas da rede estadual e a Universidade Estadual de Goiás - UEG estabelecerão as normas para inclusão da educação fiscal e financeira em seus programas de ensino.\n§ 2º O planejamento e a gestão do programa de educação fiscal e financeira do Estado de Goiás terão a participação dos servidores estaduais e sua divulgação junto à sociedade civil será regulamentada por decreto do Chefe do Poder Executivo.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "## Subseção III\n## Da Gestão Eficiente da Segurança Pública\nArt. 22. Na gestão eficiente da segurança pública será priorizada a qualificação da atuação da Secretaria de Segurança Pública e Administração Penitenciária, com foco:\nI - na consolidação de uma visão mais integrada dos problemas associados à segurança pública;\nII - na revisão do modelo de policiamento em prol de maior aproximação entre a polícia e a sociedade;\nIII - na inteligência e tecnologia, como suporte à estruturação operacional;\nIV - na integração de ações de prevenção da violência e combate de suas causas com ações de repressão e ordenamento social nas áreas com maior ocorrência de crimes;\nV - na ampliação e melhoria da gestão do sistema prisional.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "## Subseção IV\n## Da Gestão Eficiente da Saúde Pública\nArt. 23. Na gestão eficiente da saúde pública será fortalecida a qualificação da atuação da Secretaria de Saúde para melhor alocação dos recursos financeiros, materiais e humanos, bem como maior aproximação e apoio às gestões municipais, com foco:\nI - na redução da mortalidade infantil;\nII - na ampliação da atenção básica de qualidade;\nIII - na capacitação das equipes técnicas estaduais e municipais;\nIV - no fortalecimento da rede de regulação.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "## Subseção V\n## Da Gestão Eficiente da Habitação\nArt. 24. Na gestão eficiente dos programas habitacionais será priorizada:\nI - a construção de unidades habitacionais nos municípios com maior déficit habitacional em Goiás, segundo as fontes oficiais adotadas pelo Estado;\nII - melhoria do processo de monitoramento e fiscalização das obras já contratadas, conforme cronograma físico-financeiro dos projetos executivos;\nIII - redução de atrasos e menor desperdício de recursos, por meio de seguro garantia de performance.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "## Subseção VI\n## Da Gestão Eficiente da Inovação\nArt. 25. A gestão eficiente da inovação deverá promover o desenvolvimento competitivo da economia via agregação de valor pelas empresas por meio da ciência, tecnologia, pesquisa e inovação, com foco:\nI - na interação entre o Estado e a cadeia produtiva, entre os produtores de componentes e de sistemas, entre a universidade e a indústria e agências governamentais;\nII - no fomento à inovação, por meio da consolidação dos polos de inovação e centros de excelência e expansão da oferta de educação profissional tecnológica;\nIII - no aumento da conectividade do cidadão goiano por meio de atividades que facilitem e estimulem a utilização da internet.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "## Subseção VII\n## Da Gestão Eficiente do Saneamento\nArt. 26. Na gestão eficiente de saneamento, o Estado providenciará a ampliação do acesso da população ao esgotamento sanitário adequado, abastecimento de água e tratamento de resíduos sólidos, com foco:\nI - na reposição, ampliação, implantação e solução de abastecimento do sistema de água potável, de modo a universalizar o abastecimento;\nII - na implantação, ampliação, conclusão e nas soluções individualizadas do sistema público de esgotamento sanitário, com vistas à elevação do índice de atendimento;\nIII - na implementação de soluções de drenagem, retenção e reuso das águas pluviais para atender de forma adequada aos serviços públicos de manejo de águas pluviais nas cidades com problemas de escoamento e drenagem urbana;\nIV - na implantação e ampliação da coleta seletiva e gestão integrada de resíduos sólidos, em todos os municípios do Estado de Goiás.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA GESTÃO EFICIENTE DOS RECURSOS\n## Seção I\n## Da Gestão Eficiente de Receitas e Despesas\nArt. 27. A gestão eficiente de receitas e despesas deve estar em consonância com o Novo Regime Fiscal estabelecido pelas Emendas Constitucionais nos 54 e 55, de 02 de junho e 12 de setembro de 2017, respectivamente.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Constituem requisitos essenciais da gestão eficiente de receitas a instituição, previsão e efetiva arrecadação de todos os tributos da competência constitucional do Estado e a eficiência dos programas de benefícios e incentivos fiscais.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. No prazo de até 30(trinta) dias após a publicação dos orçamentos, as receitas previstas serão desdobradas, pelo Poder Executivo, em metas bimestrais de arrecadação, com a especificação em separado das medidas de combate à evasão e à sonegação, da quantidade e dos valores de ações ajuizadas para cobrança da dívida ativa, bem como da evolução do montante dos créditos tributários passíveis de cobrança administrativa.\nParágrafo único. Os efeitos dos benefícios e incentivos fiscais constarão em relatório próprio, nos termos da Lei Complementar federal nº 101, de 04 de maio de 2000.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. Toda arrecadação de receitas e ingresso de recursos extra orçamentários deverão ser efetuados unicamente pelo sistema de arrecadação estadual, administrado pela Secretaria da Fazenda.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. São medidas para a manutenção do equilíbrio das finanças públicas e formação de poupança interna destinadas aos programas de governo, dentre outras:\nI - no âmbito das receitas:\na) aumento real da arrecadação tributária;\nb) recebimento da dívida ativa tributária;\nc) recuperação de créditos junto à União;\nd) geração de recursos provenientes da prestação de serviços públicos;\ne) monetização de créditos resultantes de incentivos fiscais para investimentos;\nf) adequação dos benefícios fiscais;\ng) efetiva cobrança e fiscalização pelo uso do solo por particulares das faixas de domínio e lindeiras das rodovias estaduais e rodovias federais delegadas ao Estado, em conformidade com a legislação aplicável à matéria;\nh) recursos decorrentes da alienação de imóveis, partes acionárias e outros bens patrimoniais disponíveis;\nII - no âmbito das despesas:\na) racionalização, redução, controle e administração de despesas com custeio administrativo e operacional;\nb) controle das despesas com pessoal e encargos sociais;\nc) administração e controle dos pagamentos da dívida pública;\nd) autorização e execução de investimentos dentro da capacidade de desembolso do Estado;\ne) execução das despesas vinculadas dentro dos limites estabelecidos pelas normas legais;\nf) controle de custos;\ng) priorização de despesas finalísticas, em especial as relacionadas com projetos e atividades dos programas e ações da agenda estratégica de governo.\nParágrafo único. A autorização das despesas deverá observar as competências da Junta de Programação Orçamentária e Financeira, previstas no art. 23 da Lei nº 17.257, de 25 de janeiro de 2011.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. A elaboração do projeto, a aprovação e a execução da Lei Orçamentária Anual deverão ser realizadas com o objetivo de possibilitar a obtenção dos resultados previstos no anexo referido no § 1º do art. 4º da Lei Complementar federal nº 101, de 4 de maio de 2000, e no programa de reestruturação e ajuste fiscal do Estado de Goiás, previsto na Lei federal nº 9.496/97, especificamente ao Novo Regime Fiscal - NRF, aprovado pelas Emendas Constitucionais n.º 54 e 55, ambas de 2017.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Caso seja necessária a limitação do empenho das dotações orçamentárias e da movimentação financeira para atingir a meta de resultado primário prevista no anexo referido no § 1º do art. 4º da Lei Complementar federal nº 101, de 4 de maio de 2000, será ela feita por iniciativa de cada Poder e dos órgãos autônomos, de forma proporcional à respectiva participação no montante dos recursos alocados para o atendimento de \"outras despesas correntes\", \"investimentos\" e \"inversões financeiras\".\n§ 1º Na hipótese da ocorrência do disposto no caput deste artigo, o Chefe do Poder Executivo comunicará aos demais Poderes e aos órgãos autônomos o montante que caberá a cada um tornar indisponível para empenho e movimentação financeira.\n§ 2º O Chefe de cada Poder e dos órgãos autônomos, com base na comunicação de que trata o § 1º, publicará ato estabelecendo os montantes que cada qual terá como limite de movimentação e empenho.\n§ 3º Se verificado ao final de cada bimestre que a realização da receita não comporta o cumprimento do resultado primário ou nominal, a Secretaria da Fazenda fará nova projeção de receita para o exercício e caso seja menor do que a necessária para o alcance dessas metas, deverão ser obedecidos os requisitos estabelecidos no § 1º deste artigo.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. A criação, expansão ou o aperfeiçoamento de ação governamental que acarrete aumento da despesa será acompanhado de:\nI - estimativa do impacto orçamentário-financeiro no exercício em que deva entrar em vigor e nos dois subsequentes, conforme estabelecido nos arts. 15, 16 e 17 da Lei de Responsabilidade Fiscal, devendo tais alterações e suas implicações ser objeto de modificação nas subsequentes revisões anuais do plano de governo;\nII - declaração do próprio ordenador da despesa de que o aumento proposto tem adequação orçamentária e financeira com a Lei Orçamentária Anual e compatibilidade com o Plano Plurianual e a Lei de Diretrizes Orçamentárias;\nIII - comprovação de que o poder ou órgão não excedeu, até o quadrimestre anterior, os limites da despesa com pessoal estabelecidos no art. 20 e no parágrafo único do art. 22, ambos da Lei Complementar federal nº 101, de 4 de maio de 2000;\nIV - parecer favorável, sem ressalvas, do colegiado instituído por Lei para o acompanhamento da execução orçamentária e financeira anual, bem como a observância das metas fiscais e financeiras.\n§ 1º Para os fins desta Lei, considera-se:\nI - adequada à Lei Orçamentária Anual, a despesa objeto de dotação específica e suficiente, ou que esteja abrangida por crédito genérico, de forma que, uma vez somadas todas as despesas da mesma espécie, realizadas e a realizar, previstas no programa de trabalho, não sejam ultrapassados os limites estabelecidos para o exercício;\nII - compatível com o Plano Plurianual e a Lei de Diretrizes Orçamentárias, a despesa que se conforme com as diretrizes, objetivos, prioridades e metas previstos nesses instrumentos e no plano de governo, não infringindo qualquer de suas disposições.\n§ 2º A estimativa de que trata o inciso I do caput deste artigo será acompanhada das premissas e metodologias de cálculo utilizadas, cabendo ao órgão planejador traçar sempre o cenário mais realista possível na projeção das receitas que suportarão os acréscimos de despesa.\n§ 3º As normas do caput deste artigo constituem condição prévia para empenho e licitação de serviços, fornecimento de bens ou execução de obras.\n§ 4º Para efeito do atendimento do § 1º, o ato será acompanhado de comprovação de que a despesa criada ou aumentada não afetará as metas de resultados fiscais previstas no anexo referido no § 1º do art. 4º da Lei Complementar federal nº 101, de 4 de maio de 2000, devendo seus efeitos financeiros, nos períodos seguintes, ser compensados por aumento permanente de receita ou pela redução permanente de outras despesas, em igual montante.\n§ 5º Para efeito do § 2º deste artigo, considera-se aumento realista aquele que vier a ser comprovado, pelo órgão planejador, mediante estudo acurado das receitas fiscais futuras, em decorrência da expansão da base tributável proveniente da ampliação da economia do Estado.\n§ 6º A despesa de que trata este artigo não será empenhada antes da verificação das medidas ou dos fatos referidos no §2º deste artigo ou serão aferidos conforme dispositivos claramente estabelecidos no instrumento que a criar ou aumentar.\n§ 7º O disposto no § 1º deste artigo não se aplica às despesas destinadas a serviço da dívida.\n§ 8º Considera-se aumento de despesa a prorrogação daquela criada por prazo determinado.\n§ 9º Será considerada não autorizada, irregular e lesiva ao patrimônio público, a geração de despesa ou assunção de obrigação que não atenda ao disposto nesta Lei.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Os recursos originários do orçamento do Estado arrecadados e movimentados pelos Poderes, órgãos e entidades excepcionados do sistema de conta única instituído pela Lei Complementar nº 121, de 21 de dezembro de 2015, poderão ser acolhidos pelo referido sistema, resguardada a autonomia administrativa e financeira de cada ente.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. Ficam organizadas as atividades de administração financeira e de contabilidade pública estadual, sob a forma do sistema de administração das finanças e da contabilidade pública estadual, visando ao equilíbrio financeiro, dentro dos limites da receita e despesa públicas e a evidenciar a situação orçamentária, financeira, contábil e patrimonial do Estado de Goiás.\n§ 1º Integram o sistema de administração das finanças e da contabilidade pública estadual:\nI - a unidade central do Tesouro e da contabilidade-geral, como órgãos centrais;\nII - órgãos setoriais.\n§ 2º Os órgãos setoriais são as unidades responsáveis pela programação e execução financeira e contábil da administração direta, autárquica e fundacional e dos fundos especiais.\n§ 3º Os órgãos setoriais ficam sujeitos à orientação normativa e à supervisão técnica dos órgãos centrais do sistema, sem prejuízo da subordinação hierárquica ao órgão em cuja estrutura administrativa estiverem integrados.\n§ 4º A administração direta, as autarquias, fundações e os fundos especiais do Poder Executivo deverão ter sua contabilidade e administração financeira subordinadas tecnicamente aos órgãos centrais.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "Art. 37. O sistema de contabilidade geral deverá ser integrado a todos os demais sistemas corporativos do Estado de Goiás, visando ao atingimento do plano de implementação dos procedimentos patrimoniais contábeis, definido pela Portaria nº 548, de 24 de setembro de 2015, da Secretaria do Tesouro Nacional, bem como a adequação da contabilidade do Estado ao manual de contabilidade aplicada ao setor público.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "## Seção II\n## Da Gestão Eficiente de Pessoal\nArt. 38. O Poder Executivo deve manter programa de capacitação continuada, desenvolver habilidades e competências dos servidores em suas áreas de atuação, notadamente em setores considerados estratégicos, para garantir a gestão eficiente dos recursos e prestação de serviços.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "Art. 39. O provimento dos cargos em comissão da estrutura básica e complementar dos órgãos e das entidades autárquicas e fundacionais do Poder Executivo estadual obedecerá aos seguintes critérios:\nI - 60%(sessenta por cento) do total de cargos em comissão da estrutura básica serão ocupados exclusivamente por servidores de carreira;\nII - todos os cargos de direção da estrutura complementar serão ocupados mediante processo de seleção por capacitação e mérito, com critérios técnicos estabelecidos em regulamento específico.\n§ 1º Consideram-se de carreira, para efeito deste artigo, os servidores ativos ou inativos oriundos de órgão ou entidade de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios, suas empresas públicas e sociedades de economia mista, ocupante de cargo ou emprego permanente no qual ingressou mediante concurso público ou, se em data anterior a 05 de outubro de 1988, mediante forma de provimento permitida pelo ordenamento jurídico da época de ingresso.\n§ 2º A nomeação de não servidores de carreira, nos cargos de que trata o inciso I, somente poderá ser efetivada mediante a comprovação de que o percentual de cargos providos por servidores de carreira, aferido para o conjunto dos órgãos e das entidades sujeitos ao disposto no caput, é igual ou superior aos percentuais estabelecidos na data da consulta.\n§ 3º Na hipótese de o cômputo dos percentuais de que tratam o inciso I implicar número fracionário de cargos, deverá ser considerado o número inteiro imediatamente superior.\n§ 4º O cumprimento do disposto nos incisos I e II do caput deste artigo processar-se-á gradativamente à medida que vagar ou criar cargos da estrutura básica e complementar na administração direta, autárquica e fundacional do Poder Executivo.\n§ 5º O processo de seleção meritocrático de que trata o inciso II poderá contar com a participação de ocupante de cargo em comissão, servidor efetivo, militar e empregado público em atividade no âmbito do Poder Executivo, com curso superior completo, até a data da inscrição.\n§ 6º As prescrições deste artigo e seus parágrafos deverão ser regulamentadas no prazo de 60 (sessenta) dias após a publicação desta Lei.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "Art. 40. A realização de concurso público estará condicionada a estudos que demonstrem a incapacidade de preenchimento de vagas existentes mediante o remanejamento de servidores dentro dos órgãos e das entidades do Poder Executivo, devendo ser publicado como anexo do edital do concurso.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "Art. 41. A realização de estudos e a propositura de diretrizes para a formulação e implementação da política salarial e de recursos humanos no âmbito do Poder Executivo é competência do Conselho Estadual de Políticas Salariais e Recursos Humanos devendo ser observados os limites previstos nos arts. 19, inciso II, e 20, inciso II, da Lei Complementar federal nº 101/2000, e ainda o novo regime fiscal estabelecido nas Emendas Constitucionais nos 54 e 55, ambas de 2017.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "## Seção III\n## Da Gestão Eficiente de Ativos e Passivos\nArt. 42. Constituem passivos exigíveis do Estado, para efeito desta Lei, os seguintes compromissos financeiros, previdenciários e orçamentários diferidos:\nI - dívida mobiliária de curto e longo prazos, em moeda nacional ou estrangeira (\"dívida mobiliária\");\nII - dívida bancária de qualquer natureza ou prazo, em instituições financeiras públicas e privadas (\"dívida bancária\");\nIII - compromissos de natureza previdenciária, calculados em forma de Valor Presente (VP) por taxa de desconto justa, representando ônus direto ou indireto ao Estado, após dedução atuarial do valor líquido de ativos segregados para o fundo de cobertura securitária e, ainda, de fluxos de rendas futuras desembaraçadas de outras aplicações (\"dívida previdenciária\");\nIV - precatórios homologados contra o Estado, para pagamento além do exercício corrente, também descontados ao seu Valor Presente (\"dívida em precatórios\");\nV - depósitos judiciais, se porventura sacados pelo Estado;\nVI - débitos com fornecedores e executantes de obras, por quaisquer pagamentos diferidos além do exercício corrente (\"dívidas contratuais\");\nVII - débitos por eventuais insuficiências de recursos futuros em empresas, fundos e programas do Estado, bem como garantias e avais a outros pagamentos de liquidação duvidosa, estimados conforme sua probabilidade de ocorrência no futuro (\"débitos contingenciais\");\nVIII - restos a pagar, excedentes ao máximo permitido na legislação estadual pertinente.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43. A dívida previdenciária será objeto de avaliação especial pela autoridade fazendária, em relatório atualizado anualmente, que analisará o equilíbrio atuarial entre passivo e ativo - se este puder ser demonstrado - ou, por outra, os mecanismos de seu alcance, nos prazos estipulados nesta Lei.\n§ 1º Na obtenção de um valor líquido para a dívida previdenciária, a autoridade fazendária levará em conta, a título de redução do montante dos compromissos, os fluxos futuros de entradas de recursos provenientes de aplicação de fundos criados para este fim, das rendas de aluguel dedicadas a esta mesma cobertura e, ainda, do resultado esperado, sob critérios realistas, da alienação de bens e direitos autorizada por lei para tal fim, porém ainda não executada pelo órgão competente.\n§ 2º O equilíbrio entre receitas e despesas previdenciárias será alcançado, entre outras medidas, por meio da instituição de previdência complementar fechada do Estado que estará à disposição de todos os órgãos e Poderes do Estado, nos termos do art. 40, § 14, da Constituição Federal, e aprovado pela Superintendência Nacional de Previdência Complementar, em Portaria nº 689, de 05 de julho de 2017.\n§ 3º Na existência de desequilíbrio entre as receitas e as despesas previdenciárias, o Estado deverá destinar, nas alienações de seus bens e direitos, no mínimo, 50% (cinquenta por cento) desses recursos ao regime próprio de previdência.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Gestão dos Incentivos Fiscais\nArt. 44. A concessão ou ampliação de incentivo ou benefício de natureza tributária da qual decorra renúncia de receita deverá estar acompanhada de estimativa do impacto orçamentário-financeiro no exercício em que deva iniciar sua vigência e nos dois seguintes, atender ao disposto na Lei de Diretrizes Orçamentárias e às seguintes condições:\nI - demonstração pelo proponente de que a renúncia, se houver, foi considerada na estimativa de receita da lei orçamentária e de que não afetará as metas de resultado primário e resultado nominal, previstas no anexo próprio da Lei de Diretrizes Orçamentárias;\nII - identificada a renúncia, esta deverá estar acompanhada de medidas de compensação, no período mencionado no caput, por meio do aumento de receita, proveniente da elevação de alíquotas, ampliação da base de cálculo, majoração ou criação de tributo ou contribuição ou redução de outros incentivos fiscais, em valor equivalente, no mínimo, ao benefício a ser concedido.\n§ 1° Os incentivos fiscais regulares e admitidos pela lei e pelo CONFAZ, que forem concedidos a determinada empresa, poderão ser igualmente estendidos a todas as demais do mesmo setor econômico, desde que preenchidas todas as condições estipuladas para tanto e mediante solicitação, caso a caso.\n§ 2° A concessão de benefícios fiscais deverá ter, como contrapartida das empresas, o alcance de metas sociais e econômicas bem definidas, cujo cumprimento deverá ser atestado anualmente pela administração tributária, cuja principal atenção será no sentido da modicidade da renúncia tributária envolvida e na amplitude da convergência no desenvolvimento regional a ser obtida.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "Art. 45. A concessão de incentivos e benefícios fiscais no Estado de Goiás observará as seguintes condições, sem prejuízo da legislação do Estado que verse sobre a matéria:\nI - os incentivos fiscais só poderão ser concedidos mediante regulamentação do Chefe do Poder Executivo;\nII - realização prévia de estudos de viabilidade econômica e financeira relativos à criação e concessão de benefícios tributários, de acordo com as peculiaridades de cada empreendimento;\nIII - avaliação dos efeitos do benefício fiscal realizado pela Secretaria da Fazenda, a partir da aferição de indicadores de caráter econômico, tecnológico, ambiental e espacial, além do cumprimento de metas estabelecidas nos projetos em termos de volume de arrecadação de ICMS e número de empregos gerados no mercado local.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DISPOSIÇÕES FINAIS\nArt. 46. O Estado deve fomentar o desenvolvimento socioeconômico do Estado, por meio de parcerias com o setor privado e a sociedade civil, tais como concessões, parcerias público-privadas, contratos de gestão com organizações sociais, termos de parcerias com organizações da sociedade civil de interesse público, dentre outros.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "Art. 47. VETADO.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "Art. 48. VETADO.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49. Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 18 de janeiro de 2018, 130º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJoaquim Cláudio Figueiredo Mesquita\nJosé Carlos Siqueira\nJoão Furtado de Mendonça Neto\nTayrone di Martino Gomes\nVilmar da Silva Rocha\nRaquel Figueiredo Alessandri Teixeira\nLeonardo Moura Vilela\nFrancisco Gonzaga Pontes\nLêda Borges de Moura\nRicardo Brisolla Balestreri\n(D.O. de 19-01-2018)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-015",
+   "short": "LC 15/1995",
+   "title": "Lei Complementar nº 15, de 1995 (Altera dispositivo da Lei Complementar nº 2, de 16 de janeiro de 1990,com a redação dada pela Lei Complementar nº 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101029",
+   "first_law": "lc-1995-015",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1995-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101029",
+     "sha256": "7366dca7024f873b384000d677b53f0c97ba6befdb2e1ab651ba1c0e9da0b0c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 15, DE 18 DE JULHO DE 1995.\nAltera dispositivo da Lei Complementar no 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar no 4, de 17 de julho de 1990.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O \"caput\" do artigo 4oLei Complementar no 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar no 4, de 17 de julho de 1990, passa a vigorar com a seguinte redação:\n\"Art. 44o São requisitos para a criação de municípios, reduzidos a 2/3 no caso de municípios de interesse ecológico, turístico ou de especial interesse econômico, os dos itens IV, V, VI e VII\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta lei complementar entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 18 de julho de 1995, 107o da República.\nLUIZ ALBERTO MAGUITO VILELA\n(D.O. 21-07-1995)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-007",
+   "short": "LC 7/1991",
+   "title": "Lei Complementar nº 7, de 1991 (Altera dispositivo da Lei Complementar n° 2 de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4 , de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101040",
+   "first_law": "lc-1991-007",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1991-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101040",
+     "sha256": "bc034203f6a679d2030a9897672e73d62b4b211a0eaec7cee259c9fd4c50b36b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 7, DE 18 DE SETEMBRO DE 1991.\nAltera dispositivo da Lei Complementar no 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar no 4, de 17 de julho de 1990.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O § 1o do art. 5o da Lei Complementar no 2, de 16 de janeiro de 1990, com a nova redação dada pela Lei Complementar no 4, de 17 de julho de 1990, passe a vigorar com a seguinte redação:\n\"Art. 5o .........................................................................................\n§ 1o O processo de incorporação, fusão e desmembramento de área para ser anexada a outro município será iniciado por proposta de deputado, acompanhada de representação assinada por, no mínimo, cinqüenta eleitores residentes e domiciliados na respectiva área, com as firmas devidamente reconhecidas e mediante declarações destes.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta lei complementar entra em vigor na data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 18 de setembro de 1991,103o da República.\nIRIS REZENDE MACHADO\n(D.O. de 30-09-1991)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-112",
+   "short": "LC 112/2014",
+   "title": "Lei Complementar nº 112, de 2014 (Regulamenta o art. 109, da Constituição Estadual para estabelecer normas suplementares de finanças públicas)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101099",
+   "first_law": "lc-2014-112",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101099",
+     "sha256": "b5b857b39b89a2099239a61d83b58a685fc58e85f806d9fdebb5cf0f18c9173a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 112, DE 18 DE SETEMBRO DE 2014\nRegulamenta o art. 109, da Constituição Estadual para estabelecer normas suplementares de finanças públicas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei Complementar regulamenta o art. 109, da Constituição Estadual para estabelecer normas suplementares de finanças públicas sobre:\nI - limite de despesas com pessoal da Assembleia Legislativa, do Tribunal de Contas do Estado e do Tribunal de Contas dos Municípios;\nII - constituição de reservas orçamentárias para:\na) atender a expansão das despesas de caráter continuado e a renúncia de receitas decorrentes de proposições legislativas de iniciativa parlamentar;\nb) servir como fonte de recurso para fazer face à emendas parlamentares ao projeto de lei orçamentária;\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas com pessoal, ativo e inativo, do Legislativo, incluindo-se os Tribunais de Contas, observarão o limite total de 3,4% (três vírgula quatro por cento) da receita corrente líquida, conforme estabelecido pelo art. 20, II, \"a\", § 4º, da Lei Complementar federal nº 101, de 4 de maio de 2000, considerando para a Assembleia Legislativa 1,50% (um vírgula cinquenta por cento), para o Tribunal de Contas do Estado 1,35% (um vírgula trinta e cinco por cento) e para o Tribunal de Contas dos Municípios 0,55% (zero vírgula cinquenta e cinco por cento).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O projeto de lei orçamentária e respectiva Lei consignarão recursos, no montante mínimo de 0,5% (cinco décimos por cento) da receita corrente líquida, destinados à constituição de reserva para atender a expansão das despesas de caráter continuado e a renúncia de receitas, em rubrica própria sob a denominação \"Reserva de Recursos para compensação de Proposições Legislativas de Iniciativa Parlamentar\".\n§ 1º A reserva constituída nos termos deste artigo será considerada como compensação, durante o respectivo exercício financeiro, pelo órgão técnico legislativo responsável pelo exame de adequação e compatibilidade orçamentária e financeira das proposições legislativas de iniciativa parlamentar que versem sobre matérias tributária ou orçamentária e que gerem despesas de caráter continuado, conforme critérios previstos pela Assembleia Legislativa, que comunicará ao Poder Executivo as proposições que vierem a ser consideradas adequadas e compatíveis orçamentárias e financeiramente, para fins de abertura do crédito adicional correspondente.\n§ 2º Para os efeitos desta lei entenda-se como:\nI - adequada, a proposição que se adapte, se ajuste ou esteja abrangida pelo Plano Plurianual, pela Lei de Diretrizes Orçamentárias, da Lei Orçamentária Anual e demais proposições legais em vigor.\nII - compatível, a proposição que não conflite com as normas do Plano Plurianual, da Lei de Diretrizes Orçamentárias, da Lei Orçamentária Anual e demais proposições legais em vigor.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O projeto de lei orçamentária e respectiva Lei consignarão recursos, no montante mínimo de 1% (um por cento) da receita corrente líquida, destinados à constituição de reserva para servir como fonte de recurso para fazer face às emendas parlamentares ao projeto de lei orçamentária, em rubrica própria sob a denominação \"Reserva para Atendimento de Emendas de Iniciativa Parlamentar\".\nParágrafo único. As emendas parlamentares de que trata este artigo deverão ser destinadas a ações e serviços públicos de áreas prioritárias, como saúde, educação e segurança pública, nos termos e nos percentuais estabelecidos pela Lei de Diretrizes Orçamentárias.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam convalidados os atos de gestão fiscal praticados pela Assembleia Legislativa que consideram como limite legal da despesa de pessoal o índice de 1,50% (um vírgula cinquenta por cento) previsto no art. 2º desta Lei Complementar.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei Complementar entra em vigor na data de sua publicação, ressalvado o disposto no art. 2º, cujos efeitos retroagirão à 1º de janeiro de 2010.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 18 de setembro de 2014.\nDeputado HELIO DE SOUSA\n- PRESIDENTE -\n(D.O. de 30-09-2014)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-105",
+   "short": "LC 105/2013",
+   "title": "Lei Complementar nº 105, de 2013 (Altera o § 4° do art. 6° da Lei Complementar nº 27, de 30 de dezembro de 1999, com alterações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101092",
+   "first_law": "lc-2013-105",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2013-11-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101092",
+     "sha256": "0f755355c9023be7d3b6208cc227dca118fa76bd5ac015efee535e50ccd92eb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 105, DE 18 DE NOVEMBRO DE 2013\nAltera o § 4° do art. 6° da Lei Complementar nº 27, de 30 de dezembro de 1999, com alterações posteriores.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 4° do art. 6° da Lei Complementar n° 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, a Secretaria Executiva e a constituir o Fundo do Desenvolvimento Metropolitano de Goiânia, passa a vigorar acrescido dos incisos X, XI, XII, XIII e XIV, com a seguinte redação:\n\"Art. 6° .......................................................................\n§ 4° ...........................................................................\nX - 1 (um) representante da Câmara Municipal de Goiânia;\nXI - 1 (um) representante das Câmaras Municipais dos demais Municípios integrantes da Região Metropolitana de Goiânia;\nXII - VETADO;\nXIII - VETADO;\nXIV - VETADO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 18 de novembro de 2013, 125º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 21-11-2013)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-125",
+   "short": "LC 125/2016",
+   "title": "Lei Complementar nº 125, de 2016 (Altera as Leis Complementares nº 20, de 10 de dezembro de 1996, e nº 27, de 30 de dezembro de 1999.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101112",
+   "first_law": "lc-2016-125",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-11-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101112",
+     "sha256": "b5c48cdb3b8bfb117ffdb5850617ab5f78d0df5534b825f24dbe672b66cc75c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR No 125, DE 18 DE NOVEMBRO DE 2016.\nAltera as Leis Complementares no 20, de 10 de dezembro de 1996, e no 27, de 30 de dezembro de 1999.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Em atendimento ao que estabelece o art. 6o da Lei Complementar estadual no 121, de 21 de dezembro de 2015, que institui o Sistema de Conta Única do Tesouro Estadual e dá outras providências, são promovidas as alterações abaixo especificadas:\nI - na Lei Complementar no 20, de 10 de dezembro de 1996:\n\"Art. 9o O titular da Pasta do Meio Ambiente é a autoridade competente para reconhecer dívidas, autorizar despesas e efetuar pagamentos à conta dos recursos do FEMA.\"(NR)\n\"Art. 11. Os recursos disponíveis do FEMA serão aplicados no mercado financeiro, por meio de instituições oficiais.\"(NR)\n\"Art. 12. O saldo financeiro do exercício apurado em balanço anual, relativamente ao Fundo de que trata esta Lei, será revertido ao Tesouro Estadual.\"(NR)\nII - na Lei Complementar no 27, de 30 de dezembro de 1999:\n\"Art. 10-A. O saldo financeiro do exercício apurado em balanço anual, relativamente ao Fundo de que trata esta Lei, será revertido ao Tesouro Estadual.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Ficam revogados o inciso VII do art. 3o da Lei Complementar no 20, de 10 de dezembro de 1996, e o inciso IV do § 2o do art. 10 da Lei Complementar no 27, de 30 de dezembro de 1999.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 18 de novembro de 2016, 128o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nVilmar da Silva Rocha\nJoaquim Cláudio Figueiredo Mesquita\n(D.O. de 22-11-2016)\n"
       }
      }
     }
@@ -605,7 +1492,121 @@
       "art-0003": {
        "label": "Art. 3º",
        "kind": "article",
-       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 19 de abril de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nThiago Melo Peixoto da Silveira\n(D.O. de 25-04-2011) - Suplemento\nEste texto não substitui o publicado no Suplemento do D.O. de 25-04-2011.\n"
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 19 de abril de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nThiago Melo Peixoto da Silveira\n(D.O. de 25-04-2011) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-039",
+   "short": "LC 39/2003",
+   "title": "Lei Complementar nº 39, de 2003 (Dispõe sobre a fiscalização do transporte de passageiros na área da Rede Metropolitana de Transportes Coletivos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101003",
+   "first_law": "lc-2003-039",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2003-05-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101003",
+     "sha256": "842494a901b22e0eebb4030216671e4d1c74a550a3069e1f96c29718eeb9e8bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 39, DE 19 DE MAIO DE 2003.\nDispõe sobre a fiscalização do transporte de passageiros na área da Rede Metropolitana de Transportes Coletivos.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 90 da Constituição Estadual, decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Fica proibido, na área da Rede Metropolitana de Transportes Coletivos, o transporte coletivo de passageiros realizado por pessoa física ou jurídica que não possua a devida concessão, permissão ou autorização expedida pelo órgão competente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Para os efeitos desta Lei, considera-se clandestino o transporte coletivo de passageiros realizado como serviço remunerado por pessoa física ou jurídica:\nI - sem a devida concessão, permissão ou autorização expedida pelo órgão competente;\nII - em desobediência a percurso ou seção de percurso definido no ato de concessão, permissão ou autorização expedido pelo órgão competente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Serão cominadas à pessoa física ou jurídica que realizar transporte clandestino de passageiros as seguintes sanções:\nI - multa de R$ 1.000,00 (um mil reais);\nII - apreensão do veículo.\n§ 1º. Tendo por base o auto de infração lavrado contra o transgressor pela autoridade competente, o órgão da jurisdição em que foi cometida a infração instaurará o devido processo administrativo, que seguirá as disposições da Lei nº 13.800, de 18 de janeiro de 2001.\n§ 2º. A liberação do veículo somente poderá ocorrer desde que atendidas uma das seguintes situações:\nI - conclusão do processo administrativo que decidir pela improcedência do auto de infração;\nII - conclusão do processo administrativo que decidir pela procedência do auto de infração, com o pagamento da multa estipulada no inciso I do \"caput\" deste artigo, assim como da taxa de permanência do veículo em depósito prevista no art. 4º desta Lei Complementar;\nIII - pagamento antecipado da multa prevista no inciso I do \"caput\" deste artigo, assim como da taxa de permanência do veículo em depósito, prevista no art. 4º desta Lei Complementar.\n§ 3º. A reincidência na prática do transporte clandestino de passageiros implica a duplicação do valor da multa prevista no \"caput\" deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º. A permanência em depósito do veículo apreendido por infração às disposições desta Lei Complementar sujeita o seu proprietário ao pagamento de uma taxa diária de R$ 50,00 (cinqüenta reais).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º. Os valores decorrentes da aplicação da multa prevista no art. 3º, I, e da taxa diária de depósito, referida no art. 4º, serão recolhidos ao caixa único do Tesouro, e serão atualizados anualmente com base no IGP-DI, estabelecido pela Fundação Getúlio Vargas e, na hipótese de sua extinção, por outro índice que vier a ser utilizado para a mesma finalidade.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º. O órgão competente que autuar pessoa física ou jurídica por infração às disposições desta lei representará perante a autoridade policial objetivando a apuração das infrações criminais relacionadas com o transporte clandestino de passageiros, tipificadas no Código Penal.\n§ 1º. Constatado que pessoa física ou jurídica realizou ou realiza transporte clandestino de passageiros o policial militar que estiver acompanhando os fiscais do órgão previsto no \"caput\" deste artigo adotará as providências legais de que trata o art. 301 e seguintes do código de processo penal.\n§ 2º. O órgão competente que obtiver provas e/ou indícios de provas de que determinada pessoa física ou jurídica está praticando transporte clandestino de passageiros nos termos das disposições desta Lei Complementar representará perante à autoridade policial objetivando a apuração das infrações criminais relacionadas com o transporte clandestino de passageiros tipificadas no Código Penal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º. VETADO.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º. Na área da Rede Metropolitana de Transportes Coletivos, instituída pelo art. 1º, § 3º, da Lei Complementar nº 27, de 30 de dezembro de 1999, com a redação dada pela Lei Complementar nº 34, de 03 de outubro de 2001, os órgãos competentes para a aplicação desta Lei Complementar são os seguintes:\nI - a Companhia Metropolitana de Transportes Coletivos - CMTC, instituída pelo art. 9º da Lei Complementar nº 27, de 30 de dezembro de 1999, com a redação dada pela Lei Complementar nº 34, de 03 de outubro de 2001;\nII - os órgãos de trânsito e transporte dos municípios, integrantes da Rede Metropolitana de Transportes Coletivos referida neste artigo, em caráter supletivo;\nIII - a Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos - AGR, nos termos da fiscalização supletiva prevista no art. 9º, § 7º, da Lei Complementar nº 27, de 30 de dezembro de 1999, com a redação dada pela Lei Complementar nº 34, de 03 de outubro de 2001.\nParágrafo único. Até que seja legalmente constituída e definitivamente instalada, a CMTC será substituída pelo Grupo Executivo de Gestão da Rede Metropolitana de Transportes Coletivos - GETRANS, criado por força do disposto no art. 6º da Lei Complementar nº 34, de 03 de outubro de 2001.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º. Constatado que pessoa física ou jurídica realizou transporte clandestino de passageiros, com o consequente prejuízo para a Fazenda Pública, os órgãos referidos nos arts. 7º e 8º desta Lei Complementar instaurarão o respectivo processo administrativo contra o infrator e farão representação ao Ministério Público competente, nos temos do art. 2º do Decreto-Lei Federal nº 3.240, de 08 de maio de 1941, para as providências estipuladas neste diploma legal.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O Departamento Estadual de Trânsito de Goiás - DETRAN-Go somente concederá o registro, o licenciamento e o respectivo emplacamento de característica comercial dos veículos de aluguel, destinados ao transporte individual ou coletivo de passageiros de linhas regulares ou empregadas em qualquer serviço remunerado, se a pessoa física ou jurídica interessada apresentar autorização emitida pela Agência Nacional de Transportes Terrestres - ANTT, se transporte interestadual ou internacional; pela AGR, se transporte intermunicipal; pela CMTC, se transporte metropolitano e pelo órgão municipal competente, se transporte municipal, nos termos do art. 135 do Código de Trânsito Brasileiro, instituído pela Lei federal nº 9.503, de 23 de setembro de 1997.\nParágrafo único. O descumprimento do disposto no \"caput\" deste artigo acarretará à pessoa física ou jurídica, infratora as sanções previstas no art. 3º desta Lei Complementar.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Os condutores de veículos de que trata o art. 10 ficam obrigados a apresentar a AGR a certidão negativa exigida pelo art. 329 do Código de Trânsito Brasileiro, instituído pela Lei federal nº 9.503, de 23 de setembro de 1997.\nParágrafo único. O descumprimento do disposto no \"caput\" deste artigo acarretará à pessoa, física ou jurídica, infratora as sanções previstas no art. 3º desta Lei Complementar.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 19 de maio de 2003, 115º da República.\nALCIDES RODRIGUES FILHO\nWalter José Rodrigues\nJosé Carlos Siqueira\nCarlos Maranhão Gomes de Sá\n(D.O. de 22-05-2003)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-114",
+   "short": "LC 114/2015",
+   "title": "Lei Complementar nº 114, de 2015 (Introduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101101",
+   "first_law": "lc-2015-114",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-05-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101101",
+     "sha256": "9475eb77bd3ac298d9a9f69048a8a7e4d8827cce9bed069164644502c7d84678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 114, DE 19 DE MAIO DE 2015\nIntroduz alteração na Lei Complementar nº 77, de 22 de janeiro de 2010.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 77, de 22 de janeiro de 2010, passa a vigorar com o acréscimo do dispositivo que se segue:\n\"Art. 151-A. O provento da aposentadoria proporcional será integralizado quando, na inatividade, o segurado com direito a paridade, amparado pela legislação pertinente, editada até o advento da Emenda Constitucional nº 41/03, for acometido de qualquer das doenças especificadas no art. 45 desta Lei Complementar\". (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, ficando convalidados os atos de integralização de provento de aposentadoria proporcional praticados, no âmbito do Poder Executivo, a partir de 12 de junho de 2012, em consonância com as disposições do art. 151-A, acrescentado pelo art. 1º à Lei Complementar nº 77, de 22 de janeiro de 2010.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 19 de maio de 2015, 127º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. 22-05-2015)\n"
       }
      }
     }
@@ -1032,6 +2033,43 @@
    ]
   },
   {
+   "slug": "lc-2012-094",
+   "short": "LC 94/2012",
+   "title": "Lei Complementar nº 94, de 2012 (Introduz alterações na Lei Complementar nº 58, de 04 de julho de 2006.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101081",
+   "first_law": "lc-2012-094",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-09-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101081",
+     "sha256": "941ae13308821d37aa5edd209fe334daa454a2788bf2a6418782ce49d99f7fe8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 94, DE 19 DE SETEMBRO DE 2012.\nIntroduz alterações na Lei Complementar nº 58, de 04 de julho de 2006.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 56 da Lei Complementar nº 58, de 04 de julho de 2006, com modificações posteriores, passa a vigorar com as seguintes alterações:\n\"Art. 56. (...)\nI - Revogado;\nII - Revogado;\nIII - 50% (cinquenta por cento) serão destinados, equitativamente, aos Procuradores do Estado, ativos e inativos, na forma que dispuser o regulamento;\nIV - 50% (cinquenta por cento) são mantidos como receita do Tesouro Estadual, a título de compensação dos efeitos permanentes resultantes do impacto financeiro decorrente da Lei nº 16.553, de 20 de maio de 2009.\n§ 1º Revogado.\n(...)\" NR\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São revogados o inciso II e o § 1º do art. 56 da Lei Complementar nº 58, de 04 de julho de 2006.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 19 de setembro de 2012, 124º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 20-09-2012) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-1989-001",
    "short": "LC 1/1989",
    "title": "Lei Complementar nº 1, de 1989 (Institui o Sistema Estadual de Ciência e Tecnologia de Goiás - SECT-GO e dá outras providências.)",
@@ -1093,6 +2131,38 @@
        "label": "Art. 2º",
        "kind": "article",
        "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 20 de fevereiro de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-086",
+   "short": "LC 86/2011",
+   "title": "Lei Complementar nº 86, de 2011 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as Diretrizes e Bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101073",
+   "first_law": "lc-2011-086",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-06-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101073",
+     "sha256": "ea77c3066f2227409daf3e5586878c5d6298a78a057d48f65ab30c0b1eac02ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 86, DE 20 DE JUNHO DE 2011.\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as Diretrizes e Bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 156, § 3º, da Constituição Estadual, aprova e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar com as seguintes alterações:\n\"Art. 14. ..................................................................................................\nParágrafo único. .....................................................................................\nd) destinação de, pelo menos, um terço da carga horária dos professores, para a realização de atividades pedagógicas de atividades extra-salas, tais como: estudos, planejamento e avaliação.\" (NR)\n\"Art. 34. A relação adequada entre o número de alunos e o professor, nas redes pública e privada, deve levar em conta as dimensões físicas das salas de aula, as condições materiais dos estabelecimentos de ensino, as necessidades pedagógicas de ensino e aprendizagem, visando à melhoria da qualidade do ensino e, também, o máximo de:\n§ 4º A fim de implantar o requisito constante do § 3º deste artigo os estabelecimentos de ensino terão 3 (três) anos de prazo para se adequarem.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 20 de junho de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nThiago Mello Peixoto da Silveira\n(D.O. de 27-06-2011) Suplemento\n"
       }
      }
     }
@@ -1284,6 +2354,120 @@
    ]
   },
   {
+   "slug": "lc-2017-136",
+   "short": "LC 136/2017",
+   "title": "Lei Complementar nº 136, de 2017",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101123",
+   "first_law": "lc-2017-136",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101123",
+     "sha256": "4d43b1dbe793e9031ef19e0999030256e1e5aa215c2b4513da8da35802ef99b7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 136, DE 20 DEZEMBRO DE 2017\nDispõe sobre a aplicação da alínea \"b\" do inciso II do § 2° do art. 101 do Ato das Disposições Constitucionais Transitórias da Constituição Federal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual , decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1º Esta Lei dispõe sobre a aplicação da alínea \"b\" do inciso II do § 2° do art. 101 do Ato das Disposições Constitucionais Transitórias da Constituição Federal, em consonância com as demais alterações nele introduzidas pela Emenda Constitucional federal n° 94, de 15 de dezembro de 2016, bem como sobre a transferência de depósitos judiciais exclusivamente para o pagamento de precatórios devidos pelo Estado de Goiás e seus Municípios vencidos até a data de 25 de março de 2015, definindo em seu bojo os recursos que deverão constituir o Fundo Garantidor de tais depósitos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Somente os entes inseridos no regime especial previsto no art. 101 do Ato das Disposições Constitucionais Transitórias da Constituição Federal poderão requerer a transferência de depósitos judiciais para o pagamento de precatórios.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA UTILIZAÇÃO DOS DEPÓSITOS JUDICIAIS\nArt. 3° Fica autorizada a transferência de até 20% (vinte por cento) do saldo de depósitos judiciais existentes na data do início da vigência desta Lei, para o pagamento de débitos de precatórios, divididos da seguinte forma:\nI - 10% (dez por cento) ao Estado de Goiás;\nII - 10% (dez por cento) a seus respectivos Municípios.\n§ 1° Ficam excluídos da base de cálculo prevista no caput deste artigo os depósitos judiciais:\nI - vinculados a processos que tenham natureza alimentícia, que tramitem em varas de família e criminais, e que se refiram ao cumprimento de sentença e execução de títulos extrajudiciais;\nII - efetuados em processos judiciais em que outras entidades públicas sejam parte (inciso I do § 2° do art. 101 do ADCT);\nIII - realizados para o pagamento de obrigações de pequeno valor - RPV.\n§ 2º As Instituições Financeiras efetuarão a transferência de que trata o caput deste artigo, diretamente para a conta especial de pagamento de precatórios, mediante prévia autorização do Tribunal de Justiça.\n§ 3° Até 50% (cinquenta por cento) dos recursos obtidos por meio de levantamentos autorizados na forma desta Lei, por opção do Estado, conforme disposto pela Lei n° 17.034/2010, e por seus Municípios, por ato do respectivo Poder Executivo, observada a ordem de preferência dos credores, poderão ser destinados ao pagamento de precatórios mediante acordos diretos, com redução máxima de 40% (quarenta por cento) do valor do crédito atualizado e posterior homologação judicial, desde que em relação ao crédito não penda recurso ou defesa judicial e que sejam observados os requisitos definidos na regulamentação editada pelo ente federado, nos termos do art. 102, parágrafo único, do Ato das Disposições Constitucionais Transitórias.\n§ 4° Na impossibilidade de identificação dos depósitos de que trata o § 1°, o percentual tratado no caput deste artigo será reduzido para 15% (quinze por cento), destinando-se a metade ao Estado de Goiás e o restante em partes iguais a seus respectivos Municípios.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Serão criadas contas gráficas vinculadas a cada ente para o controle dos valores transferidos para o pagamento de precatórios e acompanhamento do percentual máximo de utilização especificado no art. 3° desta Lei Complementar.\nParágrafo único. Na conta gráfica serão lançados os valores transferidos para o pagamento de precatórios.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO FUNDO GARANTIDOR\nArt. 5° O montante de depósitos judiciais não transferidos para o pagamento de precatórios e os que forem efetuados após a transferência prevista no caput do art. 3° desta Lei, constituirão o Fundo Garantidor que fica instituído sob o gerenciamento do Tribunal de Justiça e a administração das Instituições Financeiras.\nParágrafo único. As contas do Sistema de Depósitos Judiciais vinculadas aos processos judiciais, serão mantidas com seus saldos originais de 100% (cem por cento), acrescidos de atualização pelo rendimento da poupança.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6°",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA RECOMPOSIÇÃO DAS PERDAS DO TRIBUNAL DE JUSTIÇA\nArt. 6° O ente deverá recompor as perdas que o Tribunal de Justiça vier a sofrer em virtude da transferência de depósitos judiciais para o pagamento de precatórios, decorrentes da diminuição das receitas de aplicação financeira, conforme contrato firmado com as Instituições Financeiras.\n§ 1° A recomposição de que trata o caput deste artigo, consiste no pagamento do mesmo percentual estabelecido em contrato com as Instituições Financeiras administradoras dos depósitos judiciais, incidente sobre os valores transferidos para o pagamento de precatórios.\n§ 2° O Tribunal de Justiça calculará, mensalmente, o montante de suas perdas financeiras, realizando a apropriação do valor correspondente junto ao Fundo Garantidor, com posterior lançamento do débito na conta gráfica prevista no § 4° deste artigo.\n§ 3° A recomposição referida no caput deste artigo, constitui receita que se incorpora automaticamente ao orçamento do Tribunal de Justiça.\n§ 4° A importância correspondente à recomposição da perda financeira do Tribunal de Justiça será transferida para a conta do FUNDESP - Fundo Especial de Reaparelhamento do Poder Judiciário do Estado de Goiás.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7°",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DO REQUERIMENTO\nArt. 7° O requerimento para a transferência dos depósitos judiciais para o pagamento de precatórios, deverá ser encaminhado ao Presidente do Tribunal de Justiça e será instruído com:\nI - Termo de Compromisso firmado pelo Chefe do Poder Executivo, no qual se obriga o mesmo a:\na) recompor o Fundo Garantidor, no prazo de 72 (setenta e duas) horas após a notificação respectiva, elaborada pela Instituição Financeira, caso o percentual de utilização dos depósitos judiciais alcance importância superior a 10% (dez por cento) do saldo original dos depósitos, acrescidos pela remuneração que lhes é atribuída;\nb) recompor as perdas financeiras inerentes ao Tribunal de Justiça, conforme disposto no art. 6° desta Lei Complementar;\nc) complementar o valor destinado à quitação dos precatórios a serem pagos no período de referência, na hipótese de insuficiência dos valores transferidos;\nII - plano para devolução dos valores dos depósitos judiciais transferidos para pagamento de precatórios, em parcelas mensais e consecutivas, em prazo não superior a 10 (dez) anos, iniciando-se após o término do Regime Especial do qual a entidade devedora é optante, corrigidos com remuneração aplicada aos depósitos judiciais;\nIII - contrato firmado pelo chefe do Poder Executivo e as Instituições Financeiras.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8°",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DA MANUTENÇÃO DO FUNDO GARANTIDOR\nArt. 8° Na hipótese de se acumularem os valores transferidos para o pagamento de precatórios, resultando em saldo devedor corrigido superior ao percentual de que trata o § 4° do art. 3° desta Lei ou a 10% (dez por cento) da soma dos montantes originais dos depósitos judiciais atualizados pelo rendimento dos depósitos de poupança, a Instituição Financeira notificará o ente para que, no prazo de 72 (setenta e duas) horas, recomponha o Fundo Garantidor, no montante suficiente para restabelecer o percentual legal mínimo.\n§ 1° A falta de recomposição do Fundo Garantidor nos moldes previsto no caput deste artigo, acarretará na suspensão da transferência de depósitos judiciais para o ente, até a efetiva regularização.\n§ 2° Decorrido o prazo de 72 (setenta e duas) horas sem a recomposição do Fundo Garantidor, o Presidente do Tribunal de Justiça determinará o sequestro nas contas do ente, em montante suficiente para esse fim.\n§ 3° O descumprimento da obrigação de recomposição dos valores do Fundo Garantidor por 03 (três) vezes, consecutivas ou alternadas, excluirá o ente da sistemática desta Lei, impedindo o mesmo de receber novas transferências de depósitos judiciais e aplicando-se ao seu caso, subsidiariamente, a Lei Complementar federal n° 151, de 5 de agosto de 2015.\n§ 4º O valor pago pelo ente em razão do disposto no caput deste artigo, deverá ser considerado no plano de devolução de que trata o inciso II do art. 7° desta Lei Complementar.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DISPOSIÇÕES GERAIS\nArt. 9º O Tribunal de Justiça deverá comunicar ao Tribunal de Contas do Estado e ao Chefe do Poder Executivo, todos os depósitos judiciais convertidos em pagamento de precatórios, para fins de fiscalização e controle dos respectivos registros.\nParágrafo único. O Tribunal de Justiça encaminhará à Secretaria de Estado da Fazenda e à Procuradoria-Geral do Estado, relatórios constando os valores destinados pela instituição financeira para pagamentos de precatórios, para fins dos respectivos registros e controles contábeis e financeiros.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. No caso do art. 3°, inciso II, os recursos serão destinados aos Municípios conforme a região judiciária onde estão os mesmos depositados.\nParágrafo único. Havendo mais de um Município na mesma região judiciária, os recursos serão rateados entre os entes concorrentes, proporcionalmente às respectivas populações, tendo como referência o último levantamento censitário ou a mais recente estimativa populacional do Instituto Brasileiro de Geografia e Estatística - IBGE.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A responsabilidade pelo ressarcimento de danos causados às partes envolvidas nos processos judiciais, por insuficiência de recursos para honrar o cumprimento de alvará judicial, será exclusiva do ente beneficiado pela transferência de depósitos judiciais nos termos desta Lei, ficando o Poder Judiciário isento de qualquer obrigação ou responsabilidade neste sentido.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 20 de dezembro de 2017, 129º da República.\n(D.O. de 21-12-2017)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-080",
+   "short": "LC 80/2011",
+   "title": "Lei Complementar nº 80, de 2011",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101067",
+   "first_law": "lc-2011-080",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-01-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101067",
+     "sha256": "b31256817a951a19820de0064e334daabfa757233eb64e69b28edd3250151687",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 80, DE 21 DE JANEIRO DE 2011.\nRevigora, até 31 de dezembro de 2011, a prorrogação do prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64/2008.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revigorado, até 31 de dezembro de 2011, o prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64, de 16 de setembro de 2008, estabelecido no art. 1º da Lei Complementar nº 79, de 02 de setembro de 2010.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo, porém, os seus efeitos a 1º de janeiro de 2011.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 21 de janeiro de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O de 24-01-2011) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2022-170",
    "short": "LC 170/2022",
    "title": "Lei Complementar nº 170, de 2022",
@@ -1442,6 +2626,164 @@
        "label": "Art. 2º",
        "kind": "article",
        "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1995-018",
+   "short": "LC 18/1995",
+   "title": "Lei Complementar nº 18, de 1995 (Altera a Lei Complementar nº 2, de 16 de janeiro de 1990, alterada pela Lei Complementar nº 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101032",
+   "first_law": "lc-1995-018",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1995-09-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101032",
+     "sha256": "f37dbb4ec3aa21ced8a79fae7e9faca7a27847d7552d98aeed41bc193dfbc154",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 18, DE 21 DE SETEMBRO DE 1995.\nAltera a Lei Complementar no 2, de 16 de janeiro de 1990, alterada pela Lei Complementar no 4, de 17 de julho de 1990.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O inciso II do § 1o do art. 7o da Lei Complementar no 2, de julho de 1990, passa a vigorar com a seguinte redação:\n\"Art. 7o .........................................................................................\n§ 1o ............................................................................................\nII - A cédula oficial ou o meio eletrônico de votos conterá as palavras \"sim\" e \"não\" para que o votante, optando por uma delas, se manifeste pela aprovação ou rejeição da criação do município ou da transferência da área\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o VETADO.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta lei complementar entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4o",
+       "kind": "article",
+       "text": "Art. 4o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 21 de setembro de 1995, 107o da República.\nLUIZ ALBERTO MAGUITO VILELA\nVirmondes Borges Cruvinel\n(DO. de 27-9-95)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-075",
+   "short": "LC 75/2009",
+   "title": "Lei Complementar nº 75, de 2009 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás, e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101061",
+   "first_law": "lc-2009-075",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101061",
+     "sha256": "dbf400a80f7ab5c7b5b4be9a4cfcbcc0bd0d3dddc3bf4caeb62641032303b929",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 75, DE 21 DE SETEMBRO DE 2009.\nAltera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 116 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° A Lei Complementar estadual nº 25, de 06 de julho de 1998, passa a vigorar com as seguintes alterações:\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. ..................................................................\nLII - ........................................................................\nb) até o dia 15 (quinze) de dezembro de cada ano, as tabelas de férias individuais e de substituição dos membros do Ministério Público, que poderão ser alteradas no curso do exercício, se conveniente aos interesses da Instituição;\nLV - REVOGADO\nLXIII - instituir grupos especiais de atuação, observada a independência funcional e o princípio do promotor natural;\nLXIV - exercer outras atribuições compatíveis e necessárias ao desempenho de seu cargo.\" (NR)\n\"Art. 16. O Procurador-Geral de Justiça deverá apresentar ao Colégio de Procuradores de Justiça o Plano Estratégico Institucional do Ministério Público destinado a orientar a consecução de prioridades nas diversas áreas de suas atribuições.\n§ 1º O Plano Estratégico Institucional será formulado pelo Procurador-Geral de Justiça, com participação dos órgãos de administração superior, de administração, de execução e auxiliares.\n§ 2º Os prazos, os requisitos, os procedimentos de elaboração e monitoramento do Plano Estratégico Institucional e seus desdobramentos serão disciplinados em Ato do Procurador-Geral de Justiça, observando-se:\nI - duração mínima de 4 (quatro) anos;\nII - apresentação ao Colégio de Procuradores de Justiça até 6 (seis) meses antes do término do Plano Estratégico Institucional em vigor.\" (NR)\n\"Art. 18. .....................................................................\nIII - aprovar o Plano Estratégico Institucional e os Planos Gerais de Atuação, nos termos regimentais;\n...........................................................................\" (NR)\n\"Art. 24. A Corregedoria Geral do Ministério Público é o órgão da administração superior encarregado de orientar e fiscalizar as atividades funcionais e a conduta dos membros do Ministério Público, bem como de fiscalizar e avaliar os resultados das metas institucionais e atividades dos demais órgãos da administração e dos órgãos auxiliares da atividade funcional.\" (NR)\n\"Art. 28. ......................................................................\nX - ..............................................................................\nd) fiscalizar o cumprimento das metas institucionais estabelecidas pela Procuradoria Geral de Justiça, Procuradorias de Justiça, Promotorias de Justiça e Centros de Apoio Operacional, decorrentes do Plano Estratégico e seus desdobramentos;\nXIII - realizar, periodicamente, a avaliação de desempenho dos órgãos de execução.\" (NR)\n\"Art. 36. ......................................................................\nIV - encaminhar à Procuradoria Geral de Justiça sugestões para a elaboração do Plano Estratégico Institucional do Ministério Público;\nVIII - elaborar os Planos Operacionais de Atuação alinhados ao Plano Estratégico Institucional e ao Plano Geral de Atuação.\n..............................................................................\"(NR)\n\"Art. 37. O Procurador-Geral de Justiça poderá instituir, por delegação, Procuradorias de Justiça Especializadas para interpor recursos junto aos Tribunais Superiores e atuar nas matérias de suas atribuições originárias.\" (NR)\n\"Art. 40. ......................................................................\n§ 1º As Promotorias de Justiça serão integradas por Promotores de Justiça encarregados de exercer as funções institucionais do Ministério Público e tomar as medidas judiciais e extrajudiciais necessárias à consecução do Plano Estratégico Institucional e seus desdobramentos.\n§ 2º Compete às promotorias de Justiça a elaboração dos Planos Operacionais de Atuação alinhados ao Plano Estratégico Institucional e ao Plano Geral de Atuação.\n§ 3º As Promotorias de Justiça encaminharão os Planos Operacionais de Atuação à Corregedoria Geral do Ministério Público.\n§ 4º As Promotorias de Justiça apresentarão à Corregedoria Geral do Ministério Público os dados e informações relativos às atividades desenvolvidas para o cumprimento das metas estabelecidas no Plano Estratégico Institucional e seus desdobramentos.\" (NR)\n\"Art. 42. ...................................................................\nXIX - encaminhar à Procuradoria Geral de Justiça sugestões para a elaboração do Plano Estratégico Institucional e seus desdobramentos;\n..........................................................................\" (NR)\n\"Art. 44. ....................................................................\na) encaminhar à Procuradoria Geral de Justiça sugestões para a elaboração do Plano Estratégico Institucional e seus desdobramentos;\nb) definir, de acordo com o Plano Estratégico Institucional, os respectivos Planos Operacionais de Atuação e os programas de atuação integrada;\n...........................................................................\" (NR)\n\"Art. 50. Para sua atuação o Ministério Público adotará as ferramentas de gestão que englobam o planejamento, a execução, o monitoramento e o aprendizado.\n...........................................................................\" (NR)\n\"Art. 50-A. A atuação do Ministério Público será orientada pelo Plano Estratégico Institucional e seus desdobramentos, que estabelecerão as prioridades nas diversas áreas de suas atribuições legais.\n§ 1º São desdobramentos do Plano Estratégico Institucional:\nI - Plano Geral de Atuação;\nII - Plano Administrativo;\nIII - Planos Setoriais;\nIV - Planos Operacionais de Atuação;\nV - Projetos.\n§ 2º O Plano Geral de Atuação, ferramenta de planejamento de curto prazo, representa um recorte temporal das metas estabelecidas no Plano Estratégico Institucional e será definido pelo Procurador-Geral de Justiça, com participação dos órgãos de administração superior, de administração, de execução e auxiliares, bem como deverá orientar o Plano Administrativo, os Planos Setoriais e os Planos Operacionais de Atuação.\n§ 3º O Plano Administrativo, ferramenta de planejamento tático da área meio, será desdobrado do Plano Estratégico Institucional pelo Procurador-Geral de Justiça, com participação dos órgãos de administração superior, de administração, de execução e auxiliares.\n§ 4º O Plano Setorial, ferramenta de planejamento tático, será desdobrado do Plano Estratégico Institucional pelos Centros de Apoio Operacional, Corregedoria Geral do Ministério Público, Ouvidoria do Ministério Público, Escola Superior do Ministério Público e Assessoria Especial, fixando as diretrizes orientadoras à atividade operacional, com o detalhamento das ações a serem desenvolvidas.\n§ 5º O Plano Operacional de Atuação, ferramenta de planejamento da atuação finalística, será formulado pelas Procuradorias de Justiça e Promotorias de Justiça sempre alinhados ao Plano Estratégico Institucional e ao Plano Geral de atuação.\" (NR)\n\"Art. 50-B. Para a execução do Plano Estratégico Institucional e seus desdobramentos poderão ser estabelecidos programas e projetos, inclusive de atuação integrada de Procuradorias e Promotorias de Justiça.\n§ 1º Os programas de atuação integrada serão elaborados pelas Procuradorias e Promotorias de Justiça envolvidas e os respectivos Centros de Apoio Operacional, sempre observado o alinhamento com o Plano Estratégico Institucional e seus desdobramentos.\n§ 2º Os projetos especiais, observado o disposto no artigo 50-A, serão estabelecidos por ato do Procurador-Geral de Justiça em vista de alterações legislativas ou de circunstâncias emergenciais.\" (NR)\n\"Art. 50-C. O monitoramento contínuo dos indicadores estabelecidos no Plano Estratégico Institucional, no Plano Geral de Atuação, no Plano Administrativo, nos Planos Setoriais e nos Planos Operacionais de Atuação será realizado pela Procuradoria Geral de Justiça, com o auxílio da Corregedoria Geral do Ministério Público e demais órgãos de administração superior, de administração, de execução e auxiliares, mediante o envio de dados e informações.\nParágrafo único. O Procurador-Geral de Justiça apresentará ao Colégio de Procuradores de Justiça, semestralmente, relatório informativo sobre o monitoramento descrito no caput deste artigo.\" (NR)\n\"Art. 51. Os Planos Operacionais de Atuação das Promotorias de Justiça especificarão as providências judiciais e extrajudiciais necessárias à sua concretização, os responsáveis, os meios, os recursos e o prazo para sua execução.\n§ 1º Os programas de atuação integrada serão elaborados pelas Procuradorias e Promotorias de Justiça envolvidas e os respectivos Centros de Apoio Operacional, sempre observado o alinhamento com o Plano Estratégico Institucional e seus desdobramentos.\n§ 2º Os projetos especiais, observado o disposto no artigo 50-A, serão estabelecidos por ato do Procurador-Geral de Justiça em vista de alterações legislativas ou de circunstâncias emergenciais.\" (NR)\n\"Art. 103 ................................................................\n§ 3º Os membros do Ministério Público deverão apresentar requerimento dos períodos de férias individuais a serem usufruídas no ano subsequente, até o dia 31 de outubro de cada ano.\n§ 4º Caso o membro do Ministério Público não apresente requerimento no prazo descrito no § 3º, ficará a critério do Procurador-Geral de Justiça especificar o período do gozo de férias para o ano seguinte.\n§ 5º É vedado aos Procuradores de Justiça o gozo de férias no período em que estiver escalado como titular para representar o Ministério Público perante órgão do Poder Judiciário.\" (NR)\n\"Art. 164 .................................................................\n§ 1º ........................................................................\nXII - relatório de avaliação de desempenho individual, de que trata o art. 28, inciso XIII, elaborado pela Corregedoria Geral do Ministério Público, correspondente a uma análise sistemática do desempenho dos membros em função das atividades desenvolvidas, das metas estabelecidas, dos resultados alcançados e do seu potencial de desenvolvimento institucional.\" (NR)\nArt. 2º O Quadro de Distribuição das Promotorias de Justiça de Entrância Intermediária e Inicial do Ministério Público do Estado de Goiás de que trata o Anexo II da Lei Complementar nº 25, de 06 de julho de 1998, alterado pela Lei Complementar nº 65, de 18 de dezembro de 2008, passa a vigorar com as alterações previstas no Anexo II desta Lei.\nArt. 3º A fim de dotar as Promotorias de Justiça criadas por esta Lei de serviços auxiliares, de acordo com as alterações descritas no art. 2º, ficam acrescidos nos respectivos quadros os seguintes quantitativos:\nI - em 29 (vinte e nove) os cargos de Assessor de Promotoria de Justiça do Interior, constantes do Anexo IV da Lei estadual nº 13.162, de 05 de novembro de 1997, com as alterações introduzidas pela Lei estadual nº 16.184, de 27 de dezembro de 2007;\nII - em 29 (vinte e nove) os cargos de Secretário Auxiliar e 10 (dez) os cargos de Oficial de Promotoria, constantes do Anexo II da Lei estadual nº 13.162, de 05 de novembro de 1997 e alterações posteriores.\nArt. 4º A Lei nº 14.810, de 1º de julho de 2004, com a redação dada pela Lei nº 16.184, de 27 de dezembro de 2007, passa a vigorar com as seguintes alterações:\n\"Art. 38. ....................................................................\nXII - 23 (vinte e três) de Chefes de Divisão, com remuneração correspondente ao símbolo FMP-3;\nXIV - 6 (seis) de Chefes de Secretaria III, com remuneração correspondente ao símbolo FMP-3;\nXXIII - 25 (vinte e cinco) de Chefes de Seção, com remuneração correspondente ao símbolo FMP-5;\nXXIV - 40 (quarenta) de Chefes de Secretaria I, com remuneração correspondente ao símbolo FMP-5;\nXXVIII - 5 (cinco) de Coordenador Administrativo, com remuneração correspondente ao símbolo DAI-1;\nXXIX - 3 (três) de Assessor Administrativo, com remuneração equivalente ao símbolo DAI-2;\n...........................................................................\" (NR)\nArt. 5º O Anexo V da Lei Complementar nº 25, de 06 de julho de 1998, alterado pelo Anexo II da Lei Complementar nº 65, de 18 de dezembro de 2008, passa a vigorar com as alterações previstas no Anexo III desta Lei.\nArt. 6º Os Anexos I e II da Lei nº 13.162, de 05 de novembro de 1997, passam a vigorar com as alterações constantes dos Anexos IV e V desta Lei, respectivamente.\nArt. 7º Fica instituído no âmbito do Ministério Público do Estado de Goiás o \"BANCO DE HORAS\", destinado a compensar o exercício de atividades dos servidores em dias não úteis e/ou horários excepcionais, cujos critérios de instrução, procedimento e concessão serão definidos em Ato do Procurador-Geral de Justiça.\nArt. 8º Fica instituído no âmbito do Ministério Público do Estado de Goiás o \"PROGRAMA BOAS IDEIAS\", destinado a incentivar a criatividade dos membros e servidores da Instituição na produção de pesquisas e material de apoio às atividades meio e fim, bem como a integração ao Planejamento Estratégico e seus desdobramentos, cuja regulamentação se dará por Ato do Procurador-Geral de Justiça.\nArt. 9º Fica incluída na tabela de tarefas típicas, descritas no Anexo V da Lei nº 13.162, de 05 de novembro de 1997, com redação dada pela Lei nº 16.184, de 27 de dezembro de 2007, o quadro constante do Anexo I, desta Lei.\nArt. 10. O Colégio de Procuradores de Justiça, no prazo de 180 (cento e oitenta) dias contados da vigência desta Lei, fixará, por Resolução, as atribuições das Procuradorias de Justiça nas matérias de interesse difusos e coletivos.\nArt. 11. As despesas decorrentes desta Lei Complementar correrão à conta dos recursos consignados no Orçamento Geral do Estado, nas rubricas destinadas ao Ministério Público, inclusive créditos especiais e suplementares, obedecidos os preceitos da Lei Complementar nº 101, de 04 de maio de 2000, bem como demais limites aplicáveis.\nParágrafo único. Para a execução, serão observados, quanto às despesas, os seguintes limites:\na) 25 % (vinte e cinco por cento) no exercício de 2009;\nb) 25 % (vinte e cinco por cento) no exercício de 2010;\nc) 50 % (cinquenta por cento) no exercício de 2011.\nArt. 12. Esta Lei entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 21 de setembro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nJorcelino José Braga\n(D.O. de 23-09-2009)\nANEXO I\n\"ANEXO V\nTABELA DAS TAREFAS TÍPICAS E PRÉ-REQUISITOS\n01\nGrupo Ocupacional\nCargos de Nível Médio\n02\nCLASSIFICAÇÃO\nDenominação\nCategoria Funcional\nClasse\nReferência\nAssistente do Ministério Público\nTécnico em Arquivo\nA, B, C, D e E\nI\n03\nPré-requisitos\n- Formação de nível médio completa (2º grau), com os requisitos do art. 1º, incisos III e V, da Lei federal nº 6.546, de 04 de julho de 1978.\n- Noções básicas de informática.\n- Conhecimento das funções e organização do Ministério Público.\n- Ser aprovado em concurso público.\n04\nDescrição Sumária das Tarefas\nAuxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da administração superior do Ministério Público; receber, registrar e distribuir documentos; controlar a classificação de documentos; arranjar, descrever e executar as demais tarefas necessárias à guarda e conservação dos documentos, assim como prestar informações relativas aos mesmos; preparar documentos de arquivos para microfilmagem; conservar os microfilmes para utilização; preparar documentos de arquivos para processamento eletrônico de dados; preparar documentos para digitalização; executar tarefas administrativas para gestão da Procuradoria Geral de Justiça, tais como recepcionar, acompanhar e encaminhar a documentação recebida e expedida pelo Ministério Público, assegurando eficaz gestão documental; operar equipamentos diversos necessários ao desempenho de suas tarefas; gerir as rotinas burocráticas da unidade ou órgão de arquivo; propor ao setor competente a criação ou aperfeiçoamento de rotinas para arquivamento da documentação da Instituição; auxiliar na gestão da documentação de todas as unidades administrativas do Ministério Público; zelar pela conservação e guarda das ferramentas e equipamentos utilizados; exercer outras atividades afins; cumprir com as demais ordens emanadas da chefia imediata.\n01\nGrupo Ocupacional\nCargos de Nível Básico\n02\nCLASSIFICAÇÃO\nDenominação\nCategoria Funcional\nClasse\nReferência\nAuxiliar do Ministério Público\nAuxiliar de Segurança\nA, B, C, D e E\nI\n03\nPré-requisitos\n- Formação de nível básico completa.\n- Noções básicas de informática.\n- Conhecimento das funções e organização do Ministério Público.\n- Ser aprovado em concurso público.\n04\nDescrição Sumária das Tarefas\nAuxiliar no planejamento, execução e avaliação de planos, projetos, programas e pesquisas da administração superior do Ministério Público; receber, registrar e distribuir documentos referentes à sua área de atuação; auxiliar no controle de movimentação e permanência de pessoas nas instalações do Ministério Público; atender ao público, prestando as informações necessárias; comunicar à respectiva chefia irregularidades pertinentes à segurança das quais tomar conhecimento; auxiliar na vigilância das instalações anexas e externas das sedes do Ministério Público; executar as tarefas atinentes à segurança física das instalações e de dignitários no âmbito do Ministério Público; redigir e digitar; auxiliar na execução de tarefas administrativas relativas à área de segurança do Ministério Público; operar equipamentos diversos necessários ao desempenho de suas tarefas; descrever e executar a classificação legal de documentos da área de segurança; zelar pela conservação e guarda das ferramentas e equipamentos utilizados; exercer outras atividades afins; cumprir com as demais ordens emanadas da chefia imediata.\n\" (NR)\nANEXO II\n\"ANEXO II\nPROMOTORIAS DE JUSTIÇA DE ENTRÂNCIA INTERMEDIÁRIA\nSEDE\nQUANTIDADE\nSEDE\nQUANTIDADE\nANÁPOLIS\n20\nAPARECIDA DE GOIÂNIA\n18\nMINEIROS\n05\nCALDAS NOVAS\n05\nMINAÇU\n03\nNIQUELÂNDIA\n03\nGOIANÉSIA\n04\nQUIRINÓPOLIS\n04\nRIO VERDE\n12\nIPAMERI\n03\nIPORÁ\n03\nTRINDADE\n05\nITUMBIARA\n08\nJARAGUÁ\n03\nJATAÍ\n07\nTOTAL\n195\nPROMOTORIAS DE JUSTIÇA DE ENTRÂNCIA INICIAL\nSEDE\nQUANTIDADE\nSEDE\nQUANTIDADE\nALEXÂNIA\n02\nNERÓPOLIS\n02\nGOIANIRA\n03\nTOTAL\n106\n\" (NR)\nANEXO III\n\"ANEXO V\nENCARGOS GRATIFICADOS\nFUNÇÃO\nSÍMBOLO\nQUANTITATIVO\nCoordenador de Promotorias de Justiça\nFMP-A\n38\nCoordenador Administrativo\nFMP-2\n05\n\"(NR)\nANEXO IV\n\"ANEXO I\nTABELA DOS CARGOS DE PROVIMENTO EFETIVO DE NÍVEL SUPERIOR\n\"Grupo Ocupacional\nCategoria Funcional - Área de Atuação\nClasses\nReferência\nQuantitativo\nNível Superior\nTécnico do Ministério Público\nTécnico Ambiental\nEngenharia Agronômica\nA\nI\n03\nEngenharia Ambiental\nB\nI\n03\nBiologia\nC\nI\nGeógrafo\nD\nI\nEngenharia Sanitária\nE\nI\n02\n\"(NR)\nANEXO V\n\"ANEXO II\nTABELA DOS CARGOS DE PROVIMENTO EFETIVO DE NÍVEL MÉDIO\n\"Grupo Ocupacional\nCategoria Funcional\nClasses\nReferência\nQuantitativo\nNível Médio\nAssistente do Ministério Público\nTécnico em Arquivo\nA, B,C, D e E\nI\n2\n\"(NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-124",
+   "short": "LC 124/2016",
+   "title": "Lei Complementar nº 124, de 2016 (Altera as Leis Complementares nºs 66, de 27 de janeiro de 2009, 77, de 22 de janeiro de 2010, e 118, de 06 de novembro de 2015, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101111",
+   "first_law": "lc-2016-124",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-10-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101111",
+     "sha256": "7c14b4ccbe5c850a67133d1b822755105ce5dfe71e078cc99c12f9d46ce37bd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 124, DE 21 DE OUTUBRO DE 2016\nAltera as Leis Complementares nºs 66, de 27 de janeiro de 2009, 77, de 22 de janeiro de 2010, e 118, de 06 de novembro de 2015, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os arts. 26 e 36 da Lei Complementar nº 66, de 27 de janeiro de 2009, passam a vigorar com as alterações que se seguem:\n\"Art. 26. ......................................................................................\n§ 3º.............................................................................................\nV - das contribuições previdenciárias em atraso, dos juros, da atualização monetária e das multas por mora no pagamento de quantias devidas à previdência estadual, em relação aos beneficiários previstos no inciso III do caput;\n....................................................................................................\"(NR)\n\"Art. 36. .............................................................................................\nParágrafo único. O setor jurídico da GOIASPREV promoverá a defesa administrativa e judicial de seus diretores, mesmo após o término dos respectivos mandatos, bem como dos ocupantes de cargos da estrutura complementar, quando forem demandados em razão de atos praticados no exercício de suas atribuições constitucionais, legais ou regulamentares, no interesse público, especialmente da GOIASPREV, podendo, ainda, quanto aos mesmos atos, impetrar habeas corpus e mandado de segurança em defesa de tais agentes públicos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os dispositivos a seguir especificados da Lei Complementar nº 77, de 22 de janeiro de 2010, ficam assim alterados:\n\"Art. 15. .................................................................................................\nV - para os dependentes a que se refere o art. 14, incisos V a IX, no que couber:\na) pela cessação da dependência econômica, devido:\n1. revogado;\n2. a recebimento de outro benefício previdenciário, em qualquer regime de previdência, observado o disposto no art. 91 desta Lei Complementar;\n3. à emancipação, nos termos da lei civil;\n4. a casamento ou união estável;\nb) pela cessação da invalidez;\nVI - para os dependentes em geral: pelo falecimento.\" (NR)\n\"Art. 17. Para o recadastramento, o beneficiário deverá comparecer pessoalmente em lugar predeterminado pela GOIASPREV, entregando fotocópias dos seguintes documentos:\nI - Registro Geral -RG-, Carteira de Trabalho, Passaporte ou Carteira Profissional, com validade em todo o território nacional, ressalvada a implantação de sistema de cadastramento digital;\nII - comprovante de endereço atualizado, com CEP válido;\nIII - Certidão de Nascimento atualizada para filho e irmão do segurado, mesmo que inválidos, e para enteado ou menor tutelado do segurado;\nIV - Certidão de Casamento ou de Nascimento atualizada, com inteiro teor, para viúvo(a), companheiro(a) ou ex-cônjuge, ex-companheiro(a) ou cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, de acordo com seu estado civil.\n§ 1º Para o recadastramento dos aposentados serão exigidos apenas um dos documentos a que se refere o inciso I e o constante do inciso II, e para os pensionistas, os de todos os incisos, conforme sua qualidade.\n§ 2º Os documentos relacionados nos incisos I a IV deste artigo deverão ser apresentados em original e dentro do prazo de validade, quando for o caso.\n§ 3º Considera-se atualizado, para efeito do disposto nos incisos II a IV deste artigo, o comprovante ou a certidão emitidos nos últimos três meses anteriores à data do protocolo ou do recadastramento. \" (NR)\n\"Art. 62. A concessão de benefícios previdenciários aos segurados do RPPS e do RPPM independe de carência, ressalvada a observância de cumprimento dos tempos mínimos previstos para a concessão das aposentadorias voluntárias e o disposto no art. 66 desta Lei Complementar.\" (NR)\n\"Art. 63. ................................................................................................\n§ 10. Revogado.\n§ 11. Revogado.\n...................................................................................................\" (NR)\n\"Art. 63-A. Para o cálculo do valor inicial dos proventos proporcionais ao tempo de contribuição pela última remuneração que serviu de base para a contribuição previdenciária, será utilizada fração cujo numerador será o total desse tempo, em dias, e o denominador o tempo necessário, também em dias, à respectiva aposentadoria voluntária com proventos integrais prevista pela regra do art. 51, na proporção de 1/12.775 dias para o homem e de 1/10.950 dias para a mulher, não se aplicando a redução no tempo de idade e contribuição relativa ao professor.\"(NR)\n\"Art. 65. ....................................................................................................\nIV - o filho solteiro, não emancipado e inválido em caráter permanente para o exercício de qualquer atividade laboral, desde que a invalidez tenha ocorrido na menoridade previdenciária, devidamente atestada por laudo da perícia médica da junta médica previdenciária da GOIASPREV ou por ela designada;\nIX - o irmão solteiro que comprove dependência econômica em relação ao instituidor da pensão e atenda a um dos seguintes requisitos:\na) seja menor de 18 (dezoito) anos;\nb) seja inválido permanente para qualquer atividade laboral, desde que a invalidez tenha ocorrido na menoridade civil, devidamente atestada por laudo da perícia médica da junta médica previdenciária da GOIASPREV ou por ela designada.\n.......................................................................................................\" (NR)\n\"Art. 66. A parte individual da pensão extingue-se:\nI - para o cônjuge, companheiro(a), o ex-cônjuge, ex-companheiro(a) ou o cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido:\na) por novo casamento ou estabelecimento de qualquer outra nova união estável;\nb) com o decurso de 04 (quatro) meses do óbito, se ele ocorrer sem que o segurado tenha vertido 18 (dezoito) contribuições mensais ou o casamento ou a união estável tiver sido iniciados em menos de 02 (dois) anos antes do óbito do segurado;\nc) transcorridos os seguintes períodos, estabelecidos de acordo com a idade do pensionista na data de óbito do segurado, depois de vertidas 18 (dezoito) contribuições mensais e possua, no mínimo, 02 (dois) anos de casamento ou de união estável:\n1) 03 (três) anos, com menos de 21 (vinte e um) anos de idade;\n2) 06 (seis) anos, entre 21 (vinte e um) e 26 (vinte e seis) anos de idade;\n3) 10 (dez) anos, entre 27 (vinte e sete) e 29 (vinte e nove) anos de idade;\n4) 15 (quinze) anos, entre 30 (trinta) e 40 (quarenta) anos de idade;\n5) 20 (vinte) anos, entre 41 (quarenta e um) e 43 (quarenta e três) anos de idade;\n6) vitalícia, com 44 (quarenta e quatro) ou mais anos de idade.\nV - para os dependentes a que se refere o art. 65, incisos V a IX, no que couber:\na) pela cessação da dependência econômica, devido:\n1. revogado;\n2. a recebimento de outro benefício previdenciário, em qualquer regime de previdência, observado o disposto no art. 91 desta Lei Complementar;\n3. à emancipação, nos termos da lei civil;\n4. a casamento ou união estável;\nb) pela cessação da invalidez;\nVI - para os dependentes em geral: pelo falecimento;\n§ 3º A reversão de cota-parte da pensão extinta somente ocorrerá mediante solicitação formal do pensionista.\n§ 4º Serão aplicados os prazos previstos na alínea \"c\" do inciso I deste artigo, se o óbito do segurado decorrer de acidente de qualquer natureza, de doença profissional ou do trabalho, independentemente do recolhimento de 18 (dezoito) contribuições mensais ou comprovação de 02 (dois) anos de casamento ou união estável.\n§ 5º Sendo o cônjuge, o(a) companheiro(a) ou o ex-cônjuge, o(a) ex-companheiro(a) ou o cônjuge separado de fato, com direito a recebimento de pensão alimentícia do segurado falecido, declarado inválido permanentemente para qualquer atividade laboral, devidamente atestada por laudo da perícia médica da junta médica previdenciária da GOIASPREV ou por ela designada, não serão aplicados à concessão do benefício de pensão por morte os prazos constantes das alíneas \"b\" e \"c\" do inciso I deste artigo, exceto se cessar a invalidez.\n§ 6º A critério da Administração, o beneficiário de pensão cuja concessão ou preservação seja motivada por invalidez poderá ser convocado a qualquer momento para avaliação das referidas condições.\n§ 7º O tempo de contribuição a Regime Próprio de Previdência Social (RPPS), a Regime Próprio de Previdência dos Militares (RPPM) ou ao Regime Geral de Previdência Social (RGPS) será considerado na contagem das 18 (dezoito) contribuições mensais referidas nas alíneas \"b\" e \"c\" do inciso I deste artigo.\"(NR)\n\"Art. 67. ....................................................................................................\n§ 7º Em observância ao caráter alimentar da pensão já recebida por pensionista primitivo, a inclusão de novo pensionista obedecerá ao disposto no inciso IV do § 4º deste artigo e no § 1º do art. 112 desta Lei Complementar, quanto aos efeitos financeiros, vedado o pagamento de diferença retroativa a essa data, nos termos do § 7º de seu art. 100.\n§ 8º Em razão de demanda judicial para inclusão de novo pensionista, sendo a GOIASPREV devidamente citada ou comunicada pelo órgão de representação judicial do Estado de Goiás quando este for parte, deverá ela imediatamente providenciar a reserva de cota em favor do possível beneficiário, com observância do disposto no § 5º deste artigo, com vistas a garantir futuro pagamento do benefício, em caso de êxito do demandante, resguardada a aplicação, de ofício, do § 1º do art. 66 desta Lei Complementar, em caso de sucumbência ou extinção do processo sem resolução do mérito, com efeito retroativo à efetivação da reserva.\"(NR)\n\"Art. 89. ...................................................................................................\n§ 7º ...........................................................................................................\nIII - com o Cadastro Nacional de Informações Sociais -CNIS- emitido pelo Instituto Nacional do Seguro Social -INSS-, somente no caso de o segurado ter utilizado, no cômputo do tempo de contribuição para sua aposentadoria, período de vinculação ao Regime Geral de Previdência Social -RGPS-.\n.......................................................................................................\" (NR)\n\"Art. 100. Para concessão do benefício de pensão por morte aos dependentes do segurado falecido, a comprovação da dependência econômica e da união estável poderá ser realizada administrativamente, obedecendo aos requisitos legalmente exigidos, sem prejuízo de apreciação judicial, observando-se, no que couber, as disposições constantes dos parágrafos deste artigo, além de outras previstas nesta Lei Complementar.\n§ 1º A dependência econômica do cônjuge, do(a) filho(a) e do(a) companheiro(a), este(a) último(a) desde que atendidos os requisitos dos §§ 12, 13 e 16, é presumida e a dos demais dependentes deve ser comprovada nos termos do § 14 deste artigo.\n§ 12. Considera-se companheira ou companheiro, para efeito do disposto no art. 65, inciso II, desta Lei Complementar, a pessoa que, sem ser casada ou legalmente impedida, mantenha com o filiado união estável, a ser comprovada pela apresentação dos seguintes documentos, com observância do disposto no § 16 deste artigo:\n§ 16. A GOIASPREV, diante da análise e valoração da documentação relacionada nos §§ 12 a 15, considerando-a insuficiente para comprovação da união estável ou da dependência econômica, poderá solicitar que estas sejam declaradas judicialmente, ressalvando que o pedido inicial de concessão do benefício instruído com decisão judicial transitada em julgado, em que houve a participação do Estado de Goiás ou da GOIASPREV na demanda, dispensará a adoção dos procedimentos constantes nos mencionados parágrafos.\n§ 17. Perdem o direito à pensão por morte o cônjuge, o companheiro ou a companheira, se comprovada, a qualquer tempo, simulação ou fraude no casamento ou na união estável, ou a formalização deles com o fim exclusivo de constituir benefício previdenciário, apuradas em processo judicial no qual será assegurado o direito ao contraditório e à ampla defesa.\n§ 18. Após a concessão da pensão por morte ao cônjuge sobrevivente, sendo apresentadas provas de que havia separação de fato na ocasião do óbito do segurado, a GOIASPREV deverá realizar auditoria previdenciária, garantido o contraditório e a ampla defesa, objetivando o cancelamento do benefício previdenciário concedido, caso fique comprovada a existência de fato impeditivo à concessão.\"(NR)\n\"Art. 109. O benefício será pago diretamente ao segurado ou a seu dependente por crédito em sua conta em banco oficial ou conveniado com o Estado, salvo se o beneficiário for considerado civilmente incapaz, sem curatela ou tutela, quando o pagamento poderá ser feito em conta corrente em banco conveniado com o Estado em nome do cônjuge, pai, mãe, irmão ou filho, mediante termo de compromisso firmado no ato de seu cadastramento, por período não superior a 6 (seis) meses, sendo que, após este prazo, somente em conta bancária em nome do titular do benefício.\n§ 2º O segurado ou seu dependente, caso sejam civilmente incapazes, sem curatela ou tutela, poderão ser representados, por ocasião do requerimento de benefício previdenciário, pelo cônjuge, pai, mãe, irmão ou filho, ficando o seu recebimento sujeito ao disposto no caput deste artigo.\"(NR)\n\"Art. 112. Os procedimentos administrativos e a documentação essencial relativos à concessão dos benefícios previdenciários previstos nesta Lei Complementar serão disciplinados em ato normativo a ser expedido pela Presidência da GOIASPREV.\n.......................................................................................................\" (NR)\n\"Art. 126. .................................................................................................\n§ 1º Excepciona-se da regra contida no caput, a hipótese em que o segurado necessite efetuar o desentranhamento da CTC, objetivando a correção de aspectos formais e/ou materiais de sua validade, ocasião em que a GOIASPREV poderá proceder à desaverbação temporária dos respectivos períodos, concedendo-lhe o prazo de 90 (noventa) dias para efetuar a devolução da CTC retificada ou a original retirada dos autos, em caso de impossibilidade da pretendida alteração.\n§ 2º Mediante solicitação do segurado, a GOIASPREV poderá prorrogar fundamentadamente o prazo previsto no § 1º deste artigo, por, no máximo, igual período.\n§ 3º Findos os prazos de que tratam os §§ 1º e 2º deste artigo, não apresentando o segurado a CTC, original ou retificada, a desaverbação temporária deverá ser convertida em definitiva, com a obrigatória instauração de procedimento de auditoria, com vistas ao cancelamento do ato de inativação e dos demais benefícios mencionados no caput, quando for o caso, e à devolução ao erário de todas as vantagens pecuniárias percebidas em razão da averbação constante da referida CTC, além de outras penalidades administrativas legalmente cabíveis.\n§ 4º Caso a CTC seja devolvida, sem que se tenha procedido à pretendida retificação, com persistência de vício insanável que cause sua invalidade, advindo-se, assim, a inviabilização de futura compensação previdenciária, deverá ser adotado o procedimento previsto no § 3º deste artigo, sendo tornada sem efeito a averbação anteriormente concedida, não se aplicando o contido no art. 107, com observância do disposto no § 4º do art. 138, ambos desta Lei Complementar.\n.....................................................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O art. 2º, caput, e § 2º da Lei Complementar nº 118, de 06 de novembro de 2015, passam a vigorar com a seguinte redação:\n\"Art. 2º Ao servidor ou empregado público da Administração direta, autárquica e fundacional do Poder Executivo, que, sem perda dessa condição, houver se inativado como segurado facultativo dobrista, com proventos proporcionais ao tempo de serviço ou contribuição, é assegurado o direito de renunciar à sua aposentadoria, hipótese em que lhe é facultado utilizar-se desse tempo, atendido o disposto no § 2º, para obtenção de aposentadoria pelo Regime Próprio de Previdência Estadual, na forma da legislação em vigor ou decisão judicial transitada em julgado, quando for o caso.\n§ 2º O tempo de serviço ou contribuição a ser utilizado na conformidade do disposto no caput deste artigo é o que tiver sido implementado pelo servidor ou empregado público antes de sua filiação como segurado facultativo com contribuição em dobro e computado para efeito de aposentadoria como segurado dobrista.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam revogados os seguintes dispositivos da Lei Complementar nº 77, de 22 de janeiro de 2010:\nI - item 1 da alínea \"a\" do inciso V do art. 15;\nII - §§ 10 e 11 do art. 63;\nIII - item 1 da alínea \"a\" do inciso V do art. 66.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 21 de outubro de 2016, 128º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJoaquim Cláudio Figueiredo Mesquita\n(D.O. de 27-10-2016)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-035",
+   "short": "LC 35/2001",
+   "title": "Lei Complementar nº 35, de 2001 (Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101014",
+   "first_law": "lc-2001-035",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101014",
+     "sha256": "2b041f103aa00fecaf508e5f4ae7c04cbd4966b5ebe59096e09afc9461d7dea8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 35, DE 21 DE DEZEMBRO DE 2001.\nIntroduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. Os arts. 16, 58, 59, 62, 107 e 108 da Lei Complementar nº 26, de 28 de dezembro de 1998, passam a vigorar com as seguintes alterações:\n\"Art. 16. (...)\nd) 01 (um) membro titular indicado pelas entidades e instituições que ofereçam Educação Profissional e que façam parte do Consórcio Goiás de Educação Profissional.\" (NR)\n\"Art. 58. Fica criado o Sistema Estadual de Educação Profissional, constituído pela rede pública estadual, instituições de educação profissional vinculadas ou subordinadas à Secretaria Estadual de Educação e pelas instituições congêneres dos municípios e que se integra às diferentes formas de educação, ao trabalho, à ciência e tecnologia, tendo por objetivo:\nI - (...);\nII - capacitar jovens e adultos com conhecimentos e habilidades gerais e específicas para o exercício de atividades produtivas;\nIII - proporcionar a formação de profissionais, compreendendo os seguintes níveis:\na) básico: destinado à qualificação e reprofissionalização de trabalhadores, sem exigência de escolaridade prévia;\nb) técnico : destinado a proporcionar habilitação profissional a alunos matriculados ou egressos do ensino médio;\nc) tecnológico: corresponde a cursos de nível superior na área tecnológica, destinados a egressos do ensino médio e técnico;\nIV - qualificar, requalificar e reprofissionalizar jovens e adultos, visando à sua inserção e ao seu melhor desempenho no exercício do trabalho;\nV - (...).\n§ 1º. O Poder Executivo fica autorizado a estabelecer as regras básicas de instituição do Sistema Estadual de Educação Profissional, através de ato próprio.\n§ 2º. A educação profissional de nível básico, modalidade de ensino não-formal, de duração variável, destina-se a proporcionar ao cidadão trabalhador conhecimentos que lhe permitam reprofissionalizar-se, qualificar-se e atualizar-se para o exercício de funções demandadas pelo mundo do trabalho, compatíveis com a complexidade tecnológica do trabalho, o seu grau de conhecimento técnico e o nível de escolaridade do aluno, não estando sujeita à regulamentação curricular.\n§ 3º. As instituições estaduais públicas e privadas sem fins lucrativos, apoiadas financeiramente pelo Poder Público, que ministram educação profissional, deverão, obrigatoriamente, oferecer cursos profissionais de nível básico em sua programação, abertos a alunos das redes públicas e privadas de educação básica, assim como a trabalhadores com qualquer nível de escolaridade.\n§ 4º. Aos que concluírem os cursos de educação profissional de nível básico será conferido certificado de qualificação profissional.\" (NR)\n\"Art. 59. A educação profissional em níveis básico, técnico e tecnológico desenvolver-se-á, preferencialmente, em Centro de Educação Profissional - CEP, bem como no ambiente de trabalho, admitindo-se, em caráter excepcional e identificada a demanda, o funcionamento de cursos em escolas de ensino médio, na forma de Unidades Descentralizadas de Educação Profissional - UDEP, desde que vinculados administrativamente a uma destas.\n§ 1º. A educação profissional em nível técnico não substitui o ensino médio regular, sendo organizado de modo articulado e/ou seqüencial a este.\n§ 2º. Para obter diploma de nível técnico, o aluno deve apresentar o certificado de conclusão do ensino médio.\n§ 3º. A formação de docentes para o exercício da educação profissional far-se-á em serviços ou em cursos superiores compatíveis com as disciplinas que lecionam, após participação em programas especiais de formação pedagógica.\" (NR)\n\"Art. 62 - Os currículos dos níveis técnico e tecnológico da educação profissional serão estabelecidos a partir das diretrizes curriculares nacionais.\n§ 1º. O Conselho Estadual de Educação estabelecerá as diretrizes curriculares complementares, atendendo às diversidades e peculiaridades locais e regionais.\n§ 2º. Os cursos de nível superior, correspondentes à educação profissional de nível tecnológico, deverão ser estruturados para atender aos diversos setores da economia, abrangendo áreas especializadas, e conferirão diploma de Tecnólogo.\" (NR)\n\"Art. 107 - Fica autorizada, a partir da publicação desta lei, a criação do Consórcio Goiás de Educação Profissional, composto por representantes das áreas de Educação, Trabalho, Ciência e Tecnologia, Indústria e Comércio, Agricultura e Saúde e, ainda, das instituições especializadas em Educação Profissional no Estado de Goiás.\n§ 1º. O Consórcio Goiás de Educação Profissional será o órgão responsável pela definição da política integrada de Educação Profissional, pela aprovação do Plano Estadual de Educação Profissional, bem como pelo estabelecimento de vínculos e parcerias efetivas com os programas e projetos, devendo ser regulamentado por ato do Chefe do Poder Executivo Estadual.\n§ 2º. (...).\n§ 3º. A Secretaria de Estado da Educação será responsável pela elaboração do Plano Estadual de Educação Profissional e execução das políticas definidas pelo Consórcio, no âmbito da Rede Estadual de Educação Profissional.\" (NR)\n\"Art. 108. A Rede Estadual de Educação profissional é formada pelos Centros de Educação Profissional - CEP, Centros de profissionalização e Capacitação - CPC e Unidades Descentralizadas de Educação Profissional - UDEP, atendidas as seguintes condições:\nI - a realização de estudos que demonstrem a necessidade do centro para o desenvolvimento econômico regional e para a profissionalização de jovens e adultos;\nII - os Centros de Educação Profissional - CEP, vinculados à Secretaria de Educação, poderão ofertar educação profissional em nível básico, técnico e tecnológico;\nIII - os Centros de Profissionalização e Capacitação - CPC, vinculados à Secretaria de Ciência e Tecnologia, poderão ofertar educação profissional em nível básico de extensão e difusão tecnológica.\nParágrafo único. Os Centros de Educação Profissional - CEP serão mantidos através de recursos provenientes do Tesouro Estadual, doações, convênios, receitas geradas por parcerias com instituições públicas e privadas e pelo próprio Centro, através da venda de serviços e cursos ministrados a terceiros.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. É revogado o art. 60 da Lei Complementar n. 26, de 28 de dezembro de 1998.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º. Esta lei complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 21 de dezembro de 2001, 113º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJônathas Silva\nRaquel Figueiredo Alessandri Teixeira\nJalles Fontoura de Siqueira\n(D.O. de 26-12-2001 - Suplemento e D.O. de 28-12-2001)\n"
       }
      }
     }
@@ -1724,6 +3066,38 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 139, de 2018 was altered on 4 date(s) its notes cite, the latest 2024-11-04."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2013-101",
+   "short": "LC 101/2013",
+   "title": "Lei Complementar nº 101, de 2013 (Altera dispositivos da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101088",
+   "first_law": "lc-2013-101",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2013-05-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101088",
+     "sha256": "dce34c214105d8ca940d7fe92fe29823f2ce680980cdb77ee880b94990ae3723",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 101, DE 22 DE MAIO DE 2013.\nAltera dispositivos da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os dispositivos a seguir especificados da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás, passam a vigorar com a seguinte redação:\n\"Art. 9º ......................................................................\nVIII - recolher e guardar o acervo das unidades escolares do Sistema Educativo do Estado de Goiás que encerrarem as suas atividades, por ato próprio ou por cassação de seu ato autorizador, fazendo-o mediante autorização expressa do Conselho Estadual de Educação.\"\n(NR)\n\"Art. 14 ......................................................................\nXVI - autorizar a Secretaria de Estado da Educação a recolher e guardar o acervo das unidades escolares do Sistema Educativo do Estado de Goiás que encerrarem as suas atividades, por ato próprio ou por cassação de seu ato autorizador.\n.............................................................................\" (NR)\n\"Art. 16 O Conselho Estadual de Educação é constituído de 26 (vinte e seis) membros titulares escolhidos entre pessoas de notório saber e comprovada experiência em matéria de educação, nos termos do art. 160 da Constituição do Estado de Goiás, assegurada as seguintes representações:\nII - 03 (três) indicados pela Secretaria Estadual de Ciência e Tecnologia, sendo 02 (dois) dentre os educadores com experiência na área de educação superior pública estadual e 01 (um) dentre os educadores com experiência na área de educação profissional pública;\nIII - 01 (um) indicado pela direção superior da Universidade Estadual de Goiás - UEG -;\nXII - 01 (um) das entidades representativas, de âmbito estadual, dos estudantes, por elas indicado em fórum próprio;\n§ 1º Os membros titulares do Conselho Estadual de Educação terão 08 (oito) suplentes, escolhidos da forma a que se refere o caput deste artigo, de acordo com o seguinte critério:\nII - 02 (dois) indicados pela Secretaria de Estado de Ciência e Tecnologia;\n............................................................................\" (NR)\n\"Art. 23 ....................................................................\n§ 1º O mandato do Presidente e do Vice-Presidente é de 02 (dois) anos, vedada a sua reeleição consecutiva.\n...........................................................................\" (NR)\n\"Art. 34 ....................................................................\n§ 4º A fim de implantar o requisito constante do § 3º deste artigo, os estabelecimentos de ensino terão 05 (cinco) anos de prazo para se adequarem.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo, porém, os seus efeitos a 1º de abril de 2013.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 22 de maio de 2013, 125o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 23-05-2013) - Suplemento\n"
+      }
+     }
     }
    ]
   },
@@ -2023,6 +3397,38 @@
    ]
   },
   {
+   "slug": "lc-2017-128",
+   "short": "LC 128/2017",
+   "title": "Lei Complementar nº 128, de 2017 (Altera a Lei Complementar nº 126, de 27 de dezembro de 2016.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101115",
+   "first_law": "lc-2017-128",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-05-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101115",
+     "sha256": "0c8c7a46f93f9b3dc709f5291ba36ef509a5b4bfee6eb46b769545a4fec99310",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 128, DE 22 DE MAIO DE 2017\nAltera a Lei Complementar nº 126, de 27 de dezembro de 2016.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 126, de 27 de dezembro de 2016, passa a vigorar com a seguinte modificação:\n\"Art. 6º ............................................................\nII - 06 (seis) meses, relativamente à modificação de competência para a concessão de aposentadoria aos servidores públicos do Poder Executivo.\n.....................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo seus efeitos a 29 de março de 2017.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 22 de maio de 2017, 129º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 25-05-2017)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2023-182",
    "short": "LC 182/2023",
    "title": "Lei Complementar nº 182, de 2023",
@@ -2193,6 +3599,46 @@
    ]
   },
   {
+   "slug": "lc-2023-183",
+   "short": "LC 183/2023",
+   "title": "Lei Complementar nº 183, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107266",
+   "first_law": null,
+   "earlier_laws": [
+    "lc-2023-183"
+   ],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107266",
+     "sha256": "b47526cbb073dbaa2f5fc75e1b13a969126bdfb4053ef7891648cbceaa1b4b92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 183, DE 22 DE JUNHO DE 2023\nAutoriza a administração pública do Estado de Goiás a abrir créditos adicionais com a utilização, como origem de recursos, da disponibilidade descomprometida com o cancelamento de restos a pagar no exercício.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os recursos oriundos de cancelamento de restos a pagar, provenientes de transferências de recursos da União com aplicação vinculada, legalmente autorizados e justificados, desde que não tenham sido comprometidos, poderão ser utilizados como origem de recursos para a abertura de créditos adicionais no mesmo exercício do cancelamento, com a recomposição do superávit financeiro do exercício anterior, desde que sejam aplicados para atender despesas decorrentes da mesma finalidade da vinculação original.\n§ 1º As disponibilidades por fontes e destinação de recursos decorrentes de cancelamento de restos a pagar e de outros passivos financeiros não reverterão à conta de superávit financeiro no mesmo exercício do cancelamento, salvo quando for comprovada a ocorrência de eventos subsequentes ao encerramento do balanço que justifiquem a revisão da apuração do superávit financeiro.\n§ 2º Nos casos de revisão do superávit financeiro previsto no caput deste artigo, caberá ao ordenador de despesa apresentaras justificativas e o embasamento legal para o cancelamento dos restos a pagar e a revisão do superávit financeiro.\n§ 3º Os cancelamentos de restos a pagar não processados e processados deverão observar as disposições dos arts. 5º e 6º da Lei Complementar nº 133, de 01 de novembro de 2017.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Poder Executivo ficará responsável pelos ajustes nos sistemas de administração orçamentária, financeira e contábil e pela regulamentação desta Lei Complementar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 183, de 2023 was altered on 1 date(s) its notes cite, the latest 2025-07-01."
+    }
+   ]
+  },
+  {
    "slug": "lc-2023-190",
    "short": "LC 190/2023",
    "title": "Lei Complementar nº 190, de 2023",
@@ -2255,6 +3701,137 @@
    ]
   },
   {
+   "slug": "lc-2014-109",
+   "short": "LC 109/2014",
+   "title": "Lei Complementar nº 109, de 2014 (Introduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101096",
+   "first_law": "lc-2014-109",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101096",
+     "sha256": "66a71c99f5613d55b2340a71d0c651302a2d3cee8fe7a0c564ca283d8b39a0de",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 109, DE 23 DE ABRIL DE 2014\nIntroduz alterações na Lei Complementar nº 26, de 28 de dezembro de 1998.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os dispositivos a seguir relacionados da Lei Complementar nº 26, de 28 de dezembro de 1998, ficam assim alterados:\n\"Art. 58. Fica criado o Sistema Estadual de Educação Profissional, Científica e Tecnológica, constituído pela rede pública estadual, instituições de educação profissional e tecnológica, vinculadas ou subordinadas à Secretaria de Estado de Ciência, Tecnologia e Inovação e pelas instituições congêneres dos municípios e que se integra às diferentes formas de educação, ao trabalho, à ciência e tecnologia, tendo por objetivo:\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "Art. 59. A educação profissional, ofertada por meio de cursos e programas de formação inicial e continuada, educação profissional técnica de nível médio e educação profissional tecnológica de graduação e de pós-graduação, desenvolver-se-á em Instituto Tecnológico do Estado de Goiás -ITEGO-, bem como no ambiente de trabalho, admitindo-se , identificada a demanda, o funcionamento de cursos em Colégios Tecnológicos -COTECs-, desde que vinculados administrativamente a um ITEGO.\n"
+      },
+      "art-0108": {
+       "label": "Art. 108",
+       "kind": "article",
+       "text": "Art. 108. A Rede Pública Estadual de Educação Profissional é formada pelas unidades de educação profissional e tecnológica, na forma de Instituto Tecnológico do Estado de Goiás -ITEGO-, criado por lei no âmbito da Secretaria de Estado de Ciência, Tecnologia e Inovação, e de Colégios Tecnológicos -COTECs-, atendidas as seguintes condições:\nI - a realização de estudos que demonstrem a necessidade do instituto para o desenvolvimento econômico regional e para a profissionalização de jovens e adultos;\nII - o Instituto Tecnológico do Estado de Goiás -ITEGO- poderá ofertar cursos e programas de formação inicial e continuada de trabalhadores, educação profissional técnica de nível médio e educação profissional tecnológica de graduação e de pós-graduação;\nIII - o Colégio Tecnológico -COTEC- poderá ofertar cursos e programas de formação inicial e continuada de trabalhadores e educação profissional técnica de nível médio.\nParágrafo único. As unidades de educação profissional e tecnológica serão mantidas com recursos provenientes do Tesouro Estadual, doações, convênios, receitas geradas por parcerias com instituições públicas e privadas e pelo próprio instituto, através da venda de serviços e cursos ministrados a terceiros, cuja receita deverá ser arrecadada ao fundo Estadual de Ciência e Tecnologia.\" (NR)\nArt. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 23 de abril de 2014, 126º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 25-04-2014) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-110",
+   "short": "LC 110/2014",
+   "title": "Lei Complementar nº 110, de 2014",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101097",
+   "first_law": "lc-2014-110",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-04-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101097",
+     "sha256": "3ce70996d6b3c89782c1669365516d223449a96ecdc366d04b2f7fe993081234",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 110, DE 23 DE ABRIL DE 2014\nAltera a Lei Complementar nº 104, de 09 de outubro de 2013, que institui o Código de Direitos, Garantias e Obrigações do Contribuinte no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° Os dispositivos a seguir indicados da Lei Complementar n° 104, de 09 de outubro de 2013, passam a vigorar com as seguintes alterações, ficando revogados os incisos X e XXVII e o § 1° do art. 5°; o inciso VII do art. 6°; o inciso VI do § 1° e o § 7° do art. 7°; o art. 16; o § 1° do art. 24 e o inciso XI do art. 35:\n\"Art. 5°...................................................................................................\nIX - .......................................................................................................\na) as datas de início e fim do procedimento de fiscalização, cujo prazo não poderá ultrapassar 90 (noventa) dias, prorrogáveis por igual período, por despacho fundamentado da autoridade responsável;\nXXII - obter convalidação, com efeitos retroativos, de ato maculado com defeito sanável ou erro notoriamente escusável, desde que haja o pagamento integral do tributo, se devido, acrescido de correção monetária e dos demais acréscimos previstos na legislação e não tenha sido iniciada a ação fiscal;\n§ 3° Na hipótese da alínea \"a\" do inciso IX, o prazo será suspenso sempre que o contribuinte solicitar para apresentar ou retificar informação ou quando o contribuinte, notificado, não apresentar ou apresentar documentação incompleta no prazo estabelecido.\n§ 4° A devolução dos bens, mercadorias, documentos, livros, impressos, papéis, programas de computador ou arquivo eletrônico entregues à fiscalização fazendária ou por ela apreendidos deverá ocorrer no prazo estabelecido na alínea \"a\" do inciso IX do caput deste artigo, desde que não sejam indispensáveis à comprovação da infração.\n§ 5° Será restabelecida a espontaneidade caso não seja concluída a auditoria no prazo máximo previsto na alínea \"a\" do inciso IX do caput deste artigo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6°",
+       "kind": "article",
+       "text": "Art. 6° ...................................................................................................\nIV - ter assegurados, no processo administrativo-fiscal, o contraditório, a ampla defesa e, preferencialmente, o julgamento em duplo grau, sendo a segunda instância administrativa organizada com colegiado, no qual terão assento representantes do Fisco e dos contribuintes;\nVI - a fruição dos benefícios e incentivos fiscais ou financeiros, bem como o acesso a linhas oficiais de crédito e a participação em licitações, independentemente da existência de processo administrativo ou judicial relativo a crédito de natureza tributária não inscrito em dívida ativa, sem prejuízo do disposto no art. 206 do Código Tributário Nacional;\n"
+      },
+      "art-0007": {
+       "label": "Art. 7°",
+       "kind": "article",
+       "text": "Art. 7° ...................................................................................................\n§ 1° .......................................................................................................\nIII - a data, hora e local de comparecimento, quando for o caso;\n§ 3° A intimação poderá se dar mediante ciência no respectivo processo, via postal com Aviso de Recebimento - AR, telegrama ou outro meio que assegure o efetivo conhecimento por parte do interessado.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A existência de processo administrativo relativo a crédito tributário não inscrito em dívida ativa não impedirá que o contribuinte usufrua de benefícios e incentivos fiscais ou financeiros, ou participe de licitações.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A elaboração, redação, alteração e consolidação da legislação tributária observará o disposto na Lei Complementar federal n° 95/1998 e na Lei Complementar estadual n° 33/2001.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os sócios administradores somente poderão ser responsabilizados mediante a prévia comprovação, pelo Fisco Estadual, da prática de atos com excesso de poderes ou infração de lei, contrato social ou estatutos, nos termos do art. 135 do Código Tributário Nacional;\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35 ..................................................................................................\nI - as consultas deverão ser respondidas por escrito e fundamentadamente, no prazo máximo de 60 (sessenta) dias contados de seu protocolo;\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. São nulos ou inválidos os atos e procedimentos de fiscalização praticados com:\n....................................................................................................\" (NR)\nArt. 2° Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, porém, a partir de 23 de abril de 2014.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 23 de abril de 2014, 126º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 25-04-2014) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-054",
+   "short": "LC 54/2005",
+   "title": "Lei Complementar nº 54, de 2005",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100996",
+   "first_law": "lc-2005-054",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100996",
+     "sha256": "6e56752a01f710c88ed6f9ee9b3632682c05f10cf8801715c05df77d07e1db50",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 54, DE 23 DE MAIO DE 2005.\nAltera o caput do artigo 1o da Lei Complementar no 27, de 30 de dezembro de 1999, que cria a Região Metropolitana, autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, a Secretaria Executiva e a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia e dá outras providências.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 90 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O caput do artigo 1o da Lei Complementar no 27, de 30 de dezembro de 1999 passa a vigorar com a seguinte redação:\n\"Art. 1o Fica criada a Região Metropolitana de Goiânia - GRANDE GOIÂNIA, na forma prevista no art. 4o inciso I, alínea \"a\", e nos arts. 90 e 91 da Constituição do Estado de Goiás, compreendida pelos Municípios de Goiânia, Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Goianápolis, Goianira, Guapó, Hidrolândia, Nerópolis, Santo Antônio de Goiás, Senador Canedo e Trindade.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 23 de maio de 2005, 117o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nLeonardo Moura Vilela\n(D.O. de 30-05-2005)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2026-216",
    "short": "LC 216/2026",
    "title": "Lei Complementar nº 216, de 2026 (Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ.)",
@@ -2281,6 +3858,43 @@
        "label": "Art. 2º",
        "kind": "article",
        "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 23 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-122",
+   "short": "LC 122/2015",
+   "title": "Lei Complementar nº 122, de 2015 (Dispõe sobre a apropriação de recursos financeiros que especifica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101109",
+   "first_law": "lc-2015-122",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101109",
+     "sha256": "b2ca8e7dcf083f6a888592f14db0b3f6bcc7c435b673c2ce3c6c34c95a743e18",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR N° 122, DE 23 DE DEZEMBRO DE 2015.\nDispõe sobre a apropriação de recursos financeiros que especifica e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os recursos financeiros dos órgãos e das entidades integrantes do Poder Executivo, incluídas as suas Autarquias, Fundações e Fundos Especiais, aplicados no mercado financeiro pelo Tesouro Estadual, serão apropriados como receita deste no último dia útil do exercício financeiro vigente, com exceção:\nI - dos recursos vinculados em ações e serviços públicos de saúde, segundo o disposto no § 2º, inciso II, do art. 198 da Constituição Federal e os provenientes de transferências federais para a função saúde;\nII - dos recursos vinculados à manutenção e ao desenvolvimento do ensino e de ciência e tecnologia, segundo o disposto no art. 158 da Constituição Estadual;\nIII - dos recursos originários da estrutura de assistência em saúde dos servidores públicos estaduais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Fica autorizada a Secretaria da Fazenda a expedir atos para operacionalizar as transferências.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 23 de dezembro de 2015, 127o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJosé Eliton de Figuêredo Júnior\nJosé Carlos Siqueira\nVilmar da Silva Rocha\nAna Carla Abrão Costa\nThiago Mello Peixoto da Silveira\nHenrique Tibúrcio Peña\nRaquel Figueiredo Alessandri Teixeira\nJoaquim Cláudio Figueiredo Mesquita\nLeonardo Moura Vilela\nLêda Borges de Moura\n"
       }
      }
     }
@@ -2399,7 +4013,7 @@
  "applies": [],
  "decisions": [
   "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
-  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", and the green \"Vide\" notes). \"Vide\" notes do not date a version.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
   "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
   "Tables are one line per row, cells separated by \" | \"; images are left out."
  ],

@@ -101,6 +101,8 @@ def split(h):
     notes = [norm(n) for n in ''.join(p.notes).split('\n') if norm(n)]
     lines = []
     for kind, l in lines_of(kept):
+        if re.match(r'(?i)Este texto n[ãa]o substitui o publicad', l):
+            continue  # the publisher's notice, not text
         if NOTE_LINE.match(l):
             notes.append(l)  # a note the page did not put in its note font
             continue
@@ -108,7 +110,7 @@ def split(h):
     return lines, notes, ''.join(p.old)
 
 
-DMY = re.compile(r'\b(\d{1,2})[-/.](\d{1,2})[-/.](\d{4})\b')
+DMY = re.compile(r'\b(\d{1,2})[º°]?[-/.](\d{1,2})[-/.](\d{4})\b')
 MONTHS = {m: i + 1 for i, m in enumerate(['janeiro', 'fevereiro', 'março', 'abril', 'maio', 'junho', 'julho', 'agosto',
                                            'setembro', 'outubro', 'novembro', 'dezembro'])}
 LONG = re.compile(r'\b(\d{1,2})[º°o]?\s+de\s+(' + '|'.join(MONTHS) + r')\s+de\s+(\d{4})', re.I)
@@ -147,8 +149,11 @@ DECISIONS = [
     'is given rather than a wrong one.',
     'The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed '
     'by a note such as "- Redação original") and the publisher\'s notes (in Arial Black, such as "- Redação dada pela '
-    'Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", and the green "Vide" notes). "Vide" notes do not '
-    'date a version.',
+    'Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of '
+    'newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." '
+    'is left out. In an act with no alteration note, what is struck through is the act\'s own rendering of what it '
+    'deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as '
+    'enacted. An altered act whose notes cite no date is left out.',
     'One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the '
     'Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa '
     'and the preamble. Text after the last article (place, date, signatures) stays with the last article.',
@@ -192,12 +197,15 @@ def act_of(url, kind):
     ementa = norm(r.get('ementa') or '')
     laws = {law_key: {'label': label, 'title': ementa or label, 'kind': 'law', 'enacted': enacted, 'published': published,
                       'url': page, 'temporary_until': None, 'restores': None, 'note': None}}
-    alter = sorted(d for n in notes if is_alteration(n) for d in dates(n) if d > first)
+    alts = [n for n in notes if is_alteration(n)]
+    alter = sorted(d for n in alts for d in dates(n) if d > first)
     units = units_of(lines, adt=(kind == 'con'))
     if not units:
         return None, {}, 'no text'
-    if not alter and norm(old):
-        return None, {}, 'struck text without an alteration note'
+    if alts and not alter:
+        return None, {}, 'altered, no dated note'
+    # Without any alteration note, struck text is the act's own rendering of what it deletes from the law it amends
+    # (in its quoted annexes and tables); the red "Este texto não substitui o publicado no D.O." notice is not text.
     v = {'from': alter[-1] if alter else first, 'source_url': url, 'sha256': sha(b), 'units': units}
     if alter:
         v['note'] = (f'Text in force as compiled by the Casa Civil de Goiás; {label} was altered on {len(set(alter))} '

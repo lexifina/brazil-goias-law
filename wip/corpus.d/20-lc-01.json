@@ -22,7 +22,7 @@
    "url": "https://legisla.casacivil.go.gov.br",
    "retrieved": "2026-10-30",
    "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
-   "notes": "27 acts in this part."
+   "notes": "49 acts in this part."
   }
  ],
  "laws": {
@@ -55,6 +55,17 @@
    "enacted": "2001-08-01",
    "published": "2001-08-08",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2003-040": {
+   "label": "Lei Complementar nº 40, de 2003",
+   "title": "Introduz alterações na Lei Complementar nº 1, de 19 de dezembro de 1989, na parte que especifica.",
+   "kind": "law",
+   "enacted": "2003-09-01",
+   "published": "2003-09-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101004",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -103,6 +114,50 @@
    "restores": null,
    "note": null
   },
+  "lc-2006-056": {
+   "label": "Lei Complementar nº 56, de 2006",
+   "title": "Altera as Leis Complementares no 26, de 28 de dezembro de 1998, e no 42, de 26 de setembro de 2003, que dispõem sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2006-02-02",
+   "published": "2006-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100988",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2005-052": {
+   "label": "Lei Complementar nº 52, de 2005",
+   "title": "Altera o art. 16 da Lei Complementar no 26, de 28 de dezembro de 1998.",
+   "kind": "law",
+   "enacted": "2005-05-02",
+   "published": "2005-05-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100994",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2006-057": {
+   "label": "Lei Complementar nº 57, de 2006",
+   "title": "Altera o art. 3o da Lei Complementar no 01, de 19 de dezembro de 1989, com alterações posteriores.",
+   "kind": "law",
+   "enacted": "2006-05-02",
+   "published": "2006-05-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2016-123": {
+   "label": "Lei Complementar nº 123, de 2016",
+   "title": "Altera a Lei Complementar nº 58, de 04 de julho de 2006, e dispõe sobre a reestruturação da carreira de Procurador do Estado.",
+   "kind": "law",
+   "enacted": "2016-05-02",
+   "published": "2016-05-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101110",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2025-206": {
    "label": "Lei Complementar nº 206, de 2025",
    "title": "Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências; e dá outras providências.",
@@ -114,6 +169,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2010-079": {
+   "label": "Lei Complementar nº 79, de 2010",
+   "title": "Prorroga, até 31 de dezembro de 2010, o prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64 /2008",
+   "kind": "law",
+   "enacted": "2010-09-02",
+   "published": "2010-09-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101066",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2024-195": {
    "label": "Lei Complementar nº 195, de 2024",
    "title": "Altera a Lei Complementar nº 25, de 06 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências; a Lei Complementar nº 103, de 1º de outubro de 2013, que altera a Lei Complementar nº 25, de 06 de julho de 1998, cria cargos e funções de confiança no Ministério Público do Estado de Goiás, altera denominação de cargos, concede reajustes e dá outras providências; a Lei nº 13.162, de 05 de novembro de 1997, que dispõe sobre a estrutura organizacional do Ministério Público do Estado de Goiás, cria Cargos de Promotor de Justiça, institui o Plano de Classificação de Cargos e Vencimentos de seus Serviços Auxiliares e dá outras providências; e dá outras providências.",
@@ -121,6 +187,50 @@
    "enacted": "2024-09-02",
    "published": "2024-09-02",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109434",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2005-050": {
+   "label": "Lei Complementar nº 50, de 2005",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, na parte que especifica.",
+   "kind": "law",
+   "enacted": "2005-02-03",
+   "published": "2005-02-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100992",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2001-034": {
+   "label": "Lei Complementar nº 34, de 2001",
+   "title": "Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999, alterada pela Lei Complementar nº 30, de 9 de junho de 2000, nas partes que especifica e dá outras providências. A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:",
+   "kind": "law",
+   "enacted": "2001-10-03",
+   "published": "2001-10-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101013",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2005-055": {
+   "label": "Lei Complementar nº 55, de 2005",
+   "title": "Altera dispositivo da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2005-10-03",
+   "published": "2005-10-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-158": {
+   "label": "Lei Complementar nº 158, de 2020",
+   "title": "Altera o Anexo II da Lei Complementar nº 130, de 11 de julho de 2017, que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros e cria cargos e funções no âmbito da Defensoria Pública do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-11-03",
+   "published": "2020-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103569",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -147,6 +257,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2002-036": {
+   "label": "Lei Complementar nº 36, de 2002",
+   "title": "Altera a redação do art. 17 da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2002-07-04",
+   "published": "2002-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2006-058": {
    "label": "Lei Complementar nº 58, de 2006",
    "title": "Dispõe sobre a organização da Procuradoria-Geral do Estado e dá outras providências.",
@@ -154,6 +275,28 @@
    "enacted": "2006-07-04",
    "published": "2006-07-04",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100990",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-074": {
+   "label": "Lei Complementar nº 74, de 2009",
+   "title": "Altera a Lei Complementar nº 72, de 24 de março de 2009",
+   "kind": "law",
+   "enacted": "2009-09-04",
+   "published": "2009-09-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101062",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-151": {
+   "label": "Lei Complementar nº 151, de 2019",
+   "title": "Altera a Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Nacional.",
+   "kind": "law",
+   "enacted": "2019-11-04",
+   "published": "2019-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101138",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -180,6 +323,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2015-117": {
+   "label": "Lei Complementar nº 117, de 2015",
+   "title": "Institui, no âmbito do Estado de Goiás, o Estatuto da Microempresa e da Empresa de Pequeno Porte e dá outras providências",
+   "kind": "law",
+   "enacted": "2015-10-05",
+   "published": "2015-10-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101104",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2023-186": {
    "label": "Lei Complementar nº 186, de 2023",
    "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás; e a Lei nº 21.202, de 16 de dezembro de 2021, que institui a \"Política de Divulgação da Lei Maria da Penha nas Escolas\" visando sensibilizar o público escolar sobre a Violência Doméstica e Familiar contra a mulher e divulgar a Lei federal nº 11.340/2006 e dá outras providências.",
@@ -191,6 +345,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2017-127": {
+   "label": "Lei Complementar nº 127, de 2017",
+   "title": "Altera a Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2017-01-06",
+   "published": "2017-01-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101114",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-1998-025": {
    "label": "Lei Complementar nº 25, de 1998",
    "title": "Institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.",
@@ -198,6 +363,17 @@
    "enacted": "1998-07-06",
    "published": "1998-07-07",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101023",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2023-184": {
+   "label": "Lei Complementar nº 184, de 2023",
+   "title": "Altera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei Complementar nº 103, de 1º de outubro de 2013, a Lei Complementar nº 156, de 07 de agosto de 2020, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-07-06",
+   "published": "2023-07-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107461",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -246,6 +422,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2011-087": {
+   "label": "Lei Complementar nº 87, de 2011",
+   "title": "Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, entre outras providências.",
+   "kind": "law",
+   "enacted": "2011-07-07",
+   "published": "2011-07-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101074",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2021-164": {
    "label": "Lei Complementar nº 164, de 2021",
    "title": "Altera a Lei Complementar nº 58, de 4 de julho de 2006, e a Lei nº 17.928, de 27 de dezembro de 2012.",
@@ -290,6 +477,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2003-043": {
+   "label": "Lei Complementar nº 43, de 2003",
+   "title": "Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999.",
+   "kind": "law",
+   "enacted": "2003-11-07",
+   "published": "2003-11-12",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2021-167": {
    "label": "Lei Complementar nº 167, de 2021",
    "title": "Dispõe sobre a adequação da unidade gestora única do Regime Próprio de Previdência Social do Estado de Goiás - RPPS/GO ao § 20 do art. 40 da Constituição Federal, com a observância do § 6º do art. 9º da Emenda Constitucional nº 103, de 12 de novembro de 2019, e do art. 5º da Emenda Constitucional estadual nº 65, de 21 de dezembro de 2019.",
@@ -301,6 +499,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2020-157": {
+   "label": "Lei Complementar nº 157, de 2020",
+   "title": "Dispõe sobre a política de transição de governo no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-10-08",
+   "published": "2020-10-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103469",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2003-038": {
    "label": "Lei Complementar nº 38, de 2003",
    "title": "Altera a Lei Complementar no 24, de 08 de junho de 1998, Lei Orgânica da Procuradoria-Geral do Estado, e dá outras providências.",
@@ -308,6 +517,39 @@
    "enacted": "2003-01-09",
    "published": "2003-01-14",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101002",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1997-021": {
+   "label": "Lei Complementar nº 21, de 1997",
+   "title": "Altera a Lei Complementar nº 1, de 19 de dezembro de 1989,na parte que especifica.",
+   "kind": "law",
+   "enacted": "1997-05-09",
+   "published": "1997-05-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2000-030": {
+   "label": "Lei Complementar nº 30, de 2000",
+   "title": "Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999, nas partes que especifica.",
+   "kind": "law",
+   "enacted": "2000-06-09",
+   "published": "2000-06-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2017-129": {
+   "label": "Lei Complementar nº 129, de 2017",
+   "title": "Altera dispositivo da Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-06-09",
+   "published": "2017-06-12",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101116",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -531,6 +773,38 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 33, de 2001 was altered on 1 date(s) its notes cite, the latest 2020-01-15."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-040",
+   "short": "LC 40/2003",
+   "title": "Lei Complementar nº 40, de 2003 (Introduz alterações na Lei Complementar nº 1, de 19 de dezembro de 1989, na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101004",
+   "first_law": "lc-2003-040",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2003-09-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101004",
+     "sha256": "230b8cd9dc2af86025a340b38863d4e5cbf88005f68b09c7574a6b94807dc8c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 40, DE 01 DE SETEMBRO DE 2003.\nIntroduz alterações na Lei Complementar no 1, de 19 de dezembro de 1989, na parte que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O art. 3o e o parágrafo único do art. 4o da Lei Complementar no 1, de 19 de dezembro de 1989, passam a vigorar com a seguinte redação:\n\"Art. 3o. Integram o CONCITEG:\nI - o Secretário de Estado de Ciência e Tecnologia, na qualidade de seu Presidente;\nII - a Secretaria de Estado de Agricultura, Pecuária e Abastecimento;\nIII - a Secretaria de Estado da Educação;\nIV - a Secretaria de Estado do Planejamento e Desenvolvimento;\nV - a Secretaria de Estado de Indústria e Comércio;\nVI - a Secretaria de Estado da Saúde;\nVII - a Secretaria de Estado do Meio Ambiente e dos Recursos Hídricos;\nVIII - a Universidade Federal de Goiás - UFG;\nIX - a Universidade Estadual de Goiás - UEG;\nX - a Universidade Católica de Goiás - UCG;\nXI - as demais instituições privadas de educação superior em Goiás, por intermédio de um único representante a ser por elas definido;\nXII - as instituições públicas municipais de educação superior, através de um único representante a ser por elas definido;\nXIII - os Centros Federais de Educação Tecnológica - CEFET em Goiás, por um único representante a ser por eles definido;\nXIV - a Empresa Brasileira de Pesquisa Agropecuária - EMBRAPA, através de um único representante a ser definido por suas unidades em Goiás;\nXV - o Serviço Brasileiro de Apoio às Micro e Pequenas Empresas em Goiás - SEBRAE - GO;\nXVI - a Secretaria Regional da Sociedade Brasileira para o Progresso da Ciência em Goiás - SBPC - GO;\nXVII - a Federação das Indústrias do Estado de Goiás - FIEG;\nXVIII - a Federação da Agricultura de Goiás - FAEG;\nXIX - a Federação dos Trabalhadores nas Indústrias do Estado de Goiás, Tocantins e Distrito Federal - FTIEG;\nXX - a Federação dos Trabalhadores na Agricultura no Estado de Goiás - FETAEG;\nXXI - a Organização das Cooperativas Brasileiras no Estado de Goiás - OCB - GO;\n§ 1o Os órgãos e as instituições previstos nos incisos II a XXI integram o CONCITEG por seus representantes legais ou por aqueles que estes designarem.\n§ 2o Os membros integrantes do CONCITEG têm suplentes indicados pelos titulares dos respectivos órgãos ou instituições.\n§ 3o A função de membro do Conselho não é remunerada, sendo considerada como relevante serviço prestado ao Estado.\" (NR)\n\"Art. 4o............................................................................\nParágrafo único. O Secretário Executivo do CONCITEG é o Superintendente de Fomento e Apoio à Pesquisa da Secretaria de Estado de Ciência e Tecnologia - SECTEC.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 01 de setembro de 2003, 115o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nWalter José Rodrigues\nDenise Aparecida Carvalho\nJosé Mário Schreiner\nJosé Carlos Siqueira\nRidoval Darci Chiareloto\nFernando Passos Cupertino de Barros\nPaulo Souza Neto\n(D.O. de 03-09-2003)\n"
+      }
+     }
     }
    ]
   },
@@ -774,6 +1048,159 @@
    ]
   },
   {
+   "slug": "lc-2006-056",
+   "short": "LC 56/2006",
+   "title": "Lei Complementar nº 56, de 2006",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100988",
+   "first_law": "lc-2006-056",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100988",
+     "sha256": "99d2340fbb4f18b7cdbaad8c58d0301f2a82d6dbb05db64f8f405d0d1947c36b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 56, DE 02 DE FEVEREIRO DE 2006.\nAltera as Leis Complementares no 26, de 28 de dezembro de 1998, e no 42, de 26 de setembro de 2003, que dispõem sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3o do art. 156 da Constituição Estadual, decreta e eu sanciona à seguinte Lei Complementar.\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os §§ 3o e 6o dos arts.79 e 106, da Lei Complementar no 26, de 28 de dezembro de 1998, passam a vigorar, respectivamente, com a seguinte redação:\n\"Art.79................................................................................\n§ 3o A duração do mandato dos Diretores das Unidades Universitárias da Universidade Estadual de Goiás é de 4 (quatro) anos, permitindo-se uma reeleição, e a duração do mandato dos Coordenadores de Cursos da Universidade Estadual de Goiás é de 2 (dois) anos, permitindo-se uma reeleição. \" (NR)\n\"Art. 106 ............................................................................\n§ 6o VETADO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o O art. 2o da Lei Complementar no 42, de 26 de setembro de 2003, fica assim redigido:\n\"Art. 2o Os mandatos dos Diretores de Unidades Universitárias da Universidade Estadual de Goiás, eleitos na forma da legislação vigente, terão início em 5 de janeiro do ano subseqüente ao da eleição.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de fevereiro de 2006, 118o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O de 13-02-2006)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-052",
+   "short": "LC 52/2005",
+   "title": "Lei Complementar nº 52, de 2005 (Altera o art. 16 da Lei Complementar no 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100994",
+   "first_law": "lc-2005-052",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100994",
+     "sha256": "504c74cd9ef6117b4b3d3bb2e79c03893479fb63c10ee01cb97320b63792254b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 52, DE 02 DE MAIO DE 2005.\nAltera o art. 16 da Lei Complementar no 26, de 28 de dezembro de 1998.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O art. 16 e seus parágrafos da Lei Complementar no 26, de 28 de dezembro de 1998, passam a viger com a redação seguinte:\n\"Art. 16. O Conselho Estadual de Educação é constituído de 24 (vinte e quatro) membros titulares escolhidos entre pessoas de notório saber e comprovada experiência em matéria de educação, nos termos do art. 160 da Constituição do Estado de Goiás, asseguradas as seguintes representações:\nI - 7 (sete) indicados pela Secretaria da Educação dentre educadores com experiência na área de educação básica do magistério público estadual;\nII - 2 (dois) indicados pela Secretaria Estadual de Ciência e Tecnologia dentre os educadores com experiência na área de educação superior pública estadual;\nIII - 1 (um) da direção superior da Fundação Universidade Estadual de Goiás - FUEG, por ela indicado;\nIV - 3 (três) das Gerências Técnico-Pedagógicas da Secretaria da Educação, por esta indicados;\nV - 1 (um) das Fundações Públicas Municipais de Educação Superior, por elas indicado;\nVI - 1 (um) da União Nacional dos Conselhos Municipais de Educação, Seção de Goiás, por ela indicado;\nVII - 1 (um) das entidades empresariais mantenedoras de cursos de educação profissional, por elas indicado;\nVIII - 1 (um) do Sindicato dos Trabalhadores em Educação do Estado de Goiás - SINTEGO, por ele indicado;\nIX - 1 (um) do Sindicato dos Professores do Estado de Goiás - SINPRO, por ele indicado;\nX - 1 (um) do Fórum Estadual de Educação, por ele indicado;\nXI - 1 (um) das instituições privadas de ensino, por elas indicado;\nXII - 1 (um) das entidades representativas dos estudantes, por elas indicado;\nXIII - 1 (um) dos Diretores de Escolas Públicas Estaduais, por eles indicado;\nXIV - 1 (um) da Universidade Estadual de Goiás - UEG, indicado pelo Conselho Universitário;\nXV - 1 (um) membro titular representante dos docentes da Universidade Estadual de Goiás - UEG, indicado por sua entidade representativa.\n§ 1o Os membros titulares do Conselho Estadual de Educação terão 7 (sete) suplentes, escolhidos da forma a que se refere o caput deste artigo, de acordo com o seguinte critério:\nI - 4 (quatro) indicados pela Secretaria da Educação;\nII - 1 (um) indicado pela Secretaria de Ciência e Tecnologia;\nIII - 1 (um) indicado pelo Sindicato dos Trabalhadores em Educação do Estado de Goiás - SINTEGO;\nIV - 1 (um) indicado pelo Sindicato dos Professores do Estado de Goiás - SINPRO.\n§ 2o As sessões do Conselho Pleno e das Câmaras do Conselho Estadual de Educação são públicas e abertas aos pais de alunos, às pessoas e entidades que dele não fazem parte, com direito ao uso da palavra, mediante solicitação prévia.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de maio de 2005, 117o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nEliana Maria França Carneiro\nRaquel Figueiredo Alessandri Teixeira\n(D.O. de 03-05-2005)- Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-057",
+   "short": "LC 57/2006",
+   "title": "Lei Complementar nº 57, de 2006 (Altera o art. 3o da Lei Complementar no 01, de 19 de dezembro de 1989, com alterações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100989",
+   "first_law": "lc-2006-057",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-05-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100989",
+     "sha256": "2977f24a6f739243dcccdae5c927833deb4064cfa3992e76c09f84dfb34ed5cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 57, DE 02 DE MAIO DE 2006.\nAltera o art. 3o da Lei Complementar no 01, de 19 de dezembro de 1989, com alterações posteriores.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O art. 3o da Lei Complementar no 01, de 19 de dezembro de 1989, com alterações posteriores, passa a vigorar com a seguinte redação:\n\"Art. 3o ..................................................................................\nXXII - a Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de maio de 2006, 118o da República.\nALCIDES RODRIGUES FILHO\n(D.O. de 02-05-2006) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2016-123",
+   "short": "LC 123/2016",
+   "title": "Lei Complementar nº 123, de 2016 (Altera a Lei Complementar nº 58, de 04 de julho de 2006, e dispõe sobre a reestruturação da carreira de Procurador do Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101110",
+   "first_law": "lc-2016-123",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2016-05-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101110",
+     "sha256": "d4bbd71eca0262e63f20c2d32cff144b0daaaa751a035f0935825ce8156a1ec7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 123, DE 02 DE MAIO DE 2016\nAltera a Lei Complementar nº 58, de 04 de julho de 2006, e dispõe sobre a reestruturação da carreira de Procurador do Estado.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 58, de 04 de julho de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 34. A carreira de Procurador do Estado é constituída das seguintes categorias:\nI - Procurador do Estado de classe especial;\nII - Procurador do Estado de classe intermediária;\nIII - Procurador do Estado de classe inicial;\nIV - Procurador do Estado substituto.\n§ 1º O ingresso na carreira dar-se-á no cargo de Procurador do Estado substituto.\n§ 2º Os Procuradores do Estado substitutos terão exercício pleno em qualquer unidade da Procuradoria-Geral do Estado, a critério do Procurador-Geral do Estado.\n§ 3º São privativos de Procurador do Estado os cargos de Advogado Setorial.\" (NR)\n\"Art. 49. Os quantitativos de cargos das categorias da carreira de Procurador do Estado são fixados da seguinte forma:\nI - 50 (cinquenta) cargos de Procurador do Estado de classe especial;\nII - 60 (sessenta) cargos de Procurador do Estado de classe intermediária;\nIII - 80 (oitenta) cargos de Procurador do Estado de classe inicial;\nIV - 30 (trinta) cargos de Procurador do Estado substituto.\" (NR)\n\"Art. 50. Os valores dos subsídios da carreira de Procurador do Estado serão fixados com diferença de 5% (cinco por cento) de uma para outra categoria, a partir do valor do subsídio do Procurador do Estado de classe especial.\" (NR)\n\"Art. 56. Os honorários advocatícios e outros encargos legais, decorrentes de atuação de Procuradores do Estado em feitos judiciais e administrativos, pertencem com exclusividade aos Procuradores do Estado e serão destinados aos ativos e aposentados, na forma como dispuser a categoria, por intermédio da Associação dos Procuradores do Estado de Goiás - APEG.\n§ 1º Os honorários advocatícios não arbitrados judicialmente são devidos em percentual de 10% (dez por cento) sobre o valor do crédito.\n§ 2° Na extinção do crédito por dação em pagamento ou compensação de precatório aplica-se o §1º deste artigo.\n§ 3º A falta de comprovação do pagamento dos honorários advocatícios incidentes sobre o crédito em cobrança judicial impedirá a baixa na dívida ativa.\n§ 4º Os honorários advocatícios e outros encargos legais decorrentes da atuação dos Procuradores do Estado serão recolhidos no mesmo documento de arrecadação do crédito principal.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O valor atual do subsídio do cargo de Procurador do Estado de classe especial será acrescido de 7% (sete por cento) a partir de 1º de novembro de 2016, sem prejudicar eventuais correções decorrentes da revisão a que alude o art. 37, inciso X, da Constituição Federal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os atuais cargos da carreira de Procurador do Estado, sendo Procurador do Estado de 1ª Categoria, Procurador do Estado de 2ª Categoria e Procurador do Estado de 3ª Categoria, são transformados nos cargos previstos no art. 1º desta Lei Complementar, quais sejam, Procurador do Estado de classe especial, Procurador do Estado de classe intermediária e Procurador do Estado de classe inicial, respectivamente, ficando nesses cargos automaticamente enquadrados os atuais ocupantes.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão por conta do Orçamento-Geral do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam revogados os incisos do caput do art. 56 da Lei Complementar nº 58/2006 e o art. 2º da Lei complementar nº 73, de 27 de maio de 2009.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei Complementar entra em vigor na data de sua publicação, exceto quanto à nova redação do art. 50 da Lei Complementar nº 58/2006, determinada pelo art. 1º e ao art. 2º desta Lei Complementar, que passam a vigorar a partir de 1º de novembro de 2016, e do art. 56, que retroage a 19 de janeiro de 2011.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de maio de 2016, 128º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJoaquim Cláudio Figueiredo Mesquita\nAna Carla Abrão Costa\n(D.O. de 03-05-2016)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2025-206",
    "short": "LC 206/2025",
    "title": "Lei Complementar nº 206, de 2025",
@@ -805,6 +1232,38 @@
        "label": "Art. 3º",
        "kind": "article",
        "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 2 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nMINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS\nANEXO ÚNICO\n(Altera o Anexo I da Lei Complementar nº 25, de 6 de julho de 1998)\n\"Anexo I\nQUADRO DA CARREIRA DO MINISTÉRIO PÚBLICO\nCargo Quantitativo\nPromotores(as) de Justiça de Entrância Intermediária 164\nPromotores(as) de Justiça de Entrância Inicial 59\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2010-079",
+   "short": "LC 79/2010",
+   "title": "Lei Complementar nº 79, de 2010 (Prorroga, até 31 de dezembro de 2010, o prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64 /2008)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101066",
+   "first_law": "lc-2010-079",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2010-09-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101066",
+     "sha256": "8211a698126f615d734082536916c5a53c367e292db178a1149b61bb4e88280d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 79, DE 02 DE SETEMBRO DE 2010\nProrroga, até 31 de dezembro de 2010, o prazo de adequação dos fundos rotativos da Secretaria da Saúde às disposições da Lei Complementar nº 64 /2008.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O prazo previsto no art. 10 da Lei Complementar nº 64, de 16 de dezembro de 2008, quanto aos fundos rotativos da Secretaria da Saúde, fica prorrogado para até dia 31 de dezembro de 2010.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo seus efeitos, porém, a partir de 1º de julho de 2010.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 02 de setembro de 2010, 122o da República.\nALCIDES RODRIGUES FILHO\n(D.O. de 03-09-2010) - Suplemento\n"
       }
      }
     }
@@ -882,6 +1341,169 @@
        "label": "Art. 11",
        "kind": "article",
        "text": "Art. 11. Esta Lei Complementar entra em vigor:\nI - quanto à alteração do art. 19 da Lei Complementar nº 25, de 06 de julho de 1998, na próxima eleição do Conselho Superior do Ministério Público do Estado de Goiás;\nII - quanto aos demais artigos, na data de sua publicação.\nGoiânia, 2 de setembro de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nMINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS\nANEXO I\n(Altera o Anexo I da Lei Complementar nº 25, de 06 de julho de 1998.)\n\"Anexo I\nQuadro da Carreira do Ministério Público\nCargo Quantitativo\nPromotores(as) de Justiça de Entrância Intermediária 152\nPromotores(as) de Justiça de Entrância Inicial 71\n..........................................................................................................................\" (NR)\nANEXO II\n(Altera o Anexo II da Lei Complementar nº 25, de 06 de julho de 1998.)\n\"Anexo II\nFunções Gratificadas\nCargo Quantitativo\nMembro do Conselho Superior do Ministério Público 7\nTOTAL 120\n..........................................................................................................................\" (NR)\nANEXO III\n(Altera o Anexo V da Lei Complementar nº 103, de 1º de outubro de 2013.)\n\"Anexo V\nQuadro de cargos em comissão - LC 103/2013\nCargo Remuneração (símbolo) Quantitativo\nAssessor da Corregedoria CC-8 3\nAssessor Jurídico de Centro de Apoio Operacional ............. 28\nAssessor Jurídico do Conselho Superior do Ministério Público ............. 8\nAssistente da Procuradoria-Geral de Justiça ............. 39\nAssistente do Conselho Superior do Ministério Público ............. 8\nTOTAL 1.356\n..........................................................................................................................\" (NR)\nANEXO IV\n(Altera o Anexo VI da Lei Complementar nº 103, de 1º de outubro de 2013.)\n\"Anexo VI\nQuadro de funções de confiança\nFunção Remuneração(símbolo) Função\nInspetor de Corregedoria FC-8 ...........\nTOTAL 354\n..........................................................................................................................\" (NR)\nANEXO V\n(Altera o Anexo I da Lei nº 13.162, de 05 de novembro de 1997.)\n\"Anexo I\nTabela dos cargos de provimento efetivo de nível superior\nGrupo Ocupacional Categoria Funcional - Área de Atuação Classes Referência Quantitativo\nAnalista Ambiental .................... ...............\nEngenharia Ambiental 4\nEngenharia Sanitária 3\n..........................................................................................................................\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-050",
+   "short": "LC 50/2005",
+   "title": "Lei Complementar nº 50, de 2005 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100992",
+   "first_law": "lc-2005-050",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-02-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100992",
+     "sha256": "154e1067551f666b785b818932bf6451a48bd7585470d2f1a2a736d347d18fc7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 50, DE 03 DE FEVEREIRO DE 2005.\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, na parte que especifica.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do artigo 156, § 3o da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o A alínea \"b\", § 1o do art. 35 da Lei Complementar no 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte redação:\n\"Art. 35.................................................................................\n§ 1o .....................................................................................\na) .....................................................................................\nb) Educação ambiental, sexual e para o trânsito; ética; estudos sócio-econômicos; programas de saúde, incluindo educação e segurança alimentar, podendo ser desenvolvidos através de programas especiais ou como temas transversais das disciplinas regulares do currículo;\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 03 de fevereiro de 2005, 117º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nIvan Soares de Gouvêa\nEliana Maria França Carneiro\n(D.O. de 11-02-2005)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2001-034",
+   "short": "LC 34/2001",
+   "title": "Lei Complementar nº 34, de 2001",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101013",
+   "first_law": "lc-2001-034",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2001-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101013",
+     "sha256": "2a9619da52b83b130bbb9f68a7e44471a2888bf2014c448d4d53b0ce6144e901",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 34, DE 3 DE OUTUBRO DE 2001.\nModifica a Lei Complementar no 27, de 30 de dezembro de 1999, alterada pela Lei Complementar no 30, de 9 de junho de 2000, nas partes que especifica e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Ficam acrescentados ao art. 1o da Lei Complementar no 27, de 30 de dezembro de 1999, os §§ 3o, 4o e 5o, nos seguintes termos:\n\"Art. 1o ...........................................................................................\n§ 3o Fica instituída a Rede Metropolitana de Transportes Coletivos, unidade sistêmica regional composta por todas as linhas e serviços de transportes coletivos, de todas as modalidades ou categorias, que servem ou que venham a servir o Município de Goiânia e os Municípios de Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Goianira, Guapó, Hidrolândia, Nerópolis, Santo Antônio de Goiás, Senador Canedo, Terezópolis e Trindade, inclusive linhas e serviços permanentes que promovam a interligação direta ou indireta destes municípios entre si e ou com o Município de Goiânia.\n§ 4o Em face da unidade sistêmica metropolitana, o Estado de Goiás e todos os municípios referidos no § 3o, na plena atividade de garantias constitucionais, exercerão seus poderes, direitos, prerrogativas e obrigações inerentes ao serviço público de transporte coletivo, exclusivamente na Câmara Deliberativa de Transportes Coletivos, instituída por esta lei complementar.\n§ 5o Por força do que dispõe o § 4o, a outorga de concessões, permissões e autorizações a qualquer título, bem como a organização, o planejamento, o gerenciamento, o controle e a fiscalização dos serviços de transportes coletivos, para fins de sua harmonização no contexto sistêmico da rede única instituída no § 3o, serão resolvidos pelo Estado de Goiás e pelos municípios na Câmara Deliberativa de Transportes Coletivos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Os §§ 4o e 5o do art. 6o da Lei Complementar n. 27, de 30 de dezembro de 1999, alterados pelo art. 1o da Lei Complementar no 30, de 9 de junho de 2000, passam a vigorar com a seguinte redação:\n\"Art. 6o .........................................................................................\n§ 4o Integra o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, com abrangência nos municípios referidos no § 3o do art. 1o e nos municípios que ainda vierem a integrar a Rede ali instituída, a Câmara Deliberativa de Transportes Coletivos, com a seguinte composição:\nI - o Secretário de Estado de Infra-Estrutura, que a presidirá;\nII - o Presidente da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos;\nIII - o Prefeito do Município de Goiânia;\nIV - o Secretário de Planejamento do Município de Goiânia;\nV - o Superintendente de Trânsito e Transportes do Município de Goiânia;\nVI - o Presidente da entidade gestora da Rede Metropolitana de Transportes Coletivos;\nVII - o Prefeito do Município de Aparecida de Goiânia;\nVIII - um Prefeito Municipal representando os demais municípios componentes da Rede Metropolitana de Transportes Coletivos, eleito pelos Prefeitos;\nIX - um representante da Assembléia Legislativa do Estado de Goiás, por ela designado.\n§ 5o À Câmara Deliberativa de Transportes Coletivos compete soberanamente estabelecer a política pública de regência da Rede Metropolitana de Transportes Coletivos, sendo, ainda, de sua competência exclusiva, tendo por base estudos e projetos técnicos elaborados pela entidade gestora a que se refere o inciso VI do § 4o deste artigo:\nI - decidir sobre a outorga de concessões, permissões e autorizações de serviços que integrem ou venham a integrar a Rede Metropolitana de Transportes Coletivos;\nII - estabelecer a política tarifária, fixar tarifas e promover revisões e reajustes tarifários;\nIII - deliberar sobre a organização, os investimentos, o planejamento, o gerenciamento, o controle e a fiscalização dos serviços;\nIV - orientar os procedimentos de revisão e adaptação da legislação estadual e dos municípios, no tocante ao serviço público de transporte coletivo, aos princípios e prescrições desta lei complementar;\nV - decidir, em última instância administrativa, sobre recursos interpostos nos processos de fiscalização julgados pela entidade gestora da Rede Metropolitana de Transportes Coletivos.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o O art. 9o da Lei Complementar no 27, de 30 de dezembro de 1999, alterado pelo art. 2o da Lei Complementar no 30, de 9 de junho de 2000, passa a vigorar com a seguinte redação:\n\"Art. 9o Fica instituída a entidade gestora da Rede Metropolitana de Transportes Coletivos, com a denominação social de Companhia Metropolitana de Transportes Coletivos - CMTC, sob a forma de empresa pública regida pela lei federal das sociedades por ações, a qual será protocolarmente constituída pelo Estado de Goiás e pelos municípios, para ser por estes provida e administrada majoritariamente, sob a liderança do Município de Goiânia, assegurada a participação do Estado de Goiás, desde já autorizada, até o limite de 25% (vinte e cinco por cento) do seu capital social.\n§ 1o A Companhia Metropolitana de Transportes Coletivos (CMTC) subordina-se à Câmara Deliberativa de Transportes Coletivos, revestindo-se de poder de polícia e tendo como missão promover e coordenar a execução dos projetos e atividades, bem como cumprir e fazer cumprir, na condição de braço executivo, as decisões e deliberações emanadas do órgão colegiado ao qual se vincula.\n§ 2o Poderão integrar a Companhia Metropolitana de Transportes Coletivos, na condição de acionistas, mediante prévia autorização legislativa, todos os municípios referidos no § 3o do art. 1o, adotada como critério definidor do respectivo percentual de participação no capital social a população censitária residente absoluta, segundo dados do Instituto Brasileiro de Geografia e Estatística.\n§ 3o Sem prejuízo do que mais venham acordar os acionistas, nos atos constitutivos e regimentais, o estatuto social da empresa pública de que trata este artigo estabelecerá:\nI - que o Conselho de Administração da empresa será composto de 6 (seis) membros titulares e 6 (seis) suplentes, sendo:\na) 3 (três) titulares e 3 (três) suplentes de indicação do acionista Município de Goiânia, um dos titulares na qualidade de Presidente;\nb) 1 (um) titular e 1 (um) suplente de indicação do acionista Estado de Goiás;\nc) 1 (um) titular e 1 (um) suplente de indicação do acionista Município de Aparecida de Goiânia;\nd) 1 (um) titular e 1 (um) suplente de indicação dos demais municípios participantes do capital social;\nII - que o Conselho de Administração será assistido por um Comitê Consultivo composto pelos titulares dos organismos de planejamento, trânsito e transporte de todos os municípios integrantes da Rede Metropolitana de Transportes Coletivos, designados pelos Prefeitos, com a finalidade de subsidiar a compatibilização do planejamento do transporte coletivo metropolitano com as políticas municipais de desenvolvimento urbano, uso e ocupação do solo, circulação viária e trânsito;\nIII - que a Diretoria Executiva, a ser eleita pelo Conselho de Administração, será composta pela Presidência, Diretoria Técnica, Diretoria de Fiscalização e Diretoria Administrativa-Financeira;\nIV - que os ocupantes dos cargos da Diretoria Executiva deverão ser profissionais de reconhecida capacidade técnica e comprovada experiência administrativa;\nV - que o provimento dos cargos da Diretoria Executiva será feito por meio de ato próprio do Conselho de Administração, cabendo a indicação:\na) do Presidente e do Diretor Técnico, ao Município de Goiânia;\nb) do Diretor de Fiscalização, ao Estado de Goiás;\nc) do Diretor Administrativo-Financeiro, aos demais Municípios participantes do capital social.\n§ 4o À entidade gestora competirá, sem prejuízo de outras competências inerentes que lhe sejam delegadas, executar a organização, o planejamento, o gerenciamento, o controle e a fiscalização operacional de todas e quaisquer modalidades ou categorias de serviços públicos de transportes coletivos de passageiros, prestados ou que possam ser prestados no contexto sistêmico único da Rede Metropolitana de Transportes Coletivos.\n§ 5o A empresa pública de que trata este artigo recepcionará todos os direitos, prerrogativas e obrigações relacionados com a gestão do transporte coletivo metropolitano de passageiros, anteriormente delegados à Empresa de Transporte Urbano do Estado de Goiás S/A e posteriormente à Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos, a ela incumbindo, por sub-rogação, inclusive o cumprimento e a adequação do vigente contrato de concessão que abriga, em instrumento único, indistintamente, todas as linhas e serviços concedidos que servem os municípios integrantes da Rede Metropolitana de Transportes Coletivos, especificados no § 3o do art. 1o\n§ 6o Excepcionadas as dívidas inscritas no passivo contábil e o contencioso de cunho tributário, trabalhista e previdenciário, serão transferidos da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos e também da Empresa de Transporte Urbano do Estado de Goiás S/A, para a entidade gestora de que trata este artigo, todo o acervo, contratos, documentação, bancos de dados, recursos materiais e tudo o mais que componha direitos, prerrogativas e obrigações inerentes à gestão executiva da Rede Metropolitana de Transportes Coletivos.\n§ 7o À Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos, no que respeitar à Rede Metropolitana de Transportes Coletivos, caberá oitiva nos procedimentos de reajustes e revisões tarifárias, mais aferição e controle dos indicadores de qualidade e fiscalização supletiva dos serviços prestados.\"\n"
+      },
+      "art-0004": {
+       "label": "Art. 4o",
+       "kind": "article",
+       "text": "Art. 4o Serão trasladados para a entidade gestora da Rede Metropolitana de Transportes Coletivos, e mantidos como estão até que decida de modo diferente a Câmara Deliberativa de Transportes Coletivos, os direitos, prerrogativas e obrigações derivados de autorizações provisórias expedidas pela Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos a operadores do serviço designado \"MICRO-SIT\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5o",
+       "kind": "article",
+       "text": "Art. 5o VETADO.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6o",
+       "kind": "article",
+       "text": "Art. 6o Até que seja legalmente constituída e definitivamente instalada a entidade gestora tratada nesta lei complementar, poderá a Câmara Deliberativa de Transportes Coletivos criar grupo executivo, de caráter transitório, nos moldes, composição e atribuições da empresa pública preconizada, com competência para operar como braço executivo da Câmara Deliberativa, inclusive para promover a gestão da Rede Metropolitana de Transportes Coletivos e coordenar a execução de projetos, obras, ações e medidas que forem apreciados e aprovados pelo órgão colegiado.\nParágrafo único. A Câmara Deliberativa de Transportes Coletivos coordenará os procedimentos administrativos necessários à constituição e instalação da empresa pública instituída por esta lei complementar.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7o",
+       "kind": "article",
+       "text": "Art. 7o Fica o Chefe do Poder Executivo autorizado a abrir, no corrente exercício, crédito especial até o limite de R$ 10.000.000,00 (dez milhões de reais), para fazer face à execução desta lei complementar.\nParágrafo único. Os recursos necessários à cobertura do crédito especial ora autorizado advirão de anulação parcial de dotações consignadas no vigente Orçamento Geral do Estado conforme inciso III do § 1o art. 43 da Lei no 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8o",
+       "kind": "article",
+       "text": "Art. 8o Esta lei complementar entrará em vigor na data da sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 3 de outubro de 2001, 113o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJônathas Silva\nGiuseppe Vecci\nCarlos Maranhão Gomes de Sá\n(D.O. de 08-10-2001)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-055",
+   "short": "LC 55/2005",
+   "title": "Lei Complementar nº 55, de 2005 (Altera dispositivo da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100997",
+   "first_law": "lc-2005-055",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-10-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100997",
+     "sha256": "04a9e31b761ec6bc32531ccb76bc672f77a93e81a5f5cb456daffc22340cc3e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 55, DE 03 DE OUTUBRO DE 2005.\nAltera dispositivo da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, aprova e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o A alínea \"b\" do § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte redação :\n\"Art. 35o [...]\n§ 1º A parte diversificada do currículo compõe-se de:\nb) Educação ambiental, sexual e para o trânsito; ética; estudos sobre prevenção, uso e abuso de drogas; estudos sócio-econômicos; programas de saúde, podendo ser desenvolvidos através de programas especiais ou como temas transversais das disciplinas regulares do currículo\";(NR).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O ensino do tema \"prevenção, uso e abuso de drogas\" objetiva conscientizar o educando sobre os malefícios das drogas, sob os pontos de vista moral, físico, psicológico e social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de janeiro de 2005.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 03 de outubro de 2005, 117o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 06-10-2005)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-158",
+   "short": "LC 158/2020",
+   "title": "Lei Complementar nº 158, de 2020",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103569",
+   "first_law": "lc-2020-158",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103569",
+     "sha256": "6b5062ffb0570f779f0248b10cd578fae06f5067649fb6f72eee868946cfb033",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 158, DE 03 DE NOVEMBRODE 2020.\nAltera o Anexo II da Lei Complementar nº 130 , de 11 de julho de 2017 , que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros e cria cargos e funções no âmbito da Defensoria Pública do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 23, § 7º, da Constituição Estadual , por seu Presidente, promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Anexo II da Lei Complementar nº 130, de 11 de julho de 2017, passa a vigorar com as alterações constantes do Anexo Único desta Lei Complementar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , em Goiânia, 03 de novembro de 2020.\nDeputado LISSAUER VIEIRA\n- PRESIDENTE -\nANEXO ÚNICO\n\"ANEXO II - QUADRO DE GRATIFICAÇÕES DOS CARGOS DA ADMINISTRAÇÃO SUPERIOR,\nDAS FUNÇÕES DE CONFIANÇA E DOS CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS\nCARGOS DA ADMINISTRAÇÃO SUPERIOR\nCARGOSS\nQUANTITATIVO\nSIMBOLOGIA\nGRATIFICAÇÃO\nDefensor Público-Geral do Estado\nCAS-1\nR$ 12.000.00\nPrimeiro Subdefensor Público-Geral do Estado\n1\nCAS-2\nR$ 9.000,000\nSegundo Subdefensor Público-Geral do Estado\n1\nCAS-2\nR$ 9.000,00\nCorregedor-Geral da Defensoria Pública do Estado\n1\nCAS-2\nR$ 9.000,00\nCARGOS EM COMISSÃO\nCARGOS\nQUANTITATIVO\nSIMBOLOGIA\nVENCIMENTO\nChefe de Gabinete\n1\nCC-1\nR$ 16.000,00\nDiretor-Geral de Administração e Planejamento\n1\nCC-1\nR$ 16.000,00\nDiretor de Comunicação Social\n1\nCC-2\nR$ 12.000.00\nDiretor de Tecnologia da Informação\n1\nCC-2\nR$ 12.000,00\nDiretor do Centro de Atendimento Multidisciplinar\n1\nCC-2\nR$ 12.000.00\nOuvidor-Geral da Defensoria Pública do Estado\n1\nCC-3\nR$ 8.000,00\nChefe do Centro de Atendimento Multidisciplinar do Interior\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Recursos Humanos\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento Financeiro\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Patrimônio e Almoxarifado\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Licitação e Contratos\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Compras\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Protocolo Geral, Expedição e Arquivo\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Sistema Integrado de Informações e Controle de Processos\n1\nCC-3\nR$ 8.000.000\nChefe do Departamento de Obras e Arquitetura\nCC-3\nR$ 8.000.000\nChefe do Departamento de Logística e Transportes\nCC-3\nR$ 8.000.00\nChefe do Departamento de Contabilidade e Arrecadação\n1\nCC-3\nR$ 8.000.000\nChefe do Departamento de Planejamento, Orçamento e Modernização Institucional\nCC-3\nR$ 8.000.00\nChefe do Departamento de Desenvolvimento em Tecnologia da Informação\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Infraestrutura em Tecnologia da Informação\n1\nCC-3\nR$ 8.000.00\nChefe do Departamento de Suporte e Redes em Tecnologia da Informação\n1\nCC-3\nR$ 8.000.00\nAssessor Técnico\n17\nCC-4\nR$ 7.000.000\nAssessor Especial 1\nCC-5\nR$ 4.000,00\nAssessor Especial 2\n6\nCC-6\nR$ 3.000.00\nFUNÇÕES DE CONFIANÇA - I\nFUNÇÕES\nQUANTITATIVO\nSIMBOLOGIA\nGRATIFICAÇÃO\nDiretor de Assuntos Jurídicos\n1\nFCI-1\nR$ 7.200.000\nDiretor de Controle Interno\nFCI-1\nR$ 7.200,00\nDiretor da Escola Superior da Defensoria Pública do Estado\n1\nFCI-1\nR$ 7.200.00\nCorregedor Auxiliar\n2\nFCI-2\nR$ 6.000.000\nCoordenador de Núcleo\nFCI-2\nR$ 6.000,00\nFUNÇÕES DE CONFIANÇA - II\nFUNÇÕESS\nQUANTITATIVO\nSIMBOLOGIA\nGRATIFICAÇÃO\nFunção de confiança 1\nFCII-1\nR$ 3.000,00\nFunção de confiança 2\n10\nFCII-2\nR$ 2.500,00\nFunção de confiança 3\n19\nFCII-3\nR$ 1.500,00\n\"(NR)\n"
       }
      }
     }
@@ -1174,6 +1796,43 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 4, de 1990 was altered on 3 date(s) its notes cite, the latest 1995-07-18."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-036",
+   "short": "LC 36/2002",
+   "title": "Lei Complementar nº 36, de 2002 (Altera a redação do art. 17 da Lei Complementar nº 26, de 28 de dezembro de 1998, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101010",
+   "first_law": "lc-2002-036",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2002-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101010",
+     "sha256": "3f6a3c10f17039d25668c1843b77c0a808cbbd3228bc92ff37990e55a846877e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 36, DE 04 DE JULHO DE 2002.\nAltera a redação do art. 17 da Lei Complementar no 26, de 28 de dezembro de 1998, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O \"caput\" do art. 17 da Lei Complementar no 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte redação:\n\"Art. 17. O mandato dos membros do Conselho é de 4 (quatro) anos, contados a partir da data da posse, permitida a recondução\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Fica revogada a Lei Complementar no 31, de 11 de julho de 2000.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta lei complementar entra em vigor na data de sua publicação, retroagindo, porém, os seus efeitos a 1o de janeiro de 2001.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 04 de julho de 2002, 114o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nWalter José Rodrigues\nGiuseppe Vecci\nWanderley Pimenta Borges\n(D.O. de 04-7-2002)\n"
+      }
+     }
     }
    ]
   },
@@ -1528,6 +2187,70 @@
    ]
   },
   {
+   "slug": "lc-2009-074",
+   "short": "LC 74/2009",
+   "title": "Lei Complementar nº 74, de 2009 (Altera a Lei Complementar nº 72, de 24 de março de 2009)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101062",
+   "first_law": "lc-2009-074",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-09-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101062",
+     "sha256": "4efb1cf4211f7ec3326a30fd634323ca68440ef8e8d7d40604b79c50f07a6896",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 74, DE 04 DE SETEMBRO DE 2009.\nAltera a Lei Complementar no 72, de 24 de março de 2009.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O art. 1o da Lei Complementar no 72, de 24 de março de 2009, passa a vigorar com a seguinte redação:\n\"Art. 1o O prazo previsto no art. 10 da Lei Complementar no 64, de 16 de dezembro de 2008, quanto aos fundos rotativos da Secretaria de Estado da Saúde, fica estendido até 31 de dezembro de 2009.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação, produzindo seus efeitos, porém, a partir de 1o de agosto de 2009.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, aos 04 de setembro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\n(D.O. de 11-09-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-151",
+   "short": "LC 151/2019",
+   "title": "Lei Complementar nº 151, de 2019 (Altera a Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Nacional.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101138",
+   "first_law": "lc-2019-151",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101138",
+     "sha256": "34e06226ac91be7be8ee95809c581ac0e03a760e87e283926681b4abd69b5b8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 151, DE 04 DE NOVEMBRO DE 2019.\nAltera a Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o sistema da Conta Única do Tesouro Estadual.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os dispositivos da Lei Complementar nº 121, de 21 de dezembro de 2015, a seguir elencados, passam a vigorar com a alteração e os acréscimos seguintes:\n\"Art. 2º ................................................\nParágrafo único - Toda a arrecadação da administração direta, autárquica e fundacional do Poder Executivo será realizada por meio de Documento de Arrecadação Estadual (DARE), a ser creditada na conta bancária descrita no caput. \" (NR)\n\" Art. 3º .................................................\n§ 1º Ficam excepcionados do caput deste artigo os recursos provenientes de capitalização do Regime de Previdência do Estado de Goiás, operações de crédito, convênios, aqueles originários da estrutura de assistência em saúde dos servidores públicos estaduais, bem como as transferências fundo a fundo, os quais, por determinação de legislação federal, tenham que permanecer segregados.\n§ 3º Receitas de multas de trânsito e demais receitas vinculadas não consideradas no §1º serão identificadas em registro contábil próprio, de modo a cumprir as vinculações legais.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 04 de novembro de 2019, 131º da República.\nRONALDO RAMOS CAIADO\n(D.O. de 04-11-2019)\nErrata - D.O. de 05-11-2019\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2024-199",
    "short": "LC 199/2024",
    "title": "Lei Complementar nº 199, de 2024",
@@ -1602,6 +2325,378 @@
    ]
   },
   {
+   "slug": "lc-2015-117",
+   "short": "LC 117/2015",
+   "title": "Lei Complementar nº 117, de 2015 (Institui, no âmbito do Estado de Goiás, o Estatuto da Microempresa e da Empresa de Pequeno Porte e dá outras providências)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101104",
+   "first_law": "lc-2015-117",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101104",
+     "sha256": "9b0ce6feec7251276b024f9aaba6ad9c9d3ba75377614e7ee6ee27038db6b946",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR No 117, DE 5 DE OUTUBRO DE 2015.\nInstitui, no âmbito do Estado de Goiás, o Estatuto da Microempresa e da Empresa de Pequeno Porte e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos dos arts. 5o, inciso X, 10 e 136, § 4o, da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1o Esta Lei Complementar institui o tratamento diferenciado, favorecido e simplificado a ser dispensado às microempresas e empresas de pequeno porte, no âmbito estadual, em conformidade com as normas gerais previstas na Lei Complementar federal no 123, de 14 de dezembro de 2006, que institui o Estatuto Nacional da Microempresa e da Empresa de Pequeno Porte, especialmente sobre:\nI - recepção da definição nacional de microempresas e empresas de pequeno porte;\nII - preferência nas aquisições de bens e serviços pelo Poder Público;\nIII - incentivo à geração de empregos;\nIV - incentivo à formalização de empreendimentos;\nV - incentivo à inovação e ao associativismo;\nVI - simplificação do processo de abertura e fechamento de empresas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o O Estado adotará o Regime Especial Unificado de Arrecadação de Tributos e Contribuições devidos pelas Microempresas e Empresas de Pequeno Porte - Simples Nacional, instituído pela Lei Complementar federal no 123/06, em relação ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação -ICMS-, para aquelas estabelecidas em seu território, que optarem pelo referido regime.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Para gerir o tratamento diferenciado e favorecido a ser dispensado às microempresas e empresas de pequeno porte de que trata o art. 1o desta Lei Complementar, nos seus aspectos não-tributários, ficam eleitos:\nI - o Fórum Permanente das Microempresas e Empresas de Pequeno Porte do Estado do Goiás -FEMEP-GO, órgão colegiado integrado por representantes de instituições públicas e privadas cujas competências são definidas em decreto;\nII - o Subcomitê Estadual do Comitê Gestor da Rede Nacional para Simplificação de Registro e da Legalização de Empresas e Negócios - SCGSIM-GO, órgão colegiado integrado por representantes de instituições públicas e privadas cujas competências são definidas em decreto.\n§ 1o O FEMEP deverá, em seu regulamento, constituir comitês temáticos, visando a uma atuação eficiente sobre os temas relevantes contidos no Estatuto Estadual.\n§ 2o O Poder Executivo Estadual poderá propor a instituição, com natureza de autarquia, de uma agência de desenvolvimento das micro e pequenas empresas com a missão de, diretamente ou com parcerias, implementar políticas públicas voltadas para o desenvolvimento das micro e pequenas empresas e fomentar o empreendedorismo no Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4o",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA DEFINIÇÃO DE MICROEMPRESA, DE EMPRESA DE PEQUENO PORTE E DE MICROEMPREENDEDOR INDIVIDUAL\nArt. 4o Para os efeitos desta Lei Complementar, considera-se:\nI - microempresa ou empresa de pequeno porte: a sociedade empresária, a sociedade simples, a empresa individual de responsabilidade limitada e o empresário como definido pelo art. 3o da Lei Complementar federal no 123/06;\nII - microempreendedor individual -MEI-: para efeito de aplicação de dispositivos especiais previstos nesta Lei Complementar, o empresário individual que optar por pertencer a essa categoria, nos termos definidos no § 1o do art. 18-A da Lei Complementar federal no 123/06, e atender a todos os requisitos estabelecidos nos arts. 18-B e 18-C da mesma Lei Complementar federal.\nParágrafo único. Todo benefício previsto nesta Lei Complementar e aplicável à microempresa estende-se ao MEI, sempre que lhe for mais favorável.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5o",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA INSCRIÇÃO, DA ALTERAÇÃO E DA BAIXA\n## Seção I\n## Disposições Gerais\nArt. 5o Os órgãos e as entidades estaduais terão sua atuação vinculada ao objetivo da simplificação e celeridade dos sistemas de registro e controle das microempresas e empresas de pequeno porte, promovendo ações conjuntas visando à integração com a Rede Nacional para a simplificação do Registro e da Legalização de Empresa e Negócios -REDESIM-, de que trata a Lei federal no 11.598, de 3 de dezembro de 2007, asseguradas ainda:\nI - a unificação do seu processo de registro e de formalização, de modo a evitar a duplicidade de exigências e garantir a linearidade do processo, da perspectiva do usuário;\nII - a simplificação, racionalização e uniformização dos procedimentos relativos à segurança sanitária, metrologia, ao controle ambiental, à prevenção contra incêndio, dentre outros.\n§ 1o O órgão estadual de meio ambiente estabelecerá os procedimentos e prazos para o licenciamento simplificado de empreendimentos de baixo impacto ambiental, definindo e divulgando a listagem das atividades autorizadas por meio da Sala do Empreendedor e da Central Virtual de Atendimento ao Licenciamento Estadual.\n§ 2o Fica dispensado o reconhecimento de firmas em cartório na apresentação de documentos para abertura, alteração, fechamento ou baixa de empresas, quando assinados perante o servidor público a quem devam ser apresentados.\n§ 3o Será assegurado aos órgãos públicos, resguardadas as informações em relação às quais a lei imponha o dever de sigilo, o acesso eletrônico, ainda que mediante convênio, às informações cadastrais necessárias à orientação prévia e formalização das microempresas e empresas de pequeno porte.\n§ 4o Ficam isentos das taxas, emolumentos e demais custas cobradas pelos órgãos e pelas entidades estaduais, relativos a abertura, inscrição, registro, alvará, licença, cadastro, manutenções, concessão do microcrédito, alterações cadastrais e baixas para o microempreendedor individual.\n§ 5o Fica a Junta Comercial do Estado de Goiás -JUCEG- autorizada a implementar redução das taxas relativas à emissão de certidão que indique o enquadramento da empresa, ou pessoa a ela equiparada, do empresário e das pessoas jurídicas beneficiados por esta Lei, obedecida a legislação federal.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6o",
+       "kind": "article",
+       "text": "Art. 6o Para a garantia dos procedimentos simplificados previstos nesta Lei Complementar serão desenvolvidos os sistemas necessários à integração dos procedimentos federais, estaduais e municipais de formalização e registro, pela adesão dos órgãos estaduais à REDESIM, ficando asseguradas:\nI - a priorização do desenvolvimento dos sistemas necessários a sua implantação no Estado do Goiás e do módulo integrador estadual da REDESIM, coordenado pelo SCGSIM-GO;\nII - a instalação do Portal do Empreendedor Goiano;\nIII - a criação da Sala do Empreendedor Goiano;\nIV - a criação da Central Virtual de Atendimento ao Licenciamento Estadual, como aplicativo integrado ao Portal do Empreendedor Goiano;\nV - a facilitação do acesso dos municípios, mediante convênio de adesão, ao fornecimento de orientação e disponibilização de uso de aplicativos desenvolvidos no âmbito estadual, especialmente os referidos nos incisos anteriores.\n§ 1o A Central Virtual de Atendimento ao Licenciamento Estadual constituir-se-á em módulo do Portal do Empreendedor Goiano e terá por objetivo estabelecer um padrão de rotinas de procedimento relativas ao registro e legalização de empresários e pessoas jurídicas no Estado do Goiás.\n§ 2o O SCGSIM-GO implantará o Portal e a Central Virtual de Atendimento ao Licenciamento Estadual no prazo de 360 (trezentos e sessenta) dias a partir do início de suas atividades.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7o",
+       "kind": "article",
+       "text": "Art. 7o A Sala do Empreendedor Goiano visa assegurar ao empresário entrada única de dados cadastrais e de documentos, configurando-se como unidade de atendimento presencial e centro integrado dos serviços prestados pelos órgãos e pelas entidades da administração pública direta, suas autarquias e fundações, com as seguintes atribuições:\nI - auxiliar o usuário na decisão de abertura do negócio, prestando orientações e informações pormenorizadas para realização do registro e da legalização de empresa;\nII - disponibilizar aos interessados, de forma presencial e pela rede mundial de computadores, informações, orientações e instrumentos que permitam pesquisas prévias às etapas de registro ou inscrição, alteração e baixa de empresários e pessoas jurídicas, de modo a oferecer ao usuário certeza quanto à documentação exigível e viabilidade do registro ou inscrição;\nIII - instrumentalizar a solicitação e emissão das certidões necessárias ao funcionamento da empresa;\nIV - permitir o acesso eletrônico necessário ao registro e à formalização das microempresas e empresas de pequeno porte;\nV - fornecer orientação quanto às obrigações tributárias, previdenciárias e trabalhistas, além de outras fixadas em lei ou regulamento.\n§ 1o Para o pleno funcionamento da Sala do Empreendedor, o Poder Executivo poderá firmar parceria com outras instituições públicas ou privadas para, entre outras funcionalidades, mediante presença física ou virtual, oferecer orientação sobre abertura, funcionamento e encerramento de empresas, incluindo apoio para elaboração de plano de negócio, pesquisa de mercado, orientação sobre crédito, associativismo e programas de apoio oferecidos no Estado.\n§ 2o A Sala do Empreendedor Goiano deverá permitir o acesso à base de dados da REDESIM, funcionando de forma integrada com as Centrais de Atendimento Empresarial -FÁCIL-, previstas na legislação federal, sem prejuízo da manutenção de base de dados com outras informações de interesse estadual.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8o",
+       "kind": "article",
+       "text": "Art. 8o O Portal do Empreendedor Goiano será integrado pelos órgãos da administração direta, suas autarquias e fundações, centralizando o acesso eletrônico pela rede mundial de computadores, facilitando a todos o acesso aos sistemas necessários à formalização e registro das empresas de pequeno porte e, ainda, divulgando as matérias de interesse das empresas do Estado de Goiás.\nParágrafo único. Também constarão do Portal do Empreendedor as matérias relacionadas ao Portal de Compras do Governo do Estado de Goiás e aos Editais de Leilões promovidos pelo Poder Público para facilitar o acesso das microempresas e empresas de pequeno porte ao regime favorecido para aquisição ou fornecimento de bens e serviços.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9o",
+       "kind": "article",
+       "text": "Art. 9o Fica adotada, para utilização nos cadastros e registros administrativos do Estado, a Classificação Nacional de Atividades Econômicas -CNAE-, de que trata a Resolução IBGE-CONCLA no 1, de 25 de junho de 1998, e atualizações posteriores.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## Seção II\n## Da Consulta Prévia\nArt. 10. Para a realização da pesquisa prévia à elaboração ou alteração de ato constitutivo, será facilitado o acesso às informações no Portal do Empreendedor Goiano, ficando disponibilizada orientação presencial na Sala do Empreendedor relativamente:\nI - à descrição oficial do endereço de seu interesse e à possibilidade do exercício da atividade desejada no local escolhido;\nII - aos requisitos necessários à obtenção das autorizações para o funcionamento, segundo a natureza da atividade pretendida, o porte, o grau de risco e a localização;\nIII - à possibilidade de uso do nome empresarial escolhido.\n§ 1o Será mantida no Portal do Empreendedor a lista atualizada das atividades consideradas de alto risco, que exigirão inspeção antes da concessão do Alvará de Funcionamento.\n§ 2o O resultado da pesquisa prévia de que trata este artigo deverá constar da documentação que instruirá o requerimento de registro no órgão executor do Registro Público de Empresas Mercantis e Atividades Afins ou de Registro Civil das Pessoas Jurídicas.\n§ 3o Serão gratuitos todos os atendimentos e orientações realizados com base em dados franqueados pela União, estados ou municípios, bem como todas as atividades realizadas pelo Portal do Empreendedor ou pela Sala do Empreendedor, sem prejuízo das disposições constantes da Lei federal no 11.598/07 -REDESIM- e da Lei Complementar federal no 123/06.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A resposta à consulta prévia será expedida no prazo máximo de 3 (três) dias úteis para o endereço eletrônico fornecido, ou, se for o caso, para o endereço postal do requerente.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## Seção III\n## Do Registro, da Alteração e da Baixa\nArt. 12. O pedido de registro, alteração ou baixa das microempresas e empresas de pequeno porte será efetuado diretamente na REDESIM, sendo facilitados o acesso eletrônico no Portal do Empreendedor Goiano e a orientação presencial na Sala do Empreendedor.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Os órgãos e as entidades envolvidos na abertura e no fechamento de empresas que sejam responsáveis pela emissão de licenças e autorizações de funcionamento realizarão vistorias somente após o início de operação do estabelecimento, exceto nos casos em que o grau de risco seja considerado alto pela legislação.\n§ 1o Na hipótese de indeferimento do registro, o interessado será informado sobre o respectivo motivo.\n§ 2o O FEMEP-GO envidará esforços para que a relação de atividades e a de situações de alto risco seja uniforme para todo o Estado, de forma que os municípios possam a elas aderir.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## Seção IV\n## Do Microempreendedor Individual - MEI\nArt. 14. O registro do microempreendedor individual referido no inciso II do art. 4o será efetuado diretamente no Portal do Empreendedor, consoante legislação nacional, observando-se, ainda, que:\nI - o acesso às informações necessárias será disponibilizado por meio eletrônico no Portal do Empreendedor Goiano;\nII - serão fornecidos orientação presencial e meio de acesso aos portais eletrônicos na Sala do Empreendedor, bem como meios para preenchimento e impressão dos formulários necessários à efetivação do seu registro.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. O Estado instituirá programa de formalização do microempreendedor individual, envolvendo entidades de interesse da sociedade civil organizada, com o objetivo de incentivar a legalização de negócios informais de pequeno porte, oferecendo serviços destinados à constituição e abertura de estabelecimentos comerciais, industriais e de prestação de serviços, bem como de proporcionar acompanhamento contábil, planejamento e assessoramento empresarial.\nParágrafo único. Os municípios poderão aderir ao programa de formalização de que trata este artigo.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA FISCALIZAÇÃO ORIENTADORA\nArt. 16. A fiscalização das microempresas e empresas de pequeno porte pelos órgãos e pelas entidades da administração direta, suas autarquias e fundações, responsáveis pelo cumprimento da legislação metrológica, sanitária, ambiental e de segurança, deverá ter natureza prioritariamente orientadora, quando a atividade ou situação, por sua natureza, comportar grau de risco compatível com esse procedimento.\n§ 1o Será observado o critério de dupla visita para lavratura de autos de infração, salvo quando for constatada infração por falta de registro de empregado ou anotação da Carteira de Trabalho e Previdência Social -CTPS-, ou, ainda, na ocorrência de reincidência, fraude, resistência ou embaraço à fiscalização.\n§ 2o A dupla visita consiste em uma primeira ação, com a finalidade de verificar a regularidade do estabelecimento e, em ação posterior, de punir, quando, verificada qualquer irregularidade na primeira visita, não for efetuada a respectiva regularização no prazo determinado.\n§ 3o Ressalvadas as hipóteses previstas no § 1o, caso seja constatada alguma irregularidade na primeira visita do agente público, o mesmo formalizará Termo de Ajustamento de Conduta, conforme regulamentação, devendo sempre conter a respectiva orientação e o plano negociado com o responsável pelo estabelecimento.\n§ 4o Os órgãos e as entidades competentes definirão, em 90 (noventa) dias a partir da entrada em vigor desta Lei Complementar, as atividades e situações cujo grau de risco seja considerado alto, as quais não se sujeitarão ao disposto neste artigo.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DO ACESSO AOS MERCADOS\n## Seção I\n## Disposições Gerais\nArt. 17. Nas contratações públicas, será concedido tratamento diferenciado, simplificado e favorecido para as microempresas e empresas de pequeno porte, objetivando:\nI - a promoção do desenvolvimento econômico e social em âmbito municipal e regional;\nII - a ampliação da eficiência das políticas públicas para o setor;\nIII - o incentivo à inovação tecnológica.\nParágrafo único. Os dispositivos constantes deste capítulo aplicam-se à administração estadual direta, aos fundos especiais, às autarquias, fundações, empresas públicas e sociedades de economia mista controladas direta ou indiretamente pelo Estado de Goiás.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Para a ampliação da participação das microempresas e empresas de pequeno porte nas licitações, os órgãos ou as entidades da administração pública estadual deverão, sempre que possível:\nI - estabelecer e divulgar planejamento anual das contratações públicas a serem realizadas, com a estimativa de quantitativo e de data das contratações;\nII - padronizar e divulgar as especificações dos bens e serviços contratados de modo a orientar a adequação dos processos produtivos;\nIII - evitar especificações que restrinjam a participação das microempresas e empresas de pequeno porte, quando da definição do objeto da contratação.\nParágrafo único. A Secretaria de Estado de Gestão e Planejamento -SEGPLAN- fará constar no Cadastro Unificado de Fornecedores do Estado de Goiás -CADFOR- identificação das microempresas e empresas de pequeno porte, sediadas regionalmente, com as respectivas linhas de fornecimento, de modo a facilitar acesso às licitações e formação de consórcios e subcontratações.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Na habilitação em licitações referentes a fornecimento de bens para pronta entrega ou locação de materiais, não será exigida de microempresa ou empresa de pequeno porte apresentação de balanço patrimonial do último exercício social.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Nas licitações públicas, havendo alguma restrição na comprovação da regularidade fiscal das microempresas e empresas de pequeno porte, será assegurado o prazo de até cinco dias úteis, prorrogáveis por período igual, a critério da administração, para a regularização da documentação, contados do momento em que o proponente for declarado o vencedor do certame.\n§ 1o Em caso de atraso, por parte dos órgãos competentes, da emissão de certidões negativas de débito ou de certidões positivas com efeito de negativas, o licitante poderá apresentar à administração pública, em prazo de até cinco dias úteis, prorrogáveis por igual período a critério da administração, contados do término do prazo conferido aos referidos órgãos responsáveis pela emissão, outro documento que comprove a extinção ou suspensão do crédito tributário, respectivamente, nos termos do Capítulo III do Código Tributário Estadual, instituído pela Lei no 11.651, de 26 de dezembro de 1991, juntamente com a prova de protocolo do pedido da certidão comprobatória.\n§ 2o O tratamento favorecido previsto no caput deste artigo será concedido somente se as microempresas e empresas de pequeno porte apresentarem no certame toda a documentação fiscal exigida, mesmo que esta contenha alguma restrição.\n§ 3o O motivo da irregularidade fiscal pendente deverá ficar registrado em ata, bem como a indicação do documento necessário para comprovar a regularização.\n§ 4o A não-regularização da documentação no prazo do caput, implicará decadência do direito à contratação, sem prejuízo das sanções previstas no art. no 81 da Lei no 8.666, de 21 de junho de 1993, sendo facultado à administração convocar os licitantes remanescentes, na ordem de classificação, para a assinatura do contrato, ou revogar a licitação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Nas licitações do tipo menor preço será assegurada, como critério de desempate, preferência de contratação para as microempresas e empresas de pequeno porte.\n§ 1o Entendem-se por empate aquelas situações em que as ofertas apresentadas pelas microempresas e empresas de pequeno porte sejam iguais ou até 10% (dez por cento) superiores ao menor preço.\n§ 2o Na modalidade pregão, o intervalo percentual estabelecido no § 1o será de até 5% (cinco por cento) superior ao menor preço.\n§ 3o O disposto neste artigo somente se aplicará quando a melhor oferta válida não tiver sido apresentada por microempresa, empresa de pequeno porte ou equiparada.\n§ 4o A preferência de que trata este artigo será concedida da seguinte forma:\nI - ocorrendo empate, a microempresa, empresa de pequeno porte ou equiparada mais bem classificada poderá apresentar proposta de preço inferior àquela considerada vencedora do certame, situação em que será adjudicado o objeto licitado em seu favor;\nII - o direito de preferência previsto no inciso I será exercido, sob pena de preclusão:\na) na modalidade pregão, após o encerramento da rodada de lances, devendo ser apresentada nova proposta no prazo máximo de cinco minutos por item em situação de empate;\nb) nas demais modalidades, no prazo máximo de dois dias úteis contados da ciência inequívoca da situação de empate;\nIII - no caso de igualdade dos valores apresentados pelas microempresas e empresas de pequeno porte que estejam em situação de empate, será realizado sorteio entre elas para que se identifique aquela que poderá exercer o direito de preferência previsto no inciso I;\nIV - na hipótese da não-contratação da microempresa, empresa de pequeno porte ou equiparada com base no inciso I, serão convocadas as remanescentes que porventura se enquadrem em situação de empate, na ordem classificatória, para o exercício do mesmo direito.\n§ 5o Na hipótese da não-contratação nos termos previstos no § 4o, o objeto licitado será adjudicado em favor da proposta originalmente vencedora do certame.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Deverão ser realizados processos licitatórios destinados exclusivamente à participação de microempresas e empresas de pequeno porte nas contratações cujo valor seja de até R$ 80.000,00 (oitenta mil reais).\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. Nas licitações para a prestação de serviços, execução de obras e fornecimento de bens vinculados à prestação de serviços acessórios, os órgãos e as entidades contratantes poderão estabelecer, nos instrumentos convocatórios, a exigência de subcontratação de microempresas e empresas de pequeno porte, mediante documento que ateste a concordância das licitantes com a futura subcontratação, sob pena de desclassificação, prevendo-se, para tanto:\nI - o percentual de exigência de subcontratação de até 30% (trinta por cento) do valor licitado;\nII - que as microempresas e empresas de pequeno porte a serem subcontratadas deverão estar indicadas e qualificadas pelos licitantes com a descrição dos bens e serviços a serem fornecidos e respectivos valores;\nIII - que, no momento da habilitação, deverá ser apresentada a documentação da regularidade fiscal das microempresas e empresas de pequeno porte a ser subcontratadas, devendo-se manter a regularidade ao longo da vigência contratual, sob pena de rescisão, aplicando-se o prazo para regularização previsto no art. 20;\nIV - que a empresa contratada comprometa-se, alternativamente:\na) a substituir a subcontratada, no prazo máximo de 30 (trinta) dias, na hipótese de extinção da subcontratação, mantendo o percentual originalmente subcontratado até a sua execução total, notificando o órgão ou a entidade contratante, sob pena de rescisão, sem prejuízo das sanções cabíveis;\nb) a demonstrar a inviabilidade da substituição, hipótese em que ficará responsável pela execução da parcela originalmente subcontratada;\nV - a responsabilidade da contratada pela padronização, compatibilidade, qualidade e pelo gerenciamento centralizado da subcontratação.\n§ 1o O disposto no inciso II do caput deste artigo deverá ser comprovado no momento da análise da aceitação das propostas.\n§ 2o Deverá constar ainda do instrumento convocatório que a exigência de subcontratação não será aplicável quando o licitante for:\nI - microempresa, empresa de pequeno porte ou equiparada;\nII - consórcio composto em sua totalidade por microempresas e empresas de pequeno porte, respeitado o disposto no art. 33 da Lei no 8.666/93;\nIII - consórcio composto parcialmente por microempresas e empresas de pequeno porte com participação igual ou superior ao percentual exigido em subcontratação.\n§ 3o É vedada a exigência no instrumento convocatório de subcontratação de itens ou parcelas determinadas ou de empresas específicas.\n§ 4o Os empenhos e pagamentos referentes às parcelas subcontratadas serão destinados diretamente às microempresas e empresas de pequeno porte subcontratadas.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. Nas subcontratações de que trata o art. 23, observar-se-á o seguinte:\nI - deverá ser comprovada a regularidade fiscal das microempresas e empresas de pequeno porte contratadas e subcontratadas, como condição de assinatura do contrato, bem como ao longo da vigência contratual, sob pena de rescisão;\nII - a empresa contratada compromete-se a substituir a subcontratada, no prazo máximo de trinta dias, na hipótese de extinção da subcontratação, mantendo o percentual originalmente subcontratado até a sua execução total, notificando o órgão ou a entidade contratante, sob pena de rescisão, sem prejuízo das sanções cabíveis;\nIII - demonstrada a inviabilidade de nova subcontratação, nos termos do inciso II, a administração pública poderá transferir a parcela subcontratada à empresa contratada, desde que sua execução já tenha sido iniciada.\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. Nas licitações para a aquisição de bens, prestação de serviços e execução de obras de natureza divisível, os órgãos e as entidades contratantes poderão reservar cota de até 25% (vinte e cinco por cento) do objeto, para contratação de microempresas e empresas de pequeno porte.\n§ 1o O instrumento convocatório deverá prever que, não havendo vencedor para cota reservada, ela poderá ser adjudicada ao vencedor da cota principal, ou, diante de sua recusa, aos licitantes remanescentes, desde que pratiquem o preço do primeiro colocado.\n§ 2o Se a mesma empresa vencer a cota reservada e a principal, a contratação da reservada deverá ocorrer pelo preço da principal, caso ele tenha sido menor do que o obtido na reservada.\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Não se aplica o disposto nos arts. 22 e 25 quando:\nI - não houver o mínimo de 3 (três) fornecedores competitivos enquadrados como microempresas e empresas de pequeno porte sediadas no local ou na região e capazes de cumprir as exigências estabelecidas no instrumento convocatório;\nII - o tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte não for vantajoso para a administração ou representar prejuízo ao conjunto ou complexo do objeto a ser contratado;\nIII - a licitação for dispensável ou inexigível, nos termos dos arts. 24 e 25 da Lei no 8.666/93;\nIV - o tratamento diferenciado e simplificado não for capaz de alcançar os objetivos previstos no art. 1o, justificadamente.\nParágrafo único. Para efeito do disposto no inciso II deste artigo, considera-se não-vantajosa a contratação, embora constatado posteriormente, quando a licitação resultar em preço superior ao valor estabelecido como referência.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Os critérios de tratamento diferenciado e simplificado para as microempresas e empresas de pequeno porte deverão estar expressamente previstos no instrumento convocatório.\n"
+      },
+      "art-0028": {
+       "label": "Art. 28",
+       "kind": "article",
+       "text": "Art. 28. Para fins do disposto neste Capítulo, o enquadramento como microempresa ou empresa de pequeno porte dar-se-á nas condições do Estatuto Nacional de Microempresa e Empresa de Pequeno Porte, instituído pela Lei Complementar federal no 123, de 14 de dezembro de 2006, em especial quanto ao seu art. 3o, devendo ser exigido dessas empresas:\nI - certidão que ateste o enquadramento, expedida pela Junta Comercial ou, alternativamente, documento gerado pela Receita Federal, por meio de consulta no seu sítio, podendo ser confrontado com as peças contábeis apresentadas ao certame licitatório;\nII - declaração, sob as penas da lei, de cumprimento dos requisitos legais para a qualificação como microempresa ou empresa de pequeno porte, em que se ateste a aptidão para usufruir do tratamento favorecido estabelecido nos arts. 42 a 49 da Lei Complementar federal no 123/06.\nParágrafo único. A identificação das microempresas ou empresas de pequeno porte na sessão pública do pregão eletrônico só deverá ocorrer após o encerramento dos lances, de modo a dificultar a possibilidade de conluio ou fraude no procedimento.\n"
+      },
+      "art-0029": {
+       "label": "Art. 29",
+       "kind": "article",
+       "text": "Art. 29. A Secretaria de Estado de Gestão e Planejamento -SEGPLAN- poderá expedir normas complementares a este Capítulo.\n"
+      },
+      "art-0030": {
+       "label": "Art. 30",
+       "kind": "article",
+       "text": "Art. 30. No âmbito do programa de estímulo à participação das microempresas e empresas de pequeno porte nas compras do governo, a administração adotará regras com objetivo de:\nI - capacitar os gestores responsáveis pelas contratações públicas;\nII - estimular as entidades públicas e privadas de apoio e de representação a capacitarem as microempresas e empresas de pequeno porte visando à sua participação nos processos licitatórios.\n"
+      },
+      "art-0031": {
+       "label": "Art. 31",
+       "kind": "article",
+       "text": "Art. 31. O poder público estadual, por intermédio de convênios, de programas de governo formulados com instituições financeiras, sociedades de garantia de crédito e demais entidades de interesse, implementará linha de crédito para as microempresas e empresas de pequeno porte com sede em Goiás, vencedoras de licitação, para produção e comercialização dos produtos licitados pelo poder público.\n"
+      },
+      "art-0032": {
+       "label": "Art. 32",
+       "kind": "article",
+       "text": "Art. 32. A microempresa, a empresa de pequeno porte e os titulares de direitos creditórios decorrentes de empenhos liquidados por órgãos e entidades do Estado, não pagos em até trinta dias contados da data de liquidação, poderão emitir título de crédito equivalente à cédula de crédito microempresarial prevista no art. 46 da Lei Complementar federal no 123/06.\nParágrafo único. A cédula de crédito microempresarial mencionada no caput deverá ser emitida por meio de título de crédito regido, subsidiariamente, pela legislação federal prevista para as cédulas de crédito comercial, tendo como lastro o empenho do poder público.\n"
+      },
+      "art-0033": {
+       "label": "Art. 33",
+       "kind": "article",
+       "text": "Art. 33. Sem prejuízo da economicidade, as compras de bens e serviços por parte dos órgãos da administração direta, autarquias e fundações, sociedades de economia mista, empresas públicas e demais entidades de direito privado controladas, direta ou indiretamente, pelo Estado, deverão ser planejadas e divulgadas de forma a possibilitar a mais ampla participação de microempresas e empresas de pequeno porte, ainda que por intermédio de sociedade de propósito específico.\n§ 1o Para os efeitos deste artigo poderá ser utilizada a licitação por item, quando destinada à aquisição de diversos bens ou à contratação de serviços pela administração que puderem ser adjudicados a licitantes distintos.\n§ 2o Quando não houver possibilidade de atendimento do disposto no caput, em decorrência de natureza do produto, inexistência de, pelo menos, três fornecedores considerados de pequeno porte, exigência de qualidade específica, risco de fornecimento considerado alto ou qualquer outro aspecto impeditivo, essa circunstância deverá ser justificada no processo.\n"
+      },
+      "art-0034": {
+       "label": "Art. 34",
+       "kind": "article",
+       "text": "Art. 34. As necessidades de compra de gêneros alimentícios perecíveis e outros produtos afins, por parte dos órgãos da administração direta, suas autarquias e fundações, sociedades de economia mista, empresas públicas e demais entidades de direito privado controladas, direta ou indiretamente, pelo Estado, serão preferencialmente adequadas à oferta de produtores.\n§ 1o As compras deverão, sempre que possível, ser subdivididas em tantas parcelas quantas necessárias, para aproveitar as peculiaridades do mercado local ou regional, visando à economicidade.\n§ 2o A aquisição, salvo razões preponderantes, devidamente justificadas, deverá ser planejada de forma a considerar a capacidade produtiva dos fornecedores locais ou regionais, a disponibilidade de produtos frescos e a facilidade de entrega nos locais de consumo, de forma a evitar custos com transporte e armazenamento.\n"
+      },
+      "art-0035": {
+       "label": "Art. 35",
+       "kind": "article",
+       "text": "Art. 35. Nas aquisições de bens ou serviços comuns que envolvam microempresas e empresas de pequeno porte, deverá ser dada preferência pela utilização do pregão.\n"
+      },
+      "art-0036": {
+       "label": "Art. 36",
+       "kind": "article",
+       "text": "Art. 36. Nos procedimentos de licitação, deverá ser dada ampla divulgação aos editais no âmbito local ou regional, inclusive junto às entidades de apoio e representação das micro e pequenas empresas para divulgação em seus veículos de comunicação.\nParágrafo único. Para os fins deste artigo, os órgãos responsáveis pela licitação poderão celebrar convênios com as entidades referidas no caput para divulgação da licitação diretamente em seus meios de comunicação.\n"
+      },
+      "art-0037": {
+       "label": "Art. 37",
+       "kind": "article",
+       "text": "## Seção II\n## Certificado Cadastral da Microempresa ou da Empresa de Pequeno Porte - MPE\nArt. 37. Para a ampliação da participação das microempresas e empresas de pequeno porte nas licitações, o Estado deverá:\nI - instituir ou utilizar cadastro que possa identificar as microempresas e empresas de pequeno porte sediadas no local, com suas linhas de fornecimento, para facilitar a participação das mesmas nas licitações públicas, com a identificação das linhas de fornecimento de bens e serviços, a fim de possibilitar a capacitação e notificação das licitações e facilitar a formação de parcerias e subcontratações, além de estimular o cadastramento destas empresas nos sistemas eletrônicos de compras;\nII - divulgar as contratações públicas a serem realizadas, com a estimativa de quantidade e de data das contratações, no sítio oficial do Estado, em murais públicos, jornais ou outras formas de divulgação;\nIII - padronizar e divulgar as especificações dos bens e serviços a serem contratados, de modo a orientar, através da Sala do Empreendedor, as microempresas e empresas de pequeno porte a fim de dar conhecimento das especificações técnico-administrativas.\nParágrafo único. Os municípios poderão aderir aos instrumentos previstos neste artigo.\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "## Seção III\n## Da Meta Anual de Participação\nArt. 38. A administração pública deverá definir, até 30 de março de cada ano, a meta anual de participação das microempresas e empresas de pequeno porte nas compras do Estado.\nParágrafo único. A meta será revista por ato do Chefe do Poder Executivo.\n"
+      },
+      "art-0039": {
+       "label": "Art. 39",
+       "kind": "article",
+       "text": "## Seção IV\n## Do Portal de Compras\nArt. 39. O Poder Executivo, por meio da Secretaria de Estado de Gestão e Planejamento:\nI - instituirá o Portal de Compras Governamentais, objetivando centralizar as informações referentes a compras públicas e ações de planejamento das compras de governo;\nII - providenciará a elaboração do portal de compras eletrônicas do Estado de Goiás, objetivando, especialmente:\na) negociar preço de bens e serviços adquiridos pela administração pública, por meio de procedimentos eletrônicos, permitindo ampla competitividade e igualdade de condições de participação para todos os seus usuários;\nb) proporcionar a participação mais econômica e ágil dos fornecedores nos processos de aquisição eletrônica estadual;\nc) proporcionar facilidade e comodidade nas aquisições, ainda que por adesão, de secretarias de estado, autarquias, incluindo as universidades, fundações, empresas estatais e municípios;\nd) promover, por cotação eletrônica, a aquisição de bens ou serviços por dispensa de licitação;\ne) dar ampla flexibilidade e possibilidade à política de compras governamentais voltadas à participação de microempresas e empresas de pequeno porte, locais e regionais.\nParágrafo único. A administração pública estadual deverá utilizar o portal eletrônico para:\nI - disponibilizar informações referentes aos procedimentos adotados nas realizações de suas compras;\nII - divulgar previamente os editais de licitação na forma da legislação, destacando a forma de participação das microempresas e empresas de pequeno porte;\nIII - permitir o acompanhamento das licitações;\nIV - ampliar a participação de fornecedores por meio de divulgação dos instrumentos de cadastramento, credenciamento e habilitação;\nV - divulgar as tabelas de preços referenciais do Estado;\nVI - realizar outras ações relacionadas.\n"
+      },
+      "art-0040": {
+       "label": "Art. 40",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DO ASSOCIATIVISMO\nArt. 40. O Poder Executivo, por si ou através de parcerias com entidades públicas ou privadas, estimulará a organização de empreendedores, fomentando o associativismo e a constituição de sociedades de propósito específico, formadas por microempresas e empresas de pequeno porte optantes pelo Simples Nacional, em busca da competitividade, de forma a contribuir com o desenvolvimento local ou regional, integrado e sustentável, bem como adotará mecanismos de incentivo às cooperativas e associações, para viabilizar a criação, a manutenção e o desenvolvimento do sistema associativo e cooperativo no Estado, entre os quais:\nI - estímulo à inclusão do estudo do cooperativismo e associativismo nas escolas estaduais, visando ao fortalecimento da cultura empreendedora como forma de organização de produção, consumo e trabalho;\nII - estímulo à forma cooperativa de organização social, econômica e cultural nos diversos ramos de atuação, com base nos princípios gerais do associativismo e na legislação vigente;\nIII - estabelecimento de mecanismos de triagem e qualificação da informalidade para implementação de associações e sociedades cooperativas de trabalho, visando à inclusão da população do município no mercado produtivo, fomentando alternativas para a geração de trabalho e renda;\nIV - criação de instrumentos específicos de estímulo à atividade associativa destinada à exportação.\n"
+      },
+      "art-0041": {
+       "label": "Art. 41",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DO ESTÍMULO À INOVAÇÃO\n## Seção I\n## Programas de Estímulo à Inovação\nArt. 41. Os órgãos e as entidades da administração pública estabelecerão uma política de estímulo à inovação de produtos e processos de gestão e operação das microempresas e empresas de pequeno porte, inclusive apoiando a constituição de incubadoras, com os seguintes objetivos:\nI - aumentar a lucratividade e a competitividade, por meio de melhorias na gestão e operação que impliquem ganhos efetivos de qualidade e produtividade;\nII - estimular as pesquisas aplicadas e dirigidas às microempresas e empresas de pequeno porte, envolvendo todos os órgãos e entidades que tenham entre seus objetivos a execução de pesquisa, desenvolvimento, ensino, financiamento, promoção, estímulo ou apoio, nas áreas científica, tecnológica, jurídica ou institucional;\nIII - capacitar os empresários, administradores e funcionários para aplicação dos novos modelos, técnicas e produtos nos seus processos de gestão e operação;\nIV - apoiar o registro, a certificação e o desenvolvimento de produtos e inovações.\n§ 1o No programa de estímulo à inovação de que trata este artigo, observar-se-á o seguinte:\nI - as condições de acesso para as microempresas e empresas de pequeno porte serão diferenciadas, favorecidas e simplificadas;\nII - o montante de recursos disponíveis e suas condições de acesso deverão ser expressos nos respectivos orçamentos e amplamente divulgados.\n§ 2o O Estado terá por meta a aplicação de, no mínimo, 20% (vinte por cento) dos recursos destinados à inovação para o desenvolvimento de tal atividade nas microempresas ou empresas de pequeno porte.\n§ 3o Os órgãos e as entidades atuantes em pesquisa, desenvolvimento ou capacitação tecnológica terão por meta efetivar suas aplicações, no percentual mínimo fixado no § 2o deste artigo, em programas e projetos de apoio às microempresas ou às empresas de pequeno porte, divulgando, no primeiro trimestre de cada ano, informação relativa aos recursos aplicados, número de empresas atendidas e a respectiva porcentagem em relação ao total dos recursos destinados a esse fim.\n§ 4o Para efeito do caput deste artigo, o Poder Executivo poderá celebrar convênios com a União, as demais unidades federadas, entidades de representação e apoio a microempresas e a empresas de pequeno porte, agências de fomento, instituições científicas e tecnológicas, os núcleos de inovação tecnológica, organismos internacionais e com as instituições de apoio.\n§ 5o O poder público prestará esclarecimentos e orientação no Portal do Empreendedor Goiano e na Sala do Empreendedor, visando facilitar a operacionalização dos projetos pelas microempresas e empresas de pequeno porte e o amplo acesso aos mecanismos de incentivo à inovação.\n"
+      },
+      "art-0042": {
+       "label": "Art. 42",
+       "kind": "article",
+       "text": "Art. 42. A política pública de estímulo à inovação de que trata o art. 41 abrangerá as seguintes ações:\nI - no que se refere a projetos:\na) concepção ou desenvolvimento de novos produtos ou processos de gestão e operação, bem como de novas funcionalidades, características ou benefícios que, inclusive, agreguem valor aos produtos exportados;\nb) transferência do conhecimento relativo aos novos produtos ou processos de gestão e operação que incluam atividades de divulgação, capacitação direta ou certificação de órgãos e entidades públicos ou privados de apoio e serviço aptos a atuarem na capacitação;\nc) teste e certificação para orientar as aquisições de produtos, insumos, equipamentos, máquinas, aparelhos, instrumentos, acessórios, partes, ferramentas e sistemas de informação utilizados nos processos de gestão e operação das microempresas e empresas de pequeno porte;\nII - no que se refere a organização, investimento e custeio:\na) ações vinculadas à operação de incubadoras;\nb) serviços de assessoria nas áreas técnica e jurídica e apoio ao processo de registro de produtos e inovações nos órgãos envolvidos na defesa de direitos autorais e de marcas e patentes.\nParágrafo único. As agências de fomento científico e tecnológico estaduais poderão criar ou aprimorar o apoio ao desenvolvimento tecnológico de que trata este artigo, por meio de atividade de fomento direto à pesquisa realizada nas empresas.\n"
+      },
+      "art-0043": {
+       "label": "Art. 43",
+       "kind": "article",
+       "text": "Art. 43. As ações vinculadas ao programa destinado à operação de incubadoras serão executadas em local especificamente destinado para tal fim, permitido aos órgãos ou entidades estaduais arcarem com despesas de aluguel, manutenção do prédio e demais despesas de infraestrutura, na forma da lei.\n§ 1o O Poder Executivo manterá, por si ou com entidade gestora que designar e por meio de pessoal de seus quadros ou mediante convênios, órgão destinado à prestação de assessoria e avaliação técnica a microempresas e empresas de pequeno porte.\n§ 2o O prazo máximo de permanência no programa é de dois anos para que as empresas atinjam suficiente capacitação técnica, independência econômica e comercial, podendo ser prorrogado por prazo não superior a dois anos mediante avaliação técnica.\n"
+      },
+      "art-0044": {
+       "label": "Art. 44",
+       "kind": "article",
+       "text": "Art. 44. O Poder Executivo divulgará anualmente a parcela de seu orçamento anual destinada à suplementação e ampliação do alcance de projetos governamentais de fomento à inovação e capacitação tecnológica que beneficiem microempresas e empresas de pequeno porte no Estado.\n§ 1o Os recursos referidos no caput deste artigo poderão suplementar ou substituir contrapartida das empresas atendidas pelos respectivos projetos, ou em convênios com entidades de apoio a microempresas e empresas de pequeno porte, cobrir gastos com divulgação e orientação destinada a empreendimentos que possam receber os benefícios dos projetos, em ações de divulgação dos projetos, atendimento técnico e disseminação de conhecimento.\n§ 2o O disposto no § 1o compreende:\nI - divulgação de editais e outros instrumentos que promovam o desenvolvimento tecnológico e a inovação de microempresas e empresas de pequeno porte;\nII - orientação sobre conteúdo dos instrumentos, exigências neles contidas e respectivas formas de atendê-las;\nIII - apoio no preenchimento de documentos e elaboração de projetos;\nIV - recebimento de editais e encaminhamento a entidades representativas das microempresas e empresas de pequeno porte;\nV - promoção de seminários sobre modalidades de apoio tecnológico, suas características e forma de operacionalização.\n"
+      },
+      "art-0045": {
+       "label": "Art. 45",
+       "kind": "article",
+       "text": "## Seção II\n## Incentivos Fiscais à Inovação\nArt. 45. Cabe a lei específica, após análise do impacto orçamentário-financeiro e adoção, quando necessário, de medidas de compensação (art. 14 da Lei Complementar federal no 101, de 4 de maio de 2000), isentar do Imposto sobre Circulação de Mercadorias e Sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação -ICMS- incidente na aquisição ou importação de equipamentos, máquinas, aparelhos, instrumentos, acessórios, sobressalentes e ferramentas que os acompanhem, na forma definida em decreto, quando adquiridos ou importados diretamente por microempresas e empresas de pequeno porte para incorporação ao seu ativo imobilizado.\n"
+      },
+      "art-0046": {
+       "label": "Art. 46",
+       "kind": "article",
+       "text": "## Seção III\n## Da Participação do Estado no Capital de Sociedade de Propósito Específico\nArt. 46. As empresas estatais controladas, direta ou indiretamente, poderão participar do capital de sociedade de propósito específico formada por microempresas ou empresas de pequeno porte, com prazo determinado, visando ao desenvolvimento de projetos científicos ou tecnológicos para a obtenção de produto ou processo inovador.\nParágrafo único. A propriedade intelectual sobre os resultados obtidos será regida pela legislação federal ou estadual pertinente.\n"
+      },
+      "art-0047": {
+       "label": "Art. 47",
+       "kind": "article",
+       "text": "## Seção IV\n## Do Estímulo à Inovação das Microempresas e Empresas de Pequeno Porte\nArt. 47. Fica o Poder Executivo autorizado a instituir programa de estímulo à inovação das microempresas e empresas de pequeno porte, com utilização dos recursos previstos no art. 20, inciso XII, alínea \"c\", da Lei no 13.591, de 18 de janeiro de 2000, com alterações posteriores, para financiamento de projetos de pesquisa, desenvolvimento e inovação do segmento.\nParágrafo único. O programa de estímulo à inovação terá os seguintes objetivos principais:\nI - apoiar programas de inovação voltados às microempresas e empresas de pequeno porte;\nII - promover a transferência de conhecimento das instituições científicas e tecnológicas do Estado de Goiás para as microempresas e empresas de pequeno porte, contribuindo para melhorar seus produtos, processos e serviços;\nIII - estimular a pesquisa, o desenvolvimento e a inovação nas microempresas e empresas de pequeno porte.\n"
+      },
+      "art-0048": {
+       "label": "Art. 48",
+       "kind": "article",
+       "text": "## CAPÍTULO VIII\n## DO ESTÍMULO AO CRÉDITO E À CAPITALIZAÇÃO\n## Seção I\n## Da Política Pública de Acesso ao Crédito\nArt. 48. O Estado de Goiás estabelecerá política pública de acesso ao crédito que incorpore o tratamento diferenciado e favorecido às microempresas e empresas de pequeno porte, com o objetivo de criar ou ampliar os seguintes instrumentos:\nI - linhas específicas de crédito, com taxa de juros e exigências documentais e formais diferenciadas;\nII - linhas específicas de crédito destinadas a apoiar o comércio exterior;\nIII - constituição de fundo de aval garantidor específico para microempresas e empresas de pequeno porte;\nIV - participação no capital de sociedades de garantia de crédito, constituídas por microempresas e empresas de pequeno porte e qualificadas como Organizações da Sociedade Civil de Interesse Público -OSCIPs-, na forma da Lei estadual no 15.731, de 07 de julho de 2006;\nV - constituição de fundo de capital de risco para capitalização das microempresas e empresas de pequeno porte.\n§ 1o A política referida neste artigo incluirá ampla divulgação, em conjunto com as instituições financeiras, das linhas de crédito disponíveis, assim como a articulação com entidades de apoio e representação das microempresas e empresas de pequeno porte, no sentido de proporcionar e desenvolver programas de treinamento, desenvolvimento gerencial e capacitação tecnológica.\n§ 2o O disposto neste artigo compreende a manutenção permanente de um programa estadual de microcrédito, que objetive atender os empreendedores com oferta de crédito orientado.\n§ 3o Para os efeitos deste artigo e desenvolvimento dos programas referidos, fica autorizada a celebração de convênios específicos entre os órgãos da administração pública estadual e municipal.\n"
+      },
+      "art-0049": {
+       "label": "Art. 49",
+       "kind": "article",
+       "text": "Art. 49. O Poder Executivo, por seus órgãos de atuação, apoiará a criação de comitês municipais de crédito com objetivo de sistematizar as informações relacionadas a crédito e financiamento, bem como disponibilizá-las às microempresas e empresas de pequeno porte.\n"
+      },
+      "art-0050": {
+       "label": "Art. 50",
+       "kind": "article",
+       "text": "## Seção II\n## Da Criação e da Participação em Fundos de Aval\nArt. 50. O Poder Executivo deverá:\nI - enviar à Assembleia Legislativa do Estado mensagem de lei específica criando fundo de aval para microempresas e empresas de pequeno porte;\nII - participar, na forma que vier a regulamentar, de fundos destinados à constituição de garantias que poderão ser utilizadas em operações de empréstimos bancários solicitados por microempresas e empresas de pequeno porte, junto a estabelecimentos bancários, para capital de giro, investimento em imobilizado e/ou projetos que envolvam a adoção de inovações tecnológicas.\n§ 1o O fundo de aval terá natureza contábil e a finalidade de prover recursos financeiros para garantir os riscos das operações de financiamento realizadas por microempresas e empresas de pequeno porte junto ao Sistema Financeiro Nacional, representados por instituições financeiras a serem definidas mediante celebração de convênios específicos com o Estado.\n§ 2o O fundo de aval será fiscalizado pelo Tribunal de Contas do Estado de Goiás, sem prejuízo de controle interno e auditoria externa.\n§ 3o As microempresas e empresas de pequeno porte podem ser beneficiadas pelo fundo de aval de forma individual ou organizadas em sociedade de propósito específico.\n§ 4o A participação do Estado poderá também se dar através do FDE - Fundo de Desenvolvimento Econômico.\n"
+      },
+      "art-0051": {
+       "label": "Art. 51",
+       "kind": "article",
+       "text": "## Seção III\n## Da Participação em Sociedades de Garantia do Crédito\nArt. 51. Para estímulo ao crédito e à capitalização das microempresas e empresas de pequeno porte e funcionamento de estruturas legais focadas na garantia de crédito com atuação no âmbito do município e de região de influência, fica o Poder Executivo Estadual autorizado a participar, através de convênios, de associações de crédito, na qualidade de parceiro colaborador.\n§ 1o A associação de garantia de crédito deverá estar qualificada como OSCIP, na forma da Lei estadual no 15.731, de 07 de julho de 2006.\n§ 2o Para o recebimento dos recursos, a associação de garantia de crédito deverá firmar termo de parceria com o Poder Executivo, nos termos previstos na Lei de que trata o § 1o deste artigo.\n§ 3o A fiscalização da utilização dos recursos repassados pelo Estado à associação de garantia de crédito será executada pelo órgão técnico competente do Poder Executivo.\n"
+      },
+      "art-0052": {
+       "label": "Art. 52",
+       "kind": "article",
+       "text": "## Seção IV\n## Do Fundo de Capital de Risco\nArt. 52. Para fomentar a consolidação de microempresas e empresas de pequeno porte, o Estado instituirá um fundo de capital de risco, com recursos do FDE, que apoiará os empreendimentos orientados para inovação com participação na composição societária da empresa.\n"
+      },
+      "art-0053": {
+       "label": "Art. 53",
+       "kind": "article",
+       "text": "Art. 53. O Poder Executivo enviará mensagem à Assembleia Legislativa do Estado com proposta de alteração na Lei do FDE, possibilitando a alocação de recursos em participação societária de empresas.\n"
+      },
+      "art-0054": {
+       "label": "Art. 54",
+       "kind": "article",
+       "text": "## CAPÍTULO IX\n## DO ESTÍMULO À EXPORTAÇÃO\nArt. 54. O Poder Executivo, por intermédio de seus órgãos e entidades da administração direta e indireta, estabelecerá política para promoção do aumento da participação das microempresas e empresas de pequeno porte no valor global das exportações goianas, com os seguintes objetivos:\nI - promover a cultura da gestão para a exportação;\nII - reduzir o custo da exportação por meio de apoio ao desenvolvimento de instrumentos que viabilizem a agregação de demanda para serviços de logística e assessoria, bem como de oferta para venda e divulgação de produtos no mercado exterior;\nIII - auxiliar o desenvolvimento tecnológico, a certificação e a melhoria da qualidade de produtos e do processo produtivo, visando adequá-los às exigências tecnológicas do mercado externo;\nIV - apoiar o desenvolvimento de inovações que agreguem valor aos produtos exportados;\nV - financiar as microempresas e empresas de pequeno porte nas operações de exportação;\nVI - estabelecer programa de divulgação dos benefícios e facilidades concedidos à exportação, especialmente as linhas de crédito existentes, e utilização do Seguro de Crédito à Exportação -SEC- ao amparo do Fundo de Garantia à Exportação - FG-BNDES, inclusive por meio da Sala do Empreendedor e do Portal do Empreendedor Goiano.\nParágrafo único. Para efeito deste artigo, os órgãos e as entidades referidos no caput poderão celebrar convênios com a União, as demais unidades federadas, entidades de representação e apoio a microempresas e a empresas de pequeno porte, agências de fomento, instituições científicas e tecnológicas e os núcleos de inovação tecnológica.\n"
+      },
+      "art-0055": {
+       "label": "Art. 55",
+       "kind": "article",
+       "text": "Art. 55. Para fins de cumprimento do disposto no art. 55, os órgãos e as entidades da administração pública deverão elaborar programa estadual de incentivo às exportações, cujas ações, executadas por si ou mediante convênios, prevejam:\nI - criação:\na) de programas específicos de divulgação e capacitação, direta ou por meio de certificação de órgãos e entidades públicos ou privados de apoio e serviço aptos a atuarem na divulgação e capacitação, voltadas à gestão para a exportação;\nb) de linhas de financiamento específicas para empresas de que trata esta Lei Complementar que operem com exportação;\nII - disponibilização, na Sala do Empreendedor e no Portal do Empreendedor Goiano, de:\na) catálogo e consulta dos produtos e respectivas características, oferecidos para exportação pelas microempresas e empresas de pequeno porte;\nb) serviço de orientação, logística e assessoria, permitindo ganhos de escala em função da agregação de demanda;\nc) serviço de orientação sobre procedimentos, mercados e linhas de crédito voltadas à exportação;\nIII - prestação de serviços de assessoria, nas áreas técnica e jurídica, como apoio nas operações de exportação;\nIV - incentivo ao desenvolvimento de formas associativas, especialmente de sociedades de propósito específico, formadas por microempresas e empresas de pequeno porte para produção, comercialização e exportação de produtos e serviços.\n"
+      },
+      "art-0056": {
+       "label": "Art. 56",
+       "kind": "article",
+       "text": "## CAPÍTULO X\n## DA EDUCAÇÃO EMPREENDEDORA E DO ACESSO À INFORMAÇÃO\nArt. 56. Fica o Poder Executivo autorizado a firmar parcerias ou convênios com instituições públicas e privadas para o desenvolvimento de projetos de educação empreendedora, com objetivo de disseminar conhecimentos sobre gestão de microempresas e empresas de pequeno porte, associativismo, cooperativismo, empreendedorismo e assuntos afins.\n§ 1o Estão compreendidas, no âmbito do caput deste artigo, ações de caráter curricular ou extracurricular voltadas a alunos do ensino fundamental de escolas públicas e privadas, assim como de nível médio e superior de ensino.\n§ 2o Os projetos referidos neste artigo poderão assumir a forma de fornecimento de cursos de qualificação, concessão de bolsas de estudo, complementação de ensino básico público, ações de capacitação de professores, e outras ações que o Poder Público entender cabíveis para estimular a educação empreendedora.\n§ 3o O poder público estadual fica autorizado a firmar convênios com dirigentes de unidades acadêmicas para apoio ao desenvolvimento de empresas juniores qualificadas para oferecer serviços a microempresas e a empresas de pequeno porte, discriminadas as atribuições, responsabilidades e obrigações dos partícipes.\n"
+      },
+      "art-0057": {
+       "label": "Art. 57",
+       "kind": "article",
+       "text": "Art. 57. Fica o Poder Executivo autorizado a celebrar parcerias ou convênios com órgãos governamentais, centros de desenvolvimento tecnológico e instituições de ensino superior, para o desenvolvimento de projetos de educação tecnológica, com o objetivo de transferência de conhecimento gerado nas instituições de pesquisa, qualificação profissional e capacitação no emprego de técnicas de produção.\nParágrafo único. Compreendem-se, no âmbito do caput deste artigo, a concessão de bolsas de iniciação científica, a oferta de cursos de qualificação profissional, a complementação de ensino básico público e as ações de capacitação de professores.\n"
+      },
+      "art-0058": {
+       "label": "Art. 58",
+       "kind": "article",
+       "text": "Art. 58. O Estado deverá incentivar e apoiar programas públicos de inclusão digital nos municípios, com o objetivo de promover o acesso de microempresas e empresas de pequeno porte às novas tecnologias da informação e comunicação e à Internet, bem como incentivar e apoiar a implantação de programas públicos para fornecimento de sinal da rede mundial de computadores em banda larga, via cabo, rádio ou outra forma, inclusive para órgãos governamentais do município.\nParágrafo único. Compreendem-se, no âmbito do programa referido no caput deste artigo:\nI - a abertura e manutenção de espaços públicos dotados de computadores para acesso gratuito à Internet;\nII - o fornecimento de serviços integrados de qualificação e orientação;\nIII - a produção de conteúdo digital e não-digital para capacitação e informação das empresas atendidas;\nIV - a divulgação e a facilitação do uso de serviços públicos oferecidos por meio da Internet;\nV - a promoção de ações, presenciais ou não, que contribuam para o uso de computadores e de novas tecnologias;\nVI - o fomento a projetos comunitários baseados no uso de tecnologia da informação;\nVII - a produção de pesquisas e informações sobre inclusão digital.\n"
+      },
+      "art-0059": {
+       "label": "Art. 59",
+       "kind": "article",
+       "text": "## CAPÍTULO XI\n## DAS RELAÇÕES DO TRABALHO\nArt. 59. O Poder Executivo, em conjunto com os Serviços Sociais Autônomos e as entidades de representação e apoio, estimulará as microempresas e empresas de pequeno porte a formar consórcios para o acesso a serviços especializados em segurança e medicina do trabalho.\n"
+      },
+      "art-0060": {
+       "label": "Art. 60",
+       "kind": "article",
+       "text": "Art. 60. O Estado poderá firmar parcerias com municípios, sindicatos, instituições de ensino superior, públicas ou privadas, hospitais, centros de saúde, cooperativas médicas e centros de referência do trabalhador para implantar Relatório de Atendimento Médico ao Trabalhador, com o intuito de mapear os acidentes de trabalho ocorridos nas empresas de sua região e, integradamente com a vigilância sanitária municipal e demais parceiros, promover a orientação das microempresas e empresas de pequeno porte em saúde e segurança no trabalho, a fim de reduzir ou eliminar os acidentes.\n"
+      },
+      "art-0061": {
+       "label": "Art. 61",
+       "kind": "article",
+       "text": "Art. 61. Também de forma integrada com o poder público municipal, o Estado poderá firmar parcerias com sindicatos, instituições de ensino superior, públicas ou privadas, e associações empresariais para orientar as microempresas e as empresas de pequeno porte, por meio da Sala do Empreendedor ou do Portal do Empreendedor Goiano, quanto à dispensa de obrigações acessórias concernentes à legislação trabalhista.\n"
+      },
+      "art-0062": {
+       "label": "Art. 62",
+       "kind": "article",
+       "text": "## CAPÍTULO XII\n## DOS EMPREENDEDORES RURAIS\nArt. 62. O Estado, por meio de seus órgãos técnicos, formulará políticas públicas de fomento a produtores e empresários rurais, podendo para tanto, firmar parcerias com instituições financeiras, órgãos nas esferas federal, estadual e municipal, instituições de ensino superior, bem como com entidades de pesquisa rural e de assistência técnica.\n§ 1o O Estado estimulará a criação de um sistema unificado estadual de sanidade agroindustrial familiar de pequeno porte que terá como finalidades:\nI - realizar a integração sistêmica, horizontal e descentralizada dos serviços de inspeção municipais;\nII - traçar as diretrizes básicas da sanidade agroindustrial familiar de pequeno porte;\nIII - produzir e editar recomendações e instruções, por meio de documentos técnicos específicos e socialmente adequados;\nIV - realizar e estimular parcerias, com órgãos públicos e privados, com instituições de pesquisa e educacionais, de capacitação, assistência técnica e extensão;\nV - fazer a interlocução e o monitoramento dos serviços de inspeção municipais do Estado.\n§ 2o O sistema unificado estadual de sanidade agroindustrial familiar de pequeno porte poderá ser vinculado ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal -SISBI-, integrante do Sistema Unificado de Atenção à Sanidade Agropecuária -SUASA-, por meio de instância definida nos termos da regulamentação federal específica.\n"
+      },
+      "art-0063": {
+       "label": "Art. 63",
+       "kind": "article",
+       "text": "## CAPÍTULO XIII\n## DO ACESSO À JUSTIÇA\nArt. 63. O Estado poderá realizar parcerias com a iniciativa privada por meio de convênios com entidades de classe e instituições de ensino superior, públicas ou privadas, a fim de orientar e facilitar às microempresas e empresas de pequeno porte o acesso à Justiça, priorizando a aplicação do disposto no art. 74 da Lei Complementar federal no 123/06.\n§ 1o O estímulo a que se refere o caput deste artigo compreenderá campanhas de divulgação, serviços de esclarecimento e tratamento diferenciado, simplificado e favorecido no tocante a custos administrativos.\n§ 2o O Estado também estimulará parcerias entre o Poder Judiciário, a Ordem dos Advogados do Brasil -OAB- e as instituições de ensino superior, com a finalidade de criar e implantar o setor de conciliação extrajudicial, como um serviço gratuito.\n"
+      },
+      "art-0064": {
+       "label": "Art. 64",
+       "kind": "article",
+       "text": "## CAPÍTULO XIV\n## DISPOSIÇÕES FINAIS\nArt. 64. O FEMEP-GO expedirá, no prazo de até 6 (seis) meses da publicação desta Lei Complementar, normas complementares necessárias à implantação e manutenção da Sala do Empreendedor e do Portal do Empreendedor Goiano.\nParágrafo único. Outros serviços à disposição de empresas, acessíveis em sítios mantidos pelo Governo do Estado de Goiás na rede mundial de computadores e relacionados ao disposto nesta Lei Complementar, deverão ser integrados ao Portal do Empreendedor Goiano no mesmo prazo previsto no caput deste artigo.\n"
+      },
+      "art-0065": {
+       "label": "Art. 65",
+       "kind": "article",
+       "text": "Art. 65. O FEMEP-GO elaborará relatório anual de avaliação da implantação efetiva das normas desta Lei Complementar, visando ao seu cumprimento e aperfeiçoamento.\n"
+      },
+      "art-0066": {
+       "label": "Art. 66",
+       "kind": "article",
+       "text": "Art. 66. Fica designado o dia 4 de junho como o \"Dia da Microempresa e da Empresa de Pequeno Porte\", no Estado de Goiás, que será comemorado a cada ano, cabendo aos Poderes Estaduais, dentro de sua área de competência, em consonância com órgãos e entidades de interesse, promover o evento respectivo.\n"
+      },
+      "art-0067": {
+       "label": "Art. 67",
+       "kind": "article",
+       "text": "Art. 67. Salvo disposição expressa em contrário, entende-se como se referindo à microempresa, à empresa de pequeno porte ou ao microempreendedor individual, conceituados nesta Lei Complementar, o uso dessas expressões em outra norma legal estadual, que veicule tratamento diferenciado, simplificado ou mais benéfico, de qualquer natureza.\n"
+      },
+      "art-0068": {
+       "label": "Art. 68",
+       "kind": "article",
+       "text": "Art. 68. As despesas resultantes da aplicação desta Lei Complementar correrão à conta de dotações próprias consignadas nos orçamentos dos respectivos órgãos da administração pública, de interesse do segmento.\n"
+      },
+      "art-0069": {
+       "label": "Art. 69",
+       "kind": "article",
+       "text": "Art. 69. Esta Lei Complementar será regulamentada por ato do Poder Executivo, no prazo de 90 (noventa) dias de sua publicação.\n"
+      },
+      "art-0070": {
+       "label": "Art. 70",
+       "kind": "article",
+       "text": "Art. 70. Esta Lei Complementar entrará em vigor 90 (noventa) dias após sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 5 de outubro de 2015, 127o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJosé Eliton Figuerêdo Júnior\nThiago Mello Peixoto da Silveira\nAna Carla Abrão Costa\n(D.O. de 8-10-2015)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2023-186",
    "short": "LC 186/2023",
    "title": "Lei Complementar nº 186, de 2023",
@@ -1638,6 +2733,38 @@
        "label": "Art. 4º",
        "kind": "article",
        "text": "Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, porém, quanto ao seu art. 1º, a partir de 1º de janeiro do ano letivo posterior ao de sua publicação.\nGoiânia, 5 de outubro de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-127",
+   "short": "LC 127/2017",
+   "title": "Lei Complementar nº 127, de 2017 (Altera a Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101114",
+   "first_law": "lc-2017-127",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-01-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101114",
+     "sha256": "e39a4a27bf5202323b6e32d4ea3ab520bcfd580d1d57a2efcd0a00cd94f05dbf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 127, DE 06 DE JANEIRO DE 2017.\nAltera a Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os incisos III e XV do art. 16 da Lei Complementar no 26, de 28 de dezembro de 1998, passam a vigorar com as seguintes alterações:\n\"Art. 16. ......................................................................\nIII - 01 (um) indicado pela Reitoria da Universidade Estadual de Goiás - UEG;\nXV - 01 (um) membro titular representante dos docentes do quadro efetivo da Universidade Estadual de Goiás - UEG -, eleito por seus pares, devendo o processo eleitoral ser regulamentado pelo Conselho Universitário;\n.........................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 06 de janeiro de 2017, 129o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 09-01-2017) - Suplemento\n"
       }
      }
     }
@@ -3079,6 +4206,83 @@
    ]
   },
   {
+   "slug": "lc-2023-184",
+   "short": "LC 184/2023",
+   "title": "Lei Complementar nº 184, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107461",
+   "first_law": "lc-2023-184",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107461",
+     "sha256": "892e03c99ff1ebe71db2cdad01992540d35102a4fab9f828e82ed1984ca9e707",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI COMPLEMENTAR Nº 184, DE 6 DE JULHO DE 2023\nAltera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei Complementar nº 103, de 1º de outubro de 2013, a Lei Complementar nº 156, de 07 de agosto de 2020, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, incisos VIII e X, da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam acrescidos ao Quadro da Carreira do Ministério Público do Estado de Goiás constante no Anexo I da Lei Complementar nº 25, de 06 de julho de 1998, 10 (dez) cargos de Promotor de Justiça de Entrância Final e 10 (dez) cargos de Promotor de Justiça de Entrância Intermediária.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam acrescidos ao Anexo V da Lei Complementar nº 103, de 1º de outubro de 2013, 2 (dois) cargos de Assistente da Procuradoria-Geral de Justiça, 28 (vinte e oito) cargos de provimento em comissão de Assistente de Gabinete de Procurador de Justiça, 30 (trinta) cargos de provimento em comissão de Assessor de Promotor de Justiça, 322 (trezentos e vinte e dois) cargos de provimento em comissão de Assistente de Promotor de Justiça e 10 (dez) cargos de provimento em comissão de Assessor Administrativo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam acrescidos ao Anexo VI da Lei Complementar nº 103, de 1º de outubro de 2013, 42 (quarenta e duas) funções de confiança de Assistente de Segurança Institucional I, 3 (três) funções de Assistente de Segurança Institucional III, 4 (quatro) funções de confiança de Chefe de Núcleo, 26 (vinte e seis) funções de confiança de Chefe de Secretaria I e 4 (quatro) funções de Motorista da Administração Superior.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam acrescidos ao Anexo II da Lei nº 13.162, de 05 de novembro de 1997, 24 (vinte e quatro) cargos de Assistente Administrativo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Ficam criados os cargos em comissão constantes do Anexo V desta Lei Complementar.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica alterada a remuneração da função de confiança de Chefe de Departamento para FC-8, de Chefe de Divisão para FC-6, de Chefe de Unidade Técnica Pericial para FC-6, de Chefe de Seção para FC-4 e de Presidente da Comissão de Licitação para FC-8.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Ficam extintas, à medida de sua vacância, 25 (vinte e cinco) funções de confiança de Assistente de Segurança Institucional II, constantes do Anexo VI da Lei Complementar nº 103, de 1º de outubro de 2013.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Em decorrência das disposições constantes nesta Lei Complementar:\nI - o Anexo I da Lei Complementar nº 25, de 06 de julho de 1998, passa a vigorar com as alterações descritas no Anexo I desta Lei Complementar;\nII - os Anexos V e VI da Lei Complementar nº 103, de 1º de outubro de 2013, ficam alterados e passam a vigorar com as alterações descritas nos Anexos II e III desta Lei Complementar;\nIII - o Anexo II da Lei nº 13.162, de 05 de novembro de 1997, fica alterado e passa a vigorar com as alterações descritas no Anexo IV desta Lei Complementar;\nIV - o Anexo III da Lei Complementar nº 156, de 07 de agosto de 2020, passa a vigorar com as alterações constantes no Anexo VI desta Lei Complementar.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Fica instituída a Gratificação de Aperfeiçoamento Continuado aos servidores públicos efetivos do Ministério Público que comprovarem a participação e conclusão de cursos, treinamentos, capacitações e demais atividades de aperfeiçoamento relacionadas às atribuições do seu cargo.\nParágrafo único. A concessão da gratificação dependerá da efetiva participação nas atividades descritas no caput deste artigo, renovadas anualmente, e será estabelecida de acordo com o número de horas das atividades, sendo de, no máximo, 12% (doze por cento) do vencimento do respectivo cargo do servidor, conforme regulamentação do Ato do Procurador-Geral de Justiça.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As despesas decorrentes desta Lei Complementar correrão à conta dos recursos consignados no Orçamento-Geral do Estado de Goiás, nas rubricas destinadas ao Ministério Público, inclusive créditos especiais e suplementares, obedecidos os preceitos da Lei Complementar nº 101, de 4 de maio de 2000, e serão implementadas de acordo com a disponibilidade orçamentária.\nParágrafo único. Em observância às normas do Regime de Recuperação Fiscal a que se encontra submetido o Estado de Goiás, os efeitos financeiros das despesas previstas nesta Lei Complementar serão estabelecidos em Ato do Procurador-Geral de Justiça.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 6 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nMINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS\nANEXO I\n(Altera o Anexo I da Lei Complementar nº 25, de 06 de julho de 1998)\n\"Anexo I\nQuadro da Carreira do Ministério Público - LC nº 25/98\nCargo Quantitativo\nPromotores de Justiça de Entrância Final 114\nPromotores de Justiça de Entrância Intermediária 237\n..........................................................................................................................\" (NR)\nANEXO II\n(Altera o Anexo V da Lei Complementar nº 103, de 1º de outubro de 2013)\n\"Anexo V\nQuadro de cargos em comissão - LC nº 103/2003\nCargo Remuneração (símbolo) Quantitativo\nAssessor Administrativo CC-5 49\nAssessor de Promotor de Justiça CC-4 527\nAssistente da Procuradoria-Geral de Justiça CC-7 32\nAssistente de Promotor de Justiça CC-1 457\nAssistente de Gabinete de Procurador de Justiça CC-6 120\nAssistente do Conselho Superior do Ministério Público CC-5 6\nTOTAL 1.336\n..........................................................................................................................\" (NR)\nANEXO III\n(Altera o Anexo VI da Lei Complementar nº 103, de 1º de outubro de 2013)\n\"Anexo VI\nQuadro de funções de confiança\nFunção Remuneração (símbolo) Função\nAssistente de Segurança Institucional I FC-6 60\nAssistente de Segurança Institucional III FC-3 10\nChefe de Departamento FC-8 35\nChefe de Divisão FC-6 38\nChefe de Núcleo FC-7 10\nChefe de Seção FC-4 31\nChefe de Secretaria I FC-1 68\nChefe de Unidade Técnica Pericial FC-6 8\nMotorista da Administração Superior FC-6 6\nPresidente da Comissão de Licitação FC-8 1\nTOTAL 354\n..........................................................................................................................\" (NR)\nANEXO IV\n(Altera o Anexo II da Lei nº 13.162, de 05 de novembro de 1997)\n\"Anexo II\nCargos de Provimento Efetivo de Nível Médio\nGrupo Ocupacional Categoria Funcional - Área de Atuação Classes Referência Quantitativo\nAssistente do Ministério Público ...............................\nAssistente Administrativo\nA\nB\nC\nII 92\n..........................................................................................................................\" (NR)\nANEXO V\nCargos em comissão criados por esta Lei Complementar\nCargo Remuneração (símbolo) Quantitativo\nAssistente do Conselho Superior do Ministério Público CC-5 6\nANEXO VI\n(Altera o Anexo III da Lei Complementar nº 156, de 07 de agosto de 2020)\n\"Anexo III\nTabelas das tarefas típicas e pré-requisitos para cargos de provimento em comissão\nGrupo Ocupacional Cargo de provimento em comissão de nível superior\nDenominação Assistente do Conselho Superior do Ministério Público\nQuantitativo 6\nPré-requisito: Formação de nível superior em Direito\nRemuneração (símbolo) CC-5\nDescrição Sumária das Tarefas\nAo Assistente do Conselho Superior do Ministério Público compete prestar auxílio técnico-jurídico e administrativo às atividades do Conselheiro e, notadamente: elaborar minutas e outras manifestações próprias da atividade do Conselheiro junto ao Conselho Superior do Ministério Público, além da análise, estudos, exames, pesquisas, relatórios e trabalhos de natureza técnica ou jurídica, atinentes aos autos extrajudiciais e administrativos da alçada do órgão; acompanhar o andamento dos autos extrajudiciais e administrativos e expedientes do órgão; manter o registro e controle das atividades desenvolvidas, apresentando relatórios; assistir o Conselheiro nos demais serviços administrativos necessários ao desempenho de suas funções; executar outras tarefas compatíveis com suas atribuições, a critério da chefia imediata ou institucional.\n..........................................................................................................................\"(NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2023-187",
    "short": "LC 187/2023",
    "title": "Lei Complementar nº 187, de 2023",
@@ -3259,6 +4463,48 @@
        "label": "Art. 4º",
        "kind": "article",
        "text": "Art. 4º Esta Lei Complementar entra em vigor na data de sua publicação.\n§ 1º O Regimento Interno e os demais atos internos de regulamentação das matérias tratadas na presente Lei Complementar deverão ser revisados no prazo de 180 (cento e oitenta) dias, contados de sua entrada em vigor.\n§ 2º A estrutura organizacional e o desempenho das funções e atribuições permanecerão inalterados durante o prazo estabelecido no parágrafo anterior, findo o qual deverão ser adotadas as medidas necessárias à materialização das adequações tratadas na presente Lei Complementar.\nGoiânia, 7 de abril de 2022; 134º da República.\nRONALDO CAIADO\nGovernador do Estado\nDefensoria Pública do Estado de Goiás\nANEXO ÚNICO\n\"ANEXO II - QUADRO DE GRATIFICAÇÕES DOS CARGOS DA ADMINISTRAÇÃO SUPERIOR, DAS FUNÇÕES DE CONFIANÇA E DOS CARGOS EM COMISSÃO DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS\nCARGOS DA ADMINISTRAÇÃO SUPERIOR\nCARGOS QUANTITATIVO SIMBOLOGIA GRATIFICAÇÃO\nDefensor Público-Geral do Estado 1 CAS-1 R$ 13.220,00\nSubdefensor Público-Geral do Estado para Assuntos Institucionais 1 CAS-2 R$ 10.000,00\nSubdefensor Público-Geral do Estado para Assuntos Administrativos 1 CAS-2 R$ 10.000,00\nCorregedor-Geral da Defensoria Pública do Estado 1 CAS-2 R$ 10.000,00\nCARGOS EM COMISSÃO\nCARGOS QUANTITATIVO SIMBOLOGIA VENCIMENTO\nDiretor-Geral de Administração e Planejamento 1 CC-1 R$ 20.000,00\nChefe de Gabinete 1 CC-1A R$ 18.000,00\nDiretor de Comunicação Social 1 CC-2 R$ 15.000,00\nDiretor de Tecnologia da Informação 1 CC-2 R$ 15.000,00\nDiretor 5 CC-2 R$ 15.000,00\nSuperintendente 15 CC-2A R$ 12.000,00\nOuvidor-Geral da Defensoria Pública do Estado 1 CC-3 R$ 9.000,00\nChefes de Departamento 40 CC-3 R$ 9.000,00\nAssessor Técnico 47 CC-4 R$ 8.000,00\nAssessor Especial 1 255 CC-5 R$ 5.500,00\nAssessor Especial 2 40 CC-6 R$ 4.000,00\nFUNÇÕES DE CONFIANÇA - I\nFUNÇÕES QUANTITATIVO SIMBOLOGIA GRATIFICAÇÃO\nDiretor de Assuntos Jurídicos 1 FCI-1 R$ 9.000,00\nDiretor de Controle Interno 1 FCI-1 R$ 9.000,00\nDiretor da Escola Superior da Defensoria Pública do Estado 1 FCI-1 R$ 9.000,00\nDiretor do Centro de Atendimento Multidisciplinar 1 FCI-1 R$ 9.000,00\nCorregedor Auxiliar 2 FCI-2 R$ 7.000,00\nCoordenador de Núcleo 30 FCI-2 R$ 7.000,00\nFUNÇÕES DE CONFIANÇA - II\nFUNÇÕES QUANTITATIVO SIMBOLOGIA GRATIFICAÇÃO\nFunção de confiança 1 10 FCII-1 R$ 5.000,00\nFunção de confiança 2 10 FCII-2 R$ 3.000,00\nFunção de confiança 3 19 FCII-3 R$ 2.500,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-087",
+   "short": "LC 87/2011",
+   "title": "Lei Complementar nº 87, de 2011 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, entre outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101074",
+   "first_law": "lc-2011-087",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-07-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101074",
+     "sha256": "d6a2a96b6b363bcea4469b75f1fccf7691393de6d12180d225416070d9587b4a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 87, DE 07 DE JULHO DE 2011.\nIntroduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, entre outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 27, de 30 de dezembro de 1999, passa a vigorar com as seguintes alterações:\nI - é revogado o § 2º do art. 1º;\nII - os arts. 6º, 10, 12 e 12-A passam a vigorar com a seguinte redação, respectivamente:\n\"Art. 6º ....................................................................................\nI - o Secretário de Estado de Desenvolvimento da Região Metropolitana de Goiânia, que será o seu Presidente;\nIV - os Prefeitos dos Municípios integrantes da Região Metropolitana de Goiânia;\nVII - 1 (um) representante da Universidade Federal de Goiás;\nVIII - 1 (um) representante da Pontifícia Universidade Católica de Goiás;\nIX - 1 (um) representante da Universidade Estadual de Goiás;\nX - 2 (dois) representantes do Poder Legislativo Estadual designados pela Mesa Diretora.\n§ 1º O Conselho de Desenvolvimento da Região Metropolitana de Goiânia terá uma Secretaria Executiva, com a finalidade de integrar e coordenar a organização e o planejamento das funções públicas de interesse comum da Região Metropolitana de Goiânia, a ser exercida por indicação de seu Presidente.\n§ 4º ........................................................................................\nI - o Secretário de Estado de Desenvolvimento da Região Metropolitana de Goiânia, que a presidirá;\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica o Poder Executivo autorizado a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia, a ser gerido pela Secretaria de Estado de Desenvolvimento da Região Metropolitana de Goiânia, com a finalidade de dar suporte financeiro ao planejamento integrado e às ações conjuntas dele decorrentes, no que se refere às funções públicas de interesse comum do Estado e dos Municípios integrantes da Região Metropolitana.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Ao Estado de Goiás, por meio da Secretaria de Estado de Desenvolvimento da Região Metropolitana de Goiânia, compete:\n"
+      },
+      "art-0012-a": {
+       "label": "Art. 12-A",
+       "kind": "article",
+       "text": "Art. 12-A. O Plano Diretor da Região Metropolitana deverá ser elaborado em até 3 (três) anos a partir da publicação desta Lei.\n.............................................................................................\"(NR)\nArt. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 07 de julho de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJÂNIO CARLOS ALVES FREIRE\n(D.O. de 07-07-2011) - Suplemento\n"
       }
      }
     }
@@ -3514,6 +4760,38 @@
    ]
   },
   {
+   "slug": "lc-2003-043",
+   "short": "LC 43/2003",
+   "title": "Lei Complementar nº 43, de 2003 (Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101007",
+   "first_law": "lc-2003-043",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2003-11-12",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101007",
+     "sha256": "f8e256b2224b14346ed5228474ef83488075ea225da2aa2f18c1860e2b8f43bf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 43, DE 07 DE NOVEMBRO DE 2003.\nModifica a Lei Complementar nº 27, de 30 de dezembro de 1999.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do artigo 90 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O § 2o , do art. 1o da Lei Complementar n. 27, de 30 de dezembro de 1999, alterada pela Lei Complementar n. 30, de 9 de junho de 2000 e pela Lei Complementar n. 34, de 3 de outubro de 2001, passa a vigorar com a seguinte redação:\n\"Art. 1o ...................................................................\n§ 2o Fica instituída a Região de Desenvolvimento Integrado de Goiânia, com as atribuições, organização e funcionamento a serem definidas em lei, composta pelos seguintes municípios: Aragoiânia, Bela Vista, Bonfinópolis, Brazabrantes, Caldazinha, Caturaí, Goianápolis, Goianira, Guapó, Hidrolândia, Inhumas, Nova Veneza, Santo Antônio de Goiás, Senador Canedo, Terezópolis de Goiás e Trindade.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 07 de novembro de 2003, 115º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nWalter José Rodrigues\nCarlos Maranhão Gomes de Sá\n(D.O. de 12-11-2003)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2021-167",
    "short": "LC 167/2021",
    "title": "Lei Complementar nº 167, de 2021",
@@ -3551,6 +4829,73 @@
    ]
   },
   {
+   "slug": "lc-2020-157",
+   "short": "LC 157/2020",
+   "title": "Lei Complementar nº 157, de 2020 (Dispõe sobre a política de transição de governo no Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103469",
+   "first_law": "lc-2020-157",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-10-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103469",
+     "sha256": "929c4b157f6da56f3f532c8ed8cc52f250a90ec60eeb122ed46110f0da31da6c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar n° 157 / 2020\nGOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 157, DE 08 DE OUTUBRO DE 2020\nDispõe sobre a política de transição de governo no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a política de transição entre mandatos do Poder Executivo do Estado de Goiás, com o objetivo de o candidato eleito Governador se inteirar do funcionamento dos órgãos e das entidades da administração direta e indireta estaduais e preparar os atos de iniciativa da nova gestão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ao candidato eleito Governador será garantido o direito de instituir Comissão de Transição tão logo a Justiça Eleitoral proclame o resultado oficial das eleições estaduais, a qual terá duração até a posse do candidato eleito.\n§ 1º A Comissão será instituída mediante protocolo ou qualquer outra forma de recebimento, junto ao Poder Executivo, de requerimento subscrito pelo candidato eleito Governador, que designe até 5 (cinco) membros de sua livre escolha facultada a designação de 1 (um) coordenador dentre estes.\n§ 2º Ao Governador em exercício faculta-se designar até 5 (cinco) membros e, dentre estes, um coordenador, mediante ato publicado no Diário Oficial do Estado, o qual indicará também os membros já previamente designados pelo candidato eleito Governador.\n§ 3º Os membros e a função de coordenador não serão remunerados e poderão ser substituídos a qualquer tempo por quem realizou a respectiva designação, observado o disposto nos §§ 1º e 2º.\n§ 4º (VETADO).\n§ 5º Salvo disposição em sentido contrário constante do requerimento ou do ato de designação, nos termos dos §§ 1º e 2º, caberá aos coordenadores:\nI - receber, requisitar e prestar as informações e os documentos relativamente aos órgãos e às entidades da administração direta e indireta do Estado de Goiás, assistido pelos demais membros;\nII - convidar para participar de suas reuniões pessoas que, por seus conhecimentos e experiência profissional, possam contribuir para a discussão das matérias em exame.\n§ 6º (VETADO).\n§ 7º (VETADO).\n§ 8º O candidato eleito Governador poderá:\nI - exercer pessoalmente todas as prerrogativas de requisição e recebimento de documentos e informações previstas nesta Lei, ainda que decida não constituir Comissão nos termos deste artigo;\nII - praticar atos em conjunto com os membros por ele designados e participar de todas as reuniões e audiências na Comissão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Comissão de Transição terá pleno acesso às informações e aos relatórios circunstanciados relativos às contas públicas, aos programas e aos projetos do governo, na forma disciplinada nesta Lei.\n§ 1º Os programas sociais em andamento também serão objeto de relatórios circunstanciados que, além de informações sobre valores (já empenhados, previsão de empenhos futuros bem como a disponibilidade em caixa) deverão conter indicadores de alcance das metas estabelecidas.\n§ 2º À Comissão será garantida a infraestrutura, os recursos humanos e materiais necessários à realização dos respectivos trabalhos e de completo levantamento da situação da administração direta e indireta.\n§ 3º (VETADO).\n§ 4º O disposto nesta Lei não impede a formalização pelos membros da Comissão, a título individual ou coletivo, de pedido de acesso à informação, na forma da legislação própria.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Caso não tenham sido elaborados os demonstrativos contábeis previstos nos anexos da Lei federal nº 4.320, de 17 de março de 1964, e o balancete contábil do exercício findo, deverão ser apresentadas à comissão de transição as relações discriminativas das receitas e despesas orçamentárias e extraorçamentárias, elaboradas mês a mês e acompanhadas de toda a documentação comprobatória.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Na ausência de apresentação dos documentos e informações previstos nesta Lei ou no caso de constatação de indícios de irregularidades ou desvios de recursos públicos, a Comissão comunicará ao Tribunal de Contas e ao Ministério Público do Estado de Goiás para adoção das providências cabíveis.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Comissão poderá ter acesso a outros documentos e informações não previstos expressamente nesta Lei, assegurado o prazo mínimo de 15 (quinze) dias para resposta.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Sem prejuízo dos deveres e das proibições estabelecidos nos respectivos estatutos funcionais, os integrantes da Comissão deverão manter sigilo sobre os dados e informações confidenciais a que tiverem acesso, sob pena de responsabilização, nos termos da legislação específica.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 08 de outubro de 2020; 132º da República.\nRONALDO CAIADO\nGovernador do Estado\nCHICO KGL\nDeputado Estadual\nRUBENS MARQUES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2003-038",
    "short": "LC 38/2003",
    "title": "Lei Complementar nº 38, de 2003 (Altera a Lei Complementar no 24, de 08 de junho de 1998, Lei Orgânica da Procuradoria-Geral do Estado, e dá outras providências.)",
@@ -3572,6 +4917,107 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 38, de 2003 was altered on 1 date(s) its notes cite, the latest 2006-07-04."
+    }
+   ]
+  },
+  {
+   "slug": "lc-1997-021",
+   "short": "LC 21/1997",
+   "title": "Lei Complementar nº 21, de 1997 (Altera a Lei Complementar nº 1, de 19 de dezembro de 1989,na parte que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101025",
+   "first_law": "lc-1997-021",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1997-05-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101025",
+     "sha256": "9deb7bafa02cf1c8df431d7da2fe4d4cbe91f24791e4cd4c008a7563b44a69bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 21, DE 9 DE MAIO DE 1997.\nAltera a Lei Complementar no 1, de 19 de dezembro de 1989, na parte que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os arts. 3o, inciso I, e 4o da Lei Complementar no 1, de 19 de dezembro de 1989, com modificações posteriores, passam a vigorar com a seguinte redação:\n\"Art. 3o ...............................................................................................\nI - o Secretário de Ciência e Tecnologia, na qualidade de seu Presidente:\n"
+      },
+      "art-0004": {
+       "label": "Art. 4o",
+       "kind": "article",
+       "text": "Art. 4o O apoio técnico, administrativo e financeiro necessário ao funcionamento do CONCITEG será prestado pela Secretaria de Ciência e Tecnologia, responsável pela execução da política de ciência e tecnologia e das diretrizes emanadas do CONCITEG, sem prejuízo da colaboração dos demais órgãos e entidades afins.\"\nParágrafo único. O Secretário Executivo do CONCITEG será o Diretor de Desenvolvimento Científico e Tecnológico da Secretaria de Ciência e Tecnologia.\nArt. 2o A vigência desta lei complementar coincidirá com a da lei de criação da Secretaria de Ciência e Tecnologia.\nArt. 3o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 9 de maio de 1997, 109o da República.\nLUIZ ALBERTO MAGUITO VILELA\n(DO. de 14-5-97)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2000-030",
+   "short": "LC 30/2000",
+   "title": "Lei Complementar nº 30, de 2000 (Modifica a Lei Complementar nº 27, de 30 de dezembro de 1999, nas partes que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101017",
+   "first_law": "lc-2000-030",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2000-06-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101017",
+     "sha256": "4ec3f4e6cf11cb71b4b0813f923b8b84b1bf478799c16a8539a580a605b10b60",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 30, DE 9 DE JUNHO DE 2000.\nModifica a Lei Complementar nº 27, de 30 de dezembro de 1999, nas partes que especifica.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° - Ficam acrescentados ao art. 6° da Lei Complementar n. 27, de 30 de dezembro de 1999, os §§ 4° e 5°, com a seguinte redação:\n\"Art. 6°.............................................................................................\n§ 4° - Integra o Conselho de Desenvolvimento da Região Metropolitana de Goiânia a Câmara Deliberativa de Transportes Coletivos da Região Metropolitana de Goiânia, com jurisdição nos seus municípios que compõem o sistema integrado de transporte, ou pelos que vierem a agrupá-lo, com a seguinte composição:\nI - o Secretário de Infra-Estrutura do Estado de Goiás que a presidirá;\nII - o Presidente da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos;\nIII - um representante da Secretaria do Planejamento e Desenvolvimento do Estado de Goiás;\nIV - o Prefeito de Goiânia;\nV - um representante dos municípios que compõem a Região Metropolitana de Goiânia, escolhido por seus prefeitos;\nVI - um representante da Assembléia Legislativa do Estado de Goiás, por ela designado;\nVII - o Presidente do Sindicato das Empresas de Transporte Coletivo Urbano de Passageiros de Goiânia - SETRANSP.\n§ 5° - À Câmara Deliberativa de Transporte Coletivo da Região Metropolitana de Goiânia compete:\nI - estabelecer as diretrizes gerais relativas ao transporte coletivo, em consonância com a orientação emanada do Conselho de Desenvolvimento da Região Metropolitana de Goiânia;\nII - aprovar o planejamento e o gerenciamento do sistema integrado de transportes coletivos, tendo por base proposta técnica da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos;\nIII - analisar e aprovar os reajustes tarifários para o transporte coletivo, tendo por base proposta técnica da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos;\nIV - analisar e decidir, em última instância, sobre os recursos interpostos nos processos de fiscalização, relativos ao transporte coletivo, julgados pelo Conselho de Gestão da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - O art. 9° da Lei Complementar n. 27 de 30 de dezembro de 1999, passa a vigorar com a seguinte redação:\n\"Art. 9° - O planejamento, o gerenciamento, a regulação, o controle e a fiscalização de todas e quaisquer modalidades ou categorias de serviços públicos de transporte de passageiros na Região Metropolitana de Goiânia serão realizados pela Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos, nos termos da lei, observado o disposto no § 5º do art. 6° desta lei complementar\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - Esta lei complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 9 de junho de 2000, 112° da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nFloriano Gomes da Silva Filho\nGiuseppe Vecci\nRenê Pompeu de Pina\n(DO. de 15-6-2000)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-129",
+   "short": "LC 129/2017",
+   "title": "Lei Complementar nº 129, de 2017 (Altera dispositivo da Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101116",
+   "first_law": "lc-2017-129",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-06-12",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101116",
+     "sha256": "0a2d3dfdb2415afe97545f652d463d8a8a224f20ca61615291cfc4fae004a45e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 129, DE 09 DE JUNHO DE 2017\nAltera dispositivo da Lei Complementar nº 121, de 21 de dezembro de 2015, que institui o Sistema da Conta Única do Tesouro Estadual e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do art. 3º da Lei Complementar nº 121, de 21 de dezembro de 2015, passa a vigorar com a seguinte alteração:\n\"Art. 3º ....................................................\n§ 1º Ficam excepcionados do caput deste artigo os recursos arrecadados pelo Departamento Estadual de Trânsito -DETRAN-, os provenientes de capitalização do Regime de Previdência do Estado de Goiás, operações de crédito, convênios, bem como aqueles originários da estrutura de assistência em saúde dos servidores públicos estaduais.\n...........................................................\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 09 de junho de 2017, 129º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nRicardo Brisolla Balestreri\nJosé Fernando Navarrete Pena\nJoaquim Cláudio Figueiredo Mesquita\n(D.O. de 12-06-2017 - Suplemento)\n"
+      }
+     }
     }
    ]
   },
@@ -3611,7 +5057,7 @@
  "applies": [],
  "decisions": [
   "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
-  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", and the green \"Vide\" notes). \"Vide\" notes do not date a version.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
   "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
   "Tables are one line per row, cells separated by \" | \"; images are left out."
  ],

@@ -61,6 +61,7 @@ def page_text(h):
                           (cs[-1] if cs else attr(a, 'color')).strip().strip('"\''),
                           (fs[-1] if fs else attr(a, 'face')).strip()))
     s = re.sub(r'[ \t\r\f\v\xa0]+', ' ', ''.join(out))
+    s = re.sub(r'(?im)^\s*Este texto n[ãa]o substitui o publicad.*$', '', s)  # the publisher's notice
     return NOTE.sub('', s)
 
 

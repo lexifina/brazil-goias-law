@@ -22,7 +22,7 @@
    "url": "https://legisla.casacivil.go.gov.br",
    "retrieved": "2026-10-30",
    "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
-   "notes": "16 acts in this part."
+   "notes": "49 acts in this part."
   }
  ],
  "laws": {
@@ -33,6 +33,116 @@
    "enacted": "2013-10-09",
    "published": "2013-10-11",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101091",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2004-048": {
+   "label": "Lei Complementar nº 48, de 2004",
+   "title": "Altera o caput do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, modificada pelas Leis Complementares nº 30, de 09 de junho de 2000, 34, de 03 de outubro de 2001, e 37, de 12 de dezembro de 2002.",
+   "kind": "law",
+   "enacted": "2004-12-09",
+   "published": "2004-12-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2004-049": {
+   "label": "Lei Complementar nº 49, de 2004",
+   "title": "Altera o § 3º do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, modificada pelas Leis Complementares nos 30, de 9 de junho de 2000, 34, de 3 de outubro de 2001, e 37, de 12 de dezembro de 2002.",
+   "kind": "law",
+   "enacted": "2004-12-09",
+   "published": "2004-12-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-067": {
+   "label": "Lei Complementar nº 67, de 2009",
+   "title": "Altera a Lei Complementar no 26, de 28 de dezembro de 1998, na parte que especifica",
+   "kind": "law",
+   "enacted": "2009-02-10",
+   "published": "2009-02-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101054",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-068": {
+   "label": "Lei Complementar nº 68, de 2009",
+   "title": "Acrescenta a alínea e ao § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás",
+   "kind": "law",
+   "enacted": "2009-02-10",
+   "published": "2009-02-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101055",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-069": {
+   "label": "Lei Complementar nº 69, de 2009",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás",
+   "kind": "law",
+   "enacted": "2009-02-10",
+   "published": "2009-02-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101056",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-070": {
+   "label": "Lei Complementar nº 70, de 2009",
+   "title": "Introduz alterações na Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás",
+   "kind": "law",
+   "enacted": "2009-02-10",
+   "published": "2009-02-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101057",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2009-071": {
+   "label": "Lei Complementar nº 71, de 2009",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que dispõe sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás",
+   "kind": "law",
+   "enacted": "2009-02-10",
+   "published": "2009-02-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101058",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-155": {
+   "label": "Lei Complementar nº 155, de 2020",
+   "title": "Altera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2020-03-10",
+   "published": "2020-03-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-140": {
+   "label": "Lei Complementar nº 140, de 2018",
+   "title": "Altera a Lei Complementar nº 103, de 1° de outubro de 2013, criando cargos e funções de confiança na estrutura organizacional de assessoramento do Ministério Público do Estado de Goiás para atender às demandas afetas ao Comitê Interinstitucional de Recuperação de Ativos do Estado de Goiás (CIRA-GO).",
+   "kind": "law",
+   "enacted": "2018-05-10",
+   "published": "2018-05-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101127",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-150": {
+   "label": "Lei Complementar nº 150, de 2019",
+   "title": "Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, que institui a autarquia Goiás Previdência - GOIASPREV.",
+   "kind": "law",
+   "enacted": "2019-06-10",
+   "published": "2019-06-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101137",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -59,6 +169,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2017-132": {
+   "label": "Lei Complementar nº 132, de 2017",
+   "title": "Altera o art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2017-10-10",
+   "published": "2017-10-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101119",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-1996-020": {
    "label": "Lei Complementar nº 20, de 1996",
    "title": "Estabelece diretrizes para controle, gestão e fiscalização do Fundo Estadual do Meio ambiente e dá outras providências",
@@ -66,6 +187,28 @@
    "enacted": "1996-12-10",
    "published": "1996-12-13",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101028",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2012-096": {
+   "label": "Lei Complementar nº 96, de 2012",
+   "title": "Altera o art. 16 da Lei Complementar nº 26, de 28 de dezembro de 1998.",
+   "kind": "law",
+   "enacted": "2012-12-10",
+   "published": "2012-12-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101083",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1993-014": {
+   "label": "Lei Complementar nº 14, de 1993",
+   "title": "Altera dispositivo da Lei Complementar n° 02, de 16 de janeiro de 1990, com modificações posteriores.",
+   "kind": "law",
+   "enacted": "1993-03-11",
+   "published": "1993-03-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101033",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -88,6 +231,28 @@
    "enacted": "2017-07-11",
    "published": "2017-07-12",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101117",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1995-017": {
+   "label": "Lei Complementar nº 17, de 1995",
+   "title": "Altera a redação do inciso IV do art. 3º da Lei Complementar nº 1, de 19 de dezembro de 1989.",
+   "kind": "law",
+   "enacted": "1995-09-11",
+   "published": "1995-09-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101031",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2017-135": {
+   "label": "Lei Complementar nº 135, de 2017",
+   "title": "Altera dispositivos da Lei Complementar nº 130, de 11 de julho de 2017, que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros e cria cargos e funções no âmbito da Defensoria Pública do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-12-11",
+   "published": "2017-12-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101122",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -125,6 +290,50 @@
    "restores": null,
    "note": null
   },
+  "lc-2005-053": {
+   "label": "Lei Complementar nº 53, de 2005",
+   "title": "Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia.",
+   "kind": "law",
+   "enacted": "2005-05-12",
+   "published": "2005-05-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100995",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2017-131": {
+   "label": "Lei Complementar nº 131, de 2017",
+   "title": "Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2017-07-12",
+   "published": "2017-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2003-041": {
+   "label": "Lei Complementar nº 41, de 2003",
+   "title": "Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia e dá outras providências.",
+   "kind": "law",
+   "enacted": "2003-09-12",
+   "published": "2003-09-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2002-037": {
+   "label": "Lei Complementar nº 37, de 2002",
+   "title": "Introduz alteração à Lei Complementar nº 27, de 30 de dezembro de 1999, modificada pelas Leis Complementares nº 30, de 9 de junho de 2000, e 34, de 3 de outubro de 2001. A ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:",
+   "kind": "law",
+   "enacted": "2002-12-12",
+   "published": "2002-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2011-089": {
    "label": "Lei Complementar nº 89, de 2011",
    "title": "Altera as Leis Complementares nºs 25, de 06 de julho de 1998, e 81, de 26 de janeiro de 2011; as Leis nºs 13.162, de 05 de novembro de 1997, e 16.166, de 28 de novembro de 2007, modifica o concurso de ingresso na Carreira do Ministério Público do Estado de Goiás, cria cargos e dá outras providências.",
@@ -147,6 +356,17 @@
    "restores": null,
    "note": null
   },
+  "lc-2011-083": {
+   "label": "Lei Complementar nº 83, de 2011",
+   "title": "Altera a Lei Complementar nº 25, de 06 de julho de 1998  Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2011-04-13",
+   "published": "2011-04-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101071",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
   "lc-2021-163": {
    "label": "Lei Complementar nº 163, de 2021",
    "title": "Altera a Lei Complementar nº 160, de 29 de dezembro de 2020, que institui o Fundo de Equalização para o Empreendedor - FUNDEQ",
@@ -165,6 +385,138 @@
    "enacted": "2011-10-13",
    "published": "2011-10-18",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101075",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2006-059": {
+   "label": "Lei Complementar nº 59, de 2006",
+   "title": "Dispõe sobre a aposentadoria especial que especifica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2006-11-13",
+   "published": "2006-11-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100991",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-146": {
+   "label": "Lei Complementar nº 146, de 2018",
+   "title": "Introduz alterações na Lei Complementar nº 142, de 26 de junho de 2018.",
+   "kind": "law",
+   "enacted": "2018-11-13",
+   "published": "2018-11-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101133",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1991-008": {
+   "label": "Lei Complementar nº 8, de 1991",
+   "title": "Altera aplicação do § 3° do art. 7° da Lei Complementar n° 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4, de 17 de julho de 1990.",
+   "kind": "law",
+   "enacted": "1991-12-13",
+   "published": "1991-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101041",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-1990-003": {
+   "label": "Lei Complementar nº 3, de 1990",
+   "title": "Introduz alterações na Lei Complementar n° 2, de janeiro de 1990.",
+   "kind": "law",
+   "enacted": "1990-03-14",
+   "published": "1990-03-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101044",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2014-111": {
+   "label": "Lei Complementar nº 111, de 2014",
+   "title": "Altera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2014-05-14",
+   "published": "2014-05-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101098",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-145": {
+   "label": "Lei Complementar nº 145, de 2018",
+   "title": "Altera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, a Secretaria Executiva e a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia.",
+   "kind": "law",
+   "enacted": "2018-08-14",
+   "published": "2018-08-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101132",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2015-119": {
+   "label": "Lei Complementar nº 119, de 2015",
+   "title": "Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2015-12-14",
+   "published": "2015-12-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101106",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-152": {
+   "label": "Lei Complementar nº 152, de 2020",
+   "title": "Altera a Lei Complementar nº 33, de 1º de agosto de 2001.",
+   "kind": "law",
+   "enacted": "2020-01-15",
+   "published": "2020-01-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101139",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2020-153": {
+   "label": "Lei Complementar nº 153, de 2020",
+   "title": "Altera a Lei Complementar n° 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2020-01-15",
+   "published": "2020-01-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101140",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2012-092": {
+   "label": "Lei Complementar nº 92, de 2012",
+   "title": "Introduz alterações no art. 79 da Lei Complementar nº 26, de 28 de dezembro de 1998.",
+   "kind": "law",
+   "enacted": "2012-05-15",
+   "published": "2012-05-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101079",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2019-149": {
+   "label": "Lei Complementar nº 149, de 2019",
+   "title": "Altera a Lei Complementar nº 139, de 22 de janeiro de 2018, que dispõe sobre a Região Metropolitana de Goiânia, o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, cria o Instituto de Planejamento Metropolitano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2019-05-15",
+   "published": "2019-05-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101136",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2004-047": {
+   "label": "Lei Complementar nº 47, de 2004",
+   "title": "Acrescenta a alínea d ao § 1o do art. 35 da Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2004-10-15",
+   "published": "2004-10-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100999",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -198,6 +550,17 @@
    "enacted": "1990-01-16",
    "published": "1990-01-26",
    "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101043",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lc-2018-141": {
+   "label": "Lei Complementar nº 141, de 2018",
+   "title": "Altera dispositivos da Lei Complementar nº 130, de 11 de julho de 2017, que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2018-05-16",
+   "published": "2018-05-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101128",
    "temporary_until": null,
    "restores": null,
    "note": null
@@ -415,6 +778,381 @@
    ]
   },
   {
+   "slug": "lc-2004-048",
+   "short": "LC 48/2004",
+   "title": "Lei Complementar nº 48, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101000",
+   "first_law": "lc-2004-048",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101000",
+     "sha256": "907b2704a16dab6ee7b988396ab60d5ad58135c7b90e986f33333d00b3727462",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 48, DE 09 DE DEZEMBRO DE 2004.\nAltera o caput do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, modificada pelas Leis Complementares nº 30, de 09 de junho de 2000, 34, de 03 de outubro de 2001, e 37, de 12 de dezembro de 2002.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do artigo 90 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O caput do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, passa a vigorar com a seguinte redação:\n\"Art. 1º Fica criada a Região Metropolitana de Goiânia - GRANDE GOIÂNIA, na forma prevista no art. 4º, inciso I, alínea \"a\", e nos arts. 90 e 91 da Constituição do Estado de Goiás, compreendida pelos Municípios de Goiânia, Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Goianápolis, Goianira, Hidrolândia, Nerópolis, Santo Antônio de Goiás, Senador Canedo e Trindade.\"\n(...)(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 09 de dezembro de 2004, 116o da República.\nJARDEL SEBBA (em exercício)\nIvan Soares de Gouvêa\nJosé Carlos Siqueira\n(D.O. de 16-12-2004)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-049",
+   "short": "LC 49/2004",
+   "title": "Lei Complementar nº 49, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101001",
+   "first_law": "lc-2004-049",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-12-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101001",
+     "sha256": "f722f0d7005baee0d064b0aba450f4f7f05338acfdf01ae87686c198583faf2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 49, DE 09 DE DEZEMBRO DE 2004.\nAltera o § 3º do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, modificada pelas Leis Complementares nos 30, de 9 de junho de 2000, 34, de 3 de outubro de 2001, e 37, de 12 de dezembro de 2002.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 90 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O § 3º do artigo 1º da Lei Complementar nº 27, de 30 de dezembro de 1999, passa a vigorar com a seguinte redação:\n\"Art. 1º .............................................................................\n§ 3º Fica instituída a Rede Metropolitana de Transportes Coletivos, unidade sistêmica regional composta por todas as linhas e serviços de transportes coletivos, de todas as modalidades ou categorias, que servem ou que venham a servir o Município de Goiânia e os Municípios de Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Caldazinha, Goianira, Goianápolis, Guapó, Hidrolândia, Nerópolis, Nova Veneza, Santo Antônio de Goiás, Senador Canedo, Terezópolis e Trindade, inclusive linhas e serviços permanentes que promovam a interligação direta ou indireta destes Municípios entre si e ou com o Município de Goiânia.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei Complementar entra em vigor na data de sua publicação\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 09 de dezembro de 2004, 116o da República.\nJARDEL SEBBA (em exercício)\nIvan Soares de Gouvêa\nJosé Carlos Siqueira\n(D.O. de 16-12-2004)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-067",
+   "short": "LC 67/2009",
+   "title": "Lei Complementar nº 67, de 2009 (Altera a Lei Complementar no 26, de 28 de dezembro de 1998, na parte que especifica)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101054",
+   "first_law": "lc-2009-067",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101054",
+     "sha256": "a1e133fdfb7673d851e51294cf69f0cb5b56f9f3fd0d335192c6e9f4c0b2b70d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 67, DE 10 DE FEVEREIRO DE 2009.\nAltera a Lei Complementar no 26, de 28 de dezembro de 1998, na parte que especifica.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 156, § 3º, da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° A alínea \"b\" do § 1º do art. 35 da Lei Complementar no 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte redação:\n\"Art. 35...................................................................................\n§ 1º.........................................................................................\nb) educação ambiental, obrigatoriamente como disciplina da parte diversificada; e orientação sexual e para o trânsito; ética; estudos sobre prevenção, uso e abuso de drogas; estudos socioeconômicos; programas de saúde, podendo estas serem desenvolvidas através de programas especiais ou como temas transversais das disciplinas regulares do currículo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data da sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de fevereiro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nMILCA SEVERINO PEREIRA\n(D.O. de 16-02-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-068",
+   "short": "LC 68/2009",
+   "title": "Lei Complementar nº 68, de 2009",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101055",
+   "first_law": "lc-2009-068",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101055",
+     "sha256": "9fa75e9a1d7fb303466505285d1547c6f4758ee7ca01f5df3c4f7ec6a6e71a68",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 68, DE 10 DE FEVEREIRO DE 2009.\nAcrescenta a alínea \"e\" ao § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida a alínea \"e\" ao § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, com a seguinte redação:\n\"Art. 35. ............................................................................................\n§ 1º...................................................................................................\ne) ensino da língua Brasileira de Sinais - LIBRAS, como disciplina opcional no ensino médio, por meio de oficina temática, em 02 (dois) semestres, com carga horária de 120 (cento e vinte) horas, distribuída em 60 (sessenta) horas por semestre.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, porém, a partir de 1º de janeiro do ano letivo posterior ao de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de fevereiro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nMILCA SEVERINO PEREIRA\n(D.O. de 16-02-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-069",
+   "short": "LC 69/2009",
+   "title": "Lei Complementar nº 69, de 2009 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101056",
+   "first_law": "lc-2009-069",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101056",
+     "sha256": "293cef29cb60516db5d53e2f31893bdf8a743d0d6977c3af0ab663aac63d58c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 69, DE 10 DE FEVEREIRO DE 2009.\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte alteração:\n\"Art. 35. .................................................................................\n§ 1º........................................................................................\nf) noções de primeiros socorros, como conteúdo obrigatório de disciplina regular do currículo do ensino fundamental e médio.\n....................................................................................\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, porém, a partir de 1º de janeiro do ano letivo posterior ao de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de fevereiro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nMILCA SEVERINO PEREIRA\n(D.O. de 16-02-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-070",
+   "short": "LC 70/2009",
+   "title": "Lei Complementar nº 70, de 2009 (Introduz alterações na Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101057",
+   "first_law": "lc-2009-070",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101057",
+     "sha256": "e6413a4394f1aaaec4ccb55e6685e700068c55c1a837d57f2be83badd1a66429",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 70, DE 10 DE FEVEREIRO DE 2009.\nIntroduz alterações na Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° O inciso II do art. 37 da Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar com a seguinte redação:\n\"Art. 37....................................................................................\nII - os conteúdos curriculares e metodologias serão apropriados às reais necessidades e interesses dos alunos da zona rural, incluindo-se, na parte diversificada daqueles, disciplina voltada à orientação sobre o correto manuseio de produtos agrotóxicos e similares nos municípios de vocação produtiva, predominantemente, agropecuária.\n..........................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data da sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de fevereiro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nMILCA SEVERINO PEREIRA\n(D.O. de 16-02-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2009-071",
+   "short": "LC 71/2009",
+   "title": "Lei Complementar nº 71, de 2009 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que dispõe sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101058",
+   "first_law": "lc-2009-071",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2009-02-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101058",
+     "sha256": "1b4363e704313010c34fd365647d0765f40570cf460dfc4d43029f76583b97c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 71, DE 10 DE FEVEREIRO DE 2009.\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, que dispõe sobre as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescida a alínea \"g\" ao § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que passa a vigorar com a seguinte redação:\n\"Art. 35. ..........................................................................................\n§ 1º .................................................................................................\ng) noções gerais do Estatuto da Criança e do Adolescente, devendo ser ministradas de maneira lúdica aos alunos e alunas através de almanaques ilustrativos específicos para fins pedagógicos, ou como temas transversais das disciplinas regulares do currículo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de fevereiro de 2009, 121o da República.\nALCIDES RODRIGUES FILHO\nMILCA SEVERINO PEREIRA\n(D.O.de 16-02-2009)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-155",
+   "short": "LC 155/2020",
+   "title": "Lei Complementar nº 155, de 2020 (Altera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103010",
+   "first_law": "lc-2020-155",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-03-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/103010",
+     "sha256": "e8c8e5383943f53db4bc86b501ee73fe4adad7b2bd5a48284421a8b176bb003b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 155, DE 10 DE MARÇO DE 2020.\nAltera a Lei Complementar nº 25, de 06 de julho de 1998, a Lei nº 13.162, de 05 de novembro de 1997, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam elevadas para entrância intermediária as Promotorias de Justiça de Alvorada do Norte, Aragarças, Pires do Rio, São Luís de Montes Belos e Senador Canedo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Anexo I da Lei Complementar nº 25, de 06 de julho de 1998, passa a vigorar com as alterações constantes do Anexo I desta Lei Complementar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam acrescidos ao quadro de serviços auxiliares do Ministério Público do Estado de Goiás os cargos efetivos constantes do Anexo II desta Lei Complementar.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam acrescidos ao quadro de cargos em comissão do Ministério Público do Estado de Goiás os cargos constantes do Anexo III desta Lei Complementar.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Anexo III da Lei nº 13.162, de 05 de novembro de 1997, passa a vigorar com as alterações constantes do Anexo V desta Lei Complementar.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Anexo IV da Lei nº 13.162, de 05 de novembro de 1997, passa a vigorar com as alterações constantes do Anexo IV desta Lei Complementar.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As Promotorias de Justiça Regionais ficam transformadas em Promotorias de Justiça de Goiânia.\nParágrafo único. A transformação da Promotoria de Justiça Regional instalada somente ocorrerá com a sua vacância.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei Complementar entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 10 de março de 2020.\nDeputado LISSAUER VIEIRA\n- PRESIDENTE -\n(D.O. de 13-03-2020)\nANEXO I\n(Altera o Anexo I da Lei Complementar nº 25, de 06-07-1998)\n\"ANEXO I\nQUADRO da carreira do Ministério Público\nCARGO\nQUANTITATIVO\nPROCURADORES DE JUSTIÇA\n37\nPROMOTORES DE JUSTIÇA DE ENTRÂNCIA FINAL\n104\nPROMOTORES DE JUSTIÇA DE ENTRÂNCIA INTERMEDIÁRIA\n222\nPROMOTORES DE JUSTIÇA DE ENTRÂNCIA INICIAL\n96\nPROMOTORES DE JUSTIÇA SUBSTITUTO\n60\nTOTAL\n519\nPROMOTORIAS de Justiça de entrância final\nCOMARCA\nQUANTITATIVO\nGOIÂNIA\n104\nPROMOTORIAS de Justiça de entrância Intermediária\nCOMARCA\nÁGUAS LINDAS DE GOIÁS\n08\nALVORADA DO NORTE\n02\nANÁPOLIS\n20\nAPARECIDA DE GOIÂNIA\n22\nARAGARÇAS\n02\nCALDAS NOVAS\n06\nCATALÃO\n06\nCERES\n03\nCIDADE OCIDENTAL\n04\nCRISTALINA\n04\nCRIXÁS\n01\nFORMOSA\n08\nGOIANÉSIA\n04\nGOIÁS\n03\nGOIATUBA\n03\nINHUMAS\n03\nIPAMERI\n03\nIPORÁ\n03\nITABERAÍ\n03\nITUMBIARA\n08\nJARAGUÁ\n03\nJATAÍ\n07\nJUSSARA\n02\nLUZIÂNIA\n11\nMINAÇU\n03\nMINEIROS\n05\nMORRINHOS\n03\nNIQUELÂNDIA\n03\nNOVO GAMA\n05\nPALMEIRAS DE GOIÁS\n01\nPIRENÓPOLIS\n02\nPIRES DO RIO\n02\nPLANALTINA\n05\nPORANGATU\n03\nPOSSE\n02\nQUIRINÓPOLIS\n04\nRIO VERDE\n12\nSANTA HELENA DE GOIÁS\n03\nSANTO ANTÔNIO DO DESCOBERTO\n04\nSÃO LUIZ DE MONTES BELOS\n03\nSÃO MIGUEL DO ARAGUAIA\n02\nSENADOR CANEDO\n05\nTRINDADE\n06\nURUAÇU\n03\nVALPARAÍSO DE GOIÁS\n07\nPROMOTORIAS DE JUSTIÇA DE ENTRÂNCIA INICIAL\nCOMARCA\nPREVISTAS NA LEI\nABADIÂNIA\n01\nACREÚNA\n02\nALEXÂNIA\n02\nALTO PARAÍSO DE GOIÁS\n01\nANICUNS\n02\nARAÇU\n01\nARUANÃ\n01\nAURILÂNDIA\n01\nBARRO ALTO\n01\nBELA VISTA DE GOIÁS\n03\nBOM JESUS DE GOIÁS\n02\nBURITI ALEGRE\n01\nCACHOEIRA ALTA\n01\nCACHOEIRA DOURADA\n01\nCAÇU\n01\nCAIAPÔNIA\n01\nCAMPINORTE\n01\nCAMPOS BELOS\n02\nCARMO DO RIO VERDE\n01\nCAVALCANTE\n01\nCOCALZINHO DE GOIÁS\n01\nCORUMBÁ DE GOIÁS\n01\nCORUMBAÍBA\n01\nCROMÍNIA\n01\nCUMARI\n01\nEDÉIA\n01\nESTRELA DO NORTE\n01\nFAZENDA NOVA\n01\nFIRMINÓPOLIS\n01\nFLORES DE GOIÁS\n01\nFORMOSO\n01\nGOIANÁPOLIS\n01\nGOIANDIRA\n01\nGOIANIRA\n03\nGUAPÓ\n02\nHIDROLÂNDIA\n01\nIACIARA\n01\nISRAELÂNDIA\n01\nITAGUARU\n01\nITAJÁ\n01\nITAPACI\n01\nITAPIRAPUÃ\n01\nITAPURANGA\n02\nITAUÇU\n01\nIVOLÂNDIA\n01\nJANDAIA\n01\nJOVIÂNIA\n01\nLEOPOLDO DE BULHÕES\n01\nMARA ROSA\n01\nMAURILÂNDIA\n01\nMONTES CLAROS DE GOIÁS\n01\nMONTIVIDIU\n01\nMOSSÂMEDES\n01\nMOZARLÂNDIA\n02\nNAZÁRIO\n01\nNERÓPOLIS\n02\nNOVA CRIXÁS\n01\nORIZONA\n01\nPADRE BERNARDO\n02\nPANAMÁ\n01\nPARANAIGUARA\n01\nPARAÚNA\n01\nPETROLINA DE GOIÁS\n01\nPIRACANJUBA\n02\nPIRANHAS\n01\nPONTALINA\n01\nRIALMA\n01\nRUBIATABA\n01\nSANCLERLÂNDIA\n01\nSANTA CRUZ DE GOIÁS\n01\nSANTA TEREZINHA DE GOIÁS\n01\nSÃO DOMINGOS\n01\nSÃO SIMÃO\n01\nSERRANÓPOLIS\n01\nSILVÂNIA\n01\nTAQUARAL DE GOIÁS\n01\nTURVÂNIA\n01\nURUANA\n01\nURUTAÍ\n01\nVARJÃO\n01\nVIANÓPOLIS\n01\n\"(NR)\nANEXO II\nCARGOS de provimento efetivo criados por esta Lei\nGrupo Ocupacional\nCategoria\nQuantitativo\nNível Básico\nSecretário Auxiliar\n10\nNível Básico\nOficial de Promotoria\n2\nANEXO III\nCARGOS em Comissão criados por esta Lei COMPLEMENTAR\nCargo\nQuantitativo\nRemuneração (símbolo)\nAssessor de Promotor de Justiça\n35\nCC-4\nANEXO IV\n(Altera o Anexo IV da Lei nº 13.162, de 05-11-1997)\n\"ANEXO IV\nQUADRO DE CARGOS DE PROVIMENTO EM COMISSÃO\nCargo\nRemuneração (símbolo)\nQuantitativo\nAssessor Administrativo\nCC-5\n33\nAssessor da Corregedoria\nCC-5\n2\nAssessor Jurídico da Ouvidoria\nCC-5\n1\nAssessor de Imprensa\nCC-5\n1\nAssessor de Procurador de Justiça\nCC-8\n37\nAssessor de Promotor de Justiça\nCC-4\n497\nAssessor Jurídico\nCC-5\n14\nAssessor Jurídico de Centro de Apoio Operacional\nCC-4\n20\nAssessor Jurídico do Conselho Superior do Ministério Público\nCC-5\n5\nAssistente de Gabinete de Procurador de Justiça\nCC-6\n74\nChefe da Assessoria de Comunicação Social\nCC-9\n1\nChefe da Central de Atendimento\nCC-8\n1\nChefe da Controladoria Interna\nCC-9\n1\nChefe de Cerimonial\nCC-9\n1\nCoordenador Administrativo\nCC-5\n12\nCoordenador Administrativo da Corregedoria-Geral\nCC-9\n1\nDiretor-Geral\nCC-10\n1\nGerente de Segurança Institucional\nCC-7\n5\nGerente Executivo de Operações\nCC-9\n1\nMestre de Cerimônia\nCC-5\n1\nSuperintendente\nCC-9\n8\nTOTAL\n717\n\"(NR)\nANEXO V\n(Altera o Anexo III da Lei nº 13.162, de 05-11-1997)\n\"ANEXO III\nCARGOS de Provimento Efetivo de Nível Básico\nGrupo Ocupacional\nCategoria\nClasse\nReferência\nQuantitativo\nNível Básico\nSecretário Auxiliar\nA\nB\nC\nIII\n518\nNível Básico\nAuxiliar Administrativo\nA\nB\nC\nIII\n35\nNível Básico\nOficial de Promotoria\nA\nB\nC\nIII\n192\nAuxiliar Motorista\nSingular\nIII\n20\nAuxiliar de Segurança\nSingular\nIII\n04\nAuxiliar de Copa\nSingular\nIII\n04\nAuxiliar Garçom\nSingular\nIII\n02\nAuxiliar Porteiro\nSingular\nIII\n02\nAuxiliar Telefonista\nSingular\nIII\n04\nArtífice de Mecânica de Veículos\nSingular\nIII\n02\nArtífice de Marcenaria\nSingular\nIII\n01\nArtífice de Eletricidade\nSingular\nIII\n01\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-140",
+   "short": "LC 140/2018",
+   "title": "Lei Complementar nº 140, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101127",
+   "first_law": "lc-2018-140",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-05-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101127",
+     "sha256": "9f1cc1ad4ef80dfed74327516852764514bb67990444dd92e66b4b30732b45d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar n° 140 / 2018\nGOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 140, DE 10 MAIO DE 2018\nAltera a Lei Complementar nº 103, de 1° de outubro de 2013, criando cargos e funções de confiança na estrutura organizacional de assessoramento do Ministério Público do Estado de Goiás para atender às demandas afetas ao Comitê Interinstitucional de Recuperação de Ativos do Estado de Goiás (CIRA-GO).\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, incisos VIII e X, da Constituição Estadual , decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Para atender às demandas afetas ao Comitê Interinstitucional de Recuperação de Ativos do Estado de Goiás (CIRA-GO), a estrutura organizacional de assessoramento da Procuradoria-Geral de Justiça do Ministério Público do Estado de Goiás passa a vigorar com as modificações constantes desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Para compatibilização com as alterações estruturais estabelecidas nesta Lei Complementar, ficam acrescidos, nos Anexos V e VI da Lei Complementar estadual nº 103, de 1o de outubro de 2013, os seguintes cargos em comissão e funções de confiança, passando a compor a estrutura organizacional de assessoramento do Ministério Público do Estado de Goiás:\nI - 2 (dois) de Assessor Administrativo (CC-5);\nII - 2 (dois) de Assistente de Gestão do Conhecimento (FC-6).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Ficam acrescidas, no Anexo XI da Lei Complementar estadual nº 103, de 1° de outubro de 2013, três funções gratificadas de Promotor de Justiça integrante do GAECO.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4°",
+       "kind": "article",
+       "text": "Art. 4° Os Anexos V, VI e XI da Lei Complementar estadual nº 103, de 1° de outubro de 2013, passam a vigorar com as alterações definidas no Anexo Único desta Lei Complementar.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5°",
+       "kind": "article",
+       "text": "Art. 5° As despesas decorrentes desta Lei Complementar correrão à conta dos recursos consignados no Orçamento-Geral do Estado de Goiás, nas rubricas destinadas ao Ministério Público, inclusive créditos especiais e suplementares, obedecidos os preceitos da Lei Complementar nº 101, de 4 de maio de 2000.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6o",
+       "kind": "article",
+       "text": "Art. 6o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de maio de 2018, 130º da República.\nJOSÉ ELITON DE FIGUERÊDO JÚNIOR\n(D.O. de 14-05-2018)\nANEXO ÚNICO\n\"ANEXO V\nQUADRO DE CARGOS EM COMISSÃO\nCargo\nRemuneração (símbolo)\nQuantitativo\nAssessor Administrativo\nCC-5\n33\nTOTAL\n682\n.........................................................................\" (NR)\n\"ANEXO VI\nQUADRO DE FUNÇÕES DE CONFIANÇA\nFunção\nRemuneração (símbolo)\nFunção\nAssistente de Gestão do Conhecimento\nFC-6\n8\nTOTAL\n272\n.........................................................................\" (NR)\n\"ANEXO XI\nANEXO II\nFUNÇÕES GRATIFICADAS\nFunção\nQuantitativo\nPromotor de Justiça integrante do GAECO\n7\nTotal\n92\n.......................................................................\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-150",
+   "short": "LC 150/2019",
+   "title": "Lei Complementar nº 150, de 2019 (Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, que institui a autarquia Goiás Previdência - GOIASPREV.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101137",
+   "first_law": "lc-2019-150",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-06-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101137",
+     "sha256": "5d4459e171d206417da9631ca7f116f4dd8ded35953b5529ddb69c8e890831ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 150, DE 10 DE JUNHO DE 2019\nIntroduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, que institui a autarquia Goiás Previdência - GOIASPREV.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 66, de 27 de janeiro de 2009, passa a vigorar com as alterações abaixo:\n\"Art. 1º Fica criada a Goiás Previdência -GOIASPREV-, entidade gestora única do Regime Próprio de Previdência dos Servidores Públicos -RPPS- e do Regime Próprio de Previdência dos Militares do Estado de Goiás -RPPM-, autarquia dotada de autonomia administrativa, financeira e patrimonial, com sede e foro na cidade de Goiânia-GO e com prazo de duração indeterminado.\n.....................................................................\"(NR)\n\"Art. 4º .........................................................\n§ 3º Revogado.\"(NR)\n\"Art. 5º São órgãos de administração da GOIASPREV o Conselho Estadual de Previdência -CEP-, o Conselho Fiscal -CF- e a Diretoria Executiva.\"(NR)\n\"Art. 6º ........................................................\nIII - apreciar as decisões de políticas de gestão aplicáveis ao RPPS e ao RPPM;\nXI - revogado;\nXIX - manifestar-se sobre qualquer assunto de interesse da GOIASPREV que lhe seja submetido pela Diretoria Executiva.\n§ 1º As decisões ou deliberações do CEP, na forma de resolução, serão publicadas no Diário Oficial do Estado.\n§ 4º Incumbirá à Diretoria de Previdência da GOIASPREV proporcionar ao CEP os meios necessários ao exercício de suas competências.\"(NR)\n\"Art.7º ..........................................................\n§ 2º ..............................................................\nI - .................................................................\nII - condenação em processo administrativo disciplinar;\nIII - acumulação ilegal de cargos, empregos ou funções públicas.\n§ 7º Na hipótese de não atendimento do prazo previsto no § 5º deste artigo, a designação dos Conselheiros far-se-á mediante livre escolha do Governador do Estado, observados os requisitos previstos nos §§1º e 2º deste artigo. \"(NR)\n\"Art. 9º A Diretoria Executiva é o órgão de execução das atividades de administração da GOIASPREV, em conformidade com as diretrizes gerais de atuação definidas pelo CEP. \"(NR)\n\"Art. 10. A Diretoria Executiva será composta por 5 (cinco) membros, sendo:\nV - um Diretor de Investimentos.\n§ 1º Os membros da Diretoria Executiva deverão preencher os seguintes requisitos:\nI - ................................................................\nII - ...............................................................\nIII - não estar cumprindo penalidade por transgressão disciplinar ou estar inabilitado, quando servidor público, na forma do respectivo Estatuto.\n§ 2º Observando o preenchimento dos requisitos legais, o Presidente será indicado pelo Governador do Estado, sendo nomeado após aprovação da Assembleia Legislativa do Estado de Goiás, e os demais Diretores deverão, após indicação do Governador do Estado e antes da nomeação, ter seus nomes referendados pelos Chefes de cada Poder, do Ministério Público e do TCE, no prazo máximo de 30 (trinta) dias.\n§ 3º...............................................................\n§ 4º Os membros da Diretoria Executiva terão assento nas reuniões do CEP, com direito a voz, mas sem direito a voto.\n§ 5º O Diretor de Investimentos deverá possuir certificação profissional comprovada para atuar no mercado financeiro de capitais, expedida por entidade autônoma de reconhecida capacidade técnica e de difusão, que ateste conhecimento sobre características de produtos de investimento ou manutenção de carteira de investimentos.\n§ 7º A alteração na nomenclatura ou transformação de cargo da Diretoria da GOIASPREV, por força de reforma administrativa, não implicará a substituição do seu titular.\n§ 8º ...............................................................\n§ 9º Revogado.\n§ 10. Revogado.\n......................................................................\" (NR)\n\"Art. 11. São atribuições do Presidente representar e dirigir a GOIASPREV, além de organizar e supervisionar as suas atividades, bem como exercer as demais atribuições definidas em Regulamento. \"(NR)\n\"Art. 12. Compete:\nI - ao Diretor de Gestão, Planejamento e Finanças: planejar, coordenar e controlar a execução das atividades relacionadas com a gestão de pessoas, inclusive os programas de desenvolvimento e treinamento do pessoal da GOIASPREV; a gerência dos bens pertencentes à GOIASPREV; as ações de gestão orçamentária, bem como de convênios e contratos; as atividades referentes a pagamentos, recebimentos, controle, movimentação e disponibilidade financeira da GOIASPREV; e as ações de tecnologia da informação;\nII - ao Diretor de Previdência: coordenar os trabalhos relativos à gestão dos benefícios previdenciários do RPPS, incluindo o controle e o registro dos respectivos atos de concessão e manutenção;\nIII - ao Diretor de Benefícios de Militares: coordenar os trabalhos relativos à gestão dos benefícios previdenciários do RPPM, incluindo o controle e o registro dos respectivos atos de concessão e manutenção;\nIV - ao Diretor de Investimentos: coordenar os recursos financeiros dos fundos previdenciários, bem como a análise do mercado e das aplicações dos ativos da GOIASPREV, incluindo o acompanhamento e monitoramento contínuo dos riscos e do comportamento do mercado financeiro.\nParágrafo único.............................................\" (NR)\n\"Art. 13. O Conselho Fiscal é o órgão de fiscalização da GOIASPREV, competindo-lhe:\nI - analisar demonstrações financeiras, documentos contábeis da entidade, demais documentos ou registros que entender necessários ou que forem solicitados pelo CEP e emitir parecer, submetendo-o à deliberação deste;\nII - opinar sobre assuntos de natureza econômico-financeira e contábil que lhe sejam submetidos pelo CEP ou pela Diretoria Executiva da GOIASPREV;\nIII - comunicar ao CEP fatos relevantes que apurar no exercício de suas atribuições;\nIV - apreciar a prestação de contas anual, emitindo parecer que será submetido à deliberação do CEP;\nV - .................................................................\nParágrafo único. No desempenho de suas funções, o Conselho Fiscal examinará os livros e documentos da GOIASPREV, podendo ainda solicitar ao CEP, justificadamente, o auxílio de especialistas e peritos, bem como de auditoria externa, à conta da GOIASPREV.\" (NR)\n\"Art. 14............................................................\n§ 1º..................................................................\n§ 2º .................................................................\nI - ....................................................................\nII - condenação em processo administrativo disciplinar;\nIII - acumulação ilegal de cargos, empregos ou funções públicas.\n§ 6º-A Na hipótese de não atendimento em até 30 (trinta) dias após o prazo previsto no § 6º deste artigo, a designação dos Conselheiros far-se-á mediante livre escolha do Governador do Estado, observados os requisitos previstos no caput e §§1º e 2º deste artigo.\n§ 10. O Conselho Fiscal poderá ser convocado extraordinariamente por seu Presidente, a requerimento de, no mínimo, 3 (três) dos seus membros, pelo CEP ou pela Diretoria Executiva da GOIASPREV, conforme dispuser o regimento interno, com antecedência mínima de 5 (cinco) dias úteis da data de realização da reunião.\"(NR)\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Revogado.\nI - revogado;\nII - revogado;\nIII - revogado;\n§ 1º Revogado.\n§ 2º Revogado.\n\"Art. 25. ..........................................................\n§ 3º Fica a Secretaria de Estado da Economia, ou sua sucessora, autorizada a assumir, em nome do Estado de Goiás, a responsabilidade pelo pagamento, respeitadas a independência administrativa dos poderes e órgãos autônomos, nos termos da Constituição Federal e da Lei de Responsabilidade Fiscal, de débitos do extinto Fundo de Previdência Estadual, oriundos de sentenças transitadas em julgado, constantes de precatórios judiciais insatisfeitos.\n§ 4º As obrigações assumidas pela Secretaria de Estado da Economia, ou sua sucessora, em consequência da autorização de que trata o § 3º, serão consideradas no ajuste de que trata o caput deste artigo.\n........................................................................\" (NR)\n\"Art. 26. ..........................................................\n§ 1º .................................................................\nVII - dos bens, recursos e direitos que lhe forem destinados e incorporados;\n§ 16. Fica a GOIASPREV autorizada a expedir os atos necessários ao pleno cumprimento das diretrizes dos fundos criados por esta Lei Complementar nos termos do Regulamento.\n........................................................................\"(NR)\n\"Art. 27. Os recursos garantidores das reservas técnicas e provisões do Fundo a que se refere o art. 26 desta Lei Complementar serão aplicados de acordo com a normatização do Conselho Monetário Nacional e da legislação aplicável à matéria, observadas ainda as regras de segurança, solvência, liquidez, rentabilidade, proteção e prudência financeira, mediante prévia aprovação do Conselho Fiscal.\"(NR)\n\"Art. 28. ..........................................................\nParágrafo único. Mediante autorização do Conselho Estadual de Previdência e depois de cumpridas as demais formalidades jurídicas, principalmente autorização legislativa específica para os bens imóveis, a GOIASPREV poderá proceder à alienação ou oneração dos bens doados ao Fundo a que se refere esta Lei Complementar, devendo tal alienação ou oneração observar os valores praticados pelo mercado e revertê-los em seu benefício.\"(NR)\n\"Art. 30. ..........................................................\nParágrafo único. Os membros dos Conselhos Estadual de Previdência e Fiscal, quando do término de seus mandatos, permanecerão no exercício da função até que seus sucessores assumam.\"(NR)\n\"Art. 35. Os membros do CEP, do Conselho Fiscal e do Comitê de Investimento poderão receber jetons pelo exercício de suas funções nesses órgãos, na forma de lei específica.\"(NR)\n\"Art. 36. ..........................................................\nParágrafo único. Revogado.\"(NR)\n"
+      },
+      "art-0038": {
+       "label": "Art. 38",
+       "kind": "article",
+       "text": "Art. 38. Revogado.\nArt. 2º Ficam revogados os seguintes dispositivos da Lei Complementar nº 66, de 27 de janeiro de 2009:\nI - § 3º do art. 4º;\nII - inciso XI do art. 6°;\nIII - §§ 9° e 10 do art. 10;\nIV - art. 15, incluindo seus incisos I a III e §§ 1° e 2°;\nV - parágrafo único do art. 36;\nVI - art. 38.\nArt. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de junho de 2019, 131º da República.\n(D.O. de 11-06-2019)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2024-196",
    "short": "LC 196/2024",
    "title": "Lei Complementar nº 196, de 2024 (Dispõe sobre as responsabilidades das Microrregiões de Saneamento Básico e dá outras providências.)",
@@ -498,6 +1236,38 @@
        "label": "Art. 3º",
        "kind": "article",
        "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-132",
+   "short": "LC 132/2017",
+   "title": "Lei Complementar nº 132, de 2017 (Altera o art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101119",
+   "first_law": "lc-2017-132",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-10-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101119",
+     "sha256": "27285e699d40eb7bd1275ca97b1d8c9c234fa7830ee8c3ddb2c8c85b402eb320",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar n° 132 / 2017\nGOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 132, DE 10 DE OUTUBRO DE 2017\nAltera o art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O § 1º do art. 35 da Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar acrescido da seguinte alínea:\n\"Art. 35..................................................................\n§ 1º........................................................................\nh) noções sobre educação financeira e finanças pessoais, como tema transversal de disciplinas regulares do currículo do ensino fundamental e médio.\n....................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, produzindo efeitos, porém, a partir de 1º de janeiro do ano letivo posterior ao de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de outubro de 2017, 129º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nRAQUEL FIGUEIREDO ALESSANDRI TEIXEIRA\n(D.O. de 11-10-2017)\n"
       }
      }
     }
@@ -600,6 +1370,75 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 20, de 1996 was altered on 3 date(s) its notes cite, the latest 2016-11-18."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-096",
+   "short": "LC 96/2012",
+   "title": "Lei Complementar nº 96, de 2012 (Altera o art. 16 da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101083",
+   "first_law": "lc-2012-096",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-12-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101083",
+     "sha256": "ecdb37791679fc94f375344e098b33dce0c2358fb02649247e851f5aa0152b73",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 96, DE 10 DE DEZEMBRO DE 2012.\nAltera o art. 16 da Lei Complementar nº 26, de 28 de dezembro de 1998.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 16, caput, da Lei Complementar nº 26, de 28 de dezembro de 1998, passa a vigorar com a redação e o acréscimo do inciso XVI, abaixo especificados, respectivamente:\n\"Art. 16 O Conselho Estadual de Educação é constituído de 25 (vinte e cinco) membros titulares escolhidos entre pessoas de notório saber e comprovada experiência em matéria de educação, nos termos do art. 160 da Constituição do Estado de Goiás, asseguradas as seguintes representações:\nXVI - 1 (um) do Sindicato das Entidades Mantenedoras de Estabelecimentos de Educação Superior do Estado de Goiás - SEMESG -, por ele indicado.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 10 de dezembro de 2012, 124º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 11-12-2012) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1993-014",
+   "short": "LC 14/1993",
+   "title": "Lei Complementar nº 14, de 1993 (Altera dispositivo da Lei Complementar n° 02, de 16 de janeiro de 1990, com modificações posteriores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101033",
+   "first_law": "lc-1993-014",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1993-03-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101033",
+     "sha256": "dc36ca4fc1c73d87dc7ea13b2dedb5ce6ae65a989ab6f3b2bc42a8608559ec7f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 14, DE 11 DE MARÇO DE 1993.\nAltera dispositivo da Lei Complementar no 02, de 16 de janeiro de 1990, com modificações posteriores.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o O dispositivo da Lei Complementar no 02, de 16 de janeiro de 1990, a seguir mencionado, com as modificações posteriores introduzidas pelo art. 1o da Lei Complementar no 11, de 15 de dezembro de 1992, passa a vigorar com a seguinte alteração:\n\"Art. 14. .......................................................................................\n§ 3o Dentro de 180 (cento e oitenta) dias após a instalação do Município, o Prefeito do Município de origem deverá encaminhar àquele cópia dos livros, balanços e balancetes de receita e despesa, correspondente ao período a partir da emancipação.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta lei complementar entrará em vigor na data de sua publicação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 11 de março de 1993, 105o da República.\nIRIS REZENDE MACHADO\n(D.O. 17-03-1993)\n"
+      }
+     }
     }
    ]
   },
@@ -1951,6 +2790,80 @@
    ]
   },
   {
+   "slug": "lc-1995-017",
+   "short": "LC 17/1995",
+   "title": "Lei Complementar nº 17, de 1995 (Altera a redação do inciso IV do art. 3º da Lei Complementar nº 1, de 19 de dezembro de 1989.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101031",
+   "first_law": "lc-1995-017",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1995-09-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101031",
+     "sha256": "8463c22e09249d8aa43237b968a83d56e14f85740aa86e2da65ca71f47fe864f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 17, DE 11 DE SETEMBRO DE 1995.\nAltera a redação do inciso IV do art. 3o da Lei Complementar no 1, de 19 de dezembro de 1989.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o - O inciso IV do art. 3o da Lei Complementar no 1, de 19 de dezembro de 1989, passa a vigorar com a seguinte redação:\n\"Art. 3o ...........................................................................................................\nIV - os Reitores das Universidades Federal de Goiás e Estadual de Anápolis\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta lei complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 11 de setembro de 1995, 107o da República.\nLUIZ ALBERTO MAGUITO VILELA\n(DO. de 14-9-95)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-135",
+   "short": "LC 135/2017",
+   "title": "Lei Complementar nº 135, de 2017",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101122",
+   "first_law": "lc-2017-135",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-12-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101122",
+     "sha256": "a01f979dd2ad798636acd51d065123d7476de41e30ff371608939e55d83009ca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# Lei Complementar n° 135 / 2017\nGOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 135, DE 11 DEZEMBRO DE 2017\nMensagem de veto\nAltera dispositivos da Lei Complementar nº 130, de 11 de julho de 2017, que dispõe sobre a Reorganização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros e cria cargos e funções no âmbito da Defensoria Pública do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 120 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 130, de 11 de julho de 2017, passa a vigorar com as seguintes alterações:\n\"Art. 9° ................................................................\nV - órgãos de apoio:\ne) a Diretoria de Tecnologia da Informação.\n......................................................................\"(NR)\n\"Art. 21. .................................................................\nII - supervisionar os trabalhos da Diretoria-Geral de Administração e Planejamento da Defensoria Pública do Estado, sobretudo em relação aos planos, programas e projetos envolvendo os órgãos instalados na Capital e na respectiva região metropolitana;\n.......................................................................\"(NR)\n\"Art. 23. ..................................................................\nII - supervisionar os trabalhos da Diretoria-Geral de Administração e Planejamento da Defensoria Pública do Estado, sobretudo em relação aos planos, programas e projetos envolvendo os órgãos instalados no interior do Estado;\n.......................................................................\"(NR)\n\"Art. 24. .................................................................\nI-A - VETADO;\nII-A - VETADO;\nIII-A - VETADO;\nIV-A - VETADO;\nV-A - VETADO;\nVI-A - VETADO.\n.......................................................................\"(NR)\n\"Art. 26. VETADO.\n\"Art. 31-A. As decisões do Conselho Superior da Defensoria Pública do Estado serão motivadas e publicadas, e suas sessões deverão ser públicas, salvo nas hipóteses legais de sigilo, e realizadas, no mínimo, bimestralmente, podendo a reunião ser convocada por qualquer conselheiro, caso não realizada dentro desse prazo.\n.........................................................................\"(NR)\n\"Art. 36. ...................................................................\nV-A - receber e processar as representações contra os membros da Defensoria Pública do Estado, encaminhando-as, com parecer, ao Conselho Superior;\n.........................................................................\"(NR)\n\"Art. 64. ..............................................................\nV - a Diretoria de Tecnologia da Informação.\"(NR)\n\"Art. 65. ..............................................................\nIII - Departamento de Patrimônio e Almoxarifado;\nIX - Departamento de Planejamento e Modernização Institucional;\nX - Departamento de Logística e Transportes;\nXI - Departamento de Compras.\n....................................................................\"(NR)\n\"Art. 68. .............................................................\nIII - viabilizar a execução pelos órgãos de atuação da Defensoria Pública do Estado do disposto no artigo 5°, inciso I, desta Lei Complementar;\n...................................................................\"(NR)\n\"Art. 108. ............................................................\n§ 1º-A VETADO.\n..................................................................\"(NR)\n\"Art. 123. ..........................................................\n§ 2° O valor da diária poderá ser fixado em até o dobro do previsto no parágrafo anterior quando se tratar de deslocamento para fora do Estado.\n..................................................................\"(NR)\n\"Art. 145. ..........................................................\n§ 3° As férias dos membros da Defensoria Pública do Estado serão concedidas pelo Defensor Público-Geral do Estado e deverão ser requeridas pelo interessado, para os fins previstos no § 1° do artigo 121, com antecedência mínima de 60 (sessenta) dias.\n..................................................................\"(NR)\n\"Art. 157. ...........................................................\nII-A - não ser preso, senão por ordem judicial escrita, salvo em flagrante, caso em que a autoridade fará imediata comunicação ao Defensor Público-Geral;\nXV-A - VETADO.\n..................................................................\"(NR)\n\"Art. 177. .........................................................\nII - prática das condutas previstas nos artigos 159 e 160 desta Lei Complementar, quando a infração se der mediante o exercício irregular da advocacia;\n..................................................................\"(NR)\n\"Art. 221-A. O julgamento do recurso realizar-se-á de acordo com as normas regimentais, intimando-se o recorrente da sessão de julgamento na forma do artigo 211 desta Lei Complementar.\n..................................................................\"(NR)\n\"Art. 242. ...........................................................\nParágrafo único. No caso de nomeação de Defensor Público para ocupar os cargos de Diretor de Tecnologia da Informação ou de Diretor dos Centros de Atendimento Multidisciplinar, estes serão exercidos igualmente sem prejuízo das atribuições ordinárias do Defensor Público.\n..................................................................\"(NR)\n\"Art. 243. Até que sejam instituídos os Núcleos Especializados para a defesa e promoção dos direitos referidos no parágrafo único do artigo 40 desta Lei Complementar, o Núcleo de Direitos Humanos ficará responsável pelas respectivas atribuições.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° A Seção III do Capítulo I do Título II da Lei Complementar nº 130, de 11 de julho de 2017, passa a ser denominada \"Da Segunda Subdefensoria Pública-Geral do Estado\".\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° Fica acrescida a Subseção V à Seção IX do Capítulo I do Título II da Lei Complementar nº 130, de 11 de julho de 2017, com a seguinte redação:\n\"Subseção V\nDa Diretoria de Tecnologia da Informação\n"
+      },
+      "art-0068-a": {
+       "label": "Art. 68-A",
+       "kind": "article",
+       "text": "Art. 68-A. A Diretoria de Tecnologia da Informação é órgão de apoio da Defensoria Pública do Estado, vinculado diretamente ao Defensor Público-Geral do Estado, competindo-lhe, sem prejuízo de outras atribuições fixadas no Regimento Interno da Defensoria Pública, prestar apoio na área de Tecnologia da Informação.\n§ 1° O Regimento Interno da Defensoria Pública disciplinará as atribuições dos seguintes departamentos da Diretoria de Tecnologia da Informação:\nI - Departamento de Desenvolvimento em Tecnologia da Informação;\nII - Departamento de Infraestrutura em Tecnologia da Informação;\nIII - Departamento de Suporte e Redes em Tecnologia da Informação.\n§ 2° O Diretor de Tecnologia da Informação e os Chefes de Departamento serão nomeados em comissão pelo Defensor Público-Geral do Estado e remunerados na forma do Anexo II desta Lei Complementar.\" (NR)\nArt. 4º Ficam extintos os cargos de:\nI - Chefe do Departamento de Planejamento, Orçamentário e Compras; e\nII - Chefe do Departamento de Patrimônio, Almoxarifado, Logística e Materiais.\nArt. 5º Ficam criados no âmbito da Defensoria Pública do Estado de Goiás:\nI - 1 (um) cargo de Diretor de Tecnologia da Informação;\nII - 1 (um) cargo de Chefe do Departamento de Compras;\nIII - 1 (um) cargo de Chefe do Departamento de Logística e Transportes;\nIV - 1 (um) cargo de Chefe do Departamento de Planejamento, Orçamento e Modernização Institucional;\nV - 3 (três) cargos de assessor técnico;\nVI - 12 (doze) cargos de Assessor Especial 1;\nVII - 20 (vinte) cargos de Assessor Especial 2;\nVIII - 2 (duas) Funções Gratificadas 1;\nIX - 4 (quatro) Funções Gratificadas 2;\nX - 4 (quatro) Funções Gratificadas 3; e\nXI - 2 (duas) Funções Gratificadas 5.\nParágrafo único. O Anexo II da Lei Complementar nº 130, de 2017, passa a vigorar com as alterações constantes no Anexo Único desta Lei Complementar.\nANEXO ÚNICO\n(Altera o Anexo II da Lei Complementar nº 130, de 2017)\n\"ANEXO II - QUADRO DE GRATIFICAÇÕES DOS CARGOS DA ADMINISTRAÇÃO SUPERIOR, DAS FUNÇÕES DE CONFIANÇA, DOS CARGOS EM COMISSÃO E DAS FUNÇÕES GRATIFICADAS DA DEFENSORIA PÚBLICA DO ESTADO DE GOIÁS\nCARGOS EM COMISSÃO\nCARGOS\nQUANTITATIVO\nSIMBOLOGIA\nVENCIMENTO\nOuvidor-Geral da Defensoria Pública do Estado\n1\nCC-3\nR$ 8.000,00\nChefe de Gabinete\n1\nCC-1\nR$ 14.000,00\nDiretor-Geral de Administração e Planejamento\n1\nCC-1\nR$ 14.000,00\nDiretor de Comunicação Social\n1\nCC-2\nR$ 10.000.00\nDiretor de Tecnologia da Informação\n1\nCC-2\nR$ 10.000,00\nDiretor do Centro de Atendimento Multidisciplinar\n1\nCC-2\nR$ 10.000.00\nChefe do Departamento de Recursos Humanos\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento Financeiro\n1\nCC-4\nR$ 6 000.00\nChefe do Departamento de Patrimônio e Almoxarifado\n1\nCC-4\nR$ 6.000,00\nChefe do Departamento de Licitação e Contratos\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Compras\n1\nCC-4\nR$ 6.000,00\nChefe do Departamento de Protocolo Geral, Expedição e Arquivo\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Sistema Integrado de Informações e Controle de Processos\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Obras e Arquitetura\n1\nCC-4\nR$ 6.000,00\nChefe do Departamento de Logística e Transportes\n1\nCC-4\nR$ 6.000.00\nChefe do Centro de Atendimento Multidisciplinar do Interior\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Contabilidade e Arrecadação\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Planejamento, Orçamento e Modernização Institucional\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Desenvolvimento em Tecnologia da Informação\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Infraestrutura em Tecnologia da Informação\n1\nCC-4\nR$ 6.000.00\nChefe do Departamento de Suporte e Redes em Tecnologia da Informação\n1\nCC-4\nR$ 6.000,00\nAssessor Técnico\n15\nCC-4\nR$ 6.000.00\nAssessor Especial 1\n32\nCC-5\nR$ 3.500,00\nAssessor Especial 2\n40\nCC-6\nR$ 2.500.00\nFUNÇÕES GRATIFICADAS\nFUNÇÕES GRATIFICADAS\nQUANTITATIVO\nSIMBOLOGIA\nGRATIFICAÇÃO\nFunção Gratificada 1\n6\nFG-1\nR$ 2.000,00\nFunção Gratificada 2\n14\nFG-2\nR$ 1.800,00\nFunção Gratificada 3\n10\nFG-3\nR$ 1.600,00\nFunção Gratificada 4\n6\nFG-4\nR$ 1.200,00\nFunção Gratificada 5\n19\nFG-5\nR$ 1.000,00\n(NR)\"\nArt. 6º Os atos de disposição de servidores comissionados realizados pelo Poder Executivo à Defensoria Pública no período anterior à promulgação da Lei Complementar nº 130, de 11 de julho de 2017, e ainda vigentes remanescerão sem efeito a partir da promulgação desta Lei Complementar.\nArt. 7º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 11 de dezembro de 2017, 129º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 11-12-2017 - Suplemento)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
    "slug": "lc-2025-210",
    "short": "LC 210/2025",
    "title": "Lei Complementar nº 210, de 2025 (Altera o art. 27 e seu parágrafo único da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
@@ -2029,6 +2942,149 @@
       }
      },
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 29, de 2000 was altered on 8 date(s) its notes cite, the latest 2010-01-22."
+    }
+   ]
+  },
+  {
+   "slug": "lc-2005-053",
+   "short": "LC 53/2005",
+   "title": "Lei Complementar nº 53, de 2005 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100995",
+   "first_law": "lc-2005-053",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2005-05-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100995",
+     "sha256": "861b375969ffde556a8515c30f7f49583f2bb8cf3e9625cb8d85c65e6e072c81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 53, DE 12 DE MAIO DE 2005.\nIntroduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o A Lei Complementar no 27, de 30 de dezembro de 1999, passa a vigorar com as seguintes alterações:\n\"Art. 6o .............................................................................\nI - o Secretário de Estado das Cidades, que será o seu Presidente;\nIV - 12 (doze) Prefeitos dos Municípios integrantes da Região Metropolitana de Goiânia;\n§ 1o O Conselho de Desenvolvimento da Região Metropolitana de Goiânia terá uma Secretaria Executiva com a finalidade de integrar a organização, o planejamento e a execução das funções públicas de interesse comum da Região Metropolitana de Goiânia, que será exercida pela Superintendência da Região Metropolitana de Goiânia, da Secretaria das Cidades.\n§ 4o ..................................................................................\nI - o Secretário de Estado das Cidades, que a presidirá; (NR)\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10 Fica o Poder Executivo autorizado a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia, a ser gerido pela Secretaria de Estado das Cidades, com a finalidade de dar suporte financeiro ao planejamento integrado e às ações conjuntas dele decorrentes, no que se refere às funções públicas de interesse comum entre o Estado e os Municípios integrantes da Região. (NR)\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12 Ao Estado de Goiás, através da Secretaria das Cidades, compete:\nI - oferecer assessoramento técnico e administrativo ao Conselho de Desenvolvimento da Região Metropolitana de Goiânia;\nII - acompanhar técnica e financeiramente a execução dos estudos, projetos, obras e atividades aprovadas e declaradas de interesse comum pelo Conselho de Desenvolvimento da Região Metropolitana de Goiânia, bem como supervisionar sua compatibilização intermunicipal e intersetorial.\" (NR)\nArt. 2o Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo seus efeitos a 1o de fevereiro de 2005.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 12 de maio de 2005, 117o da República\nMARCONI FERREIRA PERILLO JÚNIOR\nAdemir de Oliveira Menezes\n(D.O. de 17-05-2005)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2017-131",
+   "short": "LC 131/2017",
+   "title": "Lei Complementar nº 131, de 2017 (Introduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101118",
+   "first_law": "lc-2017-131",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2017-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101118",
+     "sha256": "382978c8b6ac72d45b6b91481fe56b18e48539a5cf444e60ab35a2b739a5ac05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 131, DE 12 DE JULHO DE 2017\nIntroduz alterações na Lei Complementar nº 66, de 27 de janeiro de 2009, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica extinto o Fundo Previdenciário de que trata o art. 26, inciso III, da Lei Complementar nº 66, de 27 de janeiro de 2009, criado pela Lei Complementar nº 102, de 22 de maio de 2013.\n§ 1º Ficam vinculados aos Fundos Financeiros, previstos nos incisos I e II do art. 26 da Lei Complementar nº 66, de 27 de janeiro de 2009, os atuais segurados e beneficiários vinculados ao extinto Fundo Previdenciário, aplicando-se-lhes as alíquotas previstas nos arts. 23 e 24 da Lei Complementar nº 77, de 22 de janeiro de 2010.\n§ 2º O total de recursos existentes no extinto Fundo Previdenciário, apurado na data de publicação desta Lei Complementar, reverterão aos Fundos Financeiros previstos nos incisos I e II do art. 26 da Lei Complementar nº 66, de 27 de janeiro de 2009.\n§ 3º Consideram-se como total dos recursos existentes na forma do caput deste artigo todos os valores, recursos financeiros, títulos e direitos de crédito e bens disponíveis, incluídos os créditos que o Fundo Previdenciário possui junto ao Estado de Goiás e às suas autarquias e fundações, considerados até a data de publicação desta Lei Complementar.\n§ 4º A aplicação dos recursos de que trata o § 2º deste artigo observará o disposto no inciso XI do art. 167 da Constituição da República e no inciso III do art. 1º da Lei federal nº 9.717, de 27 de novembro de 1998.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º VETADO.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam revogados o inciso III, o § 3º e seus incisos, o § 10 e o § 14 e seus incisos, todos do art. 26 da Lei Complementar nº 66, de 27 de janeiro de 2009.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 12 de julho de 2017, 129º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nJoaquim Cláudio Figueiredo Mesquita\nJoão Furtado de Mendonça Neto\n(D.O. de 13-07-2017)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2003-041",
+   "short": "LC 41/2003",
+   "title": "Lei Complementar nº 41, de 2003 (Introduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101005",
+   "first_law": "lc-2003-041",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2003-09-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101005",
+     "sha256": "90993b21779cb63218a837c52d6a012569eea4779641b218e3afe5bc5bcb5e89",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR N° 41, DE 12 DE SETEMBRO DE 2003.\nIntroduz alterações na Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia e dá outras providências.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os dispositivos abaixo enumerados da Lei Complementar n. 27, de 30 de dezembro de 1999, passam a vigorar com as seguintes alterações:\n\"Art. 6º. ........................................................................\nI - ................................................................................\nII - um Secretário, a ser designado pelo Governador do Estado, que será o seu Vice-Presidente;\nIII - 15 (quinze) representantes do Estado de Goiás, designados pelo Governador do Estado, oriundos de Secretarias de Estado e entidades com atribuições diretas ou indiretas relativas à Região Metropolitana de Goiânia;\nIV - 11 (onze) Prefeitos dos Municípios integrantes da Região Metropolitana de Goiânia;\nV - o Secretário do Planejamento do Município de Goiânia;\nVI - o Secretário do Planejamento do Município de Aparecida de Goiânia;\nVII - ..............................................................................\nVIII - .............................................................................\n§ 1º O Conselho de Desenvolvimento da Região Metropolitana de Goiânia terá uma Secretaria Executiva com a finalidade de integrar a organização, o planejamento e a execução das funções públicas de interesse comum da Região Metropolitana de Goiânia, que será exercida pela Gerência Executiva da Região Metropolitana de Goiânia, da Secretaria do Planejamento e Desenvolvimento\". (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de fevereiro de 2003.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 12 de setembro de 2003, 115º da República.\nALCIDES RODRIGUES FILHO\nWalter José Rodrigues\nJosé Carlos Siqueira\n(D.O. de 17-09-2003)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2002-037",
+   "short": "LC 37/2002",
+   "title": "Lei Complementar nº 37, de 2002",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101011",
+   "first_law": "lc-2002-037",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2002-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101011",
+     "sha256": "2fe717fbf7f50c6f5fab568620b32b2271ef3d94168e86a735bf61b236d5e84f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 37, DE 12 DE DEZEMBRO DE 2002.\nIntroduz alteração à Lei Complementar nº 27, de 30 de dezembro de 1999 , modificada pelas Leis Complementares nº 30, de 9 de junho de 2000, e 34, de 3 de outubro de 2001 .\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º. O § 3º do art. 1º da Lei Complementar n. 27, de 30 de dezembro de 1999, passa a vigorar com a seguinte redação:\n\"Art. 1º. ................................................................................\n§ 3º. Fica instituída a Rede Metropolitana de Transportes Coletivos, unidade sistêmica regional composta por todas as linhas e serviços de transportes coletivos, de todas as modalidades ou categorias, que servem ou que venham a servir o Município de Goiânia e os Municípios de Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Caldazinha, Goianira, Guapó, Hidrolândia, Nerópolis, Nova Veneza, Santo Antônio de Goiás, Senador Canedo, Terezópolis e Trindade, inclusive linhas e serviços permanentes que promovam a interligação direta ou indireta destes municípios entre si e ou com o Município de Goiânia.\"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º. Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 12 de dezembro de 2002, 114º da República.\nByron Seabra Guimarães\nWalter José Rodrigues\n(D.O. de 18-12-2002)\n"
+      }
+     }
     }
    ]
   },
@@ -2148,7 +3204,44 @@
       "art-0040": {
        "label": "Art. 40",
        "kind": "article",
-       "text": "Art. 40. ...................................................................................\nParágrafo único. Fica criado o cargo de Subdefensor Público-Geral, nomeado na forma do parágrafo único do art. 5º desta Lei Complementar. \" (NR)\nII - é acrescido, às Disposições Transitórias, o art. 41-A, com a seguinte redação:\n\"Art. 41-A. Na impossibilidade de se nomear o Defensor Público-Geral ou o Subdenfensor Público-Geral em conformidade com o disposto no art. 5º e seu parágrafo único desta Lei Complementar, os ocupantes desses cargos serão de livre nomeação e exoneração do Governador do Estado, escolhidos entre advogados de notório saber jurídico e reputação ilibada.\" (NR)\nArt. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo os seus efeitos a 15 de fevereiro de 2011.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de abril de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nVilmar da Silva Rocha\n(D.O. de 15-04-2011) SUPLEMENTO\nEste texto não substitui o publicado no D.O. de 15-04-2011. Suplemento\n"
+       "text": "Art. 40. ...................................................................................\nParágrafo único. Fica criado o cargo de Subdefensor Público-Geral, nomeado na forma do parágrafo único do art. 5º desta Lei Complementar. \" (NR)\nII - é acrescido, às Disposições Transitórias, o art. 41-A, com a seguinte redação:\n\"Art. 41-A. Na impossibilidade de se nomear o Defensor Público-Geral ou o Subdenfensor Público-Geral em conformidade com o disposto no art. 5º e seu parágrafo único desta Lei Complementar, os ocupantes desses cargos serão de livre nomeação e exoneração do Governador do Estado, escolhidos entre advogados de notório saber jurídico e reputação ilibada.\" (NR)\nArt. 2º Esta Lei Complementar entra em vigor na data de sua publicação, retroagindo os seus efeitos a 15 de fevereiro de 2011.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de abril de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nVilmar da Silva Rocha\n(D.O. de 15-04-2011) SUPLEMENTO\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2011-083",
+   "short": "LC 83/2011",
+   "title": "Lei Complementar nº 83, de 2011 (Altera a Lei Complementar nº 25, de 06 de julho de 1998  Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101071",
+   "first_law": "lc-2011-083",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2011-04-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101071",
+     "sha256": "2037e95658868bec3d663b05a6cb476993eca902a7d4ff2aae05fdd1c19150f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 83, DE 13 DE ABRIL DE 2011.\nAltera a Lei Complementar nº 25, de 06 de julho de 1998 - Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o art. 160 da Lei Complementar estadual nº 25, de 06 de julho de 1998.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei Complementar estadual nº 25, de 06 de julho de 1998, passa a vigorar com as seguintes alterações:\n"
+      },
+      "art-0166-a": {
+       "label": "Art. 166-A",
+       "kind": "article",
+       "text": "Art. 166-A. A remoção precederá à promoção por merecimento.\nParágrafo único. Para o provimento inicial haverá alternância entre promoção e remoção.\n...........................................................................................\" (NR)\nArt. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de abril de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 15-04-2011) SUPLEMENTO\n"
       }
      }
     }
@@ -2232,7 +3325,431 @@
       "art-0002": {
        "label": "Art. 2º",
        "kind": "article",
-       "text": "Art. 2º Esta Lei Complementar:\nI - relativamente ao salário-maternidade, não derroga as disposições estatutárias em vigor, pertinentes ao direito da gestante de licenciar-se por 180 (cento e oitenta) dias, com vencimento e vantagens ou subsídio do cargo, devendo as despesas relativas aos últimos 60 (sessenta) dias de afastamento correr por conta de recursos do Tesouro Estadual;\nII - entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de outubro de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 18-10-2011) - Suplemento\nEste texto não substitui o publicado no Suplemento do D.O. de 18-10-2011 .\n"
+       "text": "Art. 2º Esta Lei Complementar:\nI - relativamente ao salário-maternidade, não derroga as disposições estatutárias em vigor, pertinentes ao direito da gestante de licenciar-se por 180 (cento e oitenta) dias, com vencimento e vantagens ou subsídio do cargo, devendo as despesas relativas aos últimos 60 (sessenta) dias de afastamento correr por conta de recursos do Tesouro Estadual;\nII - entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de outubro de 2011, 123º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 18-10-2011) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2006-059",
+   "short": "LC 59/2006",
+   "title": "Lei Complementar nº 59, de 2006 (Dispõe sobre a aposentadoria especial que especifica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100991",
+   "first_law": "lc-2006-059",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2006-11-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100991",
+     "sha256": "40ac9462704ba261d4b9945ccab20c1015a820297d83c834de5b93bd32569737",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 59, DE 13 DE NOVEMBRO 2006.\nDispõe sobre a aposentadoria especial que especifica e dá outras providências.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os requisitos de idade e de tempo de contribuição para a aposentadoria voluntária de que trata o art. 40, § 1o, inciso III, alínea \"a\", da Constituição Federal, com a redação dada pela Emenda Constitucional no 20, de 15 de dezembro de 1998, são reduzidos em 05 (cinco) anos, em relação ao servidor que exerça atividades de risco, na forma prevista no § 4o, inciso II, do referido artigo, acrescido pela Emenda Constitucional no 47, de 05 de julho de 2005, calculados os seus proventos a partir dos valores fixados na forma dos §§ 3o e 17 do precitado art. 40, com a redação dada pela Emenda Constitucional no 41, de 19 de dezembro de 2003.\n§ 1o Para os efeitos desta Lei Complementar, são consideradas atividades de risco:\nI - as exercidas pelo policial civil em decorrência das atribuições de seu cargo efetivo;\nII - outras exercidas pelo policial civil, no âmbito da Secretaria da Segurança Pública e dos órgãos que lhe são vinculados.\n§ 2o Somente após haver exercido, pelo menos, 20 (vinte) anos de atividades de risco, o servidor poderá obter a aposentadoria especial instituída por esta Lei Complementar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o A aplicação do disposto no art. 1o ao servidor que haja ingressado na carreira policial civil antes da vigência da Emenda Constitucional no 41, de 19 de dezembro de 2003, far-se-á com observância das seguintes garantias, que lhe são asseguradas:\nI - inexigibilidade do requisito de idade, sujeitando-se a sua aposentadoria apenas ao tempo de contribuição, reduzido de cinco anos, e ao exercício vintenário de atividades de risco;\nII - integralidade de proventos, que corresponderá à totalidade da remuneração que servir de base para a sua última contribuição previdenciária ou ao valor do subsídio do cargo efetivo em que se der a sua aposentadoria;\nIII - paridade de proventos com a remuneração, ou subsídio do pessoal em atividade, em consonância com o art. 7o da Emenda Constitucional no 41, de 19 de dezembro de 2003.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Esta Lei Complementar entra em vigor na data de sua publicação, salvo quanto ao disposto em seu art. 2o, que terá vigência a partir de 1o de julho de 2007.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de novembro de 2006, 118º da República.\nALCIDES RODRIGUES FILHO\n(D.O. de 22-11-2006)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-146",
+   "short": "LC 146/2018",
+   "title": "Lei Complementar nº 146, de 2018 (Introduz alterações na Lei Complementar nº 142, de 26 de junho de 2018.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101133",
+   "first_law": "lc-2018-146",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-11-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101133",
+     "sha256": "9c6397fcd20516c6150428861df974d0a611524878f1b4878c2d39a61633ee0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 146, DE 13 NOVEMBRO DE 2018\nIntroduz alterações na Lei Complementar nº 142, de 26 de junho de 2018.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, c/c o art. 168, parágrafo único, da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 142, de 26 de junho de 2018, que dispõe sobre o Sistema Estadual de Ciência e Tecnologia de Goiás - SECT-GO, passa a vigorar com os seguintes acréscimos e alterações:\n\"Art. 3º........................................................\nI - ………………………………………………\nII - ......…………………………………………\nh) revogado;\ni) …………………………………………….....\nIII - ……………………………………….........\nk) Rede Goiana de Inovação - RGI;\nl) Universidade Estadual de Goiás - UEG;\nm) Universidade Federal de Goiás - UFG.\n…………............................……...………....\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a alínea \"h\" do inciso II do art. 3º da Lei Complementar nº 142, de 26 de junho de 2018.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de novembro de 2018, 130º da República.\nJOSÉ ELITON DE FIGUERÊDO JÚNIOR\n(D.O. de 14-11-2018)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1991-008",
+   "short": "LC 8/1991",
+   "title": "Lei Complementar nº 8, de 1991 (Altera aplicação do § 3° do art. 7° da Lei Complementar n° 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar n° 4, de 17 de julho de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101041",
+   "first_law": "lc-1991-008",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1991-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101041",
+     "sha256": "abc37dee2436ce4ec63aa943cc523347467ff1c407ba6cdc4011368d38f1f6ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nLEI COMPLEMENTAR No 8, DE 13 DE DEZEMBRO DE 1991.\nAltera aplicação do § 3o do art. 7o da Lei Complementar no 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar no 4, de 17 de julho de 1990.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o As disposições do § 3o do art. 7o da Lei Complementar no 2, de 16 de janeiro de 1990, com a redação dada pela Lei Complementar no 4, de 17 de julho de 1990, não se aplicam ao ano de 1992, quando municípios poderão ser criados até 1o de maio, desde que as respectivas propostas de criação tenham sido apresentadas até 15 de novembro de 1991.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta lei complementar entrará em vigor na data de sua publicação e vigorará até 1o de maio de 1992.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3o",
+       "kind": "article",
+       "text": "Art. 3o Revogam-se as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 13 de dezembro de 1991, 103o da República.\nÍRIS REZENDE MACHADO\nEugênio Álamo Machado de Freitas\n(D.O.18-12-1991).\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-1990-003",
+   "short": "LC 3/1990",
+   "title": "Lei Complementar nº 3, de 1990 (Introduz alterações na Lei Complementar n° 2, de janeiro de 1990.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101044",
+   "first_law": "lc-1990-003",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "1990-03-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101044",
+     "sha256": "ae9b72a1836a5d1e0e988ad79b70e77b184c95005e679e729e340e943b471c0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR N° 3, DE 14 DE MARÇO DE 1990.\nIntroduz alterações na Lei Complementar nº 2, de 16 janeiro de 1990 .\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS decreta e eu sanciono a seguinte lei complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° - O art. 4° da Lei Complementar nº 2 , de 16 de janeiro de 1990, é acrescido de um item, com a seguinte redação:\n\"Art. 4°.............................................................................................\nII - apresentar solução de continuidade de, pelo menos, 6 (seis) quilômetros entre a linha de divisa do novo município e o perímetro urbano do município de origem . \"\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° - O § 2° do art. 4° da Lei Complementar n° 2 , de 16 de janeiro de 1990, passa a ter a seguinte redação:\n\"Art. 4° - ..........................................................................................\n§ 2° - Os requisitos dos itens II, IV e VI serão apurados pelo Instituto Brasileiro de Geografia e Estatística - IBGE; o do item V, pelo Cartório Eleitoral, e o do item VII, pela Secretaria de Estado da Fazenda.\"\n"
+      },
+      "art-0003": {
+       "label": "Art. 3°",
+       "kind": "article",
+       "text": "Art. 3° - Esta lei Complementar entrará em vigor na data de sua publicação, revogadas as disposições em contrário.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 14 de março de 1990, 102° da República.\nHENRIQUE ANTÔNIO SANTILLO\n(D.O. 14-03-1990)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2014-111",
+   "short": "LC 111/2014",
+   "title": "Lei Complementar nº 111, de 2014 (Altera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101098",
+   "first_law": "lc-2014-111",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2014-05-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101098",
+     "sha256": "3b70836a30bec5749cd337a295b1a2b7aa806bd172d99de91928d802565b9625",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 111, DE 14 DE MAIO DE 2014\nAltera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 27, de 30 de dezembro de 1999, passa a vigorar com as seguintes alterações:\n\"Art. 6º ..................................................................................\n§ 4º ......................................................................................\nI  o Secretário de Estado de Infraestrutura, Cidades e Assuntos Metropolitanos;\nIII  o Prefeito de Goiânia;\n§ 6º Na presidência da Câmara Deliberativa de Transportes Coletivos deve haver um sistema de rodízio entre os prefeitos que a compõem, seguindo-se a sequência constante do § 4º deste artigo, iniciando-se com o Prefeito do Município de Goiânia, cujo mandato é de 2 (dois) anos.\n......................................................................................\" (NR)\n\"Art. 9º ...................................................................................\n§ 3º .......................................................................................\nV - ........................................................................................\na) .........................................................................................\nb) do Diretor de Fiscalização e do Diretor Administrativo-Financeiro, aos demais Municípios participantes do capital social;\n.....................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º VETADO.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º VETADO.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica revogada a alínea \"c\" do inciso V do § 3º do art. 9º da Lei Complementar nº 27, de 30 de dezembro de 1999.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 14 de maio de 2014, 126º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 19-05-2014)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2018-145",
+   "short": "LC 145/2018",
+   "title": "Lei Complementar nº 145, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101132",
+   "first_law": "lc-2018-145",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-08-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101132",
+     "sha256": "c359efff07d5bd33b00fd3280f6a945c9581cd4cd45e22a7a6c988deee53d1e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 145, DE 14 AGOSTO DE 2018\nAltera a Lei Complementar nº 27, de 30 de dezembro de 1999, que cria a Região Metropolitana de Goiânia, autoriza o Poder Executivo a instituir o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, a Secretaria Executiva e a constituir o Fundo de Desenvolvimento Metropolitano de Goiânia.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei Complementar nº 27, de 30 de dezembro de 1999, passa a vigorar com as seguintes alterações:\n\"Art. 1º .........................................................\n§ 3º Fica instituída a rede Metropolitana de Transportes Coletivos, unidade sistêmica regional composta por todas as linhas e serviços de transportes coletivos, de todas as modalidades ou categorias, que servem ou que venham a servir o Município de Goiânia e os Municípios de Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Caldazinha, Caturaí, Goianira, Goianápolis, Guapó, Hidrolândia, Nerópolis, Nova Veneza, Santo Antônio de Goiás, Senador Canedo, Terezópolis e Trindade, inclusive linhas e serviços permanentes que promovam a interligação direta ou indireta destes Municípios entre si e ou com o Município de Goiânia.\n........................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 14 de agosto de 2018.\nDeputado JOSÉ VITTI\n- PRESIDENTE -\n(D.O. de 20-08-2018)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2015-119",
+   "short": "LC 119/2015",
+   "title": "Lei Complementar nº 119, de 2015 (Altera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101106",
+   "first_law": "lc-2015-119",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2015-12-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101106",
+     "sha256": "b7427c9f9a6a75464daae158c41f674c81448de68c80a9f3248f9d6edafcc381",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 119, DE 14 DE DEZEMBRO DE 2015\nAltera a Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3º do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os arts. 80 e 81 da Lei Complementar nº 26, de 28 de dezembro de 1998, passam a vigorar com as seguintes alterações:\n\"Art. 80. Entende-se por educação especial, para os efeitos desta Lei, a modalidade de educação escolar oferecida, preferencialmente na rede regular de ensino, para educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação.\n§ 2º Por educandos com deficiência entendem-se todas as crianças, jovens e adultos cujas necessidades de educação especial decorra de suas características peculiares ou de suas dificuldades de aprendizagem, permanentes ou transitórias.\n...............................................................................\" (NR)\n\"Art. 81. Os sistemas de ensino assegurarão aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação:\nII - aceleração de estudos para concluir em menor tempo o programa escolar, para os educandos com altas habilidades ou superdotação;\nIII - professores com qualificação adequada, para atendimento especializado, bem como professores do ensino regular capacitados para a integração desses educandos nas classes comuns, observado o previsto no parágrafo único, do art. 84, desta Lei, observado que o Estado qualificará e subsidiará os corpos docente e técnico da rede regular de ensino, para prestarem atendimento aos educandos com deficiência, transtornos globais do desenvolvimento e altas habilidades ou superdotação, preferencialmente em parceria com as instituições de nível superior:\na) (revogada)\n.................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a alínea \"a\" do inciso III do art. 81, da Lei Complementar nº 26, de 28 de dezembro de 1998.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 14 de dezembro de 2015, 127º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nRaquel Figueiredo Alessandri Teixeira\n(D.O. de 17-12-2015)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-152",
+   "short": "LC 152/2020",
+   "title": "Lei Complementar nº 152, de 2020 (Altera a Lei Complementar nº 33, de 1º de agosto de 2001.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101139",
+   "first_law": "lc-2020-152",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101139",
+     "sha256": "78f97684607119785e9585cb4fd7315eb93b3097d936fefa350351855e076652",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 152, DE 15 DE JANEIRO DE 2020\nAltera a Lei Complementar nº 33, de 1º de agosto de 2001.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido o artigo abaixo na Lei Complementar nº 33, de 1º de agosto de 2001, contendo a seguinte redação:\n\"Art. 8º-A Por ocasião de sua edição ou publicação, as leis estaduais conterão o nome do(a) autor(a) ou dos autores dos respectivos projetos de lei.\nParágrafo único. O nome dos(as) autores(as) ou do(a) autor(a) do projeto de lei que originou a lei estadual, seja ela ordinária ou complementar, constará logo após a assinatura do Governador do Estado de Goiás.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de janeiro de 2020, 132º da República.\nRONALDO RAMOS CAIADO\n(D.O. de 16-01-2020)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2020-153",
+   "short": "LC 153/2020",
+   "title": "Lei Complementar nº 153, de 2020 (Altera a Lei Complementar n° 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101140",
+   "first_law": "lc-2020-153",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2020-01-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101140",
+     "sha256": "d04f0bd1068861ee65433880d846758168efedd5998704ad1ca0d1185848bb19",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR No 153, DE 15 DE JANEIRO DE 2020.\nAltera a Lei Complementar n° 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3° art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° A Lei Complementar n° 26, de 28 de dezembro de 1998, passa a vigorar com as seguintes alterações:\n\"Art. 65. .................................................\n§ 2° .........................................................\nV - fomentar a produção acadêmica, científica e tecnologia com prioridade para temáticas relacionadas às políticas públicas vinculadas às gestões municipais.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de janeiro de 2020, 132o da República.\nRONALDO RAMOS CAIADO\n(D.O. de 16-01-2020)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2012-092",
+   "short": "LC 92/2012",
+   "title": "Lei Complementar nº 92, de 2012 (Introduz alterações no art. 79 da Lei Complementar nº 26, de 28 de dezembro de 1998.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101079",
+   "first_law": "lc-2012-092",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2012-05-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101079",
+     "sha256": "129b725581be565ab17e3e4b26eaac3354a5ebbe2d37e0bc4cdd29d60d378783",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 92, DE 15 DE MAIO DE 2012.\nIntroduz alterações no art. 79 da Lei Complementar nº 26, de 28 de dezembro de 1998.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 79 da Lei Complementar nº 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás, passa a vigorar com as seguintes alterações:\n\"Art. 79 ................................................................................\n§ 1º A escolha de dirigentes das instituições de educação superior dá-se por processo eletivo para constituição de lista tríplice, assegurada a participação dos segmentos da comunidade institucional, a ser definida em obediência ao princípio da autonomia universitária.\n§ 2º São nomeados pelo Governador do Estado dentre os candidatos eleitos na forma do § 1o o Reitor, o Vice-Reitor e os Diretores de Unidades Universitárias da Universidade Estadual de Goiás -UEG-, todos com mandato de 04 (quatro) anos, permitindo-se uma reeleição.\n§ 3º A candidatura aos cargos de Reitor e Vice-Reitor da UEG é privativa de professor efetivo com titulação mínima de mestre.\n§ 4º Aos Coordenadores de Cursos da UEG aplica-se o disposto no § 1º, os quais exercem mandato de 02 (dois) anos, permitindo-se uma reeleição.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de maio de 2012, 124º da República.\nMARCONI FERREIRA PERILLO JÚNIOR\n(D.O. de 16-05-2012) - Suplemento\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2019-149",
+   "short": "LC 149/2019",
+   "title": "Lei Complementar nº 149, de 2019",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101136",
+   "first_law": "lc-2019-149",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2019-05-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101136",
+     "sha256": "2eda7a5d9dd2dcd9e81061e398910dc4a5dcba692118ce88fd9dc3b484cfcce0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR Nº 149, DE 15 DE MAIO DE 2019\nAltera a Lei Complementar nº 139, de 22 de janeiro de 2018, que dispõe sobre a Região Metropolitana de Goiânia, o Conselho de Desenvolvimento da Região Metropolitana de Goiânia, cria o Instituto de Planejamento Metropolitano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1°",
+       "kind": "article",
+       "text": "Art. 1° O art. 1° da Lei Complementar nº 139, de 22 de janeiro de 2018, passa a vigorar com o seguinte acréscimo:\n\"Art. 1° A Região Metropolitana de Goiânia (RMG), instituída para integrar a organização, o planejamento e a execução de funções públicas de interesse comum, é compreendida pelos Municípios de Goiânia, Abadia de Goiás, Aparecida de Goiânia, Aragoiânia, Bela Vista de Goiás, Bonfinópolis, Brazabrantes, Caldazinha, Caturaí, Goianápolis, Goianira, Guapó, Hidrolândia, Inhumas, Nerópolis, Nova Veneza, Santa Bárbara de Goiás, Santo Antônio de Goiás, Senador Canedo, Terezópolis de Goiás e Trindade. \"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2°",
+       "kind": "article",
+       "text": "Art. 2° Esta Lei Complementar entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 15 de maio de 2019.\nDeputado LISSAUER VIEIRA\n- PRESIDENTE -\n(D.O. de 30-05-2019)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lc-2004-047",
+   "short": "LC 47/2004",
+   "title": "Lei Complementar nº 47, de 2004",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/100999",
+   "first_law": "lc-2004-047",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2004-10-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/100999",
+     "sha256": "c3e2d05d19adf07f227d9458160619f171e6290a48f178657566bdf6772e322c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOIÁS\nGabinete Civil da Governadoria\nSuperintendência de Legislação.\nLEI COMPLEMENTAR Nº 47, DE 15 DE OUTUBRO DE 2004.\nAcrescenta a alínea \"d\" ao § 1o do art. 35 da Lei Complementar no 26, de 28 de dezembro de 1998, que estabelece as diretrizes e bases do Sistema Educativo do Estado de Goiás.\nA ASSEMBLÉIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do § 3o do art. 156 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Fica acrescida a alínea \"d\" ao § 1o do art. 35 da Lei Complementar no 26, de 28 de dezembro de 1998, com a seguinte redação:\n\"Art. 35......................................................................................\n§ 1o ..........................................................................................\nd) leitura e interpretação das Constituições Estadual e Federal, como disciplina denominada \"Constituição na Escola\" no ensino médio.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1o de janeiro de 2005.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 15 de outubro de 2004, 116o da República.\nMARCONI FERREIRA PERILLO JÚNIOR\nIvan Soares de Gouvêa\nEliana Maria França Carneiro\n(D.O. de 20-10-2004)\n"
       }
      }
     }
@@ -2484,12 +4001,49 @@
      "note": "Text in force as compiled by the Casa Civil de Goiás; Lei Complementar nº 2, de 1990 was altered on 7 date(s) its notes cite, the latest 1995-09-21."
     }
    ]
+  },
+  {
+   "slug": "lc-2018-141",
+   "short": "LC 141/2018",
+   "title": "Lei Complementar nº 141, de 2018",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/101128",
+   "first_law": "lc-2018-141",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2018-05-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/101128",
+     "sha256": "97b7338ca039c91adba3384ceec9a4ddc167491eeee76168f95b90714aa47519",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# GOVERNO DO ESTADO DE GOI?\nSecretaria de Estado da Casa Civil\nLEI COMPLEMENTAR No 141, DE 29 DEZEMBRO DE 2018.\nMensagem de veto\nAltera dispositivos da Lei Complementar no 130, de 11 de julho de 2017, que dispõe sobre a Reogarnização da Defensoria Pública do Estado de Goiás, estabelece atribuições e o funcionamento de seus órgãos e unidades, e dispõe sobre a Carreira de seus membros, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 120 da Constituição Estadual, decreta e eu sanciono a seguinte Lei Complementar:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1o",
+       "kind": "article",
+       "text": "Art. 1o Os artigos 24, 65, 66 e 242, da Lei Complementar no 130, de 11 de julho de 2017, passam a vigorar com a seguinte redação:\n\"Art. 24. O Conselho Superior da Defensoria Pública do Estado, órgão colegiado, com poderes consultivo, normativo e decisório, será composto pelo Defensor Público-Geral, pelo Primeiro Subdefensor Público-Geral, pelo Segundo Subdefensor Público-Geral, pelo Corregedor-Geral e pelo Ouvidor-Geral, como membros natos, além de 6 (seis) representantes estáveis na Carreira e igual número de suplentes, eleitos pelo voto direto, plurinominal e obrigatório de todos os membros.\n............................................................................... \" (NR)\n\"Art. 65. ..................................................................\n§ 1o ........................................................................\nVI - revogado;\nIX - Departamento de Planejamento, Orçamento e Modernização Institucional;\nXII - revogado.\n............................................................................... \" (NR)\n\"Art. 66. ..................................................................\nVI - fiscalizar o cumprimento da entrega das Declarações de Imposto de Renda dos membros que ocupem cargos da Administração Superior e membros e servidores que ocupem cargos em comissão ou funções de confiança nos órgãos de apoio de Instituição;\n............................................................................... \" (NR)\n\"Art. 242. As funções de Corregedor Auxiliar de Diretor da Escola Superior da Defensoria Pública do Estado e de Coordenador de Núcleo, quando se tratar de Núcleo de Defensorias Especializadas ou de Núcleos Regionais, assim como o cargo de Diretor dos Centros de Atendimento Disciplinar, quando ocupado por defensor público, serão desempenhados sem prejuízo das atribuições ordinárias do membro.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2o",
+       "kind": "article",
+       "text": "Art. 2o Fica acrescido o inciso IV no § 1o do art. 68-A da Lei Complementar no 130, de 11 de julho de 2017, com a seguinte redação:\n"
+      },
+      "art-0068-a": {
+       "label": "Art. 68-A",
+       "kind": "article",
+       "text": "Art. 68-A ................................................................\n§ 1o ........................................................................\nIV - Departamento de Sistema Integrado de Informações e Controle de Processos.\n............................................................................... \" (NR)\nArt. 3o VETADO.\nArt. 4o Sem prejuízo de participação desde logo dos membros natos do Conselho Superior da Defensoria Pública do Estado no órgão colegiado, o Defensor Público-Geral do Estado, promulgada esta Lei Complementar, mandará publicar no órgão oficial de imprensa do Estado, Diário Oficial do Estado de Goiás, edital para proceder à eleição dos 2 (dois) novos membros eletivos do Conselho Superior, e igual número de suplentes, cujos mandatos perdurarão até a eleição para a composição do próximo biênio.\nParágrafo único. Até que se realize a eleição referida no caput deste artigo, deverão ser convocados para eventuais sessões do órgão colegiado os atuais membros eleitos na qualidade de suplente, em número que assegure a composição majoritária do Conselho Superior da Defensoria Pública do Estado de Goiás por esses membros.\nArt. 5o Ficam revogados os incisos VI e XII do § 1o do artigo 65 da Lei Complementar no 130, de 11 de julho de 2017.\nArt. 6o Esta Lei Complementar entra em vigor na data de sua publicação.\nPALÁCIO DO GOVERNO DO ESTADO DE GOIÁS, em Goiânia, 16 de maio de 2018, 130o da República.\nJOSÉ ELITON FIGUERÊDO JÚNIORR\n(D.O. de 17-5-2018)\n"
+      }
+     }
+    }
+   ]
   }
  ],
  "applies": [],
  "decisions": [
   "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
-  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", and the green \"Vide\" notes). \"Vide\" notes do not date a version.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
   "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
   "Tables are one line per row, cells separated by \" | \"; images are left out."
  ],
