@@ -168,6 +168,16 @@ def raw(url):
     return p.read_bytes() if p.exists() else None
 
 
+# kind: (slug base, digits, short name, label); 'lc' as published since 10-30.
+KINDS = {'lc': ('lc', 3, 'LC', 'Lei Complementar'), 'lei': ('lei', 5, 'Lei', 'Lei'),
+         'ld': ('lei-delegada', 3, 'Lei Delegada', 'Lei Delegada'), 'dec': ('decreto', 5, 'Decreto', 'Decreto')}
+# Series after the Leis Complementares: (kind, list in .cache, part prefix, digits in the part number). Each list is
+# written once, complete (the API's types 2 Lei Ordinária, 4 Lei Delegada, 3 Decreto Numerado; in force, partly
+# revoked or promulgated), so a part's acts never change; a published part is never rewritten.
+SERIES = [('lei', 'lei-index.json', '30-lei', 3), ('ld', 'ld-index.json', '32-ld', 2),
+          ('dec', 'dec-index.json', '40-decreto', 3)]
+
+
 def act_of(url, kind):
     b = raw(url)
     if b is None:
@@ -188,8 +198,11 @@ def act_of(url, kind):
     else:
         n = int(re.sub(r'\D', '', r.get('numero') or '0') or 0)
         y = str(r['ano'])
-        slug = law_key = f'lc-{y}-{n:03d}'
-        short, label = f'LC {n}/{y}', f'Lei Complementar nº {n}, de {y}'
+        base, width, sh, lab = KINDS[kind]
+        if not n:
+            return None, {}, 'no number'
+        slug = law_key = f'{base}-{y}-{n:0{width}d}'
+        short, label = f'{sh} {n}/{y}', f'{lab} nº {n}, de {y}'
         first = published or enacted
         title = label
     if not first:
@@ -254,6 +267,35 @@ def main():
                 if act:
                     acts.append(act); laws.update(l)
             print(part(f'20-lc-{i // a.part_size + 1:02d}', acts, laws, a.today), why)
+    for kind, listf, prefix, width in SERIES:
+        if a.only != kind:
+            continue
+        idx_p = CACHE / listf
+        if not idx_p.exists():
+            print(kind, 'list not retrieved yet')
+            continue
+        rows = sorted(json.loads(idx_p.read_text(encoding='utf-8'))['acts'],
+                      key=lambda r: ('-'.join(reversed(str(r.get('data_legislacao') or '').split('/'))) or str(r['ano']),
+                                     r['id']))
+        done = 0
+        for i in range(0, len(rows), a.part_size):
+            name = f'{prefix}-{i // a.part_size + 1:0{width}d}'
+            chunk = rows[i:i + a.part_size]
+            if (HERE / 'corpus.d' / f'{name}.PUBLISH').exists():
+                done += 1
+                continue
+            if any(raw(f"{API}/{r['id']}") is None for r in chunk):
+                continue
+            acts, laws, why = [], {}, {}
+            for r in chunk:
+                act, l, w = act_of(f"{API}/{r['id']}", kind)
+                why[w] = why.get(w, 0) + 1
+                if act:
+                    acts.append(act); laws.update(l)
+            if acts:
+                part(name, acts, laws, a.today)
+            done += 1
+        print(kind, done, 'parts complete of', -(-len(rows) // a.part_size))
 
 
 if __name__ == '__main__':
