@@ -1,0 +1,2575 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-23153": {
+   "label": "Lei nº 23153, de 2024",
+   "title": "Altera a Lei nº 12.986, de 31 de dezembro de 1996, que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário - FUNDESP-PJ.",
+   "kind": "law",
+   "enacted": "2024-12-16",
+   "published": "2024-12-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110150",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23152": {
+   "label": "Lei nº 23152, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-16",
+   "published": "2024-12-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110151",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23154": {
+   "label": "Lei nº 23154, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110175",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23155": {
+   "label": "Lei nº 23155, de 2024",
+   "title": "Institui a Política Estadual de Incentivo à Prática de Esportes Olímpicos e Paralímpicos.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110176",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23156": {
+   "label": "Lei nº 23156, de 2024",
+   "title": "Altera a Lei nº 21.164, de 19 de novembro de 2021, que dispõe sobre a comercialização e distribuição de produtos ópticos no varejo no âmbito do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110177",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23157": {
+   "label": "Lei nº 23157, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110178",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23158": {
+   "label": "Lei nº 23158, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110179",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23159": {
+   "label": "Lei nº 23159, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-18",
+   "published": "2024-12-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110180",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23160": {
+   "label": "Lei nº 23160, de 2024",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-12-19",
+   "published": "2024-12-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110184",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23167": {
+   "label": "Lei nº 23167, de 2024",
+   "title": "Dispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23166": {
+   "label": "Lei nº 23166, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110200",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23165": {
+   "label": "Lei nº 23165, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110201",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23164": {
+   "label": "Lei nº 23164, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110203",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23163": {
+   "label": "Lei nº 23163, de 2024",
+   "title": "Altera a Lei nº 19.191, de 29 de dezembro de 2015, que dispõe sobre os emolumentos dos serviços notariais e de registro e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110204",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23162": {
+   "label": "Lei nº 23162, de 2024",
+   "title": "Institui o REFIS/TJGO - Programa de Refinanciamento de valores devidos ao Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário do Estado de Goiás (FUNDESP-PJ).",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110205",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23161": {
+   "label": "Lei nº 23161, de 2024",
+   "title": "Altera a Lei nº 16.434, de 16 de dezembro de 2008, que estabelece procedimentos para a concessão e aplicação de adiantamento de numerário a servidor público estadual.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-20",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110207",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23168": {
+   "label": "Lei nº 23168, de 2024",
+   "title": "Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.",
+   "kind": "law",
+   "enacted": "2024-12-20",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110209",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23169": {
+   "label": "Lei nº 23169, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-26",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110213",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23170": {
+   "label": "Lei nº 23170, de 2024",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Morro Agudo de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2024-12-26",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110214",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23171": {
+   "label": "Lei nº 23171, de 2024",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Jussara/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-26",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110215",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23172": {
+   "label": "Lei nº 23172, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-26",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110216",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23174": {
+   "label": "Lei nº 23174, de 2024",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-12-26",
+   "published": "2024-12-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110218",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23183": {
+   "label": "Lei nº 23183, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110282",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23182": {
+   "label": "Lei nº 23182, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110283",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23181": {
+   "label": "Lei nº 23181, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110284",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23180": {
+   "label": "Lei nº 23180, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110285",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23179": {
+   "label": "Lei nº 23179, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110286",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23178": {
+   "label": "Lei nº 23178, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110287",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23177": {
+   "label": "Lei nº 23177, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110288",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23176": {
+   "label": "Lei nº 23176, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110289",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-23175": {
+   "label": "Lei nº 23175, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-12-27",
+   "published": "2024-12-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110290",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23184": {
+   "label": "Lei nº 23184, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal de Coração, realizado no Município de Anápolis/GO.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110314",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23185": {
+   "label": "Lei nº 23185, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa dedicada a Santa Rita de Cássia - Missa das Rosas, realizada no Município de Santa Rita do Novo Destino/GO.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110315",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23186": {
+   "label": "Lei nº 23186, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110316",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23187": {
+   "label": "Lei nº 23187, de 2025",
+   "title": "Institui a Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110317",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23188": {
+   "label": "Lei nº 23188, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110318",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23189": {
+   "label": "Lei nº 23189, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110319",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23190": {
+   "label": "Lei nº 23190, de 2025",
+   "title": "Institui o Dia Estadual do Guia de Turismo.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110320",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23191": {
+   "label": "Lei nº 23191, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110321",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23192": {
+   "label": "Lei nº 23192, de 2025",
+   "title": "Institui a Política Estadual Amamentação sem Dor.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110322",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23193": {
+   "label": "Lei nº 23193, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110323",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23194": {
+   "label": "Lei nº 23194, de 2025",
+   "title": "Institui o \"Selo Estadual Goiás sem Dengue\".",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110324",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23195": {
+   "label": "Lei nº 23195, de 2025",
+   "title": "Institui a Política Estadual de Incentivo às Mulheres na Construção Civil.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110325",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23196": {
+   "label": "Lei nº 23196, de 2025",
+   "title": "Assegura direitos, nas unidades da rede pública estadual de saúde, à mulher que sofra perda gestacional ou neonatal.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110326",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23197": {
+   "label": "Lei nº 23197, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110327",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23198": {
+   "label": "Lei nº 23198, de 2025",
+   "title": "Institui o Dia Estadual da Eficiência Energética.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110328",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23199": {
+   "label": "Lei nº 23199, de 2025",
+   "title": "Assegura assistência psicológica e atendimento prioritário à gestante na forma e na situação que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-06",
+   "published": "2025-01-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110329",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23200": {
+   "label": "Lei nº 23200, de 2025",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2025-01-09",
+   "published": "2025-01-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110348",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23201": {
+   "label": "Lei nº 23201, de 2025",
+   "title": "Altera a Lei nº 23.070, de 11 de novembro de 2024, que dispõe sobre a concessão do benefício da meia-entrada, para eleitores nomeados para atuar nas eleições gerais ou municipais, plebiscitos e referendos, em espetáculos artístico-culturais e esportivos.",
+   "kind": "law",
+   "enacted": "2025-01-09",
+   "published": "2025-01-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110349",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23202": {
+   "label": "Lei nº 23202, de 2025",
+   "title": "Institui a Política Estadual de Fiscalização de Meio Ambiente e Recursos Hídricos.",
+   "kind": "law",
+   "enacted": "2025-01-09",
+   "published": "2025-01-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110350",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-23153",
+   "short": "Lei 23153/2024",
+   "title": "Lei nº 23153, de 2024 (Altera a Lei nº 12.986, de 31 de dezembro de 1996, que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário - FUNDESP-PJ.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110150",
+   "first_law": "lei-2024-23153",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110150",
+     "sha256": "34faeff1da8f64e5db7aecb6f92ca9708c60053ccce18c2556f487c4a53a1794",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.153, DE 16 DE DEZEMBRO DE 2024\nAltera a Lei nº 12.986, de 31 de dezembro de 1996, que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário - FUNDESP-PJ.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica acrescido o inciso XIII ao art. 3º da Lei nº 12.986, de 31 de dezembro de 1996, com a seguinte redação:\n\"Art. 3º Constituem receitas do FUNDESP-PJ:\nXIII - os valores correspondentes à remuneração das disponibilidades dos recursos de terceiros depositados sob a responsabilidade do Tribunal de Justiça do Estado de Goiás, descontada a remuneração legal devida ao beneficiário.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica acrescido à Lei nº 12.986, de 31 de dezembro de 1996, o art. 4º, com a seguinte redação:\n\"Art. 4º Serão transferidos para o FUNDESP-PJ e aplicados em suas finalidades os valores correspondentes aos depósitos judiciais de processos arquivados há mais de 6 (seis) meses com valores inferiores a R$ 1.000,00 (mil reais) e depósitos com identificação prejudicada independentemente do valor, que estejam à disposição do Tribunal de Justiça do Estado de Goiás.\n§ 1º Entende-se por \"identificação prejudicada\" os depósitos judiciais que não possuem dados suficientes para vinculação a processo judicial ou que não atendem aos critérios de qualificação definidos em ato normativo específico, editado pelo Presidente do Tribunal.\n§ 2º Os valores de que trata o caput serão mantidos em registro público e poderão ser resgatados pelas partes no prazo de até 5 (cinco) anos a contar do trânsito em julgado, mediante alvará judicial.\n§ 3º Transcorrido o prazo fixado no parágrafo anterior sem levantamento do valor pelo beneficiário, os recursos provenientes dos depósitos judiciais previstos neste artigo serão definitivamente incorporados ao FUNDESP-PJ.\n§ 4º Em se tratando de contas de depósitos judiciais abrangidas por este artigo que tiveram parte de seus saldos transferidos ao Poder Executivo de Goiás, em conformidade com a Lei nº 20.557, de 11 de setembro de 2019, ou qualquer outro dispositivo legal, será considerado, para os fins do caput, o valor disponível no Fundo de Reserva das respectivas contas.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23152",
+   "short": "Lei 23152/2024",
+   "title": "Lei nº 23152, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110151",
+   "first_law": "lei-2024-23152",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110151",
+     "sha256": "94ec746aa7e0936f1d381d017e30e28f7203b99d88d572a726dc9ffcceabb1a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.152, DE 16 DE DEZEMBRO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada ANA PEREIRA ALVES DE MEDEIROS a ponte sobre o Rio Meia Ponte situada na estrada que liga os Municípios de Goiatuba/GO e Itumbiara/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23154",
+   "short": "Lei 23154/2024",
+   "title": "Lei nº 23154, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110175",
+   "first_law": "lei-2024-23154",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110175",
+     "sha256": "7c439c27e30dc99c82836d5972ac7719436bd4f07fa6298800e1ed5bf4e92677",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.154 DE 18 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO NOSSA SENHORA APARECIDA - PRATICANDO A CARIDADE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 36.223.058/0001-41, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23155",
+   "short": "Lei 23155/2024",
+   "title": "Lei nº 23155, de 2024 (Institui a Política Estadual de Incentivo à Prática de Esportes Olímpicos e Paralímpicos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110176",
+   "first_law": "lei-2024-23155",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110176",
+     "sha256": "0cbfe898c947100de5999ff3c4f5687278d27ea5aa2ed731d9534811c9bed7bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.155, DE 18 DE DEZEMBRO DE 2024\nInstitui a Política Estadual de Incentivo à Prática de Esportes Olímpicos e Paralímpicos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Prática de Esportes Olímpicos e Paralímpicos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da Política Pública instituída por esta Lei, especialmente:\nI - promover e fomentar a prática esportiva, bem como apoiar a formação de atletas e o desenvolvimento do esporte de alto rendimento;\nII - incentivar a prática de esportes como forma de inclusão social;\nIII - estimular a inclusão social de pessoas com deficiência por meio da prática de esportes paralímpicos, promovendo a igualdade de oportunidades e o respeito à diversidade;\nIV - divulgar os esportes praticados por pessoas com deficiência, atraindo visibilidade, apoio e investimentos;\nV - incentivar a construção, manutenção e modernização de infraestruturas esportivas adequadas à prática de esportes olímpicos e paralímpicos, em todo o território estadual;\nVI - incentivar a participação de atletas em competições estaduais, nacionais e internacionais, por meio de programas de bolsas, patrocínios e apoio logístico;\nVII - incentivar empresários e empresas a investir em projetos esportivos;\nVIII - valorizar o trabalho realizado pelos profissionais de educação física nas escolas;\nIX - contribuir para a melhoria da saúde da população, reduzindo os índices de sedentarismo, obesidade e doenças relacionadas ao estilo de vida, por meio da adoção de hábitos saudáveis e da prática regular de atividades físicas;\nX - fortalecer o papel do esporte como ferramenta de educação e cidadania, incentivando valores como ética, disciplina, trabalho em equipe, superação e respeito às regras;\nXI - prevenir e coibir a prática do racismo e da injúria racial no esporte; e\nXII - fomentar a realização de campanhas educativas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Público estadual poderá celebrar convênios, acordos e parcerias com entidades esportivas, instituições de ensino, empresas privadas e organizações da sociedade civil, visando à implementação, monitoramento e avaliação da Política Pública prevista nesta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23156",
+   "short": "Lei 23156/2024",
+   "title": "Lei nº 23156, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110177",
+   "first_law": "lei-2024-23156",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110177",
+     "sha256": "7f79a75d70930f16309776b0c3aae221072fc21aca179b016ae0a28d2fb65bc0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.156, DE 18 DE DEZEMBRO DE 2024\nAltera a Lei nº 21.164, de 19 de novembro de 2021, que dispõe sobre a comercialização e distribuição de produtos ópticos no varejo no âmbito do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 21.164, de 19 de novembro de 2021, passa a vigorar com as seguintes alterações:\n\"Dispõe sobre a comercialização, dispensação e distribuição de produtos ópticos no varejo e dá outras providências.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 21.164, de 2021, passa a vigorar com as seguintes alterações:\n\"Art. 1º A comercialização e/ou dispensação de produtos ópticos no varejo somente serão permitidas em estabelecimentos devidamente licenciados, por meio do respectivo alvará sanitário, renovado anualmente.\n§ 1º São estabelecimentos de venda a varejo de produtos ópticos as casas denominadas ópticas que obrigatoriamente deverão ter um responsável técnico (RT), com formação em curso técnico em óptica.\n§ 3º Os laboratórios ópticos que prestam serviços e revendem seus produtos para outras empresas ópticas não poderão, sob qualquer pretexto, prestar serviços exclusivos dos estabelecimentos de que trata este artigo, especialmente o fornecimento de produtos e serviços ao consumidor final.\" (NR)\n\"Art. 2º Os fabricantes, as indústrias, os laboratórios, os distribuidores e atacadistas, os representantes comerciais e prestadores de serviços ópticos somente poderão comercializar seus produtos e serviços para empresas constantes no art. 1º desta Lei, ficando proibidos a oferta e o comércio direto ao consumidor final, salvo se integrantes da mesma raiz de Cadastro Nacional da Pessoa Jurídica (CNPJ) e/ou grupo econômico e pertencentes ao mesmo quadro societário.\" (NR)\n\"Art. 3º-A Os processos de fabricação e industrialização de lentes oftálmicas definidos por surfaçagem, coloração, tratamentos antirreflexos e tratamentos de superfícies são permitidos apenas a estabelecimentos licenciados e com responsabilidade técnica (RT), em período integral.\" (NR)\n\"Art. 3º-B Os estabelecimentos de comércio varejista de produtos ópticos e os fabricantes, distribuidores, atacadistas, representantes comerciais e prestadores de serviços ópticos e/ou serviços em lentes de contato e/ou de serviços em optometria e/ou de serviços em laboratórios ópticos deverão, obrigatoriamente, apresentar Certificado de Regularidade Técnica (CRT), emitido conjuntamente pelo Sindicato do Comércio Varejista de Material Óptico, Fotográfico e Cinematográfico de Goiás (Sindióptica-GO) e pela Câmara Regional de Óptica e Optometria do Estado de Goiás (CROO-GO), a cada unidade de comércio de bens e serviços.\nParágrafo único. A emissão do alvará da Vigilância Sanitária, municipal e/ou estadual, para as pessoas jurídicas previstas no caput deste artigo, dependerá da apresentação prévia pelo interessado do respectivo CRT perante o correspondente órgão da vigilância sanitária.\" (NR)\n\"Art. 3º-C As pessoas jurídicas que exerçam as atividades de comercialização, dispensação ou distribuição de produtos ópticos no varejo e respectivas entidades representativas poderão firmar convênios, acordos ou termos de cooperação com o Poder Público Estadual para estabelecer certificações com padrões de qualidade e medidas de fiscalização para esse setor, de modo a proteger os consumidores, fortalecer a vigilância sanitária e a fiscalização do mercado de produtos ópticos, combater a informalidade e a atuação de estabelecimentos não licenciados.\" (NR)\n\"Art. 4º O descumprimento desta Lei sujeitará as pessoas físicas e jurídicas infratoras às penalidades previstas:\nI - na Lei nº 16.140, de 02 de outubro de 2007; e\nII - na Lei federal nº 8.078, de 11 de setembro de 1990, sem prejuízo de outras sanções civis e penais cabíveis.\nParágrafo único. (VETADO). \" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor após decorridos 120 (cento e vinte) dias de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23157",
+   "short": "Lei 23157/2024",
+   "title": "Lei nº 23157, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110178",
+   "first_law": "lei-2024-23157",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110178",
+     "sha256": "de9105c074c2fd385664b1bf46e9890aa7f9797a8848eb0f1a7f6fb918ab03f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.157 DE 18 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o GRUPO DE AMIGOS DO SETOR URIAS MAGALHÃES E ADJACÊNCIAS - GAS URIAS, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.211.190/0001-57, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23158",
+   "short": "Lei 23158/2024",
+   "title": "Lei nº 23158, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110179",
+   "first_law": "lei-2024-23158",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110179",
+     "sha256": "97e15c1fc67e9c3f11c3e9c2662855e9b26a79c418d9488a5541616abf30d24a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.158 DE 18 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ASSISTENCIAL RESGATE E TRANSFORMAÇÃO DE VIDA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.850.448/0001-62, com sede no Município de Nerópolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23159",
+   "short": "Lei 23159/2024",
+   "title": "Lei nº 23159, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110180",
+   "first_law": "lei-2024-23159",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110180",
+     "sha256": "de9c1990f6d72988193bdb8666185a8aaefb31a15801fa6b97e0cd03760782cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.159 DE 18 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE MORADORES PROTETORES DE ANIMAIS DE POSSE \"ADORÁVEL VIRA LATA\" - AMPAP, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 40.087.451/0001-22, com sede no Município de Posse/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23160",
+   "short": "Lei 23160/2024",
+   "title": "Lei nº 23160, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110184",
+   "first_law": "lei-2024-23160",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110184",
+     "sha256": "ce47dae31868735a2b0d1f8675004cb5ef1c12f0916becacf5d31ba60681d94a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.160, DE 18 DE DEZEMBRO DE 2024\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, passa a vigorar com as seguintes alterações:\n\"Art 73 ..............................................................................................\nI- A - a transmissão causa mortis de bem móvel, título e crédito, quando o último domicílio do de cujus tiver sido neste Estado;\n..........................................................................................................................\" (NR)\n\"Art 80 ..............................................................................................\nI - ......................................................................................................\nb) as entidades religiosas e os templos de quaisquer cultos, inclusive as suas organizações assistenciais e beneficentes;\n§ 1º ....................................................................................................\nIV - sobre as doações destinadas, no âmbito do Poder Executivo da União, a projetos socioambientais ou de mitigação dos efeitos das mudanças climáticas e às instituições federais de ensino.\n§ 2º A não incidência prevista na alínea \"a\" do inciso I do caput deste artigo é extensiva às autarquias e às fundações instituídas e mantidas pelo Poder Público e à empresa pública prestadora de serviço postal, em referência ao patrimônio, à renda e aos serviços vinculados a suas finalidades essenciais ou às decorrentes delas.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Nos termos do art. 16 da Emenda Constitucional nº 132, de 20 de dezembro de 2023, o Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos - ITCD compete ao Estado de Goiás nas seguintes situações:\nI - relativamente aos bens imóveis e respectivos direitos, quando estiverem situados neste Estado;\nII - quando o doador for domiciliado ou residente no exterior e:\na) o donatário for domiciliado neste Estado; ou\nb) o donatário for domiciliado ou residente no exterior e o bem doado estiver situado neste Estado; e\nIII - relativamente aos bens do de cujus, ainda que estejam situados no exterior, se:\na) o de cujus era domiciliado neste Estado; ou\nb) o de cujus era domiciliado ou residente no exterior e o sucessor ou legatário tiver domicílio neste Estado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogadas as alíneas \"a\" e \"d\" do inciso I-A do art. 73 da Lei nº 11.651, de 1991.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação e produz efeitos no exercício seguinte, a partir do nonagésimo primeiro dia da publicação.\nGoiânia, 18 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23167",
+   "short": "Lei 23167/2024",
+   "title": "Lei nº 23167, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110198",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2024-23167"
+   ],
+   "versions": [
+    {
+     "from": "2025-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110198",
+     "sha256": "f38c9292b49b8900c59f023359cdb6e4b4a0bbef2275ea2cab87f527ad93d80c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.167, DE 20 DE DEZEMBRO DE 2024\nDispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DAS DISPOSIÇÕES PRELIMINARES\nArt. 1º Esta Lei dispõe sobre a organização administrativa do Agrocolégio Estadual Maguito Vilela, altera a Lei nº 21.792, de 16 de fevereiro de 2023, e autoriza a instituição do Auxílio-Locomoção ao Gestor Escolar na Secretaria de Estado da Educação - SEDUC.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA\n## Seção I\n## Da organização administrativa\nArt. 2º O Agrocolégio Estadual Maguito Vilela, criado e denominado pela Lei nº 22.555, de 12 de março de 2024, tem por finalidade:\nI - ampliar as oportunidades de acesso à educação do campo de qualidade para jovens oriundos do campo, filhos de trabalhadores rurais, chacareiros, fazendeiros, sitiantes, quilombolas, indígenas, assentados e acampados da rede estadual de educação de Goiás;\nII - garantir o desenvolvimento de jovens do campo da rede estadual de educação de Goiás na modalidade do Ensino Médio Integrado à Educação Profissional - Técnico em Agropecuária em suas dimensões físicas, intelectuais, emocionais, sociais e culturais para sua formação profissional no campo, em busca da permanência e da sucessão das famílias na região; e\nIII - executar as diretrizes pedagógicas em consonância com o Plano Estadual de Educação - PEE de Goiás, com o Plano Nacional de Educação - PNE, também com as diretrizes e as políticas educacionais fixadas pela SEDUC, respeitadas as especificidades da educação do campo e da pedagogia da alternância.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O currículo do Agrocolégio Estadual Maguito Vilela será elaborado e implementado conforme as legislações educacionais regulamentadas pelos Poderes Executivos estadual e federal, compreendidas as disciplinas da Base Nacional Comum Curricular - BNCC, da Parte Diversificada e da Área Técnica.\nParágrafo único. A carga horária da matriz curricular do Agrocolégio Estadual Maguito Vilela será disciplinada por ato do Secretário de Estado da Educação, conforme as legislações vigentes e o que for disposto em decreto pelo Governador do Estado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As gestões escolar e das áreas técnicas do Agrocolégio Estadual Maguito Vilela seguirão as diretrizes da SEDUC e poderão ser disciplinadas por ato do Secretário de Estado da Educação, conforme as legislações vigentes e o que for disposto em decreto pelo Governador do Estado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O quantitativo de servidores lotados no Agrocolégio Estadual Maguito Vilela, as suas respectivas funções, a modulação, a forma de cumprimento da carga horária de trabalho e suas atribuições serão definidos por regulamento próprio, observadas as legislações específicas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção II\n## Da jornada de trabalho\nArt. 6º A jornada de trabalho dos servidores lotados no Agrocolégio Estadual Maguito Vilela terá preferencialmente a carga horária de 8 (oito) horas diárias, correspondente a 40 (quarenta) horas semanais, com atividades multidisciplinares e/ou de gestão especializada, respeitado o tempo de funcionamento de cada unidade, conforme regulamentação.\nParágrafo único. O disposto no caput deste artigo será aplicado aos servidores que atuarem nas funções de magistério ou administrativas, sejam eles dos quadros próprios da SEDUC, ocupantes dos cargos de Professor ou de Agente Administrativo Educacional, ou contratados temporariamente, bem como efetivos de outros órgãos ou entes no exercício das referidas funções.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção III\n## Das funções comissionadas e das gratificações\nArt. 7º Ficam criadas as seguintes Funções Comissionadas Educacionais - FCEs e Gratificações Educacionais - GRATIEDUs para o Agrocolégio Estadual Maguito Vilela:\nI - a Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela - FCEAGRO- GESTOR, integrante das Funções Comissionadas Educacionais previstas nos arts. 99 e 100 e na alínea \"c\" do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, e sua concessão será de acordo com a função indicada no inciso I do art. 8º desta Lei e no valor mensal especificado no Anexo I também desta Lei; e\nII - a Gratificação de Secretário do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-SEC, a Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-CAF, a Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-COOP e a Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-ACORD, integrantes das Gratificações Educacionais previstas no Capítulo VII- A e no Anexo IX da Lei nº 21.792, de 2023, e sua concessão será de acordo com as funções indicadas nos incisos II a V do art. 8º desta Lei e nos valores mensais especificados no Anexo I também desta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela serão concedidas conforme as funções e os critérios a seguir:\nI - Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela - FCEAGRO- GESTOR: será concedida ao Professor em razão do efetivo exercício na função de Gestor Escolar;\nII - Gratificação de Secretário Escolar do Agrocolégio Estadual Maguito Vilela - GRATEAGRO- SEC: será concedida ao servidor em razão do efetivo exercício na função de Secretário Escolar;\nIII - Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-CAF: será concedida ao servidor em razão do efetivo exercício na função de Coordenador Administrativo Financeiro;\nIV - Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-COOP: será concedida ao servidor em razão do efetivo exercício na função de Coordenador de Pernoite; e\nV - Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela - GRATEAGRO-ACORD: será concedida ao servidor em razão do efetivo exercício na função de Auxiliar de Coordenação.\nParágrafo único. As funções comissionadas e as gratificações de que trata este artigo exigirão o cumprimento da carga horária de quarenta horas semanais, a serem distribuídas de acordo com o funcionamento da unidade administrativa e escolar, independentemente da quantidade de turnos dessa unidade.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A GRATEAGRO-COOP será destinada ao servidor que zelar pelos estudantes matriculados no Agrocolégio Estadual Maguito Vilela, que deverá:\nI - produzir informativos referentes às rotinas e às atividades do alojamento do colégio;\nII - fiscalizar os alojamentos dos estudantes após direcioná-los aos seus respectivos leitos; e\nIII - fiscalizar as atividades produtivas dos estudantes antes do café da manhã.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A GRATEAGRO-ACORD será destinada ao servidor que acompanhar os estudantes matriculados no Agrocolégio Estadual Maguito Vilela durante todas as rotinas e as atividades práticas, pedagógicas e de lazer.\n"
+      },
+      "art-0010-a": {
+       "label": "Art. 10-A",
+       "kind": "article",
+       "text": "Art. 10-A. Caso a atribuição e a responsabilidade diferenciada de que tratam os incisos II a V do art. 8º desta Lei sejam desempenhadas por servidor remunerado por subsídio, poderá ser atribuída a FCE correspondente.\n§ 1º As funções comissionadas de que trata este artigo são as previstas na Tabela 12 da alínea \"c\" do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, com o valor e o símbolo equivalentes aos das Gratificações Educacionais do Agrocolégio Estadual Maguito Vilela.\n§ 2º O servidor de que trata este artigo será submetido às mesmas regras e exigências desta Lei para sua designação e manutenção, observado também o disposto nos arts. 93 e 94 da Lei nº 21.792, de 2023.\n"
+      },
+      "art-0010-b": {
+       "label": "Art. 10-B",
+       "kind": "article",
+       "text": "Art. 10-B. Decreto regulamentador estabelecerá o valor global que abrangerá as FCEs e as GRATIEDUs do Agrocolégio Estadual Maguito Vilela.\n§ 1º Os quantitativos das FCEs e das GRATIEDUs serão definidos por ato do titular da SEDUC, respeitados o limite financeiro e o percentual de distribuição para servidor efetivo estabelecidos em decreto.\n§ 2º A alteração do ato de que trata o § 1º deste artigo deverá ser encaminhada à Secretaria de Estado da Administração - SEAD até o dia 25 do mês, com efeitos financeiros para o mês subsequente, e será vedada a modificação ou a designação com data retroativa.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO AUXÍLIO-LOCOMOÇÃO AO GESTOR ESCOLAR\nArt. 11. Fica o Chefe do Poder Executivo autorizado a instituir o Auxílio-Locomoção ao Gestor Escolar, com natureza indenizatória, ao servidor ocupante da função de Gestor Escolar em atividade na SEDUC, no valor mensal de R$ 500,00 (quinhentos reais).\n§ 1º Poderão ser beneficiários do auxílio tratado no caput deste artigo os servidores com vínculo efetivo no desempenho da função de Gestor Escolar.\n§ 2º O Auxílio-Locomoção ao Gestor Escolar poderá ser pago mensalmente, segundo critérios a serem definidos em decreto regulamentar.\n§ 3º Além de outros critérios a serem definidos no decreto de que trata o § 2º deste artigo, o pagamento do Auxílio-Locomoção ao Gestor Escolar será proporcional aos dias efetivamente trabalhados no desempenho da função na unidade escolar, e o valor diário do benefício utilizado para descontos e pagamentos proporcionais será obtido pela divisão do valor mensal por 30 (trinta).\n§ 4º A ampliação do benefício para os comandantes de Colégios da Polícia Militar do Estado de Goiás poderá se dar conforme dispuser o decreto regulamentar.\n§ 6º O auxílio tratado pelo caput deste artigo não é incorporável, em qualquer hipótese, à remuneração mensal do servidor e caracteriza-se como rendimento não tributável, sem incidência de contribuição previdenciária e não será computado para efeito do 13º salário, bem como para a base de cálculo de margem consignável.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DAS DISPOSIÇÕES FINAIS\nArt. 12. As despesas decorrentes desta Lei serão pagas com recursos do Orçamento-Geral do Estado.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Em decorrência do disposto nos arts. 7º e 8º desta Lei, a alínea \"c\" do Anexo III da Lei nº 21.792, de 2023, passa a vigorar com a alteração constante do Anexo II desta Lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entra em vigor na data de sua publicação e produzirá efeitos financeiros a partir do dia 1º (primeiro) do mês subsequente ao de sua publicação.\nGoiânia, 20 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\nTABELA 1 - FUNÇÃO COMISSIONADA EDUCACIONAL DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA\nTIPO DENOMINAÇÃO SÍMBOLO VALOR MENSAL\n1 Função Comissionada de Gestor Escolar do Agrocolégio Estadual Maguito Vilela FCEAGRO-GESTOR 3.500,00\nTABELA 2 - GRATIFICAÇÕES EDUCACIONAIS DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA\nTIPO DENOMINAÇÃO SÍMBOLO VALOR MENSAL\n1 Gratificação de Secretário Escolar do Agrocolégio Estadual Maguito Vilela GRATEAGRO-SEC 1.000,00\n2 Gratificação de Coordenador Administrativo Financeiro do Agrocolégio Estadual Maguito Vilela GRATEAGRO-CAF 1.000,00\n3 Gratificação de Coordenador de Pernoite do Agrocolégio Estadual Maguito Vilela GRATEAGRO-COOP 1.000,00\n4 Gratificação de Auxiliar de Coordenação do Agrocolégio Estadual Maguito Vilela GRATEAGRO-ACORD 1.000,00\nANEXO II\n(Alteração do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023)\n\"ANEXO III\nc) ................................................................\nTABELA 12 FUNÇÃO COMISSIONADA EDUCACIONAL DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA\nDENOMINAÇÃO SÍMBOLO VALOR MENSAL\nFUNÇÃO COMISSIONADA DE GESTOR ESCOLAR DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA FCEAGRO-GESTOR R$ 3.500,00\nFUNÇÃO COMISSIONADA DE SECRETÁRIO ESCOLAR DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA FCEAGRO-SEC R$ 1.000,00\nFUNÇÃO COMISSIONADA DE COORDENADOR ADMINISTRATIVO FINANCEIRO DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA FCEAGRO-CAF R$ 1.000,00\nFUNÇÃO COMISSIONADA DE COORDENADOR DE PERNOITE DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA FCEAGRO-COOP R$ 1.000,00\nFUNÇÃO COMISSIONADA DE AUXILIAR DE COORDENAÇÃO DO AGROCOLÉGIO ESTADUAL MAGUITO VILELA FCEAGRO-ACORD R$ 1.000,00\n.......................................................................................................................... \" (NR)\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 23167, de 2024 was altered on 2 date(s) its notes cite, the latest 2025-08-26."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23166",
+   "short": "Lei 23166/2024",
+   "title": "Lei nº 23166, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110200",
+   "first_law": "lei-2024-23166",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110200",
+     "sha256": "9a5224316d53d28922b21c0aa98aa298817906d3da8740f42fe7ef441166f157",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.166, DE 19 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o CONSELHO CENTRAL SANTA LUZIA DE LUZIÂNIA-GO, DA SOCIEDADE DE SÃO VICENTE DE PAULO SSVP, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 09.463.802/0001-02, com sede no Município de Luziânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23165",
+   "short": "Lei 23165/2024",
+   "title": "Lei nº 23165, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110201",
+   "first_law": "lei-2024-23165",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110201",
+     "sha256": "d613d79cf2020c2a1325dd03ff90b7df050500119a6a2753872cfbe3a8fe2020",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.165, DE 19 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE EQUOTERAPIA BELLA AURORA DE ANICUNS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 31.792.673/0001-55, com sede no Município de Anicuns/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23164",
+   "short": "Lei 23164/2024",
+   "title": "Lei nº 23164, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110203",
+   "first_law": "lei-2024-23164",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110203",
+     "sha256": "dbc86edc820d04245a092053cbbcc3cbcddbb42fadc86078ab3f737c1dcaea9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.164, DE 19 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o NÚCLEO ESPÍRITA CRISTÃO EURÍPEDES BARSANULFO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 03.574.596/0001-21, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23163",
+   "short": "Lei 23163/2024",
+   "title": "Lei nº 23163, de 2024 (Altera a Lei nº 19.191, de 29 de dezembro de 2015, que dispõe sobre os emolumentos dos serviços notariais e de registro e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110204",
+   "first_law": "lei-2024-23163",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110204",
+     "sha256": "5c5c02fcfb063f95a7b3c4b1b6c41ea1d1fe29380f12f956587ebe754e8c1fc9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.163, DE 19 DE dezembro DE 2024\nAltera a Lei nº 19.191, de 29 de dezembro de 2015, que dispõe sobre os emolumentos dos serviços notariais e de registro e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.191, de 29 de dezembro de 2015, passa a vigorar com as seguintes alterações:\n\"Art 15 ..............................................................................................\n§ 1º ....................................................................................................\nVI - 6% (seis por cento) para o Fundo de Compensação dos Atos Gratuitos Praticados pelos Notários e Registradores e de Complementação da Receita Mínima das Serventias Deficitárias - FUNCOMP;\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23162",
+   "short": "Lei 23162/2024",
+   "title": "Lei nº 23162, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110205",
+   "first_law": "lei-2024-23162",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110205",
+     "sha256": "de638771f404aee47db497a6c437210355405423b96b99b238e60a9490fe2742",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.162, DE 19 DE DEZEMBRO DE 2024\nInstitui o REFIS/TJGO - Programa de Refinanciamento de valores devidos ao Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário do Estado de Goiás (FUNDESP-PJ).\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o REFIS/TJGO - Programa de Refinanciamento de valores devidos ao Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário do Estado de Goiás (FUNDESP-PJ).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DAS DISPOSIÇÕES GERAIS\nArt. 2º Para os fins desta Lei, são considerados valores devidos ao FUNDESP-PJ, passíveis de inclusão no REFIS/TJGO, somente aqueles referentes aos juros e às multas, calculados sobre a importância principal devida, e cuja soma (principal + juros + multa) resulte em importância igual ou inferior a R$ 25.500,00 (vinte e cinco mil e quinhentos reais) para créditos tributários ou a R$ 10.000,00 (dez mil reais) para créditos não tributários, próprios do Poder Judiciário, relacionados pelos incisos I a VIII do art. 2º da Lei estadual nº 21.837, de 27 de março de 2023, quais sejam:\nI - custas judiciais finais;\nII - custas judiciais dos Juizados Especiais e das Turmas Recursais;\nIII - taxa judiciária;\nIV - emolumentos que constituem receita judicial;\nV - débitos apurados em inspeções realizadas pela Diretoria Financeira, Corregedoria- Geral da Justiça e pelos Juízes de Direito e/ou Substitutos;\nVI - restituições;\nVII - excedentes de teto constitucional devidos pelos interinos das serventias extrajudiciais; e\nVIII - multas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os valores devidos ao FUNDESP-PJ, de que cuida esta Lei, poderão ser abrangidos pelo REFIS/TJGO, desde que:\nI - sejam decorrentes de fatos geradores ocorridos há mais de 90 (noventa) dias; e\nII - o pagamento da obrigação seja realizado em moeda corrente, via boleto bancário a ser fornecido pelo Tribunal de Justiça.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Diretoria Financeira do Tribunal de Justiça de Goiás realizará a consolidação dos valores devidos ao Fundesp-PJ, com todos os acréscimos legais, na data em que o devedor interessado requerer a adesão ao REFIS/TJGO.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O sujeito passivo, para usufruir dos benefícios previstos no REFIS/TJGO, deve fazer sua adesão ao programa depois do início da produção dos efeitos desta Lei.\n§ 1º Considera-se formalizada a adesão com o pagamento à vista ou, se for parcelado, com a quitação de sua primeira parcela, que deverá ocorrer em até 30 (trinta) dias da data do requerimento do benefício pelo sítio eletrônico do Tribunal de Justiça, referido pelo art. 8º desta Lei.\n§ 2º O parcelamento dos valores devidos ao Fundesp-PJ, passíveis de inclusão no REFIS/TJGO, poderá ser feito, desde que observadas as mesmas regras estabelecidas pela Lei estadual nº 21.837, de 2023.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Não se incluem nos valores abrangidos pelo REFIS/TJGO aqueles referentes às despesas com que o devedor deverá arcar para a realização das baixas dos protestos de sua dívida junto aos respectivos cartórios.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA REMISSÃO DE DÉBITOS\nArt. 7º As pessoas físicas ou jurídicas poderão ser dispensadas do recolhimento total ou parcial de multas e juros, originados dos créditos tributários e não tributários próprios do Poder Judiciário, referidos no art. 2º desta Lei, mediante adesão ao REFIS/TJGO e observando-se o seguinte:\nI - com a redução de 100% (cem por cento) dos juros e das multas, se recolhida a obrigação principal, em parcela única, na data de adesão;\nII - com a redução de 80% (oitenta por cento) dos juros e das multas, se recolhida a obrigação principal em até 6 (seis) parcelas mensais, iguais e sucessivas;\nIII - com a redução de 60% (sessenta por cento) dos juros e das multas, se recolhida a obrigação principal em até 12 (doze) parcelas mensais, iguais e sucessivas; e\nIV - com a redução de 40% (quarenta por cento) dos juros e das multas, se recolhida a obrigação principal em até 24 (vinte e quatro) parcelas mensais, iguais e sucessivas.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS DISPOSIÇÕES FINAIS\nArt. 8º O benefício de que trata esta Lei poderá ser requerido pelo próprio beneficiário ou seu procurador, que acostará o instrumento de mandato diretamente pelo endereço eletrônico do Tribunal de Justiça do Estado de Goiás (div.atend.judicial@tjgo.jus.br).\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A formalização de solicitação de ingresso no REFIS/TJGO para quitação ou parcelamento implica reconhecimento dos débitos tributários ou não tributários nele incluídos, ficando condicionada à desistência de eventuais ações ou embargos à execução fiscal, com renúncia ao direito sobre o qual se fundam, nos autos judiciais respectivos e da desistência de eventuais impugnações, defesas e recursos eventualmente apresentados no âmbito administrativo.\nParágrafo único. O ingresso no REFIS/TJGO dar-se-á por opção do sujeito passivo, a ser formalizada após a publicação desta Lei, condicionada sua homologação ao pagamento integral do débito ou da primeira parcela, se for este o caso.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Implicam revogação dos parcelamentos, resultando na perda do benefício e antecipação do vencimento das parcelas vincendas:\nI - a inobservância de qualquer das exigências estabelecidas nesta Lei;\nII - estar em atraso, por prazo superior a 60 (sessenta) dias, com pagamento de qualquer parcela; ou\nIII - o inadimplemento de valores devidos, relativamente a fatos geradores ocorridos após a data de ingresso no programa.\n§ 1º Revogado o benefício nos termos deste artigo, os valores correspondentes à redução da multa e dos juros de mora e demais acréscimos e encargos serão adicionados ao saldo devedor remanescente.\n§ 2º A revogação do parcelamento nas hipóteses elencadas neste artigo enseja a efetivação do protesto do saldo devedor remanescente.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O REFIS/TJGO não se aplica aos débitos tributários ou não tributários decorrentes de dolo, fraude ou simulação do sujeito passivo, ou de terceiro em benefício daquele, ou, ainda, àqueles que sejam objeto de adesão formulada fora do prazo estabelecido nesta Lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A Presidência do Tribunal de Justiça do Estado de Goiás poderá, se for o caso, expedir atos regulamentares necessários ao fiel cumprimento desta Lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23161",
+   "short": "Lei 23161/2024",
+   "title": "Lei nº 23161, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110207",
+   "first_law": "lei-2024-23161",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-20",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110207",
+     "sha256": "18a4ee38405e69f6b28a57394b023796bd46698ae82f243fd17ddf1ce68dcdc6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.161, DE 19 DE DEZEMBRO DE 2024\nAltera a Lei nº 16.434, de 16 de dezembro de 2008, que estabelece procedimentos para a concessão e aplicação de adiantamento de numerário a servidor público estadual.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.434, de 16 de dezembro de 2008, passa a vigorar com as seguintes alterações:\n\"Art 1º ..............................................................................................\nParágrafo único. O regime de adiantamento de que trata o caput deste artigo consiste na entrega de numerário a servidor, sempre precedida de empenho na dotação própria para a realização de despesas que não possam ser subordinadas ao processo normal de aplicação.\" (NR)\n\"Art 2º ..............................................................................................\nI - despesas de pequena monta e pronto pagamento;\nII - despesas com diárias e viagens;\n§ 1º São consideradas despesas de pequena monta e pronto pagamento aquelas cujo valor esteja compreendido no limite previsto no art. 95, § 2º, da Lei federal nº 14.133, de 1º de abril de 2021, atualizado nos termos do art. 182 da mesma norma e suas alterações posteriores.\n§ 2º Constituem despesas urgentes as de difícil previsão e cuja não realização imediata possa causar prejuízo à Fazenda Pública Estadual ou interromper o curso de atendimento dos serviços ou das atividades a cargo do órgão responsável.\n§ 3º São consideradas despesas de caráter sigiloso as relacionadas com dados ou informações cujo conhecimento irrestrito ou divulgação possa ocasionar risco à segurança da sociedade e do Estado.\n§ 4º Enquadram-se como despesas de caráter reservado as efetuadas com diligências que exijam determinado grau de sigilo por limitado período de tempo nas atividades de inteligência e de investigação policial e criminal efetuadas no âmbito da Polícia Civil, da Polícia Militar, da Secretaria de Estado da Casa Militar - CASA MILITAR, do Ministério Público do Estado de Goiás, do Fisco estadual e da Diretoria-Geral de Polícia Penal - DGPP.\n§ 5º Consideram-se despesas com compras e serviços especiais as realizadas no âmbito das relações públicas, em todos os níveis, por intermédio da unidade administrativa específica.\n§ 6º O pagamento das despesas realizadas mediante regime de adiantamento ocorrerá, preferencialmente, por meio do Cartão de Pagamento do Governo de Goiás - CPGG.\" (NR)\n\"Art. 4º Os valores limites para a concessão de adiantamento a serem aplicados na execução das despesas de que trata o art. 2º desta Lei serão fixados em ato da Secretaria de Estado da Economia - ECONOMIA.\n..........................................................................................................................\" (NR)\n\"Art 5º ..............................................................................................\nI - responsável por dois adiantamentos;\nII - que tenha a seu cargo a guarda ou a utilização do material a adquirir, salvo quando não houver na repartição outro servidor; ou\nIII - declarado em alcance, ou seja, aquele que não prestou contas no prazo regulamentar ou o que teve suas contas recusadas ou impugnadas em virtude de desvio, desfalque, falta ou má aplicação de dinheiro, bens ou valores.\" (NR)\n\"Art. 6º O prazo para a aplicação do adiantamento não deverá exceder 90 (noventa) dias nem ultrapassar o término do exercício financeiro.\n§ 1º A prestação de contas do adiantamento deverá ser realizada até 30 (trinta) dias após o término do prazo para sua aplicação.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os seguintes dispositivos da Lei nº 16.434, de 2008:\nI - inciso III do art. 2º;\nII - inciso VI do art. 2º; e\nIII - incisos I e II e parágrafo único do art. 4º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23168",
+   "short": "Lei 23168/2024",
+   "title": "Lei nº 23168, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110209",
+   "first_law": "lei-2024-23168",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110209",
+     "sha256": "44f9650d26ec362070737af5621bbd6592bf5d1c26a0c348acc5d7fd0d31ce08",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.168, DE 20 DE DEZEMBRO DE 2024\nDispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, do disposto nas Leis Complementares federais nº 24, de 7 de janeiro de 1975, e nº 160, de 7 de agosto de 2017, também no Convênio ICMS nº 190, de 15 de dezembro de 2017, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei, por considerar a relevância da produção de biogás e de biometano para a geração de energia renovável e para descarbonização da matriz energética no território goiano, promove a adesão do Estado de Goiás ao disposto no art. 18 da Lei Complementar nº 631, de 31 de julho de 2019, e no art. 1º da Resolução CONDEPRODEMAT nº 40, de 20 de dezembro de 2019, do Conselho Deliberativo dos Programas de Desenvolvimento de Mato Grosso - CONDEPRODEMAT, ambas as normas do Estado de Mato Grosso, conforme autoriza o § 8º do art. 3º da Lei Complementar federal nº 160, de 7 de agosto de 2017, e a cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017, para permitir a concessão de benefício fiscal ao estabelecimento industrializador de biogás e biometano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica autorizado o Chefe do Poder Executivo a conceder, na forma, nos limites e nas condições que instituir, crédito outorgado do Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS ao estabelecimento industrializador de biogás e biometano, equivalente aos percentuais discriminados a seguir, aplicados sobre o valor do ICMS devido:\nI - até 85% (oitenta e cinco por cento), na saída interna de biogás e biometano; e\nII - até 90% (noventa por cento), na saída interestadual de biogás e biometano.\n§ 1º A apropriação do crédito outorgado previsto no caput deste artigo deve ser feita em substituição à apropriação de quaisquer créditos relativos ao ICMS correspondentes à entrada das mercadorias ou dos bens e ao serviço utilizado.\n§ 2º É vedada a utilização cumulativa do crédito outorgado previsto neste artigo com os benefícios fiscais dos Programas FOMENTAR, PRODUZIR e PROGOIÁS, resguardada a opção pelo benefício mais favorável.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O benefício fiscal previsto nesta Lei é vinculado ao atendimento de condições específicas pactuadas em compromisso de obrigações recíprocas consignado em regime especial celebrado com a Secretaria de Estado da Economia - ECONOMIA, para a realização de investimentos até a data fixada no referido regime.\n§ 1º O regulamento definirá o valor mínimo e a forma de realização e comprovação dos investimentos de que trata o caput deste artigo, além das regras para o estorno do crédito apropriado indevidamente em razão da não comprovação do investimento mínimo dentro do prazo fixado no regime especial.\n§ 2º Para o disposto no § 1º deste artigo, podem ser considerados os investimentos realizados nos 12 (doze) meses anteriores ao pedido do regime especial de que trata o caput também deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O regime especial de que trata o art. 3º desta Lei será suspenso ou revogado na falta de realização ou na realização parcial dos investimentos previstos no encerramento das atividades da empresa ou do estabelecimento beneficiado, conforme for definido em regulamento, observado o seguinte:\nI - a revogação do regime especial implicará a exigência do recolhimento imediato do crédito tributário relativo ao valor do benefício utilizado, inclusive dos acréscimos legais previstos na legislação tributária, integral ou parcialmente, conforme dispuser o regulamento; e\nII - a suspensão ou a revogação do regime especial será efetivada pela ECONOMIA 60 (sessenta) dias após o contribuinte ter sido notificado da ocorrência da situação que possa dar causa à suspensão ou à revogação, permitida a regularização nesse prazo.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A utilização do benefício fiscal previsto nesta Lei é condicionada, em qualquer hipótese, a que o estabelecimento beneficiário:\nI - esteja adimplente com o ICMS relativo à obrigação tributária própria ou em que for responsável por substituição tributária;\nII - não possua crédito tributário inscrito em dívida ativa estadual; e\nIII - contribua para o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, no valor correspondente ao percentual de até 7% (sete por cento) aplicado sobre o valor do benefício efetivamente usufruído em cada período de apuração.\n§ 1º Na hipótese do inciso I do caput deste artigo, a falta de pagamento ou o pagamento parcial correspondente a determinado período de apuração implica a perda do direito de o estabelecimento utilizar o benefício fiscal previsto nesta Lei, exclusivamente no referido período de apuração, exceto quando, antes do início da ação fiscal, houver o pagamento integral ou parcial, e nesse caso fica permitida a utilização integral ou proporcional do benefício, conforme o caso, observadas ainda as demais disposições previstas na legislação tributária.\n§ 2º Na hipótese prevista no inciso II do caput deste artigo, a existência de crédito tributário inscrito em dívida ativa implica a perda do direito de o contribuinte utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida de benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária.\n§ 3º Na hipótese de verificação do não cumprimento do disposto nos §§ 1º e 2º deste artigo, a autoridade administrativa competente procederá ao estorno do crédito apropriado indevidamente, com a exigência do crédito tributário correspondente corrigido e dos acréscimos legais previstos na legislação tributária.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 20 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23169",
+   "short": "Lei 23169/2024",
+   "title": "Lei nº 23169, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110213",
+   "first_law": "lei-2024-23169",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110213",
+     "sha256": "d267aa009317b3b39bdf9957c5672064d3fff750847638fcd1b7cbabe75c12b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.169, DE 26 DE DEZEMBRO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada DEPUTADO ISO MOREIRA a Rodovia GO-591, no trecho que liga o Município de Cabeceiras/GO à divisa com o Estado de Minas Gerais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23170",
+   "short": "Lei 23170/2024",
+   "title": "Lei nº 23170, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Morro Agudo de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110214",
+   "first_law": "lei-2024-23170",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110214",
+     "sha256": "3f8bf2e956a431cef579ab5623f76c614919b89e4cd44eaa0d907bb3291263eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.170, DE 26 DE DEZEMBRO DE 2024\nAutoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Morro Agudo de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a alienar o imóvel do Estado de Goiás especificado no Anexo Único desta Lei, por doação onerosa ao Município de Morro Agudo de Goiás/GO, CNPJ nº 25.043.621/0001-83, possibilitada pela Lei municipal nº 589, de 18 de maio de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel descrito e caracterizado no Anexo Único desta Lei está avaliado em R$ 185.541,06 (cento e oitenta e cinco mil, quinhentos e quarenta e um reais e seis centavos), conforme o Laudo de Avaliação para Permuta nº 6/2023, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração - SEAD.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata esta Lei destina-se:\nI - à manutenção da prestação de serviços educacionais em escola pública municipal; e\nII - à efetivação pelo município donatário de regularização fundiária das ocupações residenciais nele instaladas, para garantir o direito dos ocupantes à moradia.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com a cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes ao doador, caso haja o descumprimento do disposto no art. 3º desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nESPECIFICAÇÃO DO IMÓVEL A SER DOADO\nIMÓVEL OBJETO DE DOAÇÃO ONEROSA AO MUNICÍPIO DE MORRO AGUDO DE GOIÁS/GO, DESTINADO À MANUTENÇÃO DA PRESTAÇÃO DE SERVIÇOS EDUCACIONAIS EM ESCOLA PÚBLICA MUNICIPAL E À REGULARIZAÇÃO FUNDIÁRIA DAS OCUPAÇÕES RESIDENCIAIS NELE INSTALADAS\nDENOMINAÇÃO UMA PARTE DE TERRAS URBANA REPRESENTADA PELA QUADRA X\nÁREA 10.000,00 m²\nLOCALIZAÇÃO LOTEAMENTO DENOMINADO \"CIDADE DE MORRO AGUDO DE GOIÁS\", NO SETOR CENTRAL, MORRO AGUDO DE GOIÁS/GO\nPROPRIETÁRIO ESTADO DE GOIÁS\nMATRÍCULA Nº 2.037 - CARTÓRIO DE REGISTRO DE IMÓVEIS E ANEXOS DE MORRO AGUDO DE GOIÁS/GO\nMEMORIAL DESCRITIVO ASSIM SE DESCREVE: \"INICIA-SE NO VÉRTICE DENOMINADO MA, CRAVADO NAS DIVISAS DE TERRAS DE DIVINA ALVES RIBEIRO, DE ONDE PARTE LIMITANDO COM ESSA NO AZIMUTE E DISTÂNCIA DE 46°45'36\" - 100,19 M, ATÉ O VÉRTICE MB, DAÍ SEGUE LIMITANDO COM A QUADRA 25 E RUA DAS TULIPAS, (ATRAVESSANDO A AVENIDA LÍRIO BRANCO), NO AZIMUTE E DISTÂNCIA DE 134°21'00\" - 100,00 M, INDO ATÉ O MARCO MC, CRAVADO NO EIXO DA AV. LÍRIO DO CAMPO, PELO QUAL SEGUE POR ESSE NO AZIMUTE E DISTÂNCIA DE 226°45'49\" - 100,00 M, ATÉ O MARCO MD, DAÍ SEGUE LIMITANDO COM A RUA DAS MARGARIDAS, NO AZIMUTE E DISTÂNCIA DE 314°14'24\" - 100,00 M, INDO ATÉ O VÉRTICE MA, ONDE TEVE INÍCIO\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23171",
+   "short": "Lei 23171/2024",
+   "title": "Lei nº 23171, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Jussara/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110215",
+   "first_law": "lei-2024-23171",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110215",
+     "sha256": "98d89ae15105d72f59f1d02152a75a6eab0aaa88e015fd67ac00b47920d0d3c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.171, DE 26 DE DEZEMBRO DE 2024\nAutoriza a aquisição, por doação onerosa do Município de Jussara/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Jussara/GO, CNPJ nº 02.922.128/0001-38, possibilitada pela Lei municipal nº 1.127, de 23 de junho de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel doado está avaliado em R$ 584.500,00 (quinhentos e oitenta e quatro mil e quinhentos reais), conforme o Laudo de Avaliação para Doação nº 74/2023, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei destina-se à construção e à instalação de unidade do Corpo de Bombeiros Militar.\nParágrafo único. O donatário se compromete a:\nI - não modificar a destinação da área doada, não gravá- la com ônus nem transferi- la a terceiros, a qualquer título, sem o prévio conhecimento e eventual anuência do doador, durante 5 (cinco) anos da publicação da lei municipal que autorizou a doação; e\nII - edificar na área doada, no prazo máximo de 3 (três) anos da assinatura da escritura de doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada no art. 1º desta Lei será realizada com a cláusula de inalienabilidade e de reversão do imóvel ao doador no caso de descumprimento do disposto no art. 3º desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE JUSSARA/GO, PARA A CONSTRUÇÃO E A INSTALAÇÃO DE UNIDADE DO CORPO DE BOMBEIROS MILITAR, CONFORME A LEI MUNICIPAL Nº 1.127, DE 23 DE JUNHO DE 2023\nDENOMINAÇÃO Área Institucional nº 01-A\nLOCALIZAÇÃO Rua B-3, esquina com a Rua A-01, Loteamento Residencial Vale do Araguaia, CEP 76270-000, Jussara/GO\nÁREA 3.500,00 m²\nMATRÍCULA Nº 17.013, Cartório de Registro de Imóveis e 1º Tabelionato de Notas de Jussara/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"54,00 (cinquenta e quatro) metros de frente para a citada Rua B-03; 8,07 (oito vírgula zero sete) metros pela linha de chanfrado; 75,17 (setenta e cinco vírgula dezessete) metros pela linha de fundo, limitando com a Área Institucional 01; 52,82 (cinquenta e dois vírgula oitenta e dois) metros na lateral direita, limitando com a Área Institucional 01; e, 50,00 (cinquenta) metros na lateral esquerda, limitando com a Rua A-01.\"\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23172",
+   "short": "Lei 23172/2024",
+   "title": "Lei nº 23172, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110216",
+   "first_law": "lei-2024-23172",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110216",
+     "sha256": "61c78003c008bde789c0659a861c38fc048bf5262abc158f10c525c31d31537d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.172, DE 26 DE DEZEMBRO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado JOSÉ DE RIBAMAR SOUZA CIRQUEIRA o Colégio Estadual da Polícia Militar de Goiás - CEPMG Jardim Guanabara, situado na Alameda Minas Gerais, Quadra 76, Lote 24, Setor Jardim Guanabara, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23174",
+   "short": "Lei 23174/2024",
+   "title": "Lei nº 23174, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110218",
+   "first_law": "lei-2024-23174",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110218",
+     "sha256": "329944eea4abb21d6887514095f0d7b3893e18220b768d10e7ef68e5b0f21a3d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.174, DE 26 DE DEZEMBRO DE 2024\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, passa a vigorar com as seguintes alterações:\n\"Art 13 ..............................................................................................\n§ 4º Alternativamente ao disposto no § 3º deste artigo, por opção do contribuinte, na forma definida em regulamento, a transferência de mercadoria para estabelecimento pertencente ao mesmo titular pode ser equiparada à operação sujeita à ocorrência do fato gerador do imposto, hipótese em que devem ser observadas:\nI - nas operações internas, as alíquotas estabelecidas na legislação; e\nII - nas operações interestaduais, as alíquotas fixadas nos termos do inciso IV do § 2º do art. 155 da Constituição Federal.\" (NR)\n\"Art 19 ..............................................................................................\nXX - na transferência de mercadorias para estabelecimento de mesma titularidade equiparada, por opção do contribuinte, à operação sujeita ao fato gerador do imposto, nos termos do § 4º do art. 13 desta Lei:\na) o valor correspondente à entrada mais recente da mercadoria;\nb) o custo da mercadoria produzida, entendido como a soma dos custos de matéria-prima, material secundário, mão de obra e acondicionamento; e\nc) no caso de mercadoria não industrializada, a soma dos gastos com insumos, mão de obra e acondicionamento.\n..........................................................................................................................\" (NR)\n\"Art. 58-A. Na saída da mercadoria do estabelecimento do contribuinte para outro estabelecimento do mesmo contribuinte, o crédito correspondente às operações e às prestações anteriores relativas às mercadorias transferidas deve ser transferido ao estabelecimento do destino da mercadoria.\n§ 2º ....................................................................................................\nI - o valor médio da entrada da mercadoria em estoque na data da transferência;\nII - o custo da mercadoria produzida, entendido como a soma dos custos de matéria-prima, insumos, material secundário e de acondicionamento; e\nIII - no caso de mercadoria não industrializada, a soma dos gastos com insumos e material de acondicionamento.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de novembro de 2024.\nGoiânia, 26 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23183",
+   "short": "Lei 23183/2024",
+   "title": "Lei nº 23183, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110282",
+   "first_law": "lei-2024-23183",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110282",
+     "sha256": "a13321f31033b9eb8192057bf9f98ca63c54cf858b5df4baccfc90c632f5cd8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.183, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO S.O.S GAMELEIRA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 51.189.147/0001-02, com sede no Município de Piracanjuba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23182",
+   "short": "Lei 23182/2024",
+   "title": "Lei nº 23182, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110283",
+   "first_law": "lei-2024-23182",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110283",
+     "sha256": "e7474cf52a4eee10f488b068c9827c834a0b982304ea5dd747c763f918174074",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.182, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CULTURAL PONTO DE CULTURA TRÍADE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 46.510.131/0001-10, com sede no Município de Luziânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23181",
+   "short": "Lei 23181/2024",
+   "title": "Lei nº 23181, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110284",
+   "first_law": "lei-2024-23181",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110284",
+     "sha256": "e98d6834eb8cf6a0871fe1b74c856fdaa9f95612fce317837cc5583839cff75f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.181, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO GOIANA DE KICKBOXING MUAY THAI E ARTES MARCIAIS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob nº 36.310.361/0001-81, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23180",
+   "short": "Lei 23180/2024",
+   "title": "Lei nº 23180, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110285",
+   "first_law": "lei-2024-23180",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110285",
+     "sha256": "77b28a3f7e9041240aba283040fd75848ab314413e9c0a0e10514de4ca411abc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.180, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DESPORTIVA SOCIOEDUCATIVA SEM FRONTEIRAS - ADESF, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 22.438.375/0001-70, com sede no Município de Santo Antônio do Descoberto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23179",
+   "short": "Lei 23179/2024",
+   "title": "Lei nº 23179, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110286",
+   "first_law": "lei-2024-23179",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110286",
+     "sha256": "3ce8c2bff9e6363362c46c011c86d12088b88ce9a7724834f4b7a64dee3f436b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.179, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a UMEAG - UNIÃO DE MORADORES EVANGÉLICOS DE APARECIDA DE GOIÂNIA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.838.479/0001-23, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23178",
+   "short": "Lei 23178/2024",
+   "title": "Lei nº 23178, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110287",
+   "first_law": "lei-2024-23178",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110287",
+     "sha256": "f85ba38a076973aabfc3c0a1c32f12929f824b2118786b525c49c51760132493",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.178, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO EDUCACIONAL CERRADO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 50.806.059/0001-40, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23177",
+   "short": "Lei 23177/2024",
+   "title": "Lei nº 23177, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110288",
+   "first_law": "lei-2024-23177",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110288",
+     "sha256": "a24725de324fa854b5895267b1ca038e5a610dd70c7542a990ed7bee92dbce23",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.177, DE 27 DE DEZEMBRO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO BORGES DE APOIO A FAMÍLIAS CARENTES DE TRINDADE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 12.670.513/0001-99, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23176",
+   "short": "Lei 23176/2024",
+   "title": "Lei nº 23176, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110289",
+   "first_law": "lei-2024-23176",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110289",
+     "sha256": "0637ba76b4bc44c40af57c4830eb9741bf2b7ac878b24031b23c7314fefa732b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.176, DE 27 DE DEZEMBRO DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa de Nossa Senhora do Rosário, realizada, anualmente, no mês de outubro, no Município de Catalão/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-23175",
+   "short": "Lei 23175/2024",
+   "title": "Lei nº 23175, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110290",
+   "first_law": "lei-2024-23175",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-12-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110290",
+     "sha256": "93bceefae5f6758b6637bbaa114e01e881e10264a5d65834e6f842aac8264fef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.175, DE 27 DE DEZEMBRO DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Festival da Mandioca, realizado, anualmente, no mês de abril, no Município de Bela Vista de Goiás/GO:\nI - fica reconhecido como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de dezembro de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23184",
+   "short": "Lei 23184/2025",
+   "title": "Lei nº 23184, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal de Coração, realizado no Município de Anápolis/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110314",
+   "first_law": "lei-2025-23184",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110314",
+     "sha256": "91a3a90fed399ffffa01554d7fd1676cbcda4dd09cabc0f70188fd7a1250f1ca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.184, DE 6 DE JANEIRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal de Coração, realizado no Município de Anápolis/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal de Coração, realizado, anualmente, no mês de dezembro, no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23185",
+   "short": "Lei 23185/2025",
+   "title": "Lei nº 23185, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110315",
+   "first_law": "lei-2025-23185",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110315",
+     "sha256": "f2a37743440b9be6f64f3db4c9afa6968d04eb591a666be6b839d05eab3afb79",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.185, DE 6 DE JANEIRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa dedicada a Santa Rita de Cássia - Missa das Rosas, realizada no Município de Santa Rita do Novo Destino/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa dedicada a Santa Rita de Cássia - Missa das Rosas, realizada, anualmente, no dia 22 de maio, na Paróquia Santa Rita de Cássia, no Município de Santa Rita do Novo Destino/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRENATO DE CASTRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23186",
+   "short": "Lei 23186/2025",
+   "title": "Lei nº 23186, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110316",
+   "first_law": "lei-2025-23186",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110316",
+     "sha256": "f896a12abbdc19090fed2195589cd637e89306c871e88f7f3a2a0003cab3eccc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.186, DE 6 DE JANEIRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INHUMAS ESPORTE CLUBE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.810.103/0001-85, com sede no Município de Inhumas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23187",
+   "short": "Lei 23187/2025",
+   "title": "Lei nº 23187, de 2025 (Institui a Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110317",
+   "first_law": "lei-2025-23187",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110317",
+     "sha256": "28193f635a7011a01ae3929637321fb6ec7b346810b8d507868207f572f65c9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.187, DE 6 DE JANEIRO DE 2025\nInstitui a Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Pública instituída por esta Lei objetiva, especialmente, promover a saúde, o bem-estar, a qualidade de vida e a inclusão social das pessoas que são responsáveis diretamente pelos cuidados primários de pessoas com deficiência ou doenças graves, garantindo-lhes o acesso integral aos serviços de saúde e outros direitos previstos nesta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Pública instituída por esta Lei será implementada conforme as seguintes diretrizes, especialmente:\nI - integração das ações de saúde, assistência social e educação;\nII - promoção de parcerias entre o Poder Público estadual, a iniciativa privada e organizações da sociedade civil;\nIII - participação ativa dos cuidadores na elaboração, implementação e avaliação das políticas e programas;\nIV - respeito às especificidades de cada cuidador e da pessoa sob seus cuidados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º São objetivos da Política Estadual de Atenção, Cuidados e Proteção da Saúde de Cuidadores de Pessoas com Deficiência ou Doenças Graves, especialmente:\nI - promover a saúde física e mental dos cuidadores;\nII - garantir acesso a serviços de saúde, apoio psicológico e social;\nIII - fomentar a capacitação e a formação contínua dos cuidadores;\nIV - facilitar o acesso a informações e orientações sobre os cuidados adequados às pessoas com deficiência ou doenças graves;\nV - proporcionar suporte jurídico, quando necessário, aos cuidadores comprovadamente carentes.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Público estadual fixará formas de monitoramento e de avaliação da Política Pública instituída por esta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A execução da Política Pública prevista nesta Lei será financiada com recursos oriundos do orçamento estadual, da iniciativa privada e de convênios e parcerias com órgãos e instituições municipais, estaduais, nacionais e internacionais.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRENATO DE CASTRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23188",
+   "short": "Lei 23188/2025",
+   "title": "Lei nº 23188, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110318",
+   "first_law": "lei-2025-23188",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110318",
+     "sha256": "e91954a9a3bfb3af28cd23beab8e49403a9c47bba0e484d04a8707a5ee65ad7d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.188, DE 6 DE JANEIRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE PAIS, MESTRES E FUNCIONÁRIOS DO COLÉGIO DA POLÍCIA MILITAR DO ESTADO DE GOIÁS - JOSÉ DE ALENCAR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 23.841.819/0001-87, com sede no Município de Novo Gama/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23189",
+   "short": "Lei 23189/2025",
+   "title": "Lei nº 23189, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110319",
+   "first_law": "lei-2025-23189",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110319",
+     "sha256": "dc350b2e0d6730a8a41c29ea111a80ba29c63d2a861a2af82165cdbb93731b8c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.189, DE 6 DE JANEIRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Novena do Divino Pai Eterno, realizada durante a Festa em Louvor ao Divino Pai Eterno, no Município de Trindade/GO, fica declarada patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23190",
+   "short": "Lei 23190/2025",
+   "title": "Lei nº 23190, de 2025 (Institui o Dia Estadual do Guia de Turismo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110320",
+   "first_law": "lei-2025-23190",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110320",
+     "sha256": "9bb67e9d4d3c665376540611cec0d0a7b04416eafd689c73c99d9b0152e9365b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.190, DE 6 DE JANEIRO DE 2025\nInstitui o Dia Estadual do Guia de Turismo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Guia de Turismo, a ser comemorado, anualmente, no dia 10 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23191",
+   "short": "Lei 23191/2025",
+   "title": "Lei nº 23191, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110321",
+   "first_law": "lei-2025-23191",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110321",
+     "sha256": "d44d89803876857f5cd7e6fc7d830438623d2293b8046b7cb0e65365153a3ec5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.191, DE 6 DE JANEIRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS MORADORES DA VILA ESTRELA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 00.802.560/0001-60, com sede no Município de lpameri/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23192",
+   "short": "Lei 23192/2025",
+   "title": "Lei nº 23192, de 2025 (Institui a Política Estadual Amamentação sem Dor.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110322",
+   "first_law": "lei-2025-23192",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110322",
+     "sha256": "95605d468390831c8471b2ac3c285850d59ef4ed99d2da84e50327798c0cac4a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.192, DE 6 DE JANEIRO DE 2025\nInstitui a Política Estadual Amamentação sem Dor.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual Amamentação sem Dor, a ser implementada nas maternidades e hospitais da rede pública estadual de saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída atenderá, especialmente, aos seguintes princípios:\nI - garantia ao aleitamento materno, como ato livre e discricionário;\nII - garantia à devida orientação sobre o aleitamento materno, seus benefícios, técnicas adequadas para sua realização, bem como toda informação científica disponível sobre o tema;\nIII - respeito às recomendações da Organização Mundial de Saúde;\nIV - princípios previstos na Lei federal nº 8.080, de 19 de setembro de 1990.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual ora instituída tem por objetivos:\nI - garantia ao direito à amamentação;\nII - promoção de informações a respeito da nutrição e saúde das crianças;\nIII - promoção de saúde às crianças por meio da devida amamentação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - estimular a capacitação de servidores que atuam em maternidades e hospitais da rede pública estadual de saúde sobre amamentação;\nII - incentivar a produção e divulgação anual de cartilhas digitais e impressas que informem sobre a importância da amamentação;\nIII - estimular a adoção de técnicas de amamentação que visem prevenir ou sanar dores, doenças e demais obstáculos de ordem fisiológica que possam conduzir à interrupção da prática;\nIV - estimular o atendimento especializado às lactantes e crianças, quando necessário;\nV - estimular a conscientização sobre os benefícios da continuidade da amamentação complementar até os 2 (dois) anos de idade;\nVI - monitorar, nas maternidades e hospitais da rede pública estadual de saúde, gestantes que apresentem indicadores de risco à lactação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23193",
+   "short": "Lei 23193/2025",
+   "title": "Lei nº 23193, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110323",
+   "first_law": "lei-2025-23193",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110323",
+     "sha256": "906aa4c3aae160f67ab4df68f6a13009d1d71f746a04f09d2fb0398e85a13dec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.193, DE 6 DE JANEIRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO AMIGOS CONTRA A FOME RIO VERDE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 32.163.991/0001-10, com sede no Município de Rio Verde/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23194",
+   "short": "Lei 23194/2025",
+   "title": "Lei nº 23194, de 2025 (Institui o \"Selo Estadual Goiás sem Dengue\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110324",
+   "first_law": "lei-2025-23194",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110324",
+     "sha256": "19a5740303d2ab51e4dab61f488f4110762714e1b6f4220aa8c82b688f9c1db5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.194, DE 6 DE JANEIRO DE 2025\nInstitui o \"Selo Estadual Goiás sem Dengue\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o \"Selo Estadual Goiás sem Dengue\", a ser conferido aos municípios que implantarem políticas públicas efetivas de combate e erradicação da dengue.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para obter o Selo instituído por esta Lei, os municípios interessados se cadastrarão, de forma voluntária, e deverão comprovar, anualmente:\nI - a realização de iniciativas de combate à proliferação do mosquito Aedes Aegypti;\nII - índices de infestação predial em condições satisfatórias, isto é, inferior a 1% (um por cento);\nIII - formas inovadoras de erradicação do mosquito Aedes Aegypti, que tragam benefícios ao aperfeiçoamento dos métodos utilizados.\nParágrafo único. Para obter os resultados das ações previstas nos incisos deste artigo, o uso de inseticidas do tipo aerossol no combate ao inseto Aedes Aegypti será permitido quando comprovada a transmissão de dengue, por critérios epidemiológicos, pelas equipes de vigilância das secretarias estadual e municipais de saúde, treinadas para o manuseio seguro destes produtos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A forma de outorga do \"Selo Estadual Goiás sem Dengue\" bem como a fiscalização do cumprimento desta Lei serão regulamentadas pelo órgão competente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23195",
+   "short": "Lei 23195/2025",
+   "title": "Lei nº 23195, de 2025 (Institui a Política Estadual de Incentivo às Mulheres na Construção Civil.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110325",
+   "first_law": "lei-2025-23195",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110325",
+     "sha256": "d05099dcc451090888d880a9bfc434c51572cdd0e984bc2cd4a8a0003b422f61",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.195, DE 6 DE JANEIRO DE 2025\nInstitui a Política Estadual de Incentivo às Mulheres na Construção Civil.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo às Mulheres na Construção Civil, que tem por objetivo viabilizar sua qualificação e empregabilidade, possibilitar sua autonomia econômica e financeira, bem como a melhoria de sua qualidade de vida e ampliação das oportunidades de trabalho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a adoção de medidas em rede para a implementação das políticas de emprego, renda e desenvolvimento econômico de mulheres;\nII - estimular a avaliação, planejamento e adoção de medidas que promovam a empregabilidade de mulheres na construção civil;\nIII - estimular o aperfeiçoamento de políticas públicas de promoção, proteção e atendimento socioeducativo, com base nos princípios dos direitos humanos, conforme as leis vigentes e de acordo com a Constituição Federal;\nIV - estimular a produção, sistematização, qualificação e difusão de informações sobre o direito de igualdade da mulher;\nV - estimular a adoção e integração de canais de diálogo e de participação e controle social;\nVI - estimular a adoção de medidas de aperfeiçoamento da infraestrutura a ser oferecida, nos canteiros de obras, à mulher trabalhadora da construção civil, de forma a garantir sua privacidade;\nVII - estimular qualificação profissional que possibilite a inserção das mulheres no mercado de trabalho da construção civil;\nVIII - estimular a celebração de parcerias ou convênios com órgãos públicos, universidades e organizações da sociedade civil que tenham por objeto auxiliar a fiel execução da Política instituída por esta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23196",
+   "short": "Lei 23196/2025",
+   "title": "Lei nº 23196, de 2025 (Assegura direitos, nas unidades da rede pública estadual de saúde, à mulher que sofra perda gestacional ou neonatal.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110326",
+   "first_law": "lei-2025-23196",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110326",
+     "sha256": "b46079c190b0cb5e300a9ac4b00920862872088f4dff885966a99f2e4ed10c2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.196, DE 6 DE JANEIRO DE 2025\nAssegura direitos, nas unidades da rede pública estadual de saúde, à mulher que sofra perda gestacional ou neonatal.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam assegurados os seguintes direitos, nas unidades da rede pública estadual de saúde, à mulher que sofra perda gestacional ou neonatal:\nI - ser acompanhada, durante a internação, por pessoa de sua livre escolha;\nII - ser informada sobre o procedimento médico que será adotado;\nIII - não ser submetida a procedimento sem que haja necessidade clínica, fundamentada em evidência científica;\nIV - não ser constrangida a permanecer em silêncio;\nV - escolher se quer ou não ter contato pele com pele com o bebê, imediatamente após o nascimento, em caso de natimorto, desde que preservada sua saúde;\nVI - permanecer no pré e pós-parto em enfermaria separada das demais pacientes, ou seja, das que não tenham sofrido perda gestacional;\nVII - ter respeitado o tempo para o seu luto, bem como de seu acompanhante;\nVIII - ser acompanhada por profissional da psicologia, por recomendação médica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23197",
+   "short": "Lei 23197/2025",
+   "title": "Lei nº 23197, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110327",
+   "first_law": "lei-2025-23197",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110327",
+     "sha256": "90807ff28e6bb68f9b4587434208e47b5aeb5b25c6acee6332725d5d5d5ce03e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.197, DE 6 DE JANEIRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE DEFESA E PROTEÇÃO DE ANIMAIS DO MUNICÍPIO DE ANICUNS-GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.465.458/0001-84, com sede no Município de Anicuns/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23198",
+   "short": "Lei 23198/2025",
+   "title": "Lei nº 23198, de 2025 (Institui o Dia Estadual da Eficiência Energética.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110328",
+   "first_law": "lei-2025-23198",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110328",
+     "sha256": "eefa807e07d566f717303625781a2fc35f8429dc537ae3d48d508e94dc6481b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.198, DE 6 DE JANEIRO DE 2025\nInstitui o Dia Estadual da Eficiência Energética.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Eficiência Energética, a ser realizado, anualmente, no dia 5 de março.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No Dia Estadual instituído por esta Lei, será estimulada a realização de atividades e ações que visem conscientizar a população sobre a importância do uso racional e sustentável dos recursos energéticos, especialmente:\nI - palestras, seminários, oficinas, exposições, concursos e campanhas educativas;\nII - divulgação de boas práticas, projetos, programas e políticas públicas voltadas para a eficiência energética;\nIII - reconhecimento e premiação de iniciativas que contribuam para a eficiência energética no Estado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual da Eficiência Energética fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23199",
+   "short": "Lei 23199/2025",
+   "title": "Lei nº 23199, de 2025 (Assegura assistência psicológica e atendimento prioritário à gestante na forma e na situação que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110329",
+   "first_law": "lei-2025-23199",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110329",
+     "sha256": "925cdfb827d15ecb25e77ca9286b3648c9469ab6ae5e40f9c3d15927b7783876",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.199, DE 6 DE JANEIRO DE 2025\nAssegura assistência psicológica e atendimento prioritário à gestante na forma e na situação que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam assegurados à gestante cujo feto, durante exames realizados na fase pré-natal, for diagnosticado com alguma má-formação:\nI - assistência psicológica;\nII - atendimento prioritário na rede pública estadual de saúde.\nParágrafo único. Fica assegurada a assistência psicológica de que trata o inciso I do caput deste artigo aos familiares da gestante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23200",
+   "short": "Lei 23200/2025",
+   "title": "Lei nº 23200, de 2025 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110348",
+   "first_law": "lei-2025-23200",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110348",
+     "sha256": "96114542599f8bba1aa88c97a056ed8861449c262f27ee4043c45fa1eea50af2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.200, DE 9 DE JANEIRO DE 2025\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada MARIA XAVIER CAIADO a Rodovia GO-466, no trecho que liga os Municípios de Nerópolis/GO e Teresópolis de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23201",
+   "short": "Lei 23201/2025",
+   "title": "Lei nº 23201, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110349",
+   "first_law": "lei-2025-23201",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110349",
+     "sha256": "c94cf783c4cabe7b95ca2c28873b9a7c8d5bb9d39bcdec99eb9d457c789e617c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.201, DE 9 DE JANEIRO DE 2025\nAltera a Lei nº 23.070, de 11 de novembro de 2024, que dispõe sobre a concessão do benefício da meia-entrada, para eleitores nomeados para atuar nas eleições gerais ou municipais, plebiscitos e referendos, em espetáculos artístico-culturais e esportivos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 4º da Lei nº 23.070, de 11 de novembro de 2024, passa a vigorar com a seguinte alteração:\n\"Art. 4º O beneficiário desta Lei terá direito a uma carteira física ou digital, ou declaração emitida pela Justiça Eleitoral, que terá validade até o dia 31 de dezembro do ano da eleição ordinária subsequente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23202",
+   "short": "Lei 23202/2025",
+   "title": "Lei nº 23202, de 2025 (Institui a Política Estadual de Fiscalização de Meio Ambiente e Recursos Hídricos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110350",
+   "first_law": "lei-2025-23202",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-01-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110350",
+     "sha256": "151dc5f8ab43e23dd76405a9236446a9464afc8ed7112bf7fc908c2b3a823697",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.202, DE 9 DE JANEIRO DE 2025\nInstitui a Política Estadual de Fiscalização de Meio Ambiente e Recursos Hídricos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES GERAIS\nArt. 1º Fica instituída a Política Estadual de Fiscalização do Meio Ambiente e Recursos Hídricos, que tem por objetivo estabelecer diretrizes para a atuação do Poder Público estadual com vistas à proteção ambiental, ao uso sustentável dos recursos naturais e ao enfrentamento dos impactos das mudanças climáticas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São princípios da Política de Fiscalização Ambiental Estadual:\nI - integralidade e eficácia dos instrumentos de política ambiental: a fiscalização ambiental deve ser complementada pela implementação eficaz de todos os instrumentos da política ambiental previstos na legislação vigente de modo que o Estado atue como promotor e indutor do cumprimento de normas e regulamentos ambientais, assegurando que sejam viáveis e propiciem o desenvolvimento sustentável das atividades econômicas e sociais;\nII - consciência e educação ambiental: a fiscalização deve estar intrinsecamente ligada à promoção da consciência ambiental, incorporando ações de educação e orientação para empresas e cidadãos, incentivando práticas sustentáveis;\nIII - promoção da conformidade voluntária: sempre que possível, as ações de fiscalização deverão ser precedidas por iniciativas que incentivem a conformidade voluntária, oferecendo suporte técnico como auxílio para que os fiscalizados alcancem a regularização ambiental;\nIV - regularização: a fiscalização ambiental deve ser incentivada e realizada com foco na correção e regularização ambiental, tendo o preceito pedagógico inserido na sua estruturação e planejamento;\nV - equilíbrio entre sanções e suporte técnico: as ações de fiscalização devem equilibrar a aplicação de sanções com a oferta de suporte técnico, auxiliando os fiscalizados na obtenção da conformidade ambiental;\nVI - transparência e justiça: as ações fiscalizatórias devem ser conduzidas de maneira transparente e justa, garantindo que todos os cidadãos compreendam os critérios e procedimentos adotados;\nVII - foco em atividades de larga escala: as ações estaduais de fiscalização devem priorizar atividades de larga escala, visando alcançar resultados práticos e de alto impacto na prevenção da degradação ambiental e no cumprimento da legislação, garantindo uma abordagem estratégica na proteção dos recursos naturais;\nVIII - cooperação técnica e capacitação: realização de suporte técnico e capacitação dos órgãos municipais de meio ambiente para auxiliar na execução de suas responsabilidades, promovendo o desenvolvimento de capacidades locais para uma atuação eficaz, estabelecendo mecanismos de colaboração e compartilhamento de informações para garantir uma fiscalização ambiental eficaz e coordenada; e\nIX - comunicação e transparência: definição de um sistema de comunicação contínua e transparente, entre os níveis estadual e municipal, para assegurar que todas as ações sejam documentadas e disponíveis para consulta, facilitando a coordenação e evitando sobreposição de esforços.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da Política Estadual instituída por esta Lei:\nI - a proteção da biodiversidade e dos serviços ecossistêmicos;\nII - a sustentabilidade dos recursos naturais;\nIII - o uso racional dos recursos hídricos;\nIV - a gestão preventiva de riscos ambientais;\nV - a eficácia, transparência e celeridade nas ações de fiscalização;\nVI - a cooperação interinstitucional;\nVII - a participação social e controle público; e\nVIII - a razoabilidade e eficiência dos gastos públicos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As fiscalizações realizadas pela Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável - SEMAD priorizarão operações temáticas, concentrando seus esforços em ações de larga escala, que assegurem alta eficiência na proteção ambiental, bem como em situações com alto potencial de degradação ambiental, em detrimento de fiscalizações pontuais ou dirigidas a infrações de menor potencial ofensivo, otimizando assim os recursos disponíveis e maximizando o impacto positivo das ações de fiscalização na conservação e sustentabilidade dos ecossistemas.\nParágrafo único. Sempre que possível e viável, as denúncias e encaminhamentos de apuração de infrações ambientais de pequeno impacto ambiental, menor potencial ofensivo ao meio ambiente, pontuais ou de impacto local, que não se integrem em esforços de larga escala para redução de infrações graves ou de médio e alto impacto ambiental, poderão ser redirecionados aos órgãos municipais ambientais.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DIRETRIZES PARA AS OPERAÇÕES TEMÁTICAS\nArt. 5º As operações temáticas de fiscalização, em consonância com estudos técnicos e mapeamento de riscos, observarão as seguintes diretrizes de priorização:\nI - áreas de maior vulnerabilidade ambiental e social;\nII - atividades potencialmente poluidoras ou degradadoras do meio ambiente, de impacto de âmbito regional;\nIII - usos de recursos hídricos em bacias em situação de conflito ou com risco de escassez hídrica;\nIV - segurança de barragens, observando- se a classificação quanto ao Dano Potencial Associado - DPA e à Categoria de Risco - CRI;\nV - irregularidades identificadas por meio do uso integrado de tecnologias como imagens de satélite, Remoted Piloted Aircraft - RPA, sistemas georreferenciados e sensoriamento remoto para aumentar a eficácia da fiscalização;\nVI - ações emergenciais para situações de risco iminente, por meio de protocolo; e\nVII - ações visando à regularização de atividades em operação em desacordo com a lei, de competência estadual.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As operações temáticas serão previstas no plano anual de fiscalização a ser elaborado pela SEMAD, no primeiro trimestre de cada ano.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DA ELABORAÇÃO DO PLANO ANUAL DE FISCALIZAÇÃO - PAF\nArt. 7º Será elaborado o Plano Anual de Fiscalização - PAF de operações temáticas fiscalizatórias, que tem como objetivo ordenar atividades em larga escala e alto impacto na regularização ambiental.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O PAF deverá conter, no mínimo, operações temáticas e ações estratégicas que visem conferir efetividade de alto impacto no uso e ocupação do território e no controle da poluição.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As ações estratégicas obedecerão às diretrizes previstas nesta Lei, adotados os seguintes critérios:\nI - mapeamento de alertas e manifestações;\nII - planejamento geográfico;\nIII - períodos sazonais;\nIV - integração institucional;\nV - disponibilidade de recursos financeiros, humanos e tecnológicos; e\nVI - indicadores de desempenho das ações de fiscalização estadual.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O PAF será aprovado por Portaria do titular da SEMAD.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## MONITORAMENTO E AVALIAÇÃO\nArt. 11. O PAF será monitorado com base em indicadores de desempenho, tais como:\nI - número de ações realizadas;\nII - cobertura geográfica das ações; e\nIII - aumento da regularização ambiental.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Relatório anual de fiscalização será disponibilizado ao público, no site oficial da SEMAD, promovendo a transparência e permitindo o controle social.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DISPOSIÇÕES FINAIS\nArt. 13. Para os fins de cumprimento desta Lei, fica estabelecido que a jornada normal de trabalho do Fiscal Ambiental Estadual será fixada por ato da Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável, respeitado o limite de 40 (quarenta) horas semanais.\n§ 1º É facultada a elaboração de escalas de serviço que possam abranger sábado, domingo ou feriado, em turnos diurno ou noturno, conforme o interesse da Administração da SEMAD, não sendo considerado extraordinário o trabalho realizado em regime de escala.\n§ 2º Para a elaboração das escalas de serviço, a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável definirá a proporção entre as horas de trabalho e as horas de descanso, considerando a natureza do trabalho a ser realizado, a sua localização, o tempo e a categoria da unidade de fiscalização.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Fica vedada a fiscalização ambiental, assim como a aplicação de sanções administrativas, por órgãos que não integram o Sistema Nacional do Meio Ambiente - SISNAMA, autorizada a celebração de Acordos e Convênios para delegação de competência a entes integrantes da administração pública.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de janeiro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
