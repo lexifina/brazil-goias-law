@@ -1,0 +1,9 @@
+# Lei nº 23413, de 2025 (Altera a Lei nº 16.168, de 11 de dezembro de 2007, que dispõe sobre a Lei Orgânica do Tribunal de Contas do Estado de Goiás.)
+
+Lei 23413/2025 · 1 versions, from 2025-05-15 (latest in force: 2025-05-15) · <https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110674>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
