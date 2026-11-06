@@ -1,0 +1,2372 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24255": {
+   "label": "Lei nº 24255, de 2026",
+   "title": "Institui, no Estado de Goiás, a Rota Gastronômica.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114163",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24256": {
+   "label": "Lei nº 24256, de 2026",
+   "title": "Altera a Lei nº 20.464, de 22 de abril de 2019, que estabelece as normas para a promoção da acessibilidade de pessoas com mobilidade reduzida no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114164",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24257": {
+   "label": "Lei nº 24257, de 2026",
+   "title": "Autoriza a doação de veículos automotores de propriedade do Estado de Goiás aos municípios goianos, que assumirão os devidos encargos.",
+   "kind": "law",
+   "enacted": "2026-05-07",
+   "published": "2026-05-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114303",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24258": {
+   "label": "Lei nº 24258, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-05-07",
+   "published": "2026-05-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114304",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24259": {
+   "label": "Lei nº 24259, de 2026",
+   "title": "Institui a Política Estadual de Incentivo à Economia da Gamificação.",
+   "kind": "law",
+   "enacted": "2026-05-07",
+   "published": "2026-05-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114306",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24260": {
+   "label": "Lei nº 24260, de 2026",
+   "title": "Institui a Política Estadual de Incentivo à Utilização da Musicoterapia como Tratamento Terapêutico Complementar para Pessoas com Deficiência, Síndromes e Transtorno do Espectro Autista (TEA) no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-05-07",
+   "published": "2026-05-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114315",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24261": {
+   "label": "Lei nº 24261, de 2026",
+   "title": "Autoriza o Poder Executivo a transferir para a União o domínio dos trechos rodoviários que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-13",
+   "published": "2026-05-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114433",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24262": {
+   "label": "Lei nº 24262, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-13",
+   "published": "2026-05-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114434",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24263": {
+   "label": "Lei nº 24263, de 2026",
+   "title": "Institui o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia.",
+   "kind": "law",
+   "enacted": "2026-05-13",
+   "published": "2026-05-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114435",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24264": {
+   "label": "Lei nº 24264, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Maior Inter - Interatléticas da Universidade Federal de Goiás, realizado no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-05-13",
+   "published": "2026-05-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114436",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24265": {
+   "label": "Lei nº 24265, de 2026",
+   "title": "Institui a Política Estadual de Atenção à Saúde Mental dos Profissionais da Saúde Pública e institui a Semana Estadual de Saúde Mental dos Profissionais da Saúde Pública.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114576",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24266": {
+   "label": "Lei nº 24266, de 2026",
+   "title": "Institui o selo de identificação de veículos que transportam pessoas com Transtorno do Espectro Autista - TEA, na forma que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114581",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24267": {
+   "label": "Lei nº 24267, de 2026",
+   "title": "Institui a Política Estadual de Prevenção e Combate às Doenças Associadas aos Distúrbios Alimentares.",
+   "kind": "law",
+   "enacted": "2026-05-18",
+   "published": "2026-05-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114582",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24268": {
+   "label": "Lei nº 24268, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114729",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24269": {
+   "label": "Lei nº 24269, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114730",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24270": {
+   "label": "Lei nº 24270, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114731",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24271": {
+   "label": "Lei nº 24271, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114732",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24272": {
+   "label": "Lei nº 24272, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114733",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24273": {
+   "label": "Lei nº 24273, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114734",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24274": {
+   "label": "Lei nº 24274, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114735",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24275": {
+   "label": "Lei nº 24275, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114736",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24276": {
+   "label": "Lei nº 24276, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114737",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24277": {
+   "label": "Lei nº 24277, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114738",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24278": {
+   "label": "Lei nº 24278, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114739",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24279": {
+   "label": "Lei nº 24279, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114740",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24280": {
+   "label": "Lei nº 24280, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114741",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24281": {
+   "label": "Lei nº 24281, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114742",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24282": {
+   "label": "Lei nº 24282, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114743",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24283": {
+   "label": "Lei nº 24283, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114745",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24284": {
+   "label": "Lei nº 24284, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114746",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24285": {
+   "label": "Lei nº 24285, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114747",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24286": {
+   "label": "Lei nº 24286, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114748",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24287": {
+   "label": "Lei nº 24287, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114749",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24288": {
+   "label": "Lei nº 24288, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114750",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24289": {
+   "label": "Lei nº 24289, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114751",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24290": {
+   "label": "Lei nº 24290, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114752",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24291": {
+   "label": "Lei nº 24291, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114753",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24292": {
+   "label": "Lei nº 24292, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114754",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24293": {
+   "label": "Lei nº 24293, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114755",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24294": {
+   "label": "Lei nº 24294, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114756",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24295": {
+   "label": "Lei nº 24295, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Taça das Favelas, realizada no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114757",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24296": {
+   "label": "Lei nº 24296, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114758",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24297": {
+   "label": "Lei nº 24297, de 2026",
+   "title": "Altera a Lei nº 22.133, de 21 de julho de 2023, que institui o Dia Estadual do Sociólogo.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114759",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24298": {
+   "label": "Lei nº 24298, de 2026",
+   "title": "Institui o Selo \"Empresa Amiga da Saúde da Criança\".",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114761",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24299": {
+   "label": "Lei nº 24299, de 2026",
+   "title": "Assegura tratamento especializado e multidisciplinar à pessoa com fissura labiopalatina.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114763",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24300": {
+   "label": "Lei nº 24300, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114764",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24301": {
+   "label": "Lei nº 24301, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114766",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24302": {
+   "label": "Lei nº 24302, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114768",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24303": {
+   "label": "Lei nº 24303, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114770",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24305": {
+   "label": "Lei nº 24305, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-05-21",
+   "published": "2026-05-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114771",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24255",
+   "short": "Lei 24255/2026",
+   "title": "Lei nº 24255, de 2026 (Institui, no Estado de Goiás, a Rota Gastronômica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114163",
+   "first_law": "lei-2026-24255",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114163",
+     "sha256": "670742dc9c5f6392977a25bb1f57ebdee625ef10cc6351e090e01b5a1d0f715d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.255, DE 29 DE ABRIL DE 2026\nInstitui, no Estado de Goiás, a Rota Gastronômica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no Estado de Goiás, a Rota Gastronômica, que tem como objetivos:\nI - promover, valorizar e divulgar a cultura gastronômica e incentivar o turismo, a economia local, o empreendedorismo, bem como preservar as tradições culinárias goianas;\nII - valorizar os produtores e chefes locais e incentivar o uso de ingredientes regionais e sustentáveis;\nIII - preservar e divulgar as receitas tradicionais e a diversidade culinária goiana;\nIV - promover a integração entre os municípios participantes de forma a se criar uma rede de cooperação e intercâmbio de experiências;\nV - fortalecer a identidade e a cultura local;\nVI - promover a gastronomia goiana como patrimônio cultural e turístico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Rota Gastronômica do Estado de Goiás será integrada por municípios e estabelecimentos reconhecidos por sua relevância culinária, inclusive restaurantes, bares, feiras, mercados, fazendas e outros locais de produção e consumo de alimentos típicos da região.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para integrar a Rota Gastronômica, os municípios e estabelecimentos deverão atender aos seguintes critérios:\nI - reconhecimento da qualidade e autenticidade dos pratos e produtos oferecidos;\nII - compromisso com a utilização de ingredientes locais e técnicas tradicionais de preparo;\nIII - capacidade de receber turistas por meio do oferecimento de infraestrutura e serviços adequados;\nIV - interesse e disposição em participar das atividades e dos programas relacionados à Rota Gastronômica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O planejamento da Rota Gastronômica poderá ser realizado em parceria entre o Poder Público estadual e os municípios e segmentos interessados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24256",
+   "short": "Lei 24256/2026",
+   "title": "Lei nº 24256, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114164",
+   "first_law": "lei-2026-24256",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114164",
+     "sha256": "d5638594f0b83fb8dc2674d07625468ebe933b27639add7ca44b5a944db2f002",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.256, DE 29 DE ABRIL DE 2026\nAltera a Lei nº 20.464, de 22 de abril de 2019, que estabelece as normas para a promoção da acessibilidade de pessoas com mobilidade reduzida no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.464, de 22 de abril de 2019, passa a vigorar com as seguintes alterações:\n\"Art. 1º ........................................\n§ 1º Para os efeitos desta Lei, considera-se pessoa com mobilidade reduzida aquela que tenha, por qualquer motivo, dificuldade de movimentar-se, permanente ou temporária, gerando redução efetiva da mobilidade, flexibilidade, coordenação motora, percepção sensorial, cognitiva ou comunicativa.\n.................................................................\" (NR)\n\"Art. 3º-A Os estabelecimentos elencados no art. 2º desta Lei, observada a legislação correlata, ficam obrigados a realizar as adaptações arquitetônicas necessárias para garantir a acessibilidade das pessoas com mobilidade reduzida, especialmente:\nI - instalação de rampas de acesso;\nII - instalação de corrimãos e barras de apoio;\nIII - instalação de elevadores;\nIV - sinalização tátil e visual;\nV - adaptação dos banheiros para utilização por pessoas com deficiência.\" (NR)\n\"Art. 3º-B Os estabelecimentos públicos de que trata esta Lei devem promover a capacitação de seus colaboradores que prestem atendimento ao público para propiciar atenção inclusiva das pessoas com mobilidade reduzida, especialmente:\nI - necessidades e direitos das pessoas com mobilidade reduzida;\nII - comunicação acessível;\nIII - estratégias para promover a acessibilidade nos espaços de atendimento público.\" (NR)\n\"Art. 4º-A O Poder Público estadual, por seu órgão competente, realizará fiscalizações periódicas nos estabelecimentos mencionados nesta Lei, a fim de verificar o cumprimento das normas de acessibilidade.\nParágrafo único. O descumprimento do disposto nesta Lei sujeitará o infrator às seguintes penalidades:\nI - advertência; ou\nII - multa, no valor de R$ 3.000,00 (três mil reais) a R$ 15.000,00 (quinze mil reais), a ser graduada conforme a capacidade econômica do infrator e a gravidade da transgressão e ser dobrada em caso de reincidência, cujo valor será revertido em prol de fundo especial indicado pelo Poder Executivo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24257",
+   "short": "Lei 24257/2026",
+   "title": "Lei nº 24257, de 2026 (Autoriza a doação de veículos automotores de propriedade do Estado de Goiás aos municípios goianos, que assumirão os devidos encargos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114303",
+   "first_law": "lei-2026-24257",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114303",
+     "sha256": "d040331e7269abb39f91872d5039622c6e984012d290a21ef660027ab3c5c5da",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.257, DE 7 DE MAIO DE 2026\nAutoriza a doação de veículos automotores de propriedade do Estado de Goiás aos municípios goianos, que assumirão os devidos encargos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Chefe do Poder Executivo autorizado a alienar, como doação onerosa, aos duzentos e quarenta e seis municípios do Estado de Goiás, veículos automotores de propriedade do Estado, conforme as especificações do Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os veículos de que trata o art. 1º desta Lei se destinam exclusivamente às atividades e às ações das secretarias municipais de Assistência Social para:\nI - implementar e fortalecer a atuação das equipes técnicas dos Centros de Referência de Assistência Social - CRASs;\nII - implementar e fortalecer a atuação das equipes técnicas dos Centros de Referência Especializados de Assistência Social - CREASs; e\nIII - ampliar a capacidade operacional da rede socioassistencial municipal, para assegurar a continuidade, a capilaridade e a qualidade dos serviços ofertados à população em situação de vulnerabilidade e risco social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Além das finalidades previstas no art. 2º desta Lei, os veículos poderão ser utilizados, em função social complementar, no apoio às atividades relacionadas ao atendimento de adolescentes no cumprimento de medida restritiva de liberdade, especialmente para a condução de seus familiares às unidades socioeducativas, quando isso for necessário às visitas e à garantia do direito à convivência familiar, nos termos das diretrizes do Sistema Nacional de Atendimento Socioeducativo - SINASE.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Constituem encargos obrigatórios do município donatário, sem prejuízo a outros previstos no termo de doação:\nI - guardar, zelar e utilizar o veículo de forma adequada, conforme as normas ambientais, de segurança e de trânsito;\nII - arcar integralmente com as despesas de conservação, manutenção, guarda, combustível, revisão, conserto, peça e acessório;\nIII - responsabilizar-se pelos custos decorrentes de licenciamentos, seguros obrigatórios, eventuais multas e demais encargos incidentes sobre o veículo, a partir de sua efetiva entrega;\nIV - entregar a condução do veículo exclusivamente a pessoas devidamente habilitadas pelo órgão executivo de trânsito competente;\nV - contratar seguro patrimonial com cobertura compreensiva, incluindo, no mínimo, risco de colisão, incêndio, roubo, dano pela natureza e perda total, no prazo máximo de cento e vinte dias da data do recebimento do veículo;\nVI - manter a identidade visual institucional (plotagem) do veículo e renová-la sempre que houver desgaste, nos termos do art. 34 do Decreto nº 9.541, de 23 de outubro de 2019, ou outro que venha a substituí-lo, ressalvadas as hipóteses legalmente previstas em períodos eleitorais;\nVII - assumir, com exclusividade, a responsabilidade pelo cumprimento de todas as obrigações trabalhistas, previdenciárias, fiscais e indenizatórias decorrentes da atuação de seus servidores ou empregados na condução do veículo; e\nVIII - responsabilizar-se, de forma exclusiva, por eventual dano material, físico ou moral causado a terceiros em decorrência do uso do veículo e eximir o Estado de Goiás de qualquer responsabilidade administrativa, civil ou penal.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O descumprimento das finalidades ou dos encargos previstos nesta Lei ou no respectivo termo de doação motivará a reversão automática do bem ao patrimônio do Estado de Goiás, independentemente de indenização e sem prejuízo à apuração de responsabilidades administrativas, civis e penais cabíveis.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia sem interpelação judicial, apenas com simples ato declaratório do doador.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As doações dos bens móveis de que trata esta Lei serão efetivadas mediante termo de doação.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O município donatário deverá proceder à incorporação imediata do veículo ao seu patrimônio público, com o respectivo registro contábil e patrimonial no máximo de trinta dias da assinatura do termo de doação.\n§ 1º A incorporação deverá observar as normas de contabilidade aplicáveis ao setor público e as regras de registro patrimonial vigentes.\n§ 2º O município encaminhará à secretaria de Estado competente, no mesmo prazo, a comprovação formal do registro patrimonial, para a baixa definitiva no acervo do Estado de Goiás e o controle administrativo.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Para a formalização da doação de que trata esta Lei, deverá ser observada a vedação temporal indicada na alínea \"a\" do inciso VI do art. 73 da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\nINFORMAÇÕES SOBRE OS VEÍCULOS A SEREM DOADOS AOS MUNICÍPIOS GOIANOS\nI - 246 UNIDADES DO TIPO PICK-UP DUSTER OROCH SCE 1.6 PRO, RENAULT, BRANCA, 2025/2025\nNº DE ORDEM CIDADE PLACA CHASSI RENAVAN PATRIMÔNIO\n1 Abadia de Goiânia TFS3I68 93Y9SR8G6SJ427439 1469404238 4028613\n2 Abadiânia TFK5I98 93Y9SR8G6SJ427535 1469572955 4028635\n3 Acreúna TFK6A48 93Y9SR8G6SJ427533 1469572661 4028827\n4 Adelândia TFA1G68 93Y9SR8G6SJ427552 1469572149 4028878\n5 Água Fria de Goiás TFX3J48 93Y9SR8G6SJ427401 1469572483 4028892\n6 Água Limpa TGH4H68 93Y9SR8G6SJ427384 1469572378 4029619\n7 Águas Lindas de Goiás TGB7F18 93Y9SR8G6SJ427405 1469572823 4029634\n8 Alexânia TFK0H18 93Y9SR8G6SJ427382 1469573633 4029673\n9 Aloândia TGI4D18 93Y9SR8G6SJ427548 1469403991 4029571\n10 Alto Horizonte TFQ2I38 93Y9SR8G6SJ427388 1469404378 4029613\n11 Alto Paraíso de Goiás TFN4G48 93Y9SR8G6SJ452775 1469767012 4029750\n12 Alvorada do Norte TFX7C38 93Y9SR8G6SJ427425 1469573331 4029812\n13 Amaralina TGJ0A98 93Y9SR8G6SJ427423 1469573137 4030022\n14 Americano do Brasil TGB2D38 93Y9SR8G6SJ452791 1469768582 4030030\n15 Amorinópolis TFR6C38 93Y9SR8G6SJ452794 1469768167 4030031\n16 Anápolis TGK7J68 93Y9SR8G6SJ452807 1469767799 4030042\n17 Anhanguera TFF7E18 93Y9SR8G6SJ452746 1469767306 4030067\n18 Anicuns TGH2E88 93Y9SR8G6SJ452713 1469773535 4030073\n19 Aparecida de Goiânia TFZ4G78 93Y9SR8G6SJ452768 1469786351 4030115\n20 Aparecida do Rio Doce TGI0C08 93Y9SR8G6SJ452773 1469787684 4030118\n21 Aporé TFQ7F58 93Y9SR8G6SJ427565 1469792742 4030120\n22 Araçu TFH5H88 93Y9SR8G6SJ452706 1469794826 4030134\n23 Aragarças TGB3J78 93Y9SR8G6SJ452708 1469795881 4030136\n24 Aragoiânia TFQ4F08 93Y9SR8G6SJ452710 1469797663 4030455\n25 Araguapaz TFY5C48 93Y9SR8G6SJ427417 1469803051 4030457\n26 Arenópolis TGG5D18 93Y9SR8G6SJ452763 1469789385 4030466\n27 Aruanã TGL6I98 93Y9SR8G6SJ452712 1469791975 4030471\n28 Aurilândia TFM2D18 93Y9SR8G6SJ427507 1469823052 4030515\n29 Avelinópolis TFM3B78 93Y9SR8G6SJ427517 1469822773 4030517\n30 Baliza TGI2A98 93Y9SR8G6SJ427508 1469819004 4030525\n31 Barro Alto TFU8D28 93Y9SR8G6SJ427446 1469812859 4030537\n32 Bela Vista de Goiás TFJ1F38 93Y9SR8G6SJ427452 1469811119 4030545\n33 Bom Jardim de Goiás TGF1F08 93Y9SR8G6SJ427477 1469808592 4030548\n34 Bom Jesus de Goiás TFS7G88 93Y9SR8G6SJ452778 1469766547 4030552\n35 Bonfinópolis TFY5F38 93Y9SR8G6SJ427484 1469830890 4030840\n36 Bonópolis TFZ9D78 93Y9SR8G6SJ427480 1469828445 4031469\n37 Brazabrantes TGL8E38 93Y9SR8G6SJ427489 1469823885 4031517\n38 Britânia TFC8I18 93Y9SR8G6SJ427515 1469821408 4031518\n39 Buriti Alegre TFL8I48 93Y9SR8G6SJ427557 1469815971 4031521\n40 Buriti de Goiás TFU7B18 93Y9SR8G6SJ427448 1469814959 4031525\n41 Buritinópolis TFM2A98 93Y9SR8G6SJ452705 1469800109 4031577\n42 Cabeceiras TFM1F78 93Y9SR8G6SJ427476 1469807650 4031579\n43 Cachoeira Alta TGI6E78 93Y9SR8G6SJ427475 1469805917 4031580\n44 Cachoeira de Goiás TFZ4C78 93Y9SR8G6SJ427474 1469805160 4031584\n45 Cachoeira Dourada TFE6H38 93Y9SR8G6SJ427602 1469804090 4031585\n46 Caçu TFD3G28 93Y9SR8G6SJ427502 1469817591 4031586\n47 Caiapônia TFN8G88 93Y9SR8G6SJ427449 1469810546 4031587\n48 Caldas Novas TFD0G08 93Y9SR8G6SJ453398 1469790693 4031591\n49 Caldazinha TFR6I28 93Y9SR8G6SJ427653 1470092597 4031654\n50 Campestre de Goiás TGG8E88 93Y9SR8G6SJ427651 1470091132 4031655\n51 Campinaçu TFB2D78 93Y9SR8G6SJ453327 1470074947 4031656\n52 Campinorte TGI2H68 93Y9SR8G6SJ427529 1470106873 4031658\n53 Campo Alegre de Goiás TFZ4D78 93Y9SR8G6SJ427549 1470105494 4031659\n54 Campo Limpo de Goiás TFJ6J88 93Y9SR8G6SJ427544 1470105060 4031666\n55 Campos Belos TFE6D98 93Y9SR8G6SJ427482 1470103351 4031668\n56 Campos Verdes TFV5H68 93Y9SR8G6SJ427687 1470087135 4031688\n57 Carmo do Rio Verde TFK7F68 93Y9SR8G6SJ427487 1470082923 4031689\n58 Castelândia TGM0D68 93Y9SR8G6SJ427499 1470081528 4031690\n59 Catalão TFH8E38 93Y9SR8G6SJ427493 1470080440 4031691\n60 Caturaí TGG2E88 93Y9SR8G6SJ427501 1470078730 4031705\n61 Cavalcante TFF9C18 93Y9SR8G6SJ427513 1470077865 4031708\n62 Ceres TFZ6E88 93Y9SR8G6SJ427618 1470071433 4031709\n63 Cezarina TGH6C78 93Y9SR8G6SJ427581 1470064690 4031855\n64 Chapadão do Céu TFI2C08 93Y9SR8G6SJ452718 1470061730 4031868\n65 Cidade Ocidental TFQ6B18 93Y9SR8G6SJ427566 1470216024 4031871\n66 Cocalzinho de Goiás TFP2E48 93Y9SR8G6SJ427572 1470216482 4031873\n67 Colinas do Sul TGG0C68 93Y9SR8G6SJ427570 1470216270 4031897\n68 Córrego do Ouro TFQ3F58 93Y9SR8G6SJ427564 1470215265 4031904\n69 Corumbá de Goiás TFG4C18 93Y9SR8G6SJ452753 1470217624 4032005\n70 Corumbaíba TFY8D28 93Y9SR8G6SJ452779 1470217411 4032036\n71 Cristalina TGN2H18 93Y9SR8G6SJ452777 1470217128 4032050\n72 Cristianópolis TFD9I08 93Y9SR8G6SJ452774 1470218523 4032052\n73 Crixás TFA4H58 93Y9SR8G6SJ452766 1470218272 4032054\n74 Cromínia TGN3G98 93Y9SR8G6SJ452764 1470217942 4032057\n75 Cumari TFG8D28 93Y9SR8G6SJ452751 1470219341 4032067\n76 Damianópolis TFE5F48 93Y9SR8G6SJ452742 1470218744 4032125\n77 Damolândia TFB1D98 93Y9SR8G6SJ452785 1470219678 4032830\n78 Davinópolis TGB0G28 93Y9SR8G6SJ453325 1470220668 4032845\n79 Diorama TFX1F68 93Y9SR8G6SJ427478 1470227514 4032850\n80 Divinópolis de Goiás TFE5H98 93Y9SR8G6SJ427459 1470228898 4032853\n81 Doverlândia TFM4H18 93Y9SR8G6SJ427444 1470230493 4032861\n82 Edealina TGJ8F68 93Y9SR8G6SJ427464 1470229274 4032866\n83 Edéia TFF0B68 93Y9SR8G6SJ427445 1470231147 4032893\n84 Estrela do Norte TGK0J68 93Y9SR8G6SJ427625 1470231856 4032903\n85 Faina TFG4F58 93Y9SR8G6SJ427586 1470233530 4032908\n86 Fazenda Nova TGI7B48 93Y9SR8G6SJ427621 1470234979 4032909\n87 Firminópolis TFX3I78 93Y9SR8G6SJ427610 1470234570 4032912\n88 Flores de Goiás TFU6F08 93Y9SR8G6SJ427597 1470234103 4032916\n89 Formosa TGL5E98 93Y9SR8G6SJ427611 1470225589 4032917\n90 Formoso TFR7E68 93Y9SR8G6SJ427609 1470225163 4032921\n91 Gameleira de Goiás TFH3C28 93Y9SR8G6SJ427606 1470224671 4032923\n92 Goianápolis TFR7C98 93Y9SR8G6SJ427603 1470224027 4033248\n93 Goiandira TFP3G08 93Y9SR8G6SJ452704 1470223497 4033249\n94 Goianésia TFM8C58 93Y9SR8G6SJ427636 1470222490 4033250\n95 Goiânia TFD9F48 93Y9SR8G6SJ427627 1470222067 4033260\n96 Goianira TGI6F68 93Y9SR8G6SJ427612 1470221613 4033262\n97 Goiás TFH3E28 93Y9SR8G6SJ452709 1470221273 4033264\n98 Goiatuba TGE2D88 93Y9SR8G6SJ452707 1470220943 4033265\n99 Gouvelândia TGG1F18 93Y9SR8G6SJ427372 1469275128 4033266\n100 Guapó TFJ1I98 93Y9SR8G6SJ427697 1470249208 4033267\n101 Guaraíta TFA5B08 93Y9SR8G6SJ427485 1470245679 4033268\n102 Guarani de Goiás TFN1I08 93Y9SR8G6SJ427479 1470245121 4033269\n103 Guarinos TFW4I38 93Y9SR8G6SJ427589 1470226119 4033271\n104 Heitoraí TGJ4H58 93Y9SR8G6SJ427598 1470226682 4033274\n105 Hidrolândia TFH1B98 93Y9SR8G6SJ427599 1470227077 4033276\n106 Hidrolina TFS5I38 93Y9SR8G6SJ427454 1470228081 4033278\n107 Iaciara TFT6I28 93Y9SR8G6SJ427518 1470260198 4033281\n108 Inaciolândia TFO8I48 93Y9SR8G6SJ427510 1470259173 4033284\n109 Indiara TFD2D28 93Y9SR8G6SJ427546 1470251946 4033287\n110 Inhumas TGG0J58 93Y9SR8G6SJ427553 1470256379 4033303\n111 Ipameri TFW7I28 93Y9SR8G6SJ427525 1470258088 4033305\n112 Ipiranga de Goiás TFW7E08 93Y9SR8G6SJ427578 1470257723 4033308\n113 Iporá TFW5H68 93Y9SR8G6SJ427536 1470258886 4033313\n114 Israelândia TGE3F68 93Y9SR8G6SJ427534 1470258703 4033319\n115 Itaberaí TFQ3F68 93Y9SR8G6SJ427614 1470269063 4033321\n116 Itaguari TFH5B88 93Y9SR8G6SJ427608 1470268725 4033324\n117 Itaguaru TFE7I08 93Y9SR8G6SJ427600 1470268180 4033328\n118 Itajá TGN8D48 93Y9SR8G6SJ427626 1470267931 4033332\n119 Itapaci TFK8H58 93Y9SR8G6SJ427617 1470266986 4033335\n120 Itapirapuã TGI8C58 93Y9SR8G6SJ452716 1470266412 4033338\n121 Itapuranga TGK8G38 93Y9SR8G6SJ427630 1470265670 4033340\n122 Itarumã TFB4E98 93Y9SR8G6SJ427585 1470274946 4033352\n123 Itauçu TFK1J08 93Y9SR8G6SJ427628 1470264886 4033356\n124 Itumbiara TGA9G58 93Y9SR8G6SJ427505 1470262883 4033460\n125 Ivolândia TFP4D88 93Y9SR8G6SJ427554 1470262700 4033455\n126 Jandaia TGL3E68 93Y9SR8G6SJ427511 1470262387 4033454\n127 Jaraguá TFJ5B08 93Y9SR8G6SJ427496 1470262042 4033452\n128 Jataí TGF6B18 93Y9SR8G6SJ427498 1470260678 4033447\n129 Jaupaci TGM4C58 93Y9SR8G6SJ427523 1470260325 4033446\n130 Jesúpolis TFQ5I78 93Y9SR8G6SJ427584 1470273710 4033444\n131 Joviânia TFD1E58 93Y9SR8G6SJ427631 1470273214 4033442\n132 Jussara TGA0F18 93Y9SR8G6SJ427593 1470272943 4033441\n133 Lagoa Santa TFI9E38 93Y9SR8G6SJ427591 1470272382 4033440\n134 Leopoldo de Bulhões TFN8G18 93Y9SR8G6SJ427615 1470269500 4033434\n135 Luziânia TFS9F68 93Y9SR8G6SJ427582 1470273621 4033427\n136 Mairipotaba TFZ2E78 93Y9SR8G6SJ427411 1470324900 4033425\n137 Mambaí TGA8G98 93Y9SR8G6SJ427414 1470325087 4033422\n138 Mara Rosa TGD0I68 93Y9SR8G6SJ427416 1470325362 4033386\n139 Marzagão TGC9F68 93Y9SR8G6SJ427371 1470325800 4033384\n140 Matrinchã TFV9D78 93Y9SR8G6SJ427443 1470263111 4033382\n141 Maurilândia TFU6B18 93Y9SR8G6SJ427468 1470263251 4033380\n142 Mimoso de Goiás TFA8H28 93Y9SR8G6SJ427629 1470263774 4033377\n143 Minaçu TFI9D68 93Y9SR8G6SJ427623 1470267206 4033376\n144 Mineiros TGC2F98 93Y9SR8G6SJ427594 1470266781 4033375\n145 Moiporá TGE2C38 93Y9SR8G6SJ427492 1470243870 4033374\n146 Monte Alegre de Goiás TFT7H08 93Y9SR8G6SJ427624 1470267451 4033373\n147 Montes Claros de Goiás TFL2D58 93Y9SR8G6SJ427359 1470320220 4033371\n148 Montividiu TFU6D98 93Y9SR8G6SJ427509 1470239148 4033359\n149 Montividiu do Norte TFZ5E98 93Y9SR8G6SJ427522 1470237986 4033357\n150 Morrinhos TGF6C78 93Y9SR8G6SJ427360 1470320670 4033353\n151 Morro Agudo de Goiás TGJ0J18 93Y9SR8G6SJ427435 1470320999 4033345\n152 Mossâmedes TFF4J08 93Y9SR8G6SJ427431 1470322983 4033344\n153 Mozarlândia TFE2B38 93Y9SR8G6SJ427433 1470323297 4033339\n154 Mundo Novo TFL8J58 93Y9SR8G6SJ427421 1470323556 4033337\n155 Mutunópolis TFJ1C68 93Y9SR8G6SJ427426 1470324439 4033336\n156 Nazário TFA9H28 93Y9SR8G6SJ452711 1470219945 4033334\n157 Nerópolis TFI5B78 93Y9SR8G6SJ427688 1470300629 4033331\n158 Niquelândia TGJ6G18 93Y9SR8G6SJ427706 1470300386 4033330\n159 Nova América TGE0E28 93Y9SR8G6SJ453331 1470216741 4033327\n160 Nova Aurora TFP7C18 93Y9SR8G6SJ427422 1470323874 4033325\n161 Nova Crixás TFT2B08 93Y9SR8G6SJ427604 1470304454 4033322\n162 Nova Glória TFB9A48 93Y9SR8G6SJ427613 1470304659 4033320\n163 Nova Iguaçu de Goiás TFN7E78 93Y9SR8G6SJ427619 1470304977 4033314\n164 Nova Roma TFH8I58 93Y9SR8G6SJ427573 1470305280 4033312\n165 Nova Veneza TFU8C08 93Y9SR8G6SJ427500 1470306287 4033310\n166 Novo Brasil TGC8H48 93Y9SR8G6SJ427491 1470308166 4033306\n167 Novo Gama TGN6D68 93Y9SR8G6SJ427541 1470308590 4033304\n168 Novo Planalto TGH1L58 93Y9SR8G6SJ427473 1470309111 4033293\n169 Orizona TFT2F28 93Y9SR8G6SJ427587 1470309413 4033285\n170 Ouvidor TGK9C38 93Y9SR8G6SJ427620 1470309618 4033282\n171 Ouro Verde de Goiás TFT2E98 93Y9SR8G6SJ427605 1470299230 4033283\n172 Padre Bernardo TGC6E48 93Y9SR8G6SJ427703 1470299884 4033279\n173 Palestina de Goiás TFI7H58 93Y9SR8G6SJ427369 1470324684 4033277\n174 Palmeiras de Goiás TFX4B58 93Y9SR8G6SJ427595 1470519698 4033275\n175 Palmelo TFF4D38 93Y9SR8G6SJ427596 1470519248 4033273\n176 Palminópolis TGA1D38 93Y9SR8G6SJ427583 1470517644 4033272\n177 Panamá TFB4D88 93Y9SR8G6SJ427373 1470326474 4033270\n178 Paranaiguara TGF8B38 93Y9SR8G6SJ427374 1470326849 4033251\n179 Paraúna TGL8G98 93Y9SR8G6SJ427497 1470259653 4033246\n180 Perolândia TFI8A88 93Y9SR8G6SJ427514 1470259939 4033225\n181 Petrolina de Goiás TGK8D28 93Y9SR8G6SJ427235 1470263022 4033164\n182 Pilar de Goiás TGI1A28 93Y9SR8G6SJ427655 1470303512 4032927\n183 Piracanjuba TFV5A28 93Y9SR8G6SJ427658 1470303865 4032924\n184 Piranhas TFJ5D38 93Y9SR8G6SJ427442 1470304080 4032922\n185 Pirenópolis TGK2A98 93Y9SR8G6SJ427428 1470322266 4032918\n186 Pires do Rio TFY5F98 93Y9SR8G6SJ427429 1470322673 4032915\n187 Planaltina TGG8I78 93Y9SR8G6SJ427528 1470318455 4032914\n188 Pontalina TGG7I18 93Y9SR8G6SJ427530 1470319931 4032911\n189 Porangatu TFO1G28 93Y9SR8G6SJ427378 1470321685 4032910\n190 Porteirão TGJ4J18 93Y9SR8G6SJ427408 1470316550 4032907\n191 Portelândia TFB9E88 93Y9SR8G6SJ427436 1470316975 4032904\n192 Posse TFA2A88 93Y9SR8G6SJ427538 1470317335 4032900\n193 Professor Jamil TGJ4I78 93Y9SR8G6SJ427545 1470317548 4032891\n194 Quirinópolis TGC7J18 93Y9SR8G6SJ427526 1470318218 4032886\n195 Rialma TFE9F48 93Y9SR8G6SJ427488 1470242696 4032869\n196 Rianápolis TGF5B28 93Y9SR8G6SJ427383 1470312759 4032053\n197 Rio Quente TGM9F78 93Y9SR8G6SJ427390 1470313763 4032051\n198 Rio Verde TFS3F18 93Y9SR8G6SJ427393 1470314158 4032041\n199 Rubiataba TFM0D38 93Y9SR8G6SJ427396 1470314417 4032038\n200 Sanclerlândia TFK1F68 93Y9SR8G6SJ427399 1470315219 4032034\n201 Santa Bárbara de Goiás TFD7E58 93Y9SR8G6SJ427531 1470306740 4031972\n202 Santa Cruz de Goiás TFM8E78 93Y9SR8G6SJ427503 1470240758 4031919\n203 Santa Fé de Goiás TFY0J88 93Y9SR8G6SJ427512 1470239571 4031896\n204 Santa Helena de Goiás TFM2H58 93Y9SR8G6SJ427398 1470314794 4031874\n205 Santa Isabel TGA9H18 93Y9SR8G6SJ427555 1470317920 4031872\n206 Santa Rita do Araguaia TGB8F18 93Y9SR8G6SJ427673 1470301560 4031870\n207 Santa Rita do Novo Destino TFQ6B68 93Y9SR8G6SJ427689 1470812026 4031862\n208 Santa Rosa de Goiás TFU0I38 93Y9SR8G6SJ427675 1470810082 4031859\n209 Santa Tereza de Goiás TFZ5B88 93Y9SR8G6SJ427681 1470810716 4031854\n210 Santa Terezinha de Goiás TGL2B28 93Y9SR8G6SJ427661 1470810279 4031851\n211 Santo Antônio da Barra TFV1H48 93Y9SR8G6SJ427375 1470327217 4031707\n212 Santo Antônio de Goiás TGI8C78 93Y9SR8G6SJ427532 1470258347 4031531\n213 Santo Antônio do Descoberto TFC8B98 93Y9SR8G6SJ427447 1470307046 4031524\n214 São Domingos TFK3I58 93Y9SR8G6SJ427662 1470302583 4031523\n215 São Francisco de Goiás TFV6B48 93Y9SR8G6SJ427669 1470302893 4031519\n216 São João da Paraúna TFK5D08 93Y9SR8G6SJ427671 1470303075 4030514\n217 São João d'Aliança TGL5H98 93Y9SR8G6SJ427527 1470860667 4030512\n218 São Luís de Montes Belos TGM6A48 93Y9SR8G6SJ427635 1470232658 4030472\n219 São Luiz do Norte TFR8I98 93Y9SR8G6SJ427470 1470307615 4030465\n220 São Miguel do Araguaia TFP7E98 93Y9SR8G6SJ427450 1470307852 4030464\n221 São Miguel do Passa Quatro TFP4H28 93Y9SR8G6SJ427696 1470301285 4030459\n222 São Patrício TFT1A88 93Y9SR8G6SJ427683 1470302044 4030458\n223 São Simão TGC3J68 93Y9SR8G6SJ427494 1470306007 4030454\n224 Senador Canedo TFE4B18 93Y9SR8G6SJ427440 1470321308 4030452\n225 Serranópolis TFR4F48 93Y9SR8G6SJ427427 1470321987 4030135\n226 Silvânia TFC9H68 93Y9SR8G6SJ427590 1470305760 4030117\n227 Simolândia TGN2A58 93Y9SR8G6SJ427461 1470307291 4030110\n228 Sítio d'Abadia TGL3F18 93Y9SR8G6SJ427550 1470235509 4030107\n229 Taquaral de Goiás TGD0F78 93Y9SR8G6SJ427556 1470236076 4030080\n230 Teresina de Goiás TFV9E88 93Y9SR8G6SJ427520 1470236874 4030074\n231 Terezópolis de Goiás TFV4E98 93Y9SR8G6SJ427521 1470237463 4030072\n232 Três Ranchos TGF8C88 93Y9SR8G6SJ427524 1470238699 4030069\n233 Trindade TFZ4I08 93Y9SR8G6SJ427504 1470240120 4030066\n234 Trombas TFK0J28 93Y9SR8G6SJ427650 1470810520 4030043\n235 Turvânia TFR5A98 93Y9SR8G6SJ427699 1470813855 4029809\n236 Turvelândia TFP7G08 93Y9SR8G6SJ427693 1470812301 4029796\n237 Uirapuru TGG3H88 93Y9SR8G6SJ427471 1470263510 4029748\n238 Uruaçu TFJ1B28 93Y9SR8G6SJ427660 1470302222 4029696\n239 Uruana TGJ8J68 93Y9SR8G6SJ452717 1470811518 4029669\n240 Urutaí TGE5F48 93Y9SR8G6SJ427607 1470811852 4029632\n241 Valparaíso de Goiás TGK9H28 93Y9SR8G6SJ427592 1470809793 4029631\n242 Varjão TFN8H58 93Y9SR8G6SJ427616 1470810945 4029621\n243 Vianópolis TFI1C98 93Y9SR8G6SJ427547 1470811267 4029618\n244 Vicentinópolis TFZ0G28 93Y9SR8G6SJ427579 1470811100 4029614\n245 Vila Boa TFV2G98 93Y9SR8G6SJ427490 1470813553 4029570\n246 Vila Propício TFG4G18 93Y9SR8G6SJ427406 1470316010 4029567\nII - 246 UNIDADES DO TIPO VAN MASTER MINIBUSL3, RENAULT, BRANCA, 2025/2026\nNº DE ORDEM CIDADES PLACA CHASSI RENAVAN PATRIMÔNIO\n1 Abadia de Goiânia TGL0J59 93YJ62S05TJ449183 1470614828 4022597\n2 Abadiânia TFM1E79 93YJ62S02TJ449240 1470935063 4022599\n3 Acreúna TGB1F09 93YJ62S07TJ449265 1471508762 4022601\n4 Adelândia TFR8H39 93YJ62S01TJ449181 1471507219 4022603\n5 Água Fria de Goiás TFF3H69 93YJ62S08TJ449257 1471498163 4022605\n6 Água Limpa TFB5H69 93YJ62S00TJ449205 1470952510 4022607\n7 Águas Lindas de Goiás TGN1I49 93YJ62S09TJ449266 1471625343 4022609\n8 Alexânia TGG7C39 93YJ62S07TJ429954 1472038956 4022610\n9 Aloândia TFL8F19 93YJ62S09TJ449137 1471508371 4022611\n10 Alto Horizonte TFG4C79 93YJ62S02TJ429974 1471502446 4022612\n11 Alto Paraíso de Goiás TFS9I09 93YJ62S03TJ449103 1470952766 4022613\n12 Alvorada do Norte TFV3G49 93YJ62S04TJ429992 1471510864 4022614\n13 Amaralina TGH1B29 93YJ62S02TJ449111 1470953215 4022628\n14 Americano do Brasil TGN8J59 93YJ62S08TJ449162 1471509840 4022631\n15 Amorinópolis TGH4B59 93YJ62S08TJ449100 1471627451 4022633\n16 Anápolis TFS4D79 93YJ62S06TJ429962 1471510937 4022635\n17 Anhanguera TFB6H49 93YJ62S07TJ449069 1471531454 4022635\n18 Anicuns TFQ9E39 93YJ62S01TJ434406 1470955137 4022638\n19 Aparecida de Goiânia TGC6F29 93YJ62S0XTJ449101 1470955307 4022647\n20 Aparecida do Rio Doce TGM2D39 93YJ62S06TJ430013 1471513197 4022649\n21 Aporé TFU2C39 93YJ62S04TJ449112 1471498325 4022650\n22 Araçu TFH5C79 93YJ62S0XTJ434436 1471626641 4022651\n23 Aragarças TFQ3J59 93YJ62S07TJ449105 1471506816 4022653\n24 Aragoiânia TFK6H29 93YJ62S0XTJ449146 1470907000 4022655\n25 Araguapaz TFP6D19 93YJ62S02TJ434432 1470955510 4022663\n26 Arenópolis TGF8F89 93YJ62S04TJ449160 1471510279 4022664\n27 Aruanã TFQ9C79 93YJ62S09TJ449140 1471627192 4022667\n28 Aurilândia TGF4B79 93YJ62S03TJ449117 1471507847 4022668\n29 Avelinópolis TFG3A59 93YJ62S00TJ449138 1470955676 4022671\n30 Baliza TGD5J89 93YJ62S06TJ449192 1471514452 4022674\n31 Barro Alto TGC9D29 93YJ62S05TJ429919 1471498511 4022676\n32 Bela Vista de Goiás TFZ6J59 93YJ62S05TJ449152 1471511070 4022677\n33 Bom Jardim de Goiás TGB4J09 93YJ62S06TJ434420 1471509300 4022679\n34 Bom Jesus de Goiás TGA1H49 93YJ62S06TJ449242 1471613302 4022681\n35 Bonfinópolis TFL8E89 93YJ62S03TJ429983 1470907469 4022683\n36 Bonópolis TFC3F09 93YJ62S08TJ429977 1471628644 4022684\n37 Brazabrantes TFZ4I49 93YJ62S03TJ429949 1472070086 4022686\n38 Britânia TGM3F39 93YJ62S0XTJ449261 1471625750 4022689\n39 Buriti Alegre TGL4A59 93YJ62S07TJ434426 1470955935 4022691\n40 Buriti de Goiás TFM3I09 93YJ62S00TJ430010 1471546184 4022692\n41 Buritinópolis TFE4D89 93YJ62S08TJ449128 1471511305 4022695\n42 Cabeceiras TFH0C09 93YJ62S02TJ449173 1470956060 4022697\n43 Cachoeira Alta TGG2D69 93YJ62S0XTJ430015 1471628075 4022698\n44 Cachoeira de Goiás TGB3G69 93YJ62S02TJ449268 1470956214 4022701\n45 Cachoeira Dourada TFJ1H69 93YJ62S02TJ449139 1470956443 4022703\n46 Caçu TGJ1H59 93YJ62S03TJ449246 1471509610 4022704\n47 Caiapônia TFH6H99 93YJ62S04TJ449109 1471514657 4022707\n48 Caldas Novas TGK4A59 93YJ62S03TJ449280 1471511470 4022709\n49 Caldazinha TFU5I19 93YJ62S01TJ429979 1470956842 4022711\n50 Campestre de Goiás TFU7I49 93YJ62S04TJ449241 1471512050 4022712\n51 Campinaçu TGA0B89 93YJ62S05TJ449247 1470957008 4022715\n52 Campinorte TFP3E79 93YJ62S07TJ434409 1470957130 4022717\n53 Campo Alegre de Goiás TGE3B29 93YJ62S03TJ449263 1471511747 4022719\n54 Campo Limpo de Goiás TGN7A49 93YJ62S06TJ449127 1471507677 4022720\n55 Campos Belos TFW6D39 93YJ62S01TJ449102 1471549990 4022721\n56 Campos Verdes TFV3E89 93YJ62S07TJ449136 1471507359 4022723\n57 Carmo do Rio Verde TFC0J89 93YJ62S01TJ449195 1471512310 4022725\n58 Castelândia TFZ2H09 93YJ62S09TJ449090 1471510651 4022726\n59 Catalão TFM8H69 93YJ62S0XTJ449258 1471511852 4022732\n60 Caturaí TFC8J59 93YJ62S0XTJ449177 1470957369 4022734\n61 Cavalcante TFM0C79 93YJ62S01TJ429934 1471154553 4022739\n62 Ceres TGA3E19 93YJ62S00TJ449091 1470957865 4022741\n63 Cezarina TFJ6D69 93YJ62S09TJ429910 1471564816 4022743\n64 Chapadão do Céu TFR7D49 93YJ62S06TJ449130 1471507480 4022746\n65 Cidade Ocidental TFO1E09 93YJ62S02TJ434429 1471626803 4022748\n66 Cocalzinho de Goiás TFC8D09 93YJ62S06TJ434434 1471508045 4022750\n67 Colinas do Sul TFI3C69 93YJ62S08TJ449131 1472093400 4022752\n68 Córrego do Ouro TGN0D99 93YJ62S04TJ449174 1472070299 4022753\n69 Corumbá de Goiás TFB5H19 93YJ62S04TJ429958 1472094589 4022755\n70 Corumbaíba TGE0D09 93YJ62S03TJ449196 1472070485 4022759\n71 Cristalina TFA6H09 93YJ62S02TJ430008 1471628466 4022762\n72 Cristianópolis TFV6I29 93YJ62S01TJ449231 1472070760 4022765\n73 Crixás TFZ6D29 93YJ62S01TJ449133 1472069274 4022767\n74 Cromínia TFB3I49 93YJ62S0XTJ430001 1472069487 4022772\n75 Cumari TFR5G09 93YJ62S00TJ434428 1472068979 4022774\n76 Damianópolis TGB4F89 93YJ62S09TJ449087 1472068626 4022775\n77 Damolândia TGL1E39 93YJ62S02TJ449254 1471626218 4022778\n78 Davinópolis TFA3C59 93YJ62S03TJ434441 1471626201 4022781\n79 Diorama TGC1E49 93YJ62S04TJ511964 1472067875 4022805\n80 Divinópolis de Goiás TGL3B49 93YJ62S04TJ449126 1472039421 4022807\n81 Doverlândia TFB8G69 93YJ62S0XTJ429978 1472066143 4022810\n82 Edealina TGA4I59 93YJ62S02TJ449285 1471617995 4022812\n83 Edéia TFO3J79 93YJ62S05TJ449068 1472067328 4022814\n84 Estrela do Norte TFL0A59 93YJ62S02TJ434415 1471617820 4022817\n85 Faina TFV9J49 93YJ62S01TJ434423 1471583144 4022819\n86 Fazenda Nova TFD6A29 93YJ62S0XTJ449230 1472067549 4022821\n87 Firminópolis TGF9E69 93YJ62S00TJ429956 1471628822 4022822\n88 Flores de Goiás TGK0F59 93YJ62S00TJ434414 1471508541 4022824\n89 Formosa TFO5H79 93YJ62S04TJ434416 1471627230 4022826\n90 Formoso TGH8G09 93YJ62S09TJ429972 1472066690 4022828\n91 Gameleira de Goiás TFG3B19 93YJ62S09TJ449218 1472066984 4022829\n92 Goianápolis TFI8F59 93YJ62S02TJ449190 1471626706 4022831\n93 Goiandira TFU4G69 93YJ62S03TJ449098 1471627982 4022833\n94 Goianésia TFA1B69 93YJ62S03TJ449165 1471626960 4022842\n95 Goiânia TGA5C39 93YJ62S04TJ430012 1471628261 4022844\n96 Goianira TFZ8F49 93YJ62S04TJ434433 1472066534 4022846\n97 Goiás TGF8D09 93YJ62S05TJ434408 1471627613 4022848\n98 Goiatuba TGM3A29 93YJ62S08TJ434404 1471888816 4022850\n99 Gouvelândia TFP9E89 93YJ62S09TJ434427 1471627052 4022854\n100 Guapó TFK1F59 93YJ62S0XTJ511869 1472128955 4022855\n101 Guaraíta TFA7F29 93YJ62S02TJ511865 1472391605 4022856\n102 Guarani de Goiás TFO2H49 93YJ62S02TJ511915 1472787533 4022857\n103 Guarinos TFQ9E69 93YJ62S05TJ511925 1472788130 4022859\n104 Heitoraí TGI6J49 93YJ62S08TJ434435 1472391818 4022860\n105 Hidrolândia TFB1A59 93YJ62S0XTJ434419 1472790399 4022863\n106 Hidrolina TGD3E19 93YJ62S03TJ511843 1472790968 4022864\n107 Iaciara TFV1B49 93YJ62S08TJ511871 1472777147 4022865\n108 Inaciolândia TGE0J79 93YJ62S09TJ511846 1472791336 4022866\n109 Indiara TFY5D39 93YJ62S09TJ511877 1472797091 4022868\n110 Inhumas TFE1I29 93YJ62S0XTJ511919 1472796761 4022869\n111 Ipameri TGG1A69 93YJ62S02TJ511901 1472778232 4022870\n112 Ipiranga de Goiás TFP4F79 93YJ62S03TJ511910 1473220820 4022871\n113 Iporá TGM8F99 93YJ62S04TJ511902 1473221118 4022872\n114 Israelândia TFF5G09 93YJ62S05TJ511908 1472795480 4022873\n115 Itaberaí TFZ6C39 93YJ62S05TJ511911 1473221339 4022874\n116 Itaguari TFH8G29 93YJ62S01TJ511890 1473221614 4022875\n117 Itaguaru TFP3C79 93YJ62S06TJ511853 1472793673 4022876\n118 Itajá TFJ0A59 93YJ62S06TJ511884 1473221843 4022877\n119 Itapaci TFM4C29 93YJ62S0XTJ429964 1472792731 4022878\n120 Itapirapuã TFX9E69 93YJ62S0XTJ511855 1472792090 4022879\n121 Itapuranga TFO4A29 93YJ62S07TJ429971 1472797466 4022880\n122 Itarumã TGE4B69 93YJ62S07TJ511960 1472797873 4022881\n123 Itauçu TFB2D79 93YJ62S00TJ511931 1473220316 4022882\n124 Itumbiara TFX6C49 93YJ62S01TJ511842 1473220537 4022594\n125 Ivolândia TGL1G89 93YJ62S05TJ511861 1473220014 4022595\n126 Jandaia TGH1G69 93YJ62S02TJ511834 1473219660 4022596\n127 Jaraguá TFY3J49 93YJ62S01TJ434437 1473608063 4022598\n128 Jataí TFS0F59 93YJ62S01TJ511856 1473526687 4022600\n129 Jaupaci TGE1G49 93YJ62S04TJ511835 1473608195 4022602\n130 Jesúpolis TFD5A59 93YJ62S05TJ511858 1473610092 4022604\n131 Joviânia TGD3F79 93YJ62S09TJ434413 1473610807 4022606\n132 Jussara TFZ1A99 93YJ62S02TJ511879 1473610963 4022608\n133 Lagoa Santa TFD2D29 93YJ62S03TJ511891 1473611129 4022615\n134 Leopoldo de Bulhões TFN5J29 93YJ62S05TJ511892 1473525800 4022616\n135 Luziânia TFT8A59 93YJ62S08TJ511899 1473611390 4022617\n136 Mairipotaba TGA3J79 93YJ62S0XTJ511886 1473611510 4022618\n137 Mambaí TFX0H69 93YJ62S01TJ429996 1473863381 4022621\n138 Mara Rosa TFI0F19 93YJ62S02TJ511848 1473608632 4022622\n139 Marzagão TFG0C89 93YJ62S06TJ511867 1473526210 4022624\n140 Matrinchã TGA4H69 93YJ62S07TJ511876 1473608870 4022625\n141 Maurilândia TFT7C09 93YJ62S0XTJ511841 1473608950 4022626\n142 Mimoso de Goiás TGN6A89 93YJ62S00TJ511914 1473609108 4022627\n143 Minaçu TGJ2F19 93YJ62S01TJ511906 1473609213 4022629\n144 Mineiros TGF5D69 93YJ62S04TJ511916 1473609361 4022630\n145 Moiporá TFT8H59 93YJ62S07TJ511912 1473609558 4022632\n146 Monte Alegre de Goiás TGN5B59 93YJ62S08TJ511885 1473528027 4022634\n147 Montes Claros de Goiás TFK2G89 93YJ62S02TJ511932 1473607423 4022637\n148 Montividiu TGI2C69 93YJ62S03TJ511924 1473607660 4022639\n149 Montividiu do Norte TFF5B69 93YJ62S04TJ511933 1473609787 4022646\n150 Morrinhos TFY3C89 93YJ62S08TJ511921 1473605889 4022648\n151 Morro Agudo de Goiás TFN7A79 93YJ62S09TJ511927 1473605960 4022654\n152 Mossâmedes TFA6I59 93YJ62S00TJ511945 1473606010 4022657\n153 Mozarlândia TFI0E79 93YJ62S01TJ511937 1473606184 4022660\n154 Mundo Novo TFJ8A79 93YJ62S01TJ511940 1473606249 4022662\n155 Mutunópolis TFZ0E29 93YJ62S03TJ511938 1473606435 4022665\n156 Nazário TFS3B79 93YJ62S09TJ511944 1473606680 4022670\n157 Nerópolis TFX5I49 93YJ62S04TJ511950 1473606621 4022672\n158 Niquelândia TGK4B59 93YJ62S08TJ511949 1473606877 4022673\n159 Nova América TFZ5E99 93YJ62S09TJ511958 1473606974 4022675\n160 Nova Aurora TGL3C49 93YJ62S09TJ511961 1473607032 4022680\n161 Nova Crixás TGG5C49 93YJ62S0XTJ511953 1473607164 4022682\n162 Nova Glória TGM7I99 93YJ62S00TJ511962 1473607261 4022685\n163 Nova Iguaçu de Goiás TFD1A79 93YJ62S02TJ511963 1473605447 4022690\n164 Nova Roma TFN5B79 93YJ62S05TJ511973 1473605560 4022693\n165 Nova Veneza TGE1C09 93YJ62S08TJ511966 1473605722 4022696\n166 Novo Brasil TFB5E19 93YJ62S0XTJ511967 1473605765 4022699\n167 Novo Gama TFO5I19 93YJ62S02TJ511977 1473605390 4022702\n168 Novo Planalto TGI0D19 93YJ62S03TJ511969 1473605498 4022705\n169 Orizona TFI3B09 93YJ62S04TJ511978 1473605676 4022708\n170 Ouro Verde de Goiás TFF3D19 93YJ62S08TJ511983 1473528345 4022710\n171 Ouvidor TFD5D49 93YJ62S0XTJ511984 1473605811 4022713\n172 Padre Bernardo TGE3H09 93YJ62S02TJ429991 1473528868 4022716\n173 Palestina de Goiás TFJ4F59 93YJ62S03TJ434407 1473604220 4022722\n174 Palmeiras de Goiás TFV5J49 93YJ62S06TJ511965 1473604262 4022728\n175 Palmelo TGL6C99 93YJ62S0XTJ434422 1473604297 4022742\n176 Palminópolis TGK0B39 93YJ62S0XTJ449115 1473604300 4022733\n177 Panamá TFN0C99 93YJ62S01TJ511968 1473604360 4022744\n178 Paranaiguara TGJ5A49 93YJ62S00TJ511900 1473604424 4022745\n179 Paraúna TGG8E19 93YJ62S07TJ511909 1473604459 4022749\n180 Perolândia TFB8C99 93YJ62S05TJ434425 1473604505 4022751\n181 Petrolina de Goiás TGL7J39 93YJ62S08TJ511904 1473604556 4022754\n182 Pilar de Goiás TFL5E09 93YJ62S0XTJ511905 1473604610 4022758\n183 Piracanjuba TGH2D59 93YJ62S06TJ511934 1473604645 4022760\n184 Piranhas TFN5F09 93YJ62S02TJ429943 1473604688 4022764\n185 Pirenópolis TGN5I19 93YJ62S06TJ511917 1473604785 4022766\n186 Pires do Rio TFK3C39 93YJ62S08TJ511918 1473604831 4022769\n187 Planaltina TFR9J29 93YJ62S09TJ511863 1473604890 4022771\n188 Pontalina TFQ1I29 93YJ62S07TJ511862 1473611714 4022773\n189 Porangatu TFO1B69 93YJ62S08TJ511854 1473611803 4022776\n190 Porteirão TFE0D39 93YJ62S03TJ511860 1473612001 4022777\n191 Portelândia TGJ9C79 93YJ62S07TJ511859 1473603924 4022779\n192 Posse TGN6C69 93YJ62S03TJ511857 1473603932 4022782\n193 Professor Jamil TFJ0F29 93YJ62S07TJ511845 1473604033 4022783\n194 Quirinópolis TFB9I79 93YJ62S05TJ511844 1473604076 4022784\n195 Rialma TGB3E89 93YJ62S04TJ511852 1473604165 4022788\n196 Rianápolis TFT3E29 93YJ62S02TJ511851 1473604181 4022789\n197 Rio Quente TFL2G59 93YJ62S03TJ511941 1473536038 4022790\n198 Rio Verde TFZ6C89 93YJ62S04TJ511981 1473606001 4022791\n199 Rubiataba TFS6C39 93YJ62S04TJ511883 1473606052 4022793\n200 Sanclerlândia TFG9C69 93YJ62S09TJ511880 1473606168 4022798\n201 Santa Bárbara de Goiás TGC0J49 93YJ62S05TJ511889 1473605714 4022799\n202 Santa Cruz de Goiás TFF6A49 93YJ62S04TJ511897 1473605757 4022800\n203 Santa Fé de Goiás TFU6D09 93YJ62S0XTJ511970 1473605790 4022801\n204 Santa Helena de Goiás TFH8H59 93YJ62S04TJ511947 1473605854 4022802\n205 Santa Isabel TFQ8C29 93YJ62S06TJ511898 1473605862 4022803\n206 Santa Rita do Araguaia TFE9C19 93YJ62S05TJ511956 1473605587 4022804\n207 Santa Rita do Novo Destino TGH1B69 93YJ62S02TJ511946 1473605668 4022806\n208 Santa Rosa de Goiás TFN7F59 93YJ62S08TJ511935 1473604939 4022809\n209 Santa Tereza de Goiás TGH9J89 93YJ62S02TJ511929 1473605030 4022811\n210 Santa Terezinha de Goiás TGB3G29 93YJ62S07TJ511957 1473605099 4022813\n211 Santo Antônio da Barra TFK8J19 93YJ62S01TJ511873 1473605137 4022815\n212 Santo Antônio de Goiás TFG3E09 93YJ62S0XTJ511936 1473605200 4022816\n213 Santo Antônio do Descoberto TFO5E89 93YJ62S01TJ511971 1473605234 4022818\n214 São Domingos TFD5I09 93YJ62S06TJ511903 1473605293 4022820\n215 São Francisco de Goiás TFV5J29 93YJ62S05TJ511942 1473605374 4022823\n216 São João da Paraúna TGD0I89 93YJ62S06TJ511870 1473605439 4022825\n217 São João d'Aliança TFH1A59 93YJ62S06TJ511951 1473535627 4022827\n218 São Luís de Montes Belos TFA5F79 93YJ62S01TJ511839 1473606320 4022830\n219 São Luiz do Norte TFZ5H39 93YJ62S07TJ511943 1473606508 4022832\n220 São Miguel do Araguaia TFP1D49 93YJ62S01TJ511887 1473606656 4022834\n221 São Miguel do Passa Quatro TFS3H89 93YJ62S07TJ511974 1473606770 4022835\n222 São Patrício TFF9E89 93YJ62S02TJ511896 1473606915 4022843\n223 São Simão TGE2E19 93YJ62S08TJ511837 1473607008 4022845\n224 Senador Canedo TFZ2H19 93YJ62S00TJ511895 1473607105 4022847\n225 Serranópolis TFX2C19 93YJ62S09TJ511832 1473607237 4022849\n226 Silvânia TGD5F79 93YJ62S00TJ511878 1473607318 4022851\n227 Simolândia TGE9G59 93YJ62S06TJ511920 1473607474 4022659\n228 Sítio d'Abadia TGL9D69 93YJ62S08TJ511868 1473607628 4022694\n229 Taquaral de Goiás TFW7D99 93YJ62S07TJ429937 1473607741 4022700\n230 Teresina de Goiás TFP9I69 93YJ62S04TJ511866 1473607830 4022706\n231 Terezópolis de Goiás TFF9G99 93YJ62S07TJ511926 1473607873 4022792\n232 Três Ranchos TGM1H39 93YJ62S03TJ511874 1473535325 4022785\n233 Trindade TGF1H89 93YJ62S09TJ511930 1473608144 4022780\n234 Trombas TFH1C89 93YJ62S09TJ511913 1473608250 4022770\n235 Turvânia TFS6I79 93YJ62S09TJ511894 1473608322 4022768\n236 Turvelândia TFG1G99 93YJ62S00TJ511928 1473608438 4022761\n237 Uirapuru TFD6D19 93YJ62S01TJ511954 1473608527 4022747\n238 Uruaçu TFC4E39 93YJ62S03TJ511955 1473608624 4022740\n239 Uruana TGA7J89 93YJ62S05TJ511939 1473608730 4022727\n240 Urutaí TFF1F29 93YJ62S06TJ511948 1473608845 4022724\n241 Valparaíso de Goiás TGH2C09 93YJ62S00TJ511976 1473529783 4022661\n242 Varjão TGD2H89 93YJ62S01TJ511985 1473609051 4022669\n243 Vianópolis TGN9C69 93YJ62S03TJ511972 1473609183 4022678\n244 Vicentinópolis TFE4F69 93YJ62S08TJ511952 1473609310 4022718\n245 Vila Boa TFA3G89 93YJ62S09TJ511975 1473529384 4022714\n246 Vila Propício TFP4F99 93YJ62S08TJ511840 1473609574 4022666\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24258",
+   "short": "Lei 24258/2026",
+   "title": "Lei nº 24258, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114304",
+   "first_law": "lei-2026-24258",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114304",
+     "sha256": "a8bff2b0603438afc040e14fd81d8d5c8ec7ea21a07ff72a0d3ac460b776dea4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.258, DE 7 DE MAIO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Centro Espírita Anjo Ismael, situado na Rua 56, nº 926, Jardim Goiás, Município de Goiânia/GO, fica reconhecido como patrimônio histórico e cultural goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24259",
+   "short": "Lei 24259/2026",
+   "title": "Lei nº 24259, de 2026 (Institui a Política Estadual de Incentivo à Economia da Gamificação.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114306",
+   "first_law": "lei-2026-24259",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114306",
+     "sha256": "7b211c38831256b485178bc8cf1ea712c0a9d359af5ca38dbb6757071a767ec4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.259, DE 7 DE MAIO DE 2026\nInstitui a Política Estadual de Incentivo à Economia da Gamificação.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Economia da Gamificação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual de Incentivo à Economia da Gamificação visa incentivar o uso de elementos e mecânicas de jogos, como recompensas, competição, pontos e desafios, em contextos e ambientes não relacionados a jogos, como nas áreas da educação, marketing, saúde e local de trabalho, para motivar as pessoas, melhorar o engajamento e alcançar objetivos específicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual de Incentivo à Economia da Gamificação observará, especialmente:\nI - os objetivos:\na) promover o desenvolvimento da economia da gamificação no Estado de Goiás;\nb) estimular o uso de técnicas de gamificação em contextos e ambientes não relacionados a jogos, como nas áreas educacionais, de treinamento, de marketing, da saúde e nos locais de trabalho;\nc) incentivar a pesquisa e o desenvolvimento de tecnologias e práticas de gamificação;\nd) incentivar a capacitação de profissionais para atuarem no campo da gamificação;\ne) incentivar a promoção da inclusão social e digital por meio da gamificação;\nf) incentivar a participação dos cidadãos em questões de interesse público;\nII - as diretrizes:\na) fomento à inovação e à pesquisa em gamificação;\nb) incentivo à criação de programas de capacitação em gamificação;\nc) promoção de parcerias entre o Poder Público estadual, empresas e instituições de ensino para desenvolver e aplicar técnicas de gamificação;\nd) incentivo à criação de empresas e startups focadas em gamificação;\ne) incentivo à concessão de benefícios fiscais e linhas de financiamento para projetos de gamificação;\nf) integração dos programas e das ações da política instituída por esta Lei às políticas educacionais do Estado de Goiás, promovendo a abordagem da temática da economia da gamificação nos componentes curriculares regulares do currículo do ensino fundamental e médio;\ng) incentivo à criação de diretrizes para que os sistemas gamificados sejam éticos, respeitem a privacidade e atinjam os objetivos pretendidos sem efeitos colaterais prejudiciais;\nh) incentivo à realização de parcerias entre o setor público e o setor privado para o desenvolvimento desta política pública e de soluções gamificadas, aproveitando a experiência e os recursos de ambos os setores;\nIII - os instrumentos:\na) programas de formação e capacitação em gamificação para educadores, gestores e outros profissionais;\nb) eventos de divulgação e discussão sobre a gamificação, como congressos, seminários e fóruns;\nc) concursos e premiações para incentivar a criação de soluções gamificadas inovadoras;\nd) criação de um portal de referência com materiais, referências e boas práticas em gamificação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Estado incentivará a realização de eventos e competições de gamificação nas escolas, com o objetivo de promover o engajamento dos estudantes e a aprendizagem de forma lúdica e inovadora.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As universidades e instituições de ensino superior do Estado serão incentivadas a desenvolver pesquisas e projetos na área de gamificação.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Público estadual fixará formas de monitoramento e de avaliação da política pública instituída por esta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24260",
+   "short": "Lei 24260/2026",
+   "title": "Lei nº 24260, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114315",
+   "first_law": "lei-2026-24260",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114315",
+     "sha256": "0b2000fdb4d5247f0d6056eb865969716e1696474a1e9d1edc10178812d1211e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.260, DE 7 DE MAIO DE 2026\nInstitui a Política Estadual de Incentivo à Utilização da Musicoterapia como Tratamento Terapêutico Complementar para Pessoas com Deficiência, Síndromes e Transtorno do Espectro Autista (TEA) no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Utilização da Musicoterapia como Tratamento Terapêutico Complementar para Pessoas com Deficiência, Síndromes e Transtorno do Espectro Autista (TEA) no Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins desta Lei, define-se a Musicoterapia como o uso clínico e terapêutico da música e de seus elementos por um profissional qualificado, para atender às necessidades físicas, emocionais, mentais, sociais e cognitivas de indivíduos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual de Incentivo à Utilização da Musicoterapia visa:\nI - promover a utilização da musicoterapia para melhorar a qualidade de vida de pessoas com deficiência, síndromes, transtornos mentais e TEA;\nII - fomentar o emprego de técnicas musicais especializadas, adequadas às necessidades individuais, conduzidas por musicoterapeutas qualificados;\nIII - facilitar o desenvolvimento de habilidades sociais, cognitivas, motoras e emocionais de pacientes, promovendo a comunicação e a expressão;\nIV - (VETADO);\nV - (VETADO);\nVI - (VETADO);\nVII - (VETADO);\nVIII - (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24261",
+   "short": "Lei 24261/2026",
+   "title": "Lei nº 24261, de 2026 (Autoriza o Poder Executivo a transferir para a União o domínio dos trechos rodoviários que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114433",
+   "first_law": "lei-2026-24261",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114433",
+     "sha256": "e05b3dfb7c35ef24fa0be6a7588d3f9bcc5be21c34145b1807c93093daf3bea9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.261, DE 13 DE MAIO DE 2026\nAutoriza o Poder Executivo a transferir para a União o domínio dos trechos rodoviários que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo do Estado de Goiás autorizado a transferir para a União o domínio dos trechos rodoviários especificados no Anexo Único desta Lei, que totalizam 98,82 km (noventa e oito quilômetros e oitocentos e vinte metros), correspondentes à Rodovia GO-070, coincidente com a BR-070, e 227,31 km (duzentos e vinte e sete quilômetros e trezentos e dez metros), correspondentes à Rodovia GO-118, coincidente com a BR-010.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Todas as despesas precedentes à transferência realizadas pelo Estado de Goiás nos trechos de rodovias estaduais enumerados no Anexo Único não constituem obrigação da União.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Cabe ao Estado de Goiás suportar diretamente eventuais condenações judiciais decorrentes de acidentes ou danos provocados a terceiros ocorridos nos trechos rodoviários de que trata esta Lei no período em que eles estiveram sob o seu domínio.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica autorizada a renúncia em juízo a alegado direito em que se fundarem possíveis ações judiciais em desfavor da União concernentes aos trechos rodoviários incorporados à União por esta Lei com as quais se pretenda ressarcimento ou indenização no período do domínio pelo Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Após trinta dias da assinatura do termo de transferência, caberão à Agência Goiana de Infraestrutura e Transportes - GOINFRA a exclusão das rodovias incorporadas à União do Sistema Rodoviário Estadual - SRE/GO e a respectiva comunicação à Polícia Rodoviária Estadual e aos demais órgãos estaduais pertinentes.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a formalização da transferência de que trata esta Lei, deverá ser observada a vedação temporal indicada na alínea \"a\" do inciso VI do art. 73 da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\nI - SEGMENTOS DA RODOVIA GO-070, COINCIDENTES COM A BR-070, A SEREM TRANSFERIDOS À UNIÃO\nSRE GO Início Fim Km inicial Km final Extensão Situação SNV COINCIDENTE\n070EGO0150 GO-070 Entr. da BR-070 (A) GO-156 (A) (Itaberaí) 89,35121 92,2434446 2,892235 DUP 070BGO0130\n070EGO0160 GO-070 Entr. da GO-156 (A) (Itaberaí) Fim do perímetro urbano (Itaberaí) 92,243445 92,7473543 0,50391 DUP 070BGO0130\n070EGO0170 GO-070 Fim do perímetro urbano (Itaberaí) Entr. da GO-156 (B) / 522 92,747354 94,4825741 1,73522 DUP 070BGO0140\n070EGO0190 GO-070 Entr. da GO-156 (B) / 522 Entr. da GO-164 (A) 94,482574 116,949872 22,4673 DUP 070BGO0150\n070EGO0200 GO-070 Entr. da GO-164 (A) Início do perímetro urbano (Davidópolis) 116,94987 127,130052 10,18018 DUP 070BGO0170\n070EGO0210 GO-070 Início do perímetro urbano (Davidópolis) Entr. da GO-164 (B) (Goiás) 127,13005 129,592808 2,462756 DUP 070BGO0170\n070EGO0230 GO-070 Entr. da GO-164 (B) (Goiás) Entr. da GO-554 (Uvá) 129,59281 166,943663 37,35086 PAV 070BGO0180\n070EGO0240 GO-070 Entr. da GO-554 (Uvá) Entr. da GO-432 (Itapirapuã) 166,94366 187,753282 20,80962 PAV 070BGO0190\n070EGO0245 GO-070 Entr. da GO-432 (Itapirapuã) Entr. da BR-070 (B) 187,75328 188,171375 0,418093 PAV 070BGO0190\nExtensão total 98,82\nII - SEGMENTOS DA RODOVIA GO-118, COINCIDENTES COM A BR-010, A SEREM TRANSFERIDOS À UNIÃO\nSRE GO Início Fim Km inicial Km final Extensão Situação SNV Coincidente\n118EGO0010 GO-118 Entr. da BR-010 (A) (Div. DF/GO) Entr. da GO-430 (A) 0,00 5,48 5,48 PAV 010BGO0090\n118EGO0020 GO-118 Entr. da GO-430 (A) Entr. da GO-430 (B) (p/ Planaltina) 5,480 9,029 3,549 PAV 010BGO0095\n118EGO0030 GO-118 Entr. da GO-430 (B) (p/ Planaltina) Fim do perímetro urbano (Planaltina) 9,029 17,967 8,938 PAV 010BGO0110\n118EGO0035 GO-118 Fim do perímetro urbano (Planaltina) Início do perímetro urbano (São Gabriel de Goiás) 17,967 30,890 12,923 PAV 010BGO0110\n118EGO0040 GO-118 Início do perímetro urbano (São Gabriel de Goiás) Fim do perímetro urbano (São Gabriel de Goiás) 30,890 32,751 1,861 PAV 010BGO0120\n118EGO0045 GO-118 Fim do perímetro urbano (São Gabriel de Goiás) Entr. da GO-230 32,751 38,173 5,422 PAV 010BGO0120\n118EGO0050 GO-118 Entr. da GO-230 Entr. da GO-237 38,173 66,812 28,640 PAV 010BGO0125\n118EGO0060 GO-118 Entr. da GO-237 Início do perímetro urbano / início da pista dupla (São João D'Aliança) 66,812 92,918 26,138 PAV 010BGO0130\n118EGO0065 GO-118 Início do perímetro urbano / início da pista dupla (São João D'Aliança) Fim da pista dupla 92,918 94,517 1,595 DUP 010BGO0135\n118EGO0070 GO-118 Fim da pista dupla Fim do perímetro urbano (São João D'Aliança) 94,517 95,514 0,998 PAV 010BGO0140\n118EGO0072 GO-118 Fim do perímetro urbano (São João D'Aliança) Entr. da GO-236 95,514 105,924 10,400 PAV 010BGO0140\n118EGO0075 GO-118 Entr. da GO-236 Entr. da GO-575 105,924 143,655 37,731 PAV 010BGO0150\n118EGO0080 GO-118 Entr. da GO-575 Início do perímetro urbano (Alto Paraíso de Goiás) 143,655 160,206 16,551 PAV 010BGO0150\n118EGO0082 GO-118 Início do perímetro urbano (Alto Paraíso de Goiás) Entr. da GO-239 (Alto Paraíso de Goiás) 160,206 161,302 1,096 PAV 010BGO0150\n118EGO0085 GO-118 Entr. da GO-239 (Alto Paraíso de Goiás) Fim do perímetro urbano (Alto Paraíso de Goiás) 161,302 163,708 2,406 PAV 010BGO0160\n118EGO0090 GO-118 Fim do perímetro urbano (Alto Paraíso de Goiás) Início do perímetro urbano (Teresina de Goiás) 163,708 226,818 63,110 PAV 010BGO0160\n118EGO0092 GO-118 Início do perímetro urbano (Teresina de Goiás) Entr. da BR-010 (B) / GO-241 (A) Início da duplicação (Teresina de Goiás) 226,818 227,310 0,492 PAV 010BGO0160\nExtensão total 227,31\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24262",
+   "short": "Lei 24262/2026",
+   "title": "Lei nº 24262, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114434",
+   "first_law": "lei-2026-24262",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114434",
+     "sha256": "686b2e29973eb7588542b2b72412b454ee14955e24ed8ee9b1d7eac94238e217",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.262, DE 13 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO COMUNIDADE QUILOMBOLA PAPUÃ DE PILAR DE GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 35.973.487/0001-73, com sede no Município de Pilar de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nGEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24263",
+   "short": "Lei 24263/2026",
+   "title": "Lei nº 24263, de 2026 (Institui o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114435",
+   "first_law": "lei-2026-24263",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114435",
+     "sha256": "7571dae5e9b27294fcdcef20c81c232c85a9aca62fc0f559f9362442023cceb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.263, DE 13 DE MAIO DE 2026\nInstitui o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia, a ser celebrado, anualmente, no terceiro sábado do mês de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24264",
+   "short": "Lei 24264/2026",
+   "title": "Lei nº 24264, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114436",
+   "first_law": "lei-2026-24264",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114436",
+     "sha256": "897f11e11ad8cf94bfec99d756cc412e5fe99aa5bae33d8e9461d69e84e19da8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.264, DE 13 DE MAIO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Maior Inter - Interatléticas da Universidade Federal de Goiás, realizado no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Maior Inter - Interatléticas da Universidade Federal de Goiás, realizado, anualmente, durante o feriado de Corpus Christi, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24265",
+   "short": "Lei 24265/2026",
+   "title": "Lei nº 24265, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114576",
+   "first_law": "lei-2026-24265",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114576",
+     "sha256": "72e5955ba80628323e79107e829b25aad9b47aa5d174c3ad864953e56fee2e8c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.265, DE 18 DE MAIO DE 2026\nInstitui a Política Estadual de Atenção à Saúde Mental dos Profissionais da Saúde Pública e institui a Semana Estadual de Saúde Mental dos Profissionais da Saúde Pública.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Atenção à Saúde Mental dos Profissionais da Saúde Pública.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a conscientização sobre a importância do cuidado com a saúde mental dos profissionais da saúde pública;\nII - estimular a adoção de medidas que possibilitem amplo reconhecimento do papel dos profissionais da saúde pública;\nIII - estimular a prevenção, a conscientização, o acompanhamento e o tratamento de doenças mentais dos profissionais da saúde pública;\nIV - estimular a capacitação técnica dos profissionais da saúde pública;\nV - estimular a adoção de medidas e a formação de grupos de atendimento direcionados aos profissionais da saúde pública para orientá-los sobre os sinais das doenças mentais e como procurar ajuda;\nVI - estimular a integração das políticas públicas de saúde que se relacionam com saúde mental, de forma a se aperfeiçoar a execução da Política Estadual instituída por esta Lei;\nVII - estimular a criação de grupos multiprofissionais (psiquiatras, enfermeiros, psicólogos e outros profissionais de saúde mental) para elaborar diretrizes com o objetivo de oferecer suporte psicossocial e cuidados especializados;\nVIII - estimular a disponibilização de ambientes de trabalho acolhedores e seguros para minimizar os potenciais efeitos dos riscos à saúde mental;\nIX - estimular a preservação da integridade moral e física dos profissionais da saúde pública no ambiente de trabalho;\nX - estimular a celebração de parcerias ou convênios com órgãos públicos, universidades e organização da sociedade civil para aperfeiçoar a fiel execução da Política Estadual instituída por esta Lei;\nXI - incentivar a conscientização sobre a importância do autocuidado, inclusive da prática de atividades físicas, adoção de hábitos alimentares saudáveis e cuidado com o sono;\nXII - estimular a mobilização de suporte comportamental e psicoemocional para o enfrentamento, como estratégia que pode ser adotada pelos profissionais da saúde pública, quando submetidos a pressões que ultrapassem a sua capacidade cotidiana de resolução;\nXIII - estimular a organização de rotinas de atendimento às pessoas que manifestarem sintomas bem como a observação dos cuidados necessários para proteger os profissionais de saúde, de forma a se preservarem os atendimentos;\nXIV - estimular a adoção de medidas de prevenção e mitigação dos impactos da doença mental nos profissionais da saúde pública;\nXV - estimular a adoção de medidas de detecção e monitoramento de necessidades de cuidados específicos, como ansiedade e depressão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica instituída a Semana Estadual de Saúde Mental dos Profissionais da Saúde Pública, a ser realizada, anualmente, na primeira semana do mês de setembro, que tem por objetivo a adoção de medidas de conscientização sobre a importância do cuidado com a saúde mental.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24266",
+   "short": "Lei 24266/2026",
+   "title": "Lei nº 24266, de 2026 (Institui o selo de identificação de veículos que transportam pessoas com Transtorno do Espectro Autista - TEA, na forma que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114581",
+   "first_law": "lei-2026-24266",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114581",
+     "sha256": "796811a8f2c63dfdadc0118a3369315681441bdbb4846b6650120b471cfcd5a7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.266, DE 18 DE MAIO DE 2026\nInstitui o selo de identificação de veículos que transportam pessoas com Transtorno do Espectro Autista - TEA, na forma que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o selo de identificação de veículos que transportam pessoa com Transtorno do Espectro Autista.\n§ 1º O selo de identificação de que trata o caput será disponibilizado em forma de adesivo, contendo o símbolo do autismo, a ser afixado no veículo.\n§ 2º O adesivo também conterá os seguintes dizeres: \"Pessoa com autismo a bordo. Seja gentil, não buzine\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A obtenção do adesivo de que trata esta Lei depende do cadastramento do responsável pela condução do veículo no órgão competente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCRISTÓVÃO TORMIN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24267",
+   "short": "Lei 24267/2026",
+   "title": "Lei nº 24267, de 2026 (Institui a Política Estadual de Prevenção e Combate às Doenças Associadas aos Distúrbios Alimentares.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114582",
+   "first_law": "lei-2026-24267",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114582",
+     "sha256": "4f8fb7db32e958dcc430e8a8c9933e84c6d1b15fa1d5d84355faae1740f56310",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.267, DE 18 DE MAIO DE 2026\nInstitui a Política Estadual de Prevenção e Combate às Doenças Associadas aos Distúrbios Alimentares.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Prevenção e Combate às Doenças Associadas aos Distúrbios Alimentares, com o objetivo de prevenir, diagnosticar e tratar doenças como anorexia, bulimia, obesidade mórbida e outros reconhecidos transtornos alimentares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A política estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a adoção de medidas educativas sobre distúrbios alimentares, seus riscos e formas de tratamento;\nII - estimular a capacitação de profissionais da saúde e educação para identificação precoce e tratamento dos distúrbios alimentares;\nIII - estimular a criação de programas de atendimento e acompanhamento multidisciplinar de pessoas diagnosticadas com distúrbios alimentares, inclusive com apoio psicossocial e nutricional;\nIV - fomentar a pesquisa científica sobre causas, tratamentos e consequências dos distúrbios alimentares;\nV - combater a difusão de padrões estéticos nocivos que incentivem comportamentos de risco;\nVI - estimular o desenvolvimento de sistema de monitoramento e estatísticas sobre distúrbios alimentares, que coletará dados para:\na) acompanhar a evolução e a prevalência dos transtornos alimentares no Estado;\nb) subsidiar políticas públicas eficazes para tratamento e prevenção;\nc) produzir relatórios periódicos sobre a saúde alimentar da população, com especial atenção às faixas etárias mais vulneráveis;\nVII - estimular a criação de campanhas permanentes de conscientização, nos meios de comunicação e nas escolas, sobre os riscos dos distúrbios alimentares;\nVIII - estimular a disponibilização de tratamento especializado no Sistema Único de Saúde (SUS);\nIX - incentivar a criação de grupos de apoio e reabilitação de pessoas afetadas para promover reintegração social e apoio psicológico continuado;\nX - estimular a integração da política instituída por esta Lei ao sistema educacional estadual, de forma a se promover:\na) a inclusão de conteúdos relacionados à alimentação saudável, à autoestima e ao respeito à diversidade corporal nos currículos escolares;\nb) a orientação sobre os riscos de práticas alimentares inadequadas;\nXI - estimular a celebração de parcerias com universidades, organizações não governamentais e outros órgãos da sociedade civil para realização de palestras e workshops sobre saúde mental e distúrbios alimentares;\nXII - estimular a participação da sociedade civil em fóruns consultivos para o aprimoramento contínuo desta política.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24268",
+   "short": "Lei 24268/2026",
+   "title": "Lei nº 24268, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114729",
+   "first_law": "lei-2026-24268",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114729",
+     "sha256": "458dadc5ccd475a99b36c11bf2dec448dbdc292f3b6c4d6a7325f2163ecbf614",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.268, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a TADEU ROXSANDER DOS SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24269",
+   "short": "Lei 24269/2026",
+   "title": "Lei nº 24269, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114730",
+   "first_law": "lei-2026-24269",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114730",
+     "sha256": "afff88a45505e143ba74a372c5d32271b8d1ade33ec95fcef20d30d20cc198c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.269, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO NÃO GOVERNAMENTAL AÇÃO SOLIDÁRIA - ASAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 58.142.667/0001-09, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24270",
+   "short": "Lei 24270/2026",
+   "title": "Lei nº 24270, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114731",
+   "first_law": "lei-2026-24270",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114731",
+     "sha256": "444a4b99d7bc46d642f97f95f74ee75e00395282c6f02fad6a0a6ae7b4205b1c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.270, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO PARQUE AZUL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 38.221.462/0001-01, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24271",
+   "short": "Lei 24271/2026",
+   "title": "Lei nº 24271, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114732",
+   "first_law": "lei-2026-24271",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114732",
+     "sha256": "de54b40a94aa6909068ff08937f8dff8baac95b75465aee73aba1ba97e17b5cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.271, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO EDUCACIONAL DE DESENVOLVIMENTO ESPORTIVO CULTURAL - AEDEC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.707.709/0003-03 FILIAL, com sede no Município de Itumbiara/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24272",
+   "short": "Lei 24272/2026",
+   "title": "Lei nº 24272, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114733",
+   "first_law": "lei-2026-24272",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114733",
+     "sha256": "6b7c9e1de1bb442b849b1dfca34ea24ee60c0e0c055084dbd74655d2c42cc2be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.272, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CULTURAL DE PRESERVAÇÃO AMBIENTAL DE DAMIANÓPOLIS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 11.649.923/0001-95, com sede no Município de Damianópolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24273",
+   "short": "Lei 24273/2026",
+   "title": "Lei nº 24273, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114734",
+   "first_law": "lei-2026-24273",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114734",
+     "sha256": "f78ef535e7571660ada5f766b6e083565c424d887c2cb0efae8b96361598ce0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.273, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o HANDEBOL DESPORTIVO DE ANÁPOLIS - HANDESFA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 53.463.103/0001-54, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24274",
+   "short": "Lei 24274/2026",
+   "title": "Lei nº 24274, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114735",
+   "first_law": "lei-2026-24274",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114735",
+     "sha256": "e1fb38369249fac4ee4cf2ff53182a3f93688d1cebb7077c8a5421f9f4b2d292",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.274, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a TROMBENSE ASSOCIAÇÃO ESPORTIVA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 11.606.856/0001-21, com sede no Município de Trombas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24275",
+   "short": "Lei 24275/2026",
+   "title": "Lei nº 24275, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114736",
+   "first_law": "lei-2026-24275",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114736",
+     "sha256": "e380417967495e5b7577f29d492a0653c9dace4b777f5c82de2fb28d447016e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.275, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BATISTA CONSTRUIR - ABC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 35.488.275/0001-09, com sede no Município de Inhumas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24276",
+   "short": "Lei 24276/2026",
+   "title": "Lei nº 24276, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114737",
+   "first_law": "lei-2026-24276",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114737",
+     "sha256": "5c358fd2bc37a00c7b18effa0510cb4d9d4b4b47dfe80dc82eed3bbc2b4c5c32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.276, DE 21 DE MAIO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado PEDRO MASAYOSI MISUKAMI o Ginásio de Esportes Jardim Balneário Meia Ponte, situado na Praça da Independência, Jardim Balneário Meia Ponte, Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24277",
+   "short": "Lei 24277/2026",
+   "title": "Lei nº 24277, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114738",
+   "first_law": "lei-2026-24277",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114738",
+     "sha256": "03cd7ab2e2a82620f9f6dbe2e15996cd9a83965cb75d972f0edcf5bfeff82cbe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.277, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a UNIÃO DAS ABELHAS - UNA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 02.677.804/0001-55, com sede no Município de Paranaiguara/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24278",
+   "short": "Lei 24278/2026",
+   "title": "Lei nº 24278, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114739",
+   "first_law": "lei-2026-24278",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114739",
+     "sha256": "a1fc497fedc5635668de4f679392ac24449e9e9bc8c7a40390aa995aaa934c1f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.278, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE EQUOTERAPIA E EQUITAÇÃO WAGNER MARCHESI - AEEWM, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 50.919.181/0001-22, com sede no Município de Britânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24279",
+   "short": "Lei 24279/2026",
+   "title": "Lei nº 24279, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114740",
+   "first_law": "lei-2026-24279",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114740",
+     "sha256": "042fadb86162d95d8c91615e89b3ae0d187150482dfa3bdbc04d357d5640a916",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.279, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ELITON RODRIGUES FERNANDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24280",
+   "short": "Lei 24280/2026",
+   "title": "Lei nº 24280, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114741",
+   "first_law": "lei-2026-24280",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114741",
+     "sha256": "9a3b4bb5e504e57d5c39c9ba0e3d9638a9bfd81d386b1dfa0f8cd4fb187bd133",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.280, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO QUEM AMA CUIDA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 50.860.370/0001-77, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24281",
+   "short": "Lei 24281/2026",
+   "title": "Lei nº 24281, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114742",
+   "first_law": "lei-2026-24281",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114742",
+     "sha256": "e772b8fb0562c89013df5abb86c01af341e69a53334794aa5b81931673d85f6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.281, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SÉRGIO SCODRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24282",
+   "short": "Lei 24282/2026",
+   "title": "Lei nº 24282, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114743",
+   "first_law": "lei-2026-24282",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114743",
+     "sha256": "3ca04202fcb01c499c4dce5eb55fcbfbe14b55949ac9910f33c6ccdb59379bef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.282, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FLÁVIO LEANDRO DIAS GUEDES ROLIM o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24283",
+   "short": "Lei 24283/2026",
+   "title": "Lei nº 24283, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114745",
+   "first_law": "lei-2026-24283",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114745",
+     "sha256": "a526de5809f269d2389f18b1e76ff16618594e9a39198d263dcfd2eb4d2adeb4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.283, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CARLOS EUGENIO MUNIZ DE HOLANDA CAVALCANTE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24284",
+   "short": "Lei 24284/2026",
+   "title": "Lei nº 24284, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114746",
+   "first_law": "lei-2026-24284",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114746",
+     "sha256": "6d2769279331af99778abedcc91c3dde0feef7031d7da1149958e1b048804d9a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.284, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FAGNER BEZERRA CABRAL o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDRA. ZELI\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24285",
+   "short": "Lei 24285/2026",
+   "title": "Lei nº 24285, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114747",
+   "first_law": "lei-2026-24285",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114747",
+     "sha256": "4f511d139c63b7db2739dcd8cb05b9377ebbd53de170495bb9fcba4181ec08cc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.285, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ADEVANEI DE SOUSA CANGUÇÚ o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24286",
+   "short": "Lei 24286/2026",
+   "title": "Lei nº 24286, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114748",
+   "first_law": "lei-2026-24286",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114748",
+     "sha256": "dc25c11b6ab8253f99649df7910be3037e2665baad71bf1108b927db177a1863",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.286, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MÁRCIO LEANDRO DOMINGUES SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24287",
+   "short": "Lei 24287/2026",
+   "title": "Lei nº 24287, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114749",
+   "first_law": "lei-2026-24287",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114749",
+     "sha256": "37298ac71eaf78b133cb8cd4c746daa3ef34dc0617d57c20c04336495137b152",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.287, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCELO COSTA MARTINS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24288",
+   "short": "Lei 24288/2026",
+   "title": "Lei nº 24288, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114750",
+   "first_law": "lei-2026-24288",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114750",
+     "sha256": "aaaab30281fe56ea83dbae380dffee060b47c6963a6edcfe6538f1c534bad9bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.288, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RONALD SIQUEIRA BARBOSA FILHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24289",
+   "short": "Lei 24289/2026",
+   "title": "Lei nº 24289, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114751",
+   "first_law": "lei-2026-24289",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114751",
+     "sha256": "e05db5e7310767a339591771dd57ba11aeeb817d08c0038a84c59ad9317f6a21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.289, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CRISTOPHER GABRIEL SILVA SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24290",
+   "short": "Lei 24290/2026",
+   "title": "Lei nº 24290, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114752",
+   "first_law": "lei-2026-24290",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114752",
+     "sha256": "f6ccb492280ff25c31484bff12bf75be18f769ad9461164895afa7b5f6cd815a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.290, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCAS CISNE CAVALCANTE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24291",
+   "short": "Lei 24291/2026",
+   "title": "Lei nº 24291, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114753",
+   "first_law": "lei-2026-24291",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114753",
+     "sha256": "35e2a1fded6ce455d63b37ca4b598e3990738416a652913acb683ba57a376d6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.291, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HELENA PARANAÍBA COELHO SORGATTO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24292",
+   "short": "Lei 24292/2026",
+   "title": "Lei nº 24292, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114754",
+   "first_law": "lei-2026-24292",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114754",
+     "sha256": "85a1c5e608dfc9a0ecd39753c5e21840c8bd4cf489a2cc39d2b40f9cf91513d0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.292, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALBERTO NOGUEIRA ANTOLINI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24293",
+   "short": "Lei 24293/2026",
+   "title": "Lei nº 24293, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114755",
+   "first_law": "lei-2026-24293",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114755",
+     "sha256": "b690b03f7c772cef031707b0e56bb4109c098189fcb5c1021f6db892cc05c54c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.293, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a KAYO AUGUSTO JORGE DE ARAÚJO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24294",
+   "short": "Lei 24294/2026",
+   "title": "Lei nº 24294, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114756",
+   "first_law": "lei-2026-24294",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114756",
+     "sha256": "ccf6eabe958f59668f43d371132b0daf5f29bbe8a26f899522acb7e18438552d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.294, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VILA BOA DE GOIÁS - AVBGO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 54.482.009/0001-05, com sede no Município de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nRUBENS MARQUES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24295",
+   "short": "Lei 24295/2026",
+   "title": "Lei nº 24295, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Taça das Favelas, realizada no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114757",
+   "first_law": "lei-2026-24295",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114757",
+     "sha256": "0ebe323aec8705208e4712af8e163a032425eb2c8e883e176a433caf5a24a10b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.295, DE 21 DE MAIO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Taça das Favelas, realizada no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Taça das Favelas, realizada, anualmente, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24296",
+   "short": "Lei 24296/2026",
+   "title": "Lei nº 24296, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114758",
+   "first_law": "lei-2026-24296",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114758",
+     "sha256": "677fb576558db02b83c74afa6c07a81b4bcc5bda56c530fbbe4e44b326d7bedf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.296, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO GOIANA DA ADVOCACIA TRABALHISTA - AGATRA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.852.154/0001-70, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24297",
+   "short": "Lei 24297/2026",
+   "title": "Lei nº 24297, de 2026 (Altera a Lei nº 22.133, de 21 de julho de 2023, que institui o Dia Estadual do Sociólogo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114759",
+   "first_law": "lei-2026-24297",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114759",
+     "sha256": "51a8109b21cc151263aec051634fc355d94197d0e6aff5520251532bb4a00c41",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.297, DE 21 DE MAIO DE 2026\nAltera a Lei nº 22.133, de 21 de julho de 2023, que institui o Dia Estadual do Sociólogo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 22.133, de 21 de julho de 2023, passa a vigorar com a seguinte alteração:\n\"Art. 1º Fica instituído o Dia Estadual do Sociólogo, a ser comemorado, anualmente, no dia 10 de dezembro.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24298",
+   "short": "Lei 24298/2026",
+   "title": "Lei nº 24298, de 2026 (Institui o Selo \"Empresa Amiga da Saúde da Criança\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114761",
+   "first_law": "lei-2026-24298",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114761",
+     "sha256": "c894c37b82d7c32017d3347f11865cdcce3766b14f4c32f8e2416a56fe248594",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.298, DE 21 DE MAIO DE 2026\nInstitui o Selo \"Empresa Amiga da Saúde da Criança\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Selo \"Empresa Amiga da Saúde da Criança\", a ser conferido às empresas que se mobilizarem para auxiliar no tratamento do câncer infantojuvenil.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para adquirir o Selo \"Empresa Amiga da Saúde da Criança\", as empresas deverão, comprovadamente:\nI - realizar campanha de arrecadação de recursos, materiais, equipamentos e insumos para auxiliar no tratamento do câncer infantojuvenil;\nII - destinar os valores arrecadados às entidades ou associações voltadas ao combate do câncer infantojuvenil.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As empresas que receberem o Selo \"Empresa Amiga da Saúde da Criança\" poderão utilizá-lo em sua publicidade.\nParágrafo único. O Selo \"Empresa Amiga da Saúde da Criança\" terá validade de um ano e poderá ser renovado por meio da comprovação do atendimento aos requisitos previstos no art. 2º desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O uso indevido, a falsificação ou a adulteração do Selo \"Empresa Amiga da Saúde da Criança\" sujeitarão o infrator à multa de R$ 10.000,00 (dez mil reais), que será cobrada em dobro, em caso de reincidência.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A forma de outorga do Selo \"Empresa Amiga da Saúde da Criança\" bem como a fiscalização do cumprimento desta Lei serão regulamentadas pelo órgão competente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24299",
+   "short": "Lei 24299/2026",
+   "title": "Lei nº 24299, de 2026 (Assegura tratamento especializado e multidisciplinar à pessoa com fissura labiopalatina.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114763",
+   "first_law": "lei-2026-24299",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114763",
+     "sha256": "623c9dbe6327f86552e3e66033b5c14d502906b60bbd764268eee501d03ce489",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.299, DE 21 DE MAIO DE 2026\nAssegura tratamento especializado e multidisciplinar à pessoa com fissura labiopalatina.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica assegurado tratamento especializado e multidisciplinar pela rede pública estadual de saúde à pessoa que nascer com fissura labiopalatina, com vistas à sua reabilitação, observado o disposto na Lei federal nº 15.133, de 6 de maio de 2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24300",
+   "short": "Lei 24300/2026",
+   "title": "Lei nº 24300, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114764",
+   "first_law": "lei-2026-24300",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114764",
+     "sha256": "d0393270392e1158da4c7eb69f2d076c1385ad7d36994cbc7aac0e1fe2d7495f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.300, DE 21 DE MAIO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO SOCIOAMBIENTAL ARANDU - CÉU DE OXOSSI, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 40.084.960/0001-00, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24301",
+   "short": "Lei 24301/2026",
+   "title": "Lei nº 24301, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114766",
+   "first_law": "lei-2026-24301",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114766",
+     "sha256": "e889dd719d7ba73e7604208d38e599b99124e12ca1d1c58f121651576b2a1e87",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.301, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ADEMIR RIBEIRO HAMÚ o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24302",
+   "short": "Lei 24302/2026",
+   "title": "Lei nº 24302, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114768",
+   "first_law": "lei-2026-24302",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114768",
+     "sha256": "76858c0165ba3ecfefb1e9fe95c59f0eed8331ccfa5575e5a53d6a372e530e3f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.302, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARILÉIA DOS SANTOS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24303",
+   "short": "Lei 24303/2026",
+   "title": "Lei nº 24303, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114770",
+   "first_law": "lei-2026-24303",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114770",
+     "sha256": "13de499c6885602ee038415b8848e00426ec177b0d28b5e54931abac41c9c290",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.303, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ADNILSON RIBEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24305",
+   "short": "Lei 24305/2026",
+   "title": "Lei nº 24305, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114771",
+   "first_law": "lei-2026-24305",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114771",
+     "sha256": "a84a5c23ff7db633a2f8dcfeb5747ee8392f46f517dc087134195b27699e82bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.305, DE 21 DE MAIO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JÁRDER BRUNO DE SOUSA VIEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de maio de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

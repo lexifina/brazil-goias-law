@@ -1,0 +1,2507 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24355": {
+   "label": "Lei nº 24355, de 2026",
+   "title": "Institui a Política Estadual de Incentivo ao Desenvolvimento de Tecnologias Sustentáveis na Mineração no âmbito do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-15",
+   "published": "2026-06-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115391",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24356": {
+   "label": "Lei nº 24356, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-18",
+   "published": "2026-06-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115572",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24357": {
+   "label": "Lei nº 24357, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-18",
+   "published": "2026-06-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115573",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24358": {
+   "label": "Lei nº 24358, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-18",
+   "published": "2026-06-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115575",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24359": {
+   "label": "Lei nº 24359, de 2026",
+   "title": "Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115674",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24360": {
+   "label": "Lei nº 24360, de 2026",
+   "title": "Altera a Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24361": {
+   "label": "Lei nº 24361, de 2026",
+   "title": "Altera a Lei nº 20.873, de 08 de outubro de 2020, que institui a Política de Atenção e Direitos ao Portador de Síndrome da Fibromialgia e Doenças Reumatológicas.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24362": {
+   "label": "Lei nº 24362, de 2026",
+   "title": "Confere ao Município de Goiás/GO o título de \"Capital Estadual da Reforma Agrária\".",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115705",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24363": {
+   "label": "Lei nº 24363, de 2026",
+   "title": "Dispõe sobre a adesão complementar do Estado de Goiás aos benefícios fiscais previstos na legislação do Distrito Federal, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115709",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24364": {
+   "label": "Lei nº 24364, de 2026",
+   "title": "Institui a Semana Estadual de Conscientização sobre a Síndrome de Rett.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115710",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24365": {
+   "label": "Lei nº 24365, de 2026",
+   "title": "Institui a Campanha Estadual \"Saúde Renal para Todos\".",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115712",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24366": {
+   "label": "Lei nº 24366, de 2026",
+   "title": "Institui normas gerais para a criação do Memorial às Vítimas do Acidente Radiológico com Césio-137 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115713",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24367": {
+   "label": "Lei nº 24367, de 2026",
+   "title": "Altera a Lei nº 23.029, de 10 de outubro de 2024, que institui a Política Estadual de Proteção e Atenção às Mães Atípicas e a Semana Estadual das Mães Atípicas.",
+   "kind": "law",
+   "enacted": "2026-06-22",
+   "published": "2026-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24368": {
+   "label": "Lei nº 24368, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115828",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24369": {
+   "label": "Lei nº 24369, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115829",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24370": {
+   "label": "Lei nº 24370, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115830",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24371": {
+   "label": "Lei nº 24371, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115831",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24372": {
+   "label": "Lei nº 24372, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115832",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24373": {
+   "label": "Lei nº 24373, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115833",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24374": {
+   "label": "Lei nº 24374, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115834",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24375": {
+   "label": "Lei nº 24375, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115835",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24376": {
+   "label": "Lei nº 24376, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115836",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24377": {
+   "label": "Lei nº 24377, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115837",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24378": {
+   "label": "Lei nº 24378, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115838",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24379": {
+   "label": "Lei nº 24379, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115839",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24380": {
+   "label": "Lei nº 24380, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115840",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24381": {
+   "label": "Lei nº 24381, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115841",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24382": {
+   "label": "Lei nº 24382, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115842",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24383": {
+   "label": "Lei nº 24383, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115843",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24384": {
+   "label": "Lei nº 24384, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115844",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24385": {
+   "label": "Lei nº 24385, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115845",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24386": {
+   "label": "Lei nº 24386, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-24",
+   "published": "2026-06-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115846",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24387": {
+   "label": "Lei nº 24387, de 2026",
+   "title": "Autoriza o Estado de Goiás a alienar e transferir bens imóveis dominicais para a constituição de um ou mais Fundos de Investimento Imobiliário.",
+   "kind": "law",
+   "enacted": "2026-06-26",
+   "published": "2026-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115920",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24388": {
+   "label": "Lei nº 24388, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24389": {
+   "label": "Lei nº 24389, de 2026",
+   "title": "Altera a Lei nº 19.423, de 26 de julho de 2016, que dispõe sobre a produção, o armazenamento, o comércio, o transporte interno, a utilização, o destino final de resíduos e embalagens, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins, no Estado de Goiás, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115977",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24390": {
+   "label": "Lei nº 24390, de 2026",
+   "title": "Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115979",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24391": {
+   "label": "Lei nº 24391, de 2026",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE, e revoga dispositivo da Lei nº 16.469, de 19 de janeiro de 2009, que regula o processo administrativo tributário e dispõe sobre os órgãos vinculados ao julgamento administrativo de questões de natureza tributária.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115982",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24406": {
+   "label": "Lei nº 24406, de 2026",
+   "title": "Altera a Lei nº 16.900, de 26 de janeiro de 2010, a Lei nº 17.089, de 02 de julho de 2010, e a Lei nº 14.657, de 08 de janeiro de 2004, relativas a carreiras e subsídios da Delegacia-Geral da Polícia Civil.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115983",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24392": {
+   "label": "Lei nº 24392, de 2026",
+   "title": "Altera a Lei nº 15.949, de 29 de dezembro de 2006, que dispõe sobre a ajuda de custo, no âmbito da Secretaria da Segurança Pública.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115985",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24393": {
+   "label": "Lei nº 24393, de 2026",
+   "title": "Altera a Lei nº 16.897, de 26 de janeiro de 2010, para instituir a exigência de diploma do Ensino Superior para o ingresso nas carreiras que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115987",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24394": {
+   "label": "Lei nº 24394, de 2026",
+   "title": "Altera a Lei nº 16.897, de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115988",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24395": {
+   "label": "Lei nº 24395, de 2026",
+   "title": "Cria a Diretoria da Polícia Científica - DPCI no âmbito da Secretaria de Estado da Segurança Pública - SSP e altera a Lei nº 21.792, de 16 de fevereiro de 2023.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24396": {
+   "label": "Lei nº 24396, de 2026",
+   "title": "Altera a Lei nº 17.095, de 02 de julho de 2010, que dispõe sobre o Plano de Cargos e Remuneração dos Grupos Ocupacionais de Analista de Gestão Administrativa e Assistente de Gestão Administrativa da Secretaria da Segurança Pública.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115990",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24397": {
+   "label": "Lei nº 24397, de 2026",
+   "title": "Altera a Lei nº 15.147, de 11 de abril de 2005, que fixa a retribuição pecuniária pela participação em reuniões do Conselho Penitenciário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115992",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24398": {
+   "label": "Lei nº 24398, de 2026",
+   "title": "Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24399": {
+   "label": "Lei nº 24399, de 2026",
+   "title": "Institui a Política Estadual de Apoio às Trilhas e Rotas Ecológicas.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115994",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24400": {
+   "label": "Lei nº 24400, de 2026",
+   "title": "Altera a Lei nº 15.949, de 29 de dezembro de 2006, o Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, revoga dispositivos da Lei nº 15.668, de 1º de junho de 2006, e da Lei nº 19.951, de 29 de dezembro de 2017, e revoga a Lei nº 17.706, de 09 de julho de 2012.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115995",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24401": {
+   "label": "Lei nº 24401, de 2026",
+   "title": "Subdivide a Classe Especial da carreira de Delegado de Polícia do Quadro Permanente de pessoal da Delegacia-Geral da Polícia Civil, altera a Lei nº 15.397, de 22 de setembro de 2005, e a Lei nº 16.901, de 26 de janeiro de 2010.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24405": {
+   "label": "Lei nº 24405, de 2026",
+   "title": "Altera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24402": {
+   "label": "Lei nº 24402, de 2026",
+   "title": "Dispõe sobre a estruturação dos postos de Coronel da Polícia Militar e de Coronel do Corpo de Bombeiros Militar do Estado de Goiás em classes, estabelece critérios para a respectiva progressão funcional e altera as Leis nº 8.000, de 25 de novembro de 1975, nº 8.033, de 2 de dezembro de 1975, nº 11.383, de 28 de dezembro de 1990, nº 11.416, de 5 de fevereiro de 1991, e nº 15.668, de 1º de junho de 2006.",
+   "kind": "law",
+   "enacted": "2026-06-29",
+   "published": "2026-06-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24355",
+   "short": "Lei 24355/2026",
+   "title": "Lei nº 24355, de 2026 (Institui a Política Estadual de Incentivo ao Desenvolvimento de Tecnologias Sustentáveis na Mineração no âmbito do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115391",
+   "first_law": "lei-2026-24355",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115391",
+     "sha256": "8421a02f003d1fd4cd6267b2d9c23e680244c41ba5965f3001bfbb364f53ac2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.355, DE 15 DE JUNHO DE 2026\nInstitui a Política Estadual de Incentivo ao Desenvolvimento de Tecnologias Sustentáveis na Mineração no âmbito do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo ao Desenvolvimento de Tecnologias Sustentáveis na Mineração no âmbito do Estado de Goiás.\nParágrafo único. Para os efeitos desta Lei, consideram-se:\nI - tecnologias sustentáveis: aquelas que promovem a eficiência no uso de recursos naturais, minimizam a geração de resíduos e possibilitam a recuperação ambiental de áreas degradadas;\nII - mineração responsável: prática mineradora que adota princípios de sustentabilidade ambiental, social e econômica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da política pública instituída por esta Lei, especialmente:\nI - incentivar a pesquisa, o desenvolvimento e a implementação de tecnologias sustentáveis na atividade mineradora;\nII - incentivar a adoção de boas práticas ambientais, sociais e econômicas na atividade mineradora.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da política pública instituída por esta Lei, especialmente:\nI - estimular a redução dos impactos ambientais da atividade mineradora;\nII - incentivar a recuperação ambiental de áreas degradadas pela atividade mineradora;\nIII - estimular a redução da emissão de gases de efeito estufa e a conservação dos recursos hídricos e energéticos pela atividade mineradora;\nIV - estimular a concessão de incentivos fiscais para empresas que investirem em pesquisa e desenvolvimento de tecnologias sustentáveis;\nV - estimular a implementação de parcerias público-privadas para inovação tecnológica;\nVI - estimular a criação de fundos de investimento para apoiar iniciativas de tecnologias sustentáveis;\nVII - estimular a realização de fóruns e seminários sobre tecnologias sustentáveis na mineração;\nVIII - incentivar a obtenção de certificação ambiental pelas empresas mineradoras;\nIX - estimular a implementação de programas de educação e capacitação sobre tecnologias sustentáveis;\nX - incentivar o uso de tecnologias limpas e eficientes no processo de extração, beneficiamento e transporte de minérios;\nXI - estimular a participação da população local em projetos de transformação e reabilitação de áreas afetadas pela mineração.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para efetivação da política pública prevista nesta Lei, o Poder Público estadual, por meio de seus órgãos competentes, poderá firmar parcerias com a iniciativa privada, visando ampliar o alcance e a eficácia das medidas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24356",
+   "short": "Lei 24356/2026",
+   "title": "Lei nº 24356, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115572",
+   "first_law": "lei-2026-24356",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115572",
+     "sha256": "a9ea6febc26e6bf9f95f77b6f4648ebf146e8fc5e91979e976b7f97dd1b26f7d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.356, DE 18 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GUILHERME BENEVIDES FARIAS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24357",
+   "short": "Lei 24357/2026",
+   "title": "Lei nº 24357, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115573",
+   "first_law": "lei-2026-24357",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115573",
+     "sha256": "842dcf577a361ac5c41fe1f5487f8b57269f90f49903bd0738a7bbf306d76797",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.357, DE 18 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARINHO FELISARDO ARAÚJO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24358",
+   "short": "Lei 24358/2026",
+   "title": "Lei nº 24358, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115575",
+   "first_law": "lei-2026-24358",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115575",
+     "sha256": "28b2c1b863a75fba4cca3f0686b79cec95647efce45c892714ead165a5ef2f05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.358, DE 18 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a REYNALDO SOARES DA FONSECA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24359",
+   "short": "Lei 24359/2026",
+   "title": "Lei nº 24359, de 2026 (Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115674",
+   "first_law": "lei-2026-24359",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115674",
+     "sha256": "1df51bc66b5031ae7f62b58ac81a02835e087742254ab5052f83f4c04f83909a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.359, DE 22 DE JUNHO DE 2026\nAltera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Anexo I da Lei nº 16.899, de 26 de janeiro de 2010, passa a vigorar com as alterações indicadas no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para as promoções no âmbito do Corpo de Bombeiros Militar do Estado de Goiás, poderão ser apreciadas, nos termos da lei, as vagas abertas até 2 de julho do referido ano de promoção.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Altera o Anexo I da Lei nº 16.899, de 26 de janeiro de 2010)\n\"ANEXO I\nQUADRO DE OFICIAIS DE COMANDO - QOC\nPOSTO QUANTITATIVO 2025 QUANTITATIVO 2026\nCoronel BM ................................................. 25\n2º Tenente BM ................................................. 152\n..........................................................................................................................\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24360",
+   "short": "Lei 24360/2026",
+   "title": "Lei nº 24360, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115679",
+   "first_law": "lei-2026-24360",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115679",
+     "sha256": "e4204d5e5087d8840e08a14b9d8d386e6c9e4dc048a96c94fa20b5be5f884cd0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.360, DE 22 DE JUNHO DE 2026\nAltera a Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.880, de 20 de abril de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 1º-A ..................................................\nIX - as pessoas vinculadas às entidades patrocinadoras, nos termos da regulamentação da Agência Nacional de Saúde Suplementar - ANS;\nX - os integrantes de uma ou mais categorias profissionais; e\nXI - os grupos familiares dos beneficiários indicados nos incisos I a X deste artigo até o quarto grau de parentesco consanguíneo ou por afinidade, o cônjuge ou o companheiro, bem como a criança e o adolescente sob guarda definitiva, tutela ou curatela.\nParágrafo único. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na ANS, o qual poderá definir os graus de parentesco elegíveis para os grupos familiares, respeitado o limite máximo estabelecido no inciso XI deste artigo.\" (NR)\n\"Art. 6º ....................................................\nI - por seis membros e seus respectivos suplentes indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;\nII - por quatro membros e seus respectivos suplentes, eleitos entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;\nIII - por um membro e seu respectivo suplente, eleitos entre os beneficiários dos demais patrocinadores de planos de saúde, distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;\nIV - por um membro, entre os demais patrocinadores, e seu respectivo suplente, eleitos diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde; e\nV - pelo Diretor-Presidente do Ipasgo Saúde e seu suplente, integrante da Diretoria-Executiva, por ele indicado.\n.......................................................................\" (NR)\n\"Art. 7º O Conselho Fiscal será composto por:\nI - três membros e seus respectivos suplentes, indicados pelo Governador do Estado, na qualidade de representantes do ente patrocinador instituidor;\nII - um membro e seu respectivo suplente, eleito entre os beneficiários titulares vinculados ao Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde;\nIII - um membro e seu respectivo suplente, eleito entre os beneficiários dos demais patrocinadores de planos de saúde distintos do Poder Executivo do Estado de Goiás, na forma prevista no Estatuto Social do Ipasgo Saúde; e\nIV - um membro e seu respectivo suplente, eleito diretamente pelos representantes dos patrocinadores, na forma prevista no Estatuto Social do Ipasgo Saúde.\n..........................................................................\" (NR)\n\"Art. 9º A Diretoria-Executiva será indicada pelo Governador do Estado de Goiás, com a seguinte composição:\nI - Diretor-Presidente; e\n..........................................................................\" (NR)\n\"Art. 10. A gestão do Ipasgo Saúde será exercida pela Diretoria-Executiva, composta pelo Diretor-Presidente, a quem caberá a representação do Ipasgo Saúde, e por três outros Diretores.\n§ 1º Os Diretores deverão ser brasileiros, indicados e nomeados pelo Governador do Estado, e atender aos seguintes requisitos:\nI - formação acadêmica compatível com o cargo para o qual forem indicados;\nII - experiência profissional de, no mínimo:\na) cinco anos nos setores público ou privado em função de gestão em área correlata à da indicação;\nb) quatro anos de efetivo exercício em cargo de direção ou de assessoramento superior; ou\nc) quatro anos de experiência como profissional liberal em atividade direta ou indiretamente vinculada à área de gestão ou de atuação do Ipasgo Saúde.\n§ 2º Os integrantes da Diretoria-Executiva exercerão o mandato de dois anos, com a possibilidade de recondução na forma do Estatuto Social do Ipasgo Saúde, o qual definirá as respectivas atribuições.\" (NR)\n\"Art. 13. Compete ao Ipasgo Saúde adotar regulamentos próprios, aprovados pelo Conselho de Administração, observados os princípios da legalidade, da integridade, da transparência, da responsabilização e da sustentabilidade.\" (NR)\n\"Art. 14. ........................................................\n§ 2º ...............................................................\nIII - entidades às quais se vinculem os beneficiários de que tratam os incisos IX e X do art. 1º-A desta Lei; e\n.............................................................................\" (NR)\n\"Art. 16. Compete ao Ipasgo Saúde:\nI - elaborar e publicar relatórios que demonstrem o cumprimento das obrigações regulatórias, conforme os parâmetros e a periodicidade estabelecidos pela ANS; e\nII - elaborar e publicar relatórios que demonstrem o cumprimento das obrigações firmadas com os patrocinadores;\nParágrafo único. O Ipasgo Saúde apresentará relatórios ao Poder Executivo do Estado de Goiás que identifiquem que os recursos provenientes de aporte financeiro previsto no art. 27, inciso V, desta Lei, sejam destinados exclusivamente ao custeio das despesas relativas à operação vinculada aos seus beneficiários.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As disposições desta Lei entram em vigor na data de sua publicação, observadas as regras de transição a que se referem os parágrafos deste artigo.\n§ 1º No prazo de até cento e vinte dias contados da publicação desta Lei, o Ipasgo Saúde deverá:\nI - promover as adequações necessárias ao Estatuto Social e aos regulamentos internos e submetê-los à aprovação do Conselho de Administração;\nII - adotar as providências administrativas e regulatórias exigidas pela ANS, em decorrência das alterações introduzidas por esta Lei; e\nIII - iniciar, em coordenação com os patrocinadores, o planejamento do processo de eleição dos representantes para os órgãos colegiados, nos termos desta Lei e do Estatuto Social.\n§ 2º O descumprimento dos prazos estabelecidos no § 1º deste artigo não suspende a vigência das demais disposições da Lei nº 21.880, de 2023.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os membros da Diretoria-Executiva e dos órgãos colegiados em exercício na data da publicação desta Lei permanecem no desempenho de suas funções até a posse dos novos dirigentes, na forma dos §§ 1º e 2º deste artigo.\n§ 1º Os membros da Diretoria-Executiva nomeados na forma do art. 9º da Lei nº 21.880, de 2023, tomarão posse no quinto dia útil do mês de fevereiro de 2027, data que servirá como marco institucional para o início unificado dos mandatos, observado o seguinte:\nI - o Governador do Estado procederá às indicações e às nomeações dos membros da Diretoria-Executiva com a antecedência mínima de três dias em relação à data da posse;\nII - os mandatos subsequentes terão início no quinto dia útil de fevereiro do primeiro ano do período correspondente, na forma do Estatuto Social, assegurada a periodicidade institucional dos ciclos de gestão; e\nIII - se algum cargo de diretor vier a vagar antes da data de posse fixada neste parágrafo, ele será exercido em substituição por membro da Diretoria, na forma do Estatuto Social, até a posse do substituto indicado para completar o mandato.\n§ 2º Os membros do Conselho de Administração e do Conselho Fiscal indicados e eleitos na forma desta Lei tomarão posse no quinto dia útil do mês de fevereiro de 2027, observado o seguinte:\nI - o processo eleitoral para a escolha dos representantes dos beneficiários deverá ser concluído com a antecedência mínima de quinze dias da data da posse;\nII - as indicações dos membros pelo Governador do Estado para os conselhos deverão ocorrer com a antecedência mínima de três dias da data da posse; e\nIII - até a posse dos novos membros, os órgãos colegiados funcionarão com a composição anterior, aplicadas, no que couber, as disposições da Lei nº 21.880, de 2023, que não dependam de adequação estatutária.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam revogados os seguintes dispositivos da Lei nº 21.880, de 2023:\nI - o § 3º do art. 6º;\nII - os incisos III e IV do art. 16; e\nIII - o art. 19.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24361",
+   "short": "Lei 24361/2026",
+   "title": "Lei nº 24361, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115691",
+   "first_law": "lei-2026-24361",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115691",
+     "sha256": "7fb7153f6132cdd7fbc8f74ed1a0cc3074b9501631a9383a320d538d37702a9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.361, DE 22 DE JUNHO DE 2026\nAltera a Lei nº 20.873, de 08 de outubro de 2020, que institui a Política de Atenção e Direitos ao Portador de Síndrome da Fibromialgia e Doenças Reumatológicas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.873, de 08 de outubro de 2020, passa a vigorar com as seguintes alterações:\n\"Art. 2º-A ...................................................\nParágrafo único. A identificação do veículo em uso pelas pessoas com fibromialgia se dará por meio de cartão de identificação para o uso em filas e vagas para estacionamento.\" (NR)\n\"Art. 2º-B Fica reconhecido, no âmbito do Estado de Goiás, o cordão de fita com desenhos de borboletas e/ou laços na cor roxa como símbolo de identificação de pessoas com fibromialgia.\n§ 1º Os estabelecimentos públicos e privados que disponibilizam atendimento prioritário devem inserir nas placas que sinalizam esse tipo de atendimento o cordão de fita com desenhos de borboletas e/ou laços na cor roxa, como símbolo de identificação de pessoas com fibromialgia.\n§ 2º A utilização do cordão como símbolo das pessoas com fibromialgia não dispensa a apresentação de documento comprobatório, caso seja solicitado pelo atendente ou pela autoridade competente.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24362",
+   "short": "Lei 24362/2026",
+   "title": "Lei nº 24362, de 2026 (Confere ao Município de Goiás/GO o título de \"Capital Estadual da Reforma Agrária\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115705",
+   "first_law": "lei-2026-24362",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115705",
+     "sha256": "6464a563319736613fa54901b2b32bb0e8f2253905b75706eaa6f177b36053b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.362, DE 22 DE JUNHO DE 2026\nConfere ao Município de Goiás/GO o título de \"Capital Estadual da Reforma Agrária\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Goiás/GO o título de \"Capital Estadual da Reforma Agrária\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24363",
+   "short": "Lei 24363/2026",
+   "title": "Lei nº 24363, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115709",
+   "first_law": "lei-2026-24363",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115709",
+     "sha256": "0dc772ca86c9ffa9c72e12a9c22aea55d4a3666381babc900da0b10a1f4450eb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.363, DE 22 DE JUNHO DE 2026\nDispõe sobre a adesão complementar do Estado de Goiás aos benefícios fiscais previstos na legislação do Distrito Federal, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás e em atenção às Leis Complementares federais nº 24, de 7 de janeiro de 1975, e nº 160, de 7 de agosto de 2017, também ao Convênio ICMS nº 190, de 15 de dezembro de 2017, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei promove a adesão do Estado de Goiás ao disposto no art. 10 da Lei nº 2.499, de 7 de dezembro de 1999, do Distrito Federal, conforme autorizam o § 8º do art. 3º da Lei Complementar federal nº 160, de 7 de agosto de 2017, e a cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o Chefe do Poder Executivo autorizado a conceder, na forma, limites e condições que instituir, o crédito outorgado do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS equivalente à aplicação de até 80% (oitenta por cento) sobre o valor do imposto devido nas operações interestaduais com feijão produzido no Estado de Goiás que não tenha sido submetido a qualquer processo de industrialização, em substituição à apropriação de quaisquer créditos relativos ao ICMS correspondentes à entrada das mercadorias ou dos bens e ao serviço utilizado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A utilização do crédito outorgado previsto no art. 2º desta Lei é condicionada a que o estabelecimento, em qualquer hipótese:\nI - esteja adimplente com o ICMS relativo à obrigação tributária própria ou em que for responsável por substituição tributária; e\nII - não possua crédito tributário inscrito em dívida ativa estadual.\n§ 1º Na hipótese do inciso I do caput deste artigo, a falta de pagamento ou o pagamento parcial do imposto correspondente a determinado período de apuração implica a perda do direito de o estabelecimento utilizar o crédito outorgado previsto no art. 2º desta Lei, exclusivamente no referido período de apuração, exceto quando, antes do início da ação fiscal, houver o pagamento integral ou parcial, hipótese em que fica permitida a utilização integral ou proporcional do benefício, conforme o caso, observadas ainda as demais disposições previstas na legislação tributária.\n§ 2º Na hipótese prevista no inciso II do caput deste artigo:\nI - a existência de crédito tributário inscrito em dívida ativa implica a perda do direito do estabelecimento de utilizar o benefício fiscal, exceto quando, antes do início da ação fiscal decorrente da utilização indevida do benefício fiscal, houver o pagamento integral do crédito tributário inscrito em dívida ativa, observadas as demais disposições previstas na legislação tributária; e\nII - a existência de crédito tributário inscrito em dívida ativa cuja exigibilidade esteja suspensa nos termos da lei ou para o qual tenha sido efetivada a penhora de bens suficientes ao pagamento do total da dívida não constitui empecilho à utilização do crédito outorgado previsto no art. 2º desta Lei.\n§ 3º Na hipótese de verificação do não cumprimento do disposto nos §§ 1º e 2º deste artigo, a autoridade administrativa competente procederá ao estorno do crédito apropriado indevidamente, com a exigência do crédito tributário correspondente corrigido e dos acréscimos legais previstos na legislação tributária.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º É vedada a utilização do crédito outorgado previsto no art. 2º desta Lei cumulativamente com outro benefício fiscal ou tratamento tributário diferenciado previstos na legislação tributária, resguardada a opção pelo benefício mais favorável.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação e produz efeitos por cinco anos.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24364",
+   "short": "Lei 24364/2026",
+   "title": "Lei nº 24364, de 2026 (Institui a Semana Estadual de Conscientização sobre a Síndrome de Rett.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115710",
+   "first_law": "lei-2026-24364",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115710",
+     "sha256": "d3c02d1ddcc1b45fcac923422cbd6ad1c5c2a303632883d1ab6c04d3dc437df1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.364, DE 22 DE JUNHO DE 2026\nInstitui a Semana Estadual de Conscientização sobre a Síndrome de Rett.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Conscientização sobre a Síndrome de Rett, a ser realizada, anualmente, na segunda semana do mês de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual instituída por esta Lei atenderá às seguintes diretrizes:\nI - incentivar a realização de palestras e lives para a sociedade, bem como nas escolas e repartições públicas;\nII - estimular a ampla divulgação, nas redes e mídias digitais, dos sintomas da doença, bem como da importância do diagnóstico precoce;\nIII - estimular a realização de campanhas, produção de cartilhas, propagandas publicitárias, bem como de materiais informativos e explicativos sobre a Síndrome de Rett;\nIV - estimular a fixação de cartazes informativos na rede pública estadual de saúde.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Semana Estadual instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24365",
+   "short": "Lei 24365/2026",
+   "title": "Lei nº 24365, de 2026 (Institui a Campanha Estadual \"Saúde Renal para Todos\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115712",
+   "first_law": "lei-2026-24365",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115712",
+     "sha256": "7736675dd75518eddc04afc0fc476ef1f2621bcf187a58f145c062ca638cf3a7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.365, DE 22 DE junho DE 2026\nInstitui a Campanha Estadual \"Saúde Renal para Todos\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Estadual \"Saúde Renal para Todos\", a ser realizada, anualmente, na segunda semana do mês de março, nas escolas da rede pública estadual de ensino, e tem por objetivo conscientizar e prevenir as doenças renais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a realização de palestras, seminários, workshops e outras atividades congêneres que conscientizem e estimulem os alunos a:\na) adotarem alimentação saudável, hidratação e demais hábitos preventivos das doenças renais;\nb) incentivarem seus familiares a realizar exames, com vistas ao diagnóstico precoce de eventuais doenças renais;\nII - incentivar a adoção de políticas públicas que contribuam para a redução dos fatores de risco associados às doenças renais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Campanha instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24366",
+   "short": "Lei 24366/2026",
+   "title": "Lei nº 24366, de 2026 (Institui normas gerais para a criação do Memorial às Vítimas do Acidente Radiológico com Césio-137 e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115713",
+   "first_law": "lei-2026-24366",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115713",
+     "sha256": "c5e7ac36549be8ff2a68c3cb905b4dec5ea9e0c1efc5856490e73be8ca9c554f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.366, DE 22 DE JUNHO DE 2026\nInstitui normas gerais para a criação do Memorial às Vítimas do Acidente Radiológico com Césio-137 e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Dia Estadual em Homenagem às Vítimas do Acidente Radiológico com Césio-137, a ser celebrado, anualmente, no dia 13 de setembro.\nParágrafo único. O Dia Estadual instituído por esta Lei tem por objetivos:\nI - consolidar a memória das vítimas do Acidente Radiológico com Césio-137, para que sejam conhecidas pelas novas gerações;\nII - estimular a avaliação periódica da situação das vítimas sobreviventes, bem como a instituição de políticas públicas para atendê-las;\nIII - estimular a realização de pesquisas e estudos sobre o acidente e suas consequências.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24367",
+   "short": "Lei 24367/2026",
+   "title": "Lei nº 24367, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115714",
+   "first_law": "lei-2026-24367",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115714",
+     "sha256": "5a2156be5f199414fc9194b07c41e1a8be2f4923072537144b2d53c992b4e725",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.367, DE 22 DE JUNHO DE 2026\nAltera a Lei nº 23.029, de 10 de outubro de 2024, que institui a Política Estadual de Proteção e Atenção às Mães Atípicas e a Semana Estadual das Mães Atípicas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 23.029, de 10 de outubro de 2024, passa a vigorar com as seguintes alterações:\n\"Art. 2º ....................................................\nVI - estimular a realização de cursos e workshops para pais e mães sobre cuidados específicos e estratégias de manejo de crianças com condições especiais;\nVII - estimular a disponibilização de treinamentos sobre direitos e acesso a serviços de saúde e educação para crianças atípicas;\nVIII - estimular a criação de um banco de recursos e contatos de profissionais especializados e redes de apoio para pais e mães atípicos;\nIX - estimular a orientação e a assistência na obtenção de benefícios e serviços sociais específicos para famílias de crianças com necessidades especiais;\nX - estimular a implementação de programas de auxílio financeiro para famílias em situação de vulnerabilidade devido às necessidades especiais dos filhos;\nXI - estimular instituições educacionais e de saúde a se adaptarem para atender às necessidades das crianças com condições especiais;\nXII - estimular a celebração de parcerias com organizações não governamentais e entidades privadas para ampliar a rede de suporte às famílias;\nXIII - estimular a divulgação e a acessibilidade dos serviços e programas oferecidos.\" (NR)\n\"Art. 4º-A As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\" (NR)\n\"Art. 4º-B Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública instituída.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24368",
+   "short": "Lei 24368/2026",
+   "title": "Lei nº 24368, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115828",
+   "first_law": "lei-2026-24368",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115828",
+     "sha256": "d6bb277741d713baf24979c7a44f58ef81a4453e7eb3f996975217a7b5f1e938",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.368, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCIANO MIRANDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24369",
+   "short": "Lei 24369/2026",
+   "title": "Lei nº 24369, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115829",
+   "first_law": "lei-2026-24369",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115829",
+     "sha256": "838111eb42de74167b88291a880f4d4031cf7bd39805e57ccbb26b2d37b81895",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.369, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a AMARAL WILSON DE OLIVEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24370",
+   "short": "Lei 24370/2026",
+   "title": "Lei nº 24370, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115830",
+   "first_law": "lei-2026-24370",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115830",
+     "sha256": "20d09c64e3a62587cd508964e752baffaf6838cff094fe7b01a30c5f49de6d51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.370, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a WILLIAM BRUNO DE LIMA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24371",
+   "short": "Lei 24371/2026",
+   "title": "Lei nº 24371, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115831",
+   "first_law": "lei-2026-24371",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115831",
+     "sha256": "a723c8ba9b0c848fe3167c47dabdb40f4394c6907dd8eced10de3b0cabae30fa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.371, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ÍCARO DA SILVA MANTOVANI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24372",
+   "short": "Lei 24372/2026",
+   "title": "Lei nº 24372, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115832",
+   "first_law": "lei-2026-24372",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115832",
+     "sha256": "0f3ea88c150016ca0cfd902b3d44d3683b1221226de85697b04264d6fa03d8e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.372, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CHRISTIANO PERES COELHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24373",
+   "short": "Lei 24373/2026",
+   "title": "Lei nº 24373, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115833",
+   "first_law": "lei-2026-24373",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115833",
+     "sha256": "55fd25ccf6a95224f258a6bf46514dc59bbee68bd0499753134428674ae9150a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.373, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FABIANA DE ALMEIDA OLIVEIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24374",
+   "short": "Lei 24374/2026",
+   "title": "Lei nº 24374, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115834",
+   "first_law": "lei-2026-24374",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115834",
+     "sha256": "f4a6a72cf04c559ba5f1088cf1688f5f500f047ff8ac0223ece4c4c3063ffdbd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.374, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IVAN PEREIRA DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24375",
+   "short": "Lei 24375/2026",
+   "title": "Lei nº 24375, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115835",
+   "first_law": "lei-2026-24375",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115835",
+     "sha256": "6689717f4bd4435134cf498274532f61460f14a0a10f7031f432dd6c4920a312",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.375, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ ODVAR LOPES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24376",
+   "short": "Lei 24376/2026",
+   "title": "Lei nº 24376, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115836",
+   "first_law": "lei-2026-24376",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115836",
+     "sha256": "cbed591b1847ad5bb17a773eb4459c68aa0cdf80d1d63738708a95abd690bd81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.376, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MÁRIO BARBOSA DE ARRUDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24377",
+   "short": "Lei 24377/2026",
+   "title": "Lei nº 24377, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115837",
+   "first_law": "lei-2026-24377",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115837",
+     "sha256": "d2cd364d68f5288883ff49479743ff34c5dd84586b4a9612329a2941bae680ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.377, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RAFAEL TANGERINO MELO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24378",
+   "short": "Lei 24378/2026",
+   "title": "Lei nº 24378, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115838",
+   "first_law": "lei-2026-24378",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115838",
+     "sha256": "b03761b200f0f52cde04bb9fe8200c1bcdac24e91d8dc9385bf3d435ff598aa5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.378, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RITA DE CÁSSIA RAFAEL GONÇALVES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24379",
+   "short": "Lei 24379/2026",
+   "title": "Lei nº 24379, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115839",
+   "first_law": "lei-2026-24379",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115839",
+     "sha256": "8f88f6217abbb5cd0f2483eabcf4d4391246a088c47ae102c1a9bab980d02370",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.379, DE 24 DE JUNHO DE 2026.\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FLÁVIO NANTES BOLSONARO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nMAJOR ARAÚJO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24380",
+   "short": "Lei 24380/2026",
+   "title": "Lei nº 24380, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115840",
+   "first_law": "lei-2026-24380",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115840",
+     "sha256": "64f2b826d8a4253f7a1bc01de661a0b7a504142818672f37220a008e756b45ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.380, DE 24 DE junho DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ REGINALDO DINIZ DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24381",
+   "short": "Lei 24381/2026",
+   "title": "Lei nº 24381, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115841",
+   "first_law": "lei-2026-24381",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115841",
+     "sha256": "1af62104f3f41637e4920e4e8fef788b0cc65929c241bb722eec73026d940920",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.381, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a PAULO RICARDO NASCIMENTO GOMES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24382",
+   "short": "Lei 24382/2026",
+   "title": "Lei nº 24382, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115842",
+   "first_law": "lei-2026-24382",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115842",
+     "sha256": "aad8d67aaeed2164d644102f6e999078862125cdc41260f171535f861200c79a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.382, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FÁBIO LUIZ MUNHOZ MAZZARO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24383",
+   "short": "Lei 24383/2026",
+   "title": "Lei nº 24383, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115843",
+   "first_law": "lei-2026-24383",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115843",
+     "sha256": "48f4fa80bca1602c7e622156f2b346a1c6c0dbca7524d8976f2f8893a0e9b144",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.383, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RODRIGO GONÇALVES CAMACHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24384",
+   "short": "Lei 24384/2026",
+   "title": "Lei nº 24384, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115844",
+   "first_law": "lei-2026-24384",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115844",
+     "sha256": "34be6db071bae22e1af45384f10a609b0a8ec4e074037c346a558cdd8f18133a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.384, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IZAIAS ANTONIO DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24385",
+   "short": "Lei 24385/2026",
+   "title": "Lei nº 24385, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115845",
+   "first_law": "lei-2026-24385",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115845",
+     "sha256": "a829704e4e8fff4d2398ecc86dedf7b1cb9ffd2d2fe9b6bfa78787051f0963b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.385, DE 24 DE junho DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a TALES DE CASTRO CASSIANO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24386",
+   "short": "Lei 24386/2026",
+   "title": "Lei nº 24386, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115846",
+   "first_law": "lei-2026-24386",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115846",
+     "sha256": "8bc8627a95414ec6da2fdce4dad50dbbd29c852604cbb157b6f3319f9cab4d72",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.386, DE 24 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a EZÍZIO ALVES BARBOSA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24387",
+   "short": "Lei 24387/2026",
+   "title": "Lei nº 24387, de 2026 (Autoriza o Estado de Goiás a alienar e transferir bens imóveis dominicais para a constituição de um ou mais Fundos de Investimento Imobiliário.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115920",
+   "first_law": "lei-2026-24387",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115920",
+     "sha256": "12da911a7f6c702cd20c2dbbcd6c7c6e1082f66e51e67b14ce02469a60d32b2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.387, DE 26 DE JUNHO DE 2026\nAutoriza o Estado de Goiás a alienar e transferir bens imóveis dominicais para a constituição de um ou mais Fundos de Investimento Imobiliário.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Estado de Goiás, por meio do Poder Executivo, a alienar e transferir bens imóveis dominicais, a título de integralização de cotas, para a constituição de um ou mais Fundos de Investimento Imobiliário - FIIs, observados, para cada ativo, a avaliação prévia, a motivação administrativa, a demonstração de vantajosidade econômica e, quando houver afetação a serviço público específico, o plano de desafetação que assegure a continuidade, a substituição ou a realocação da atividade pública correspondente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Cada FII constituído com fundamento nesta Lei deverá adotar o regime de responsabilidade limitada, nos termos da regulamentação da Comissão de Valores Mobiliários, do regulamento do respectivo FII e das classes e das subclasses de cotas instituídas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As cotas de cada FII poderão ser detidas pelo Estado de Goiás, por autarquias, fundações, empresas estatais e investidores privados, observadas a legislação aplicável e as regras do regulamento do respectivo FII.\n§ 1º O Estado de Goiás manterá, direta ou indiretamente, a maioria das cotas de cada FII, e será vedada a perda do controle estatal majoritário, salvo mediante autorização legislativa específica.\n§ 2º O regulamento de cada FII disciplinará as classes e as subclasses e, quando forem admitidas pela legislação aplicável, as séries de cotas, além dos respectivos direitos políticos e econômicos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Cada FII será constituído nos termos da regulamentação da Comissão de Valores Mobiliários, mediante deliberação dos prestadores de serviços essenciais competentes, e lhes caberá aprovar o respectivo regulamento, observada a seleção ou a contratação pelo Estado de Goiás, quando isso for aplicável, na forma da Lei federal nº 14.133, de 1º de abril de 2021.\nParágrafo único. O regulamento do respectivo FII e o edital de seleção estabelecerão os requisitos mínimos de qualificação, governança, segregação de funções, deveres fiduciários, transparência, prestação de contas e responsabilização dos prestadores de serviços essenciais e dos terceiros contratados em nome do respectivo FII, observada a regulamentação da Comissão de Valores Mobiliários.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Competirá ao Poder Executivo:\nI - editar decreto com a relação dos imóveis elegíveis à integralização, observados, no mínimo, os critérios de dominialidade, avaliação prévia, regularidade registral mínima, análise urbanística e ambiental, liquidez e vantajosidade econômica e, quando houver afetação a serviço público específico, o plano de desafetação que assegure a continuidade, a substituição ou a realocação da atividade pública correspondente;\nII - instituir a estrutura de governança específica para o acompanhamento da política patrimonial relacionada aos FIIs constituídos com fundamento nesta Lei;\nIII - disciplinar procedimentos de inclusão, exclusão, substituição e faseamento dos ativos;\nIV - assegurar mecanismos de transparência ativa e prestação periódica de contas; e\nV - criar e manter portal eletrônico específico contendo, em linguagem acessível e formato aberto, todas as informações relativas aos imóveis integralizados, avaliações, estudos técnicos, regulamentos dos fundos, composição societária, demonstrações financeiras e relatórios de desempenho.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Caberá a cada FII, por meio de seus prestadores de serviços essenciais e dos terceiros por eles contratados, promover, observados o regulamento do respectivo FII e o regime de encargos previsto na regulamentação da Comissão de Valores Mobiliários, a elaboração de estudos técnicos, jurídicos, ambientais, urbanísticos, tributários, econômico-financeiros e outros necessários à verificação da viabilidade do aporte de cada ativo, previamente à sua integralização no patrimônio do respectivo FII.\nParágrafo único. Nenhum imóvel será integralizado sem o relatório favorável das diligências e da análise de vantajosidade econômica, observado o interesse público.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A incorporação dos imóveis aos FIIs constituídos com fundamento nesta Lei ocorrerá de forma gradual, por fases ou etapas sucessivas, condicionada à conclusão favorável das diligências técnicas e jurídicas, à viabilidade econômico-financeira de cada ativo e à capacidade de absorção do mercado imobiliário.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A autorização legislativa conferida por esta Lei abrange a alienação e a transferência dos imóveis que sejam individualmente relacionados em decreto do Poder Executivo para a integralização em FIIs constituídos com fundamento nesta Lei, dispensada a edição de lei específica para cada imóvel, desde que, para cada ativo, constem do processo administrativo e do respectivo decreto:\nI - a identificação completa do imóvel, com matrícula, localização, área e titularidade;\nII - a avaliação prévia e a indicação do preço mínimo, quando for cabível;\nIII - a motivação administrativa individualizada;\nIV - a análise da regularidade dominial, urbanística, registral e, quando for aplicável, ambiental;\nV - a demonstração de vantajosidade econômica e de interesse público; e\nVI - a publicação integral dos elementos essenciais em sítio eletrônico oficial.\nParágrafo único. O decreto previsto no caput terá natureza meramente executória e não poderá incluir imóveis que não atendam aos critérios e às finalidades previstas nesta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24388",
+   "short": "Lei 24388/2026",
+   "title": "Lei nº 24388, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115976",
+   "first_law": "lei-2026-24388",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115976",
+     "sha256": "4a1e12c12e377fd4ee185f7c53197b846c9580ba3b500c9165befe4aeb8ca678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.388, DE 29 DE JUNHO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a TIAGO DOS SANTOS ALMEIDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24389",
+   "short": "Lei 24389/2026",
+   "title": "Lei nº 24389, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115977",
+   "first_law": "lei-2026-24389",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115977",
+     "sha256": "b04cec0a0896b3084d2db6af8ad77e530bf72bdf1ee6548282bb0bc724ed3981",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.389, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 19.423, de 26 de julho de 2016, que dispõe sobre a produção, o armazenamento, o comércio, o transporte interno, a utilização, o destino final de resíduos e embalagens, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins, no Estado de Goiás, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.423, de 26 de julho de 2016, passa a vigorar com as seguintes alterações:\n\"Art. 1º A produção, o armazenamento, o comércio, o transporte interno, a utilização, o destino final de resíduos e embalagens, a inspeção e a fiscalização de agrotóxicos, seus componentes e afins, no Estado de Goiás, são regidos por esta Lei, em consonância com a Lei federal nº 14.785, de 27 de dezembro de 2023, e sua regulamentação.\nParágrafo único. Esta Lei não se aplica aos bioinsumos definidos na Lei federal nº 15.070, de 23 de dezembro de 2024.\" (NR)\n\"Art. 2º .................................................\nI - .......................................................\na) agrotóxicos: produtos e agentes de processos físicos ou químicos isolados ou em mistura com biológicos destinados ao uso nos setores de produção, no armazenamento e no beneficiamento de produtos agrícolas, nas pastagens ou na proteção de florestas plantadas, cuja finalidade seja alterar a composição da flora ou da fauna, a fim de preservá-las da ação danosa de seres vivos considerados nocivos;\nb) afins: substâncias e produtos empregados como desfolhantes, dessecantes, fitorreguladores, ativadores de planta, protetores e outros com finalidades específicas;\nXVIII - matéria-prima: substância, produto ou organismo utilizado na obtenção de ingrediente ativo ou de produto que o contenha, por processos físicos ou químicos isolados ou em mistura com biológicos;\nXIX - posto de recebimento: estabelecimento mantido ou credenciado por um ou mais estabelecimentos comerciais ou conjuntamente com os fabricantes destinado a receber e armazenar provisoriamente embalagens vazias de agrotóxicos, seus componentes e afins devolvidas pelos usuários;\nXX - pré-mistura: produto obtido a partir de produto técnico, por processos físicos ou químicos isolados ou em mistura com biológicos, destinado exclusivamente à preparação de produtos formulados;\nXXI - prestadora de serviço: pessoa física ou jurídica habilitada a executar trabalho de armazenamento e aplicação de agrotóxicos, seus componentes e afins;\nXXII - produção: processo físico ou químico isolado ou em mistura com biológicos para a obtenção de agrotóxicos, de produtos de controle ambiental e de seus produtos técnicos;\nXXIII - produtos de controle ambiental: produtos e agentes de processos físicos ou químicos isolados ou em mistura com biológicos destinados ao uso nos setores de proteção de florestas nativas ou de outros ecossistemas e de ambientes hídricos, cuja finalidade seja alterar a composição da flora ou da fauna, a fim de preservá-las da ação danosa de seres vivos considerados nocivos;\nXXIV - produto formulado: agrotóxico, produto de controle ambiental ou afim obtido a partir de produto técnico ou de pré-mistura, por processo físico, ou diretamente de matérias-primas, por meio de processos físicos ou químicos isolados ou em mistura com biológicos;\nXXV - produto técnico: produto obtido diretamente de matérias-primas por processo físico ou químico isolado ou em mistura com biológicos destinado à obtenção de produtos formulados ou de pré-misturas e cuja composição contém teor definido de ingrediente ativo e de impurezas, podendo conter estabilizantes e produtos relacionados, tais como isômeros;\nXXVI - pulverização por via aérea: realizada por aviões, hidroaviões e helicópteros próprios para tal atividade;\nXXVII - receita agronômica: prescrição e orientação técnica para a utilização de agrotóxico ou afim por profissional legalmente habilitado;\nXXVIII - reincidência: infração aos mesmos dispositivos legais, após decisão administrativa condenatória transitada em julgado;\nXXIX - resíduo: substância ou mistura de substâncias remanescente ou existente em alimentos, embalagens, recipientes ou no meio ambiente, decorrente da utilização de agrotóxicos, seus componentes e afins, inclusive quaisquer derivados específicos, como produtos de conversão e de degradação, metabólitos, produtos de reação e impurezas, considerados toxicológicas e ambientalmente importantes;\nXXX - usuário: pessoa física ou jurídica que utiliza agrotóxicos, seus componentes e afins;\nXXXI - venda direta: comercialização realizada diretamente entre o detentor do registro de agrotóxico e afins e o usuário final.\" (NR)\n\"Art. 4º .......................................................\nI - ..............................................................\na) ao cadastro de produtos agrotóxicos de utilização agrícola, de pessoas físicas e jurídicas comercializadoras, produtoras, armazenadoras, manipuladoras, embaladoras de agrotóxicos, seus componentes e afins; e\nb) à prestação de serviços e às unidades de recebimento de embalagens vazias de agrotóxicos de utilização agrícola, seus componentes e afins;\nIII - cadastrar produtos agrotóxicos de utilização agrícola, seus componentes e afins e previamente registrados pelo Ministério da Agricultura e Pecuária, produzidos, manipulados, embalados, armazenados, comercializados, transportados e utilizados no Estado de Goiás;\nIV - orientar, controlar, inspecionar e fiscalizar o comércio, o armazenamento, a exposição comercial, o transporte interno e a utilização dos agrotóxicos de uso agrícola, seus componentes e afins;\nV - orientar, controlar, inspecionar e fiscalizar a devolução, o transporte, o recebimento e a destinação final das embalagens vazias de agrotóxicos de utilização agrícola, seus componentes e afins;\nVIII - divulgar em seu endereço eletrônico informações sobre agrotóxicos de utilização agrícola, seus componentes e afins, bem como as empresas registradas para produção, formulação, comercialização e armazenamento desses produtos, prestadoras de serviço e unidades de recebimento de embalagens vazias de agrotóxicos de utilização agrícola e afins;\nX - desenvolver e implementar sistema de controle do comércio de agrotóxicos, seus componentes e afins.\" (NR)\n\"Art. 17. As pessoas físicas e jurídicas que sejam prestadoras de serviços para terceiros na aplicação de agrotóxicos, de produtos de controle ambiental e afins ou que os produzam, importem, exportem ou comercializem são obrigadas a promover o registro único no órgão federal registrante, de forma a permitir a sua identificação e as suas atividades e o compartilhamento das informações entre as instituições participantes e os órgãos competentes dos estados ou dos municípios.\n§ 1º Deverão ser cadastrados no Sistema Unificado de Cadastro e de Utilização de Agrotóxicos:\nI - os estabelecimentos produtores, manipuladores, importadores e exportadores;\nII - as instituições dedicadas à pesquisa e à experimentação;\nIII - os distribuidores;\nIV - os profissionais legalmente habilitados;\nV - os agricultores usuários de agrotóxicos; e\nVI - as prestadoras de serviços para terceiros na aplicação de agrotóxicos e de produtos de controle ambiental.\n§ 2º A entidade estadual de defesa agropecuária utilizará os dados disponíveis no Sistema Unificado de Cadastro e de Utilização de Agrotóxicos ou sistema similar, para a fiscalização e o controle das atividades desenvolvidas no território estadual, inclusive por meio de ferramentas tecnológicas, além da garantia do acesso seguro, atualizado e oficial às informações.\n§ 3º Até que haja a implementação do Sistema Unificado de Cadastro e de Utilização de Agrotóxicos e de Produtos de Controle Ambiental Informatizado ou sistema similar, a entidade estadual de defesa agropecuária poderá manter e realizar cadastros conforme a competência indicada no art. 4º desta Lei e em sua regulamentação.\n.........................................................................\" (NR)\n\"Art. 20. São infrações leves:\nII - receber, manipular, acondicionar, armazenar ou descartar inadequadamente as embalagens vazias de agrotóxicos, afins e produtos de controle ambiental, em desacordo com as disposições desta Lei, de seu regulamento e dos atos normativos que a complementarem;\nIII - armazenar ou transportar agrotóxicos, seus componentes e afins, sem respeitar as condições de segurança e as instruções da bula;\nIV - vender agrotóxicos e afins ao usuário final sem a receita agronômica;\nV - adquirir agrotóxicos e afins para a utilização final sem a receita agronômica;\nVI - não utilizar os equipamentos de proteção coletiva ou individual destinados à produção, à distribuição e à aplicação dos agrotóxicos, dos seus componentes e afins, bem como não fazer a manutenção desses equipamentos;\nVII - não utilizar todos os equipamentos necessários à proteção da saúde do trabalhador na manipulação e na aplicação de agrotóxicos e afins, também na manipulação das embalagens vazias correspondentes;\nVIII - utilizar agrotóxicos, seus componentes e afins, sem os devidos cuidados com a proteção da saúde humana, do meio ambiente e dos recursos hídricos;\nIX - prescrever a utilização de agrotóxicos e afins de forma incorreta, displicente ou indevida;\nX - utilizar agrotóxicos e afins sem receita agronômica;\nXI - utilizar agrotóxicos e afins em desacordo com a receita agronômica;\nXII - recusar-se à condição de fiel depositário de agrotóxicos, seus componentes e afins apreendidos em seu estabelecimento em qualquer ação fiscalizatória;\nXIII - não recolher agrotóxicos, seus componentes e afins provenientes de seu estabelecimento apreendidos em qualquer ação fiscalizatória impróprios para utilização ou em desuso;\nXIV - adquirir agrotóxicos de utilização agrícola, seus componentes e afins em outras unidades da federação, diretamente para a utilização final, sem o conhecimento dos órgãos de fiscalização estaduais;\nXV - não realizar a manutenção dos equipamentos destinados à produção, à distribuição e à aplicação de agrotóxicos, seus componentes e afins;\nXVI - não fornecer o equipamento de proteção individual, não lhe dar a manutenção necessária e não controlar a utilização dele, bem como não treinar e orientar adequadamente o trabalhador quanto ao uso correto desses equipamentos e aos riscos à saúde decorrentes da manipulação e da aplicação de agrotóxicos, seus componentes e afins sem a devida proteção;\nXVII - não disponibilizar ou indicar instalações adequadas para o recebimento e o armazenamento de embalagens vazias de agrotóxicos, seus componentes e afins;\nXVIII - não fazer a tríplice lavagem, a lavagem sob pressão ou não empregar metodologia equivalente de lavagem de embalagens vazias de agrotóxicos, seus componentes e afins;\nXIX - não devolver as embalagens vazias em local indicado e credenciado pelo estabelecimento comercial ou indicado na nota fiscal, no prazo máximo de um ano, a partir da data de aquisição ou até seis meses após o vencimento da validade do produto;\n.......................................................................\" (NR)\n\"Art. 21. São infrações graves:\nI - produzir, manipular, acondicionar, comercializar e armazenar agrotóxicos, seus componentes e afins em estabelecimentos que não estejam registrados nos órgãos competentes;\nII - receber, manipular, acondicionar e armazenar embalagens vazias de agrotóxicos e afins em estabelecimentos que não estejam registrados no órgão competente;\nIII - prestar serviços de aplicação de agrotóxicos, seus componentes e afins que não estejam registrados no órgão competente;\nIV - dificultar a fiscalização ou a inspeção ou não atender às intimações em tempo hábil;\nV - omitir informações ou prestar informações incorretas à autoridade fiscalizadora;\nVI - utilizar agrotóxicos e afins vencidos ou impróprios para uso e as sobras deles, além de reutilizar as embalagens vazias;\nVII - não indicar na nota fiscal o local de devolução das embalagens vazias de agrotóxicos, seus componentes e afins;\nVIII - não fornecer, em modelos e sistemas informatizados instituídos pelo Estado de Goiás, informações sobre as atividades que envolvam agrotóxicos, seus componentes e afins;\nIX - comercializar vegetais ou agrotóxicos e afins apreendidos ou provenientes de áreas interditadas em decorrência do descumprimento desta Lei; e\nX - o detentor do registro não recolher embalagens vazias de agrotóxicos ou produtos condenados, em desuso ou apreendidos pela ação fiscalizadora no prazo estabelecido.\" (NR)\n\"Art. 21-A. São infrações gravíssimas:\nI - falsificar e adulterar agrotóxicos, seus componentes e afins;\nII - alterar a bula ou o rótulo dos agrotóxicos, seus componentes e afins sem a prévia alteração no órgão registrante;\nIII - dar destinação indevida a embalagens vazias de agrotóxicos, seus componentes e afins em unidades de recebimento registradas ou não;\nIV - receber, acondicionar, manipular ou armazenar embalagens vazias de agrotóxicos, seus componentes e afins em estabelecimentos que não estejam registrados; e\nV - aplicar agrotóxicos, seus componentes e afins em desacordo com o art. 11 desta Lei.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados da Lei nº 19.423, de 2016:\nI - a alínea \"c\" do inciso I e o inciso II do art. 4º;\nII - os §§ 4º e 5º do art. 17; e\nIII - os incisos XX a XXXIV do art. 20.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24390",
+   "short": "Lei 24390/2026",
+   "title": "Lei nº 24390, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115979",
+   "first_law": "lei-2026-24390",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115979",
+     "sha256": "b5423e0f2ea83840d229dad145ebee9d3b59fb2c4459ffd9bf29640c4494d25e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.390, DE 29 DE JUNHO DE 2026\nDispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação - SEDUC, o Colégio Estadual José Bonifácio da Silva, situado no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, e seus efeitos retroagem a 1º de janeiro de 1998.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24391",
+   "short": "Lei 24391/2026",
+   "title": "Lei nº 24391, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115982",
+   "first_law": "lei-2026-24391",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115982",
+     "sha256": "3cea26560acf62395a047960d0132e85007698482c767add9abdb8042e594a09",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.391, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE, e revoga dispositivo da Lei nº 16.469, de 19 de janeiro de 2009, que regula o processo administrativo tributário e dispõe sobre os órgãos vinculados ao julgamento administrativo de questões de natureza tributária.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE, passa a vigorar com as seguintes alterações:\n\"Art. 44. ..................................................\n§ 1º-B ......................................................\nVII - o distribuidor de combustíveis que:\na) atue como importador;\nb) misture óleo diesel A com B100, com o volume de B100 adicionado superior ao percentual obrigatório, nos casos previstos ou autorizados pela agência reguladora, em relação ao volume de B100 que exceder o percentual obrigatório, conforme disposto em regulamento; e\nc) misture gasolina A com EAC, com o volume de EAC adicionado superior ao percentual obrigatório, nos casos previstos ou autorizados pela agência reguladora, em relação ao volume de EAC que exceder o percentual obrigatório, em virtude do encerramento da postergação do imposto, conforme disposto em regulamento.\n..........................................................................\" (NR)\n\"Art. 52-A. A empresa distribuidora de energia elétrica fica nomeada substituta tributária relativamente à obrigação de pagar o imposto devido sobre as operações posteriores de recarga de veículos elétricos, realizadas por consumidores cativos, a partir de estabelecimento que não participe do sistema de compensação de energia elétrica e:\nI - opere exclusivamente como estação de recarga de veículos elétricos; ou\nII - atue em outros segmentos econômicos, ainda que não estejam inscritos no Cadastro de Contribuintes do Estado, desde que possua medição exclusiva para as estações de recarga de veículos elétricos.\nParágrafo único. O imposto a que se refere o caput deste artigo deve ser pago na ocasião da saída do produto do estabelecimento da distribuidora e calculado com base nos critérios previstos na alínea 'c' do inciso II do art. 26 desta Lei.\" (NR)\n\"Art. 54-F. Ficam atribuídas ao distribuidor de combustíveis que realizar a mistura de:\nI - óleo diesel A com B100 a responsabilidade pela retenção e pelo recolhimento do ICMS sobre o volume de B100 que exceder o percentual obrigatório nas operações de saída de óleo diesel B, conforme disposto em regulamento; e\nII - gasolina A com EAC a responsabilidade pela retenção e pelo recolhimento do ICMS sobre o volume de EAC que exceder o percentual obrigatório nas operações de saída de gasolina C, nos casos previstos ou autorizados pela agência reguladora, em virtude do encerramento da postergação, conforme disposto em regulamento.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogado o art. 27-A da Lei nº 16.469, de 19 de janeiro de 2009.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 29 de dezembro de 2025 em relação aos seguintes dispositivos da Lei nº 11.651, de 1991:\nI - inciso VII do § 1º-B do art. 44; e\nII - ao art. 54-F.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24406",
+   "short": "Lei 24406/2026",
+   "title": "Lei nº 24406, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115983",
+   "first_law": "lei-2026-24406",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115983",
+     "sha256": "380e05863092a8f1b5bf340886565e79eb6de4f39bcf676a748b57635e7a28fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.406, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 16.900, de 26 de janeiro de 2010, a Lei nº 17.089, de 02 de julho de 2010, e a Lei nº 14.657, de 08 de janeiro de 2004, relativas a carreiras e subsídios da Delegacia-Geral da Polícia Civil.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os Anexos I e II da Lei nº 16.900, de 26 de janeiro de 2010, passam a vigorar conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Anexo I da Lei nº 17.089, de 02 de julho de 2010, passa a vigorar conforme o Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Lei nº 14.657, de 08 de janeiro de 2004, passa a vigorar com a seguinte alteração:\n\"Art. 4º Os subsídios das classes que integram a carreira do cargo de Papiloscopista Policial são os mesmos atribuídos aos das classes de Identificador, Classificador e Dactiloscopista do Grupo Ocupacional de Identificação, conforme definido no Anexo II desta Lei.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Ficam promovidas as seguintes alterações na Lei nº 14.657, de 08 de janeiro de 2004:\nI - a transformação do Anexo Único em Anexo I; e\nII - o acréscimo do Anexo II, conforme o Anexo III desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica revogado o art. 5º da Lei nº 14.657, de 2004.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO I\n(Alteração dos Anexos I e II da Lei nº 16.900, de 26 de janeiro de 2010)\n\"ANEXO I\n(Tabela de classes, padrões e valores de subsídios dos cargos de Agente de Polícia e Escrivão de Polícia)\nCargos Classes Padrões Subsídios (R$)\nAGENTE DE POLÍCIA\nESCRIVÃO DE POLÍCIA ESPECIAL 17.917,84\n1ª III 13.935,46\nII 13.271,87\nI 12.639,86\n2ª III 11.490,79\nII 10.943,61\nI 10.422,47\n3ª III 9.475,00\nII 9.023,79\nI 8.594,09\n\" (NR)\n\"ANEXO II\n(Tabela de níveis e valores de subsídios dos cargos de Agente Policial, Agente Auxiliar Policial e Escrevente Policial)\nCargos Níveis Subsídios (R$)\nAGENTE POLICIAL\nAGENTE AUXILIAR POLICIAL\nESCREVENTE POLICIAL X 17.917,84\nIX 13.935,46\nVIII 13.271,87\nVII 12.639,86\nVI 11.490,79\nV 10.943,61\nIV 10.422,47\nIII 9.475,00\nII 9.023,79\nI 8.594,09\n\"(NR)\nANEXO II\n(Alteração do Anexo I da Lei nº 17.089, de 02 de julho de 2010)\n\"ANEXO I\nQUADRO DE PESSOAL DA CARREIRA: IDENTIFICAÇÃO DA DELEGACIA-GERAL DA POLÍCIA CIVIL\nGrupo ocupacional Classes de cargos Quantitativos Níveis Subsídios\n(R$)\nIDENTIFICAÇÃO IDENTIFICADOR - I 8.594,09\nII 9.023,79\nIII 9.475,00\nCLASSIFICADOR - I 10.422,47\nII 10.943,61\nIII 11.490,79\nDACTILOSCOPISTA 40 I 12.639,86\nII 13.271,87\nIII 13.935,46\nIV 17.917,84\n\"(NR)\nANEXO III\n(Inclusão do Anexo II à Lei nº 14.657, de 08 de janeiro de 2004)\n\"ANEXO II\n(Tabela de classes, padrões e valores de subsídios do cargo de Papiloscopista Policial)\nCargos Classes Padrões Subsídios (R$)\nPAPILOSCOPISTA POLICIAL ESPECIAL 17.917,84\n1ª III 13.935,46\nII 13.271,87\nI 12.639,86\n2ª III 11.490,79\nII 10.943,61\nI 10.422,47\n3ª III 9.475,00\nII 9.023,79\nI 8.594,09\n\"(NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24392",
+   "short": "Lei 24392/2026",
+   "title": "Lei nº 24392, de 2026 (Altera a Lei nº 15.949, de 29 de dezembro de 2006, que dispõe sobre a ajuda de custo, no âmbito da Secretaria da Segurança Pública.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115985",
+   "first_law": "lei-2026-24392",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115985",
+     "sha256": "f4a973e05440d233e8db15d18d2a37988a967526ecff031872e22774df544d43",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.392, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 15.949, de 29 de dezembro de 2006, que dispõe sobre a ajuda de custo, no âmbito da Secretaria da Segurança Pública.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.949, de 29 de dezembro de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 3º A indenização por horas-aula ministradas - AC2 será paga aos militares, aos policiais e aos servidores efetivos ativos dos quadros da Secretaria de Estado da Segurança Pública - SSP e dos órgãos autônomos que integram sua estrutura, bem como aos servidores efetivos, aos comissionados, aos empregados públicos e aos contratados por tempo determinado ativos, lotados e em efetivo exercício nesses órgãos, quando estiverem em ações educacionais para a formação, a capacitação, a atualização, o treinamento e o aperfeiçoamento profissional, nas unidades de ensino e nos órgãos vinculados à segurança pública estadual, a fim de custear as despesas extraordinárias decorrentes da qualificação específica e da atualização intelectual exigidas para a atividade de ensino.\n§ 1º O valor da hora-aula da indenização prevista no caput deste artigo será fixado conforme a titulação acadêmica do instrutor, observados os seguintes valores:\nI - R$ 48,00 (quarenta e oito reais) para graduado;\nII - R$ 75,00 (setenta e cinco reais) para especialista;\nIII - R$ 97,50 (noventa e sete reais e cinquenta centavos) para mestre; e\nIV - R$ 120,00 (cento e vinte reais) para doutor.\n§ 2º O valor mensal da indenização por horas-aula ministradas - AC2 não poderá exceder a R$ 1.050,00 (mil e cinquenta reais).\n§ 3º Os agentes públicos de que trata o caput deste artigo não poderão desenvolver ações educacionais remuneradas pela AC2 em quantitativo superior a trezentas horas-aula anuais, ressalvadas situações de excepcionalidade, devidamente justificadas e previamente aprovadas pelo titular da pasta a que estejam vinculados, e ele poderá autorizar o acréscimo de até cento e vinte horas-aula anuais.\n§ 4º As ações educacionais remuneradas pela AC2, quando forem desempenhadas durante a jornada de trabalho, deverão ser objeto de compensação de carga horária em até doze meses.\n§ 5º A habilitação como instrutor para a atuação nas unidades de ensino de que trata o caput deste artigo será designada por ato do titular da SSP ou dos seus órgãos autônomos, conforme dispuserem instruções normativas a serem editadas pelos respectivos titulares, nas correspondentes áreas de atuação.\n§ 6º As demais normas necessárias às ações descritas no caput deste artigo e a eventual compensação de carga horária serão fixadas em portarias a serem expedidas por ato do titular da SSP ou dos seus órgãos autônomos, em cada instituição, observadas as diretrizes gerais da Política Estadual de Capacitação e Desenvolvimento Profissional.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24393",
+   "short": "Lei 24393/2026",
+   "title": "Lei nº 24393, de 2026 (Altera a Lei nº 16.897, de 26 de janeiro de 2010, para instituir a exigência de diploma do Ensino Superior para o ingresso nas carreiras que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115987",
+   "first_law": "lei-2026-24393",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115987",
+     "sha256": "32e4744867dc93c55f8abae5dce2bbcb55141d4cb60d29ce7c8400978056c361",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.393, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 16.897, de 26 de janeiro de 2010, para instituir a exigência de diploma do Ensino Superior para o ingresso nas carreiras que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.897, de 26 de janeiro de 2010, passa a vigorar com a seguinte alteração:\n\"Art. 1º-A ....................................................\n§ 7º Será exigido, para o ingresso nas carreiras de Auxiliar de Autópsia, Auxiliar de Laboratório Criminal, Desenhista Criminalístico e Fotógrafo Criminalístico, diploma do Ensino Superior em qualquer área.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24394",
+   "short": "Lei 24394/2026",
+   "title": "Lei nº 24394, de 2026 (Altera a Lei nº 16.897, de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115988",
+   "first_law": "lei-2026-24394",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115988",
+     "sha256": "008d4c4f282b679e8458bb77105e81f691206b08d7d8f5c873d478e100285dd2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.394, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 16.897, de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Anexo III da Lei nº 16.897, de 26 de janeiro de 2010, passa a vigorar com a redação dada pelo Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Alteração do Anexo III da Lei nº 16.897, de 26 de janeiro de 2010)\n\"ANEXO III\nCLASSES, NÍVEIS E SUBSÍDIOS DOS CARGOS DE AUXILIAR DE AUTÓPSIA, AUXILIAR DE LABORATÓRIO CRIMINAL, DESENHISTA CRIMINALÍSTICO E FOTÓGRAFO CRIMINALÍSTICO\nCargos Classes Níveis Subsídios (R$)\nAUXILIAR DE AUTÓPSIA\nAUXILIAR DE LABORATÓRIO CRIMINAL\nDESENHISTA CRIMINALÍSTICO\nFOTÓGRAFO CRIMINALÍSTICO Especial 17.917,84\n1ª III 13.935,46\nII 13.271,87\nI 12.639,86\n2ª III 11.490,79\nII 10.943,61\nI 10.422,47\n3ª III 9.475,00\nII 9.023,79\nI 8.594,09\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24395",
+   "short": "Lei 24395/2026",
+   "title": "Lei nº 24395, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115989",
+   "first_law": "lei-2026-24395",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115989",
+     "sha256": "4c9cd87921d51751a4225cc89b8ea56ad6dd1046d88f56da4a48fd41317d5ba9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.395, DE 29 DE JUNHO DE 2026\nCria a Diretoria da Polícia Científica - DPCI no âmbito da Secretaria de Estado da Segurança Pública - SSP e altera a Lei nº 21.792, de 16 de fevereiro de 2023.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criada, no âmbito da Secretaria de Estado da Segurança Pública - SSP, a Diretoria da Polícia Científica - DPCI, órgão técnico-científico da polícia, nos termos dos §§ 2º e 3º do art. 123 da Constituição do Estado de Goiás, e integrante operacional do Sistema Único de Segurança Pública - Susp, na forma do inciso X do § 2º do art. 9º da Lei federal nº 13.675, de 11 de junho de 2018, mantidas as situações funcionais dos integrantes da Superintendência de Polícia Técnico-Científica.\n§ 1º A DPCI se subordina à SSP e é dotada de autonomia técnica na sua missão finalística.\n§ 2º Para garantir, no exercício das atividades da DPCI, autonomia técnica, científica e funcional, haverá a atribuição de rubrica orçamentária específica, além de gestão financeira e administrativa conforme ato a ser editado pelo Secretário de Segurança Pública e operacionalizado pela Secretaria de Estado da Economia.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Compete à DPCI exercer as atividades de perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal no âmbito das investigações criminais e das ações penais, previstas nos arts. 158 e seguintes do Decreto-Lei federal nº 3.689 (Código de Processo Penal), de 3 de outubro de 1941, e nas demais normas processuais penais vigentes.\n§ 1º No âmbito da DPCI, desempenham as atividades de perícia oficial criminal os ocupantes de cargos pertencentes às carreiras de Perito Criminal, Médico Legista e Odontolegista, conforme a Lei federal nº 12.030, de 17 de setembro de 2009.\n§ 2º Desempenham funções de apoio ao trabalho do Perito Oficial Criminal as demais carreiras policiais constantes da Lei estadual nº 16.897, de 26 de janeiro de 2010.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A DPCI será dirigida, no nível de Direção Superior, pelo Diretor-Geral e pelo Diretor-Geral Adjunto, cargos privativos de Perito Criminal, Médico Legista ou Odontolegista da ativa, sempre de Classe Especial, de livre escolha, nomeação e exoneração do Governador do Estado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O detalhamento das atribuições dos cargos da DPCI e das normas gerais sobre o quadro de servidores policiais será objeto de regulamento próprio.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Lei nº 21.792, de 16 de fevereiro de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 35. ...................................................\nIV - ............................................................\ne) pela Diretoria da Polícia Científica - DPCI: atividades de perícia oficial criminal nas áreas de Criminalística, Medicina Legal e Odontologia Legal, inclusive o exame de local de crime e a gestão da cadeia de custódia de vestígios materiais, nos termos dos arts. 158-A a 158-F do Decreto-Lei federal nº 3.689 (Código de Processo Penal), de 3 de outubro de 1941, no âmbito das investigações criminais e das ações penais.\nParágrafo único. As competências atribuídas à Polícia Científica não afastam o exercício e a autonomia técnico-pericial dos órgãos e das carreiras da Polícia Civil com atribuição legal para os procedimentos papiloscópicos, necropapiloscópicos, prosopográficos e os demais correlatos à identificação humana.\" (NR)\n\"Art. 36. .....................................................\nV - a Diretoria da Polícia Científica - DPCI.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24396",
+   "short": "Lei 24396/2026",
+   "title": "Lei nº 24396, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115990",
+   "first_law": "lei-2026-24396",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115990",
+     "sha256": "9e08f1993d762415bd93adb805fb7a6538d1c2f8d3ffdce83ba44860da4e7b26",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.396, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 17.095, de 02 de julho de 2010, que dispõe sobre o Plano de Cargos e Remuneração dos Grupos Ocupacionais de Analista de Gestão Administrativa e Assistente de Gestão Administrativa da Secretaria da Segurança Pública.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 17.095, de 02 de julho de 2010, passa a vigorar com as seguintes alterações:\n\"Art. 2º ....................................................\n§ 1º Os quantitativos dos Grupos Ocupacionais a que se refere este artigo e os requisitos para a ocupação deles são fixados conforme o Anexo I desta Lei.\n..........................................................................\" (NR)\n\"Art. 6º .......................................................\nParágrafo único. ..........................................\nI - Grupo Ocupacional Assistente de Gestão Administrativa: vencimento fixado em R$ 2.534,21 (dois mil, quinhentos e trinta e quatro reais e vinte e um centavos); e\nII - Grupo Ocupacional Analista de Gestão Administrativa: vencimento fixado em R$ 6.456,33 (seis mil, quatrocentos e cinquenta e seis reais e trinta e três centavos).\" (NR)\n\"Art. 7º .........................................................\nParágrafo único. Os respectivos valores dos vencimentos dos padrões são os definidos no Anexo II desta Lei.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 17.095, de 2010, passa a vigorar acrescida do Anexo II, conforme o Anexo Único desta Lei, e o Anexo Único da norma alterada é transformado em Anexo I.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Alteração da Lei nº 17.095, de 2 de julho de 2010)\n\"ANEXO II\nTABELA DE VENCIMENTOS DO QUADRO PERMANENTE\nCLASSE PADRÃO VENCIMENTO POR CARGO\nTécnico de Defesa do Consumidor Analista de Defesa do Consumidor Fiscal das Relações de Consumo\nA I R$ 2.534,21 R$ 6.456,33 R$ 6.456,33\nII R$ 2.736,94 R$ 6.972,85 R$ 6.972,85\nIII R$ 2.955,90 R$ 7.530,65 R$ 7.530,65\nIV R$ 3.192,37 R$ 8.133,12 R$ 8.133,12\nV R$ 3.447,75 R$ 8.783,77 R$ 8.783,77\nB I R$ 3.723,59 R$ 9.486,47 R$ 9.486,47\nII R$ 4.021,48 R$ 10.245,39 R$ 10.245,39\nIII R$ 4.343,19 R$ 11.065,05 R$ 11.065,05\nIV R$ 4.690,64 R$ 11.950,27 R$ 11.950,27\nC I R$ 4.925,17 R$ 12.547,77 R$ 12.547,77\nII R$ 5.171,44 R$ 13.175,19 R$ 13.175,19\nIII R$ 5.430,00 R$ 13.833,95 R$ 13.833,95\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24397",
+   "short": "Lei 24397/2026",
+   "title": "Lei nº 24397, de 2026 (Altera a Lei nº 15.147, de 11 de abril de 2005, que fixa a retribuição pecuniária pela participação em reuniões do Conselho Penitenciário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115992",
+   "first_law": "lei-2026-24397",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115992",
+     "sha256": "6ea30a8f5a99db16fc3cfabdf28f5a701280b32c49e805a0599666f5168d402e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.397, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 15.147, de 11 de abril de 2005, que fixa a retribuição pecuniária pela participação em reuniões do Conselho Penitenciário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.147, de 11 de abril de 2005, passa a vigorar com a seguinte alteração:\n\"Art. 1º Os membros do Conselho Penitenciário do Estado de Goiás - COPEN/GO farão jus ao jetom de R$ 588,91 (quinhentos e oitenta e oito reais e noventa e um centavos) pela participação em cada uma das reuniões ou das inspeções do colegiado, compreendidas sessões ordinárias e extraordinárias do Plenário e das comissões permanentes e especiais, bem como inspeções em estabelecimentos e serviços penais, respeitado o limite de oito eventos mensais.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24398",
+   "short": "Lei 24398/2026",
+   "title": "Lei nº 24398, de 2026 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115993",
+   "first_law": "lei-2026-24398",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115993",
+     "sha256": "3e7d2ec4b1df502b48bbc5f829be5c06d045701644239e4028ac97d172b10483",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.398, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.792, de 16 de fevereiro de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 93 ...................................................\nIV - ..........................................................\nh) não é cumulável com a retribuição de outra função comissionada, gratificação ou parcela da mesma natureza destinada a remunerar atribuições de direção, chefia, coordenação, gestão operacional ou assessoramento, ainda que seja sob denominação diversa.\" (NR)\n\"CAPÍTULO VII\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## Seção V-A\n## Das Funções Comissionadas de Gestão Operacional da Polícia Penal\" (NR)\n## \"Art. 102-A. Ficam instituídas as Funções Comissionadas de Gestão Operacional da Polícia Penal - FCGOPPs, destinadas exclusivamente aos policiais penais em efetivo exercício e designados para a execução de atribuições e responsabilidades diferenciadas no âmbito da DGPP, em funções de direção de estabelecimentos penais ou de coordenação de unidades operacionais, técnicas ou especializadas.\" (NR)\n## \"Art. 102-B. As FCGOPPs serão alocadas no âmbito da DGPP por decreto do Chefe do Poder Executivo estadual, observados os tipos, os símbolos e os valores constantes da alínea \"f\" do Anexo III, bem como respeitado o limite anual a que se refere o art. 114.\n## § 1º O decreto de que trata o caput estabelecerá:\n## I - o montante global destinado ao pagamento das FCGOPPs;\n## II - os critérios de designação, considerados a natureza da função, a complexidade das atribuições, o porte do estabelecimento penal, a classificação da unidade e o nível de responsabilidade operacional correspondente; e\n## III - os parâmetros de avaliação, controle e manutenção da percepção das FCGOPPs.\n## § 2º Os quantitativos das FCGOPPs serão fixados por ato do titular da DGPP, observados o limite financeiro autorizado e os parâmetros estabelecidos em decreto.\n## § 3º A alteração do ato previsto no § 2º deste artigo deverá ser encaminhada à SEAD até o dia 25 do mês, para a produção de efeitos financeiros no mês subsequente, vedada a designação com efeitos retroativos.\n## § 4º A designação para a percepção das FCGOPPs observará:\n## I - a compatibilidade entre a função exercida e os tipos previstos na alínea \"f\" do Anexo III desta Lei;\n## II - o atendimento aos critérios de atribuição, desempenho e manutenção definidos em decreto;\n## III - o efetivo exercício das atribuições diferenciadas correspondentes;\n## IV - o atendimento aos requisitos funcionais, operacionais e técnicos definidos em decreto ou em ato normativo próprio da DGPP; e\n## V - a disponibilidade orçamentária e financeira destinada ao pagamento das FCGOPPs.\" (NR)\nArt. 2º Em decorrência do disposto nesta Lei fica acrescida a alínea \"f\" ao Anexo III da Lei nº 21.792, de 2023, conforme o Anexo Único desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos funcionais e financeiros a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Alteração da Lei nº 21.792, de 16 de fevereiro de 2023)\n\"ANEXO III\nf) FUNÇÃO COMISSIONADA DE GESTÃO OPERACIONAL DA POLÍCIA PENAL\nTABELA 1 - FUNÇÃO COMISSIONADA DE DIREÇÃO DE UNIDADES ESPECIALIZADAS DA POLÍCIA PENAL\nTIPO DENOMINAÇÃO SÍMBOLO VALOR MENSAL\n1 Diretor de Unidade de Polícia Penal Regional Nível 1 FCDUEPP-DUPPR1 6.404,75\n2 Diretor de Unidade de Polícia Penal Especial FCDUEPP-DUPPES 6.404,75\n3 Diretor de Unidade de Polícia Penal Estadual FCDUEPP-DUPPE 4.403,27\n4 Diretor de Unidade de Polícia Penal Regional Nível 2 FCDUEPP-DUPPR2 3.202,38\n5 Diretor de Unidade Técnica Especializada de Polícia Penal FCDUEPP-DUTEPP 2.802,07\nTABELA 2 - FUNÇÃO COMISSIONADA DE COORDENAÇÃO DE UNIDADE DE OPERAÇÕES PENITENCIÁRIAS\nTIPO DENOMINAÇÃO SÍMBOLO VALOR MENSAL\n1 Coordenador de Unidade de Operações Penitenciárias Especializadas FCCOP-COPE 6.404,75\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24399",
+   "short": "Lei 24399/2026",
+   "title": "Lei nº 24399, de 2026 (Institui a Política Estadual de Apoio às Trilhas e Rotas Ecológicas.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115994",
+   "first_law": "lei-2026-24399",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115994",
+     "sha256": "3a31997f3658b87530f0f5abb1127f8462b706e99811e4d9e848932cd6d9089e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.399, DE 29 DE JUNHO DE 2026\nInstitui a Política Estadual de Apoio às Trilhas e Rotas Ecológicas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Apoio às Trilhas e Rotas Ecológicas, que tem por objetivos:\nI - incentivar a criação, manutenção, preservação e divulgação de trilhas e rotas ecológicas;\nII - promover o ecoturismo, a conservação ambiental e o desenvolvimento sustentável.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - fomentar o ecoturismo como vetor de desenvolvimento econômico e geração de emprego e renda para as comunidades locais;\nII - incentivar a educação ambiental e a conscientização da população sobre a conservação do meio ambiente e do patrimônio cultural;\nIII - valorizar a identidade cultural e o patrimônio histórico do Estado de Goiás por meio das trilhas e rotas ecológicas;\nIV - estimular a acessibilidade e inclusão nas trilhas e rotas ecológicas, de forma a possibilitar a participação de pessoas com deficiência ou mobilidade reduzida;\nV - estimular a definição de mecanismos de monitoramento ambiental e gestão sustentável das trilhas, com vistas a minimizar impactos negativos ao meio ambiente;\nVI - estimular a promoção e classificação das trilhas e rotas segundo critérios ecológicos, turísticos, sociais e de acessibilidade;\nVII - estimular a implementação de sinalização padronizada e orientativa, em colaboração com entidades locais;\nVIII - estimular a formação e capacitação de guias e monitores ambientais para atuação nas trilhas e rotas;\nIX - incentivar a realização de eventos, trilhas guiadas e atividades comunitárias voltadas à valorização da cultura e do meio ambiente local;\nX - incentivar o uso de tecnologias sustentáveis e energias renováveis, especialmente a energia solar, nos parques, trilhas e rotas ecológicas, visando reduzir impactos ambientais e promover eficiência energética;\nXI - estimular a celebração de convênios e parcerias com instituições públicas e privadas para a execução e o aprimoramento das ações previstas nesta Lei;\nXII - estimular a celebração de parcerias entre municípios, comunidades locais, instituições acadêmicas e proprietários de terras para a gestão compartilhada e sustentável das trilhas e rotas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24400",
+   "short": "Lei 24400/2026",
+   "title": "Lei nº 24400, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115995",
+   "first_law": "lei-2026-24400",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115995",
+     "sha256": "b1f729909b0c25619759f6b977e441f9a962d1f94e98a511b8a8d0e21cb02f98",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.400, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 15.949, de 29 de dezembro de 2006, o Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, revoga dispositivos da Lei nº 15.668, de 1º de junho de 2006, e da Lei nº 19.951, de 29 de dezembro de 2017, e revoga a Lei nº 17.706, de 09 de julho de 2012.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.949, de 29 de dezembro de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 1º ..................................................\nV - Indenização por Auxílio-Alimentação - AC5.\" (NR)\n\"Art. 4º A Indenização por Localidade - AC3 será atribuída:\nI - aos militares, aos policiais e aos servidores efetivos ativos dos quadros da Secretaria de Estado da Segurança Pública - SSP e dos órgãos autônomos que integram sua estrutura lotados e em efetivo exercício em município do Entorno de Brasília ou do Nordeste Goiano, em razão das despesas extraordinárias decorrentes do elevado custo de vida nessas localidades, especialmente em virtude da proximidade ou da contiguidade das divisas dos municípios que as integram com o Distrito Federal e com os Estados do Tocantins, da Bahia e de Minas Gerais; e\nII - aos servidores ativos integrantes do quadro da Secretaria de Estado de Desenvolvimento Social - SEDS lotados e em efetivo exercício nas unidades socioeducativas dos Municípios de Formosa e Luziânia pertencentes à Região Integrada de Desenvolvimento do Distrito Federal e Entorno - RIDE, notadamente em decorrência do elevado custo de vida nesses municípios.\nParágrafo único. A indenização de que trata este artigo é fixada em R$ 828,00 (oitocentos e vinte e oito reais), independentemente do posto, da graduação ou do cargo do beneficiário, com atribuição por ato do titular do respectivo órgão de lotação e com a possibilidade de acréscimo de R$ 300,00 (trezentos reais), a título de mérito, para até quinhentos servidores que se destacarem na Avaliação de Desempenho Individual - ADI, conforme regulamento do Chefe do Poder Executivo.\" (NR)\n\"Art. 5º-A A AC5 será atribuída aos militares, aos policiais, aos servidores efetivos, aos comissionados, aos empregados públicos e aos contratados por tempo determinado ativos e lotados e em efetivo exercício nas unidades da SSP e dos órgãos autônomos que integram sua estrutura e ao pessoal dos seus quadros de origem colocado à disposição da Secretaria de Estado da Casa Militar e destinada à recomposição das despesas ordinárias com alimentação suportadas pelo beneficiário no efetivo exercício funcional.\n§ 1º Para os exercícios de 2026 e 2027, o valor da AC5 fica fixado em R$ 1.000,00 (mil reais), independentemente do posto, da graduação, do cargo ou função do beneficiário, como parcela indenizatória, não incorporável, em qualquer hipótese, à remuneração mensal, caracterizada como rendimento não tributável, sem a incidência da contribuição previdenciária, e não será computada para o 13º salário, para as férias nem para a base de cálculo de margem consignável.\n§ 2º A partir do exercício de 2028, o pagamento da AC5 fica condicionado à renovação anual, mediante ato próprio do Chefe do Poder Executivo, que definirá o seu valor para o respectivo exercício, de acordo com a disponibilidade orçamentária e financeira, a programação financeira, as metas fiscais vigentes e os limites constitucionais e legais aplicáveis.\n§ 3º A ajuda de custo não será devida a quem, por disposição ou cessão, estiver em órgãos ou entidades alheios à estrutura da Secretaria de Estado da Segurança Pública e aos seus órgãos autônomos, exceto na previsão do caput deste artigo, nem a quem estiver afastado a qualquer título, do exercício do cargo ou da função.\n§ 4º Nos casos de afastamentos legais parciais durante o mês, a AC5 será reduzida proporcionalmente aos dias de ausência, observada a proporção de 1/22 (um vinte e dois avos) por dia de afastamento.\n§ 5º Nas situações de viagem a trabalho que originarem o direito à percepção de diárias para o custeio de alimentação, hospedagem e locomoção urbana, haverá o desconto da AC5 na proporção de 1/30 (um trinta avos) por dia de viagem, exceto no caso das eventualmente pagas em finais de semana e feriados, que não corresponderem à jornada habitual.\n§ 6º A AC5 concedida ao beneficiário com jornada de trabalho inferior a trinta horas semanais corresponderá a 50% (cinquenta por cento) do valor mensal fixado no § 1º deste artigo.\n§ 7º Na hipótese de acumulação de cargos, conforme a Constituição Federal, cuja soma das cargas horárias for superior a trinta horas semanais, o beneficiário receberá apenas uma ajuda de custo no valor integral.\n§ 8º A ajuda de custo ora instituída não poderá ser paga cumulativamente com qualquer outra verba que tiver como finalidade o custeio ou o ressarcimento de despesas com alimentação, podendo o beneficiário optar pela mais vantajosa.\n§ 9º A AC5 poderá, a qualquer tempo, ser objeto de disposição voluntária, mediante renúncia escrita.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, passa a vigorar com as alterações constantes do Anexo Único desta Lei, para adequar os limites de acréscimos de pessoal autorizados ao Poder Executivo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados:\nI - o inciso XII do § 2º do art. 1º da Lei nº 15.668, de 1º de junho de 2006;\nII - a Lei nº 17.706, de 09 de julho de 2012; e\nIII - os incisos XI, XIV, XV, XVI, XVIII e XXXVIII do art. 1º da Lei nº 19.951, de 29 de dezembro de 2017.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n\"Anexo VI - Autorizações de Acréscimos de Despesas de Pessoal para 2026 (nos termos do art. 169, § 1º, inciso II, da Constituição Federal)\nITEM TIPO DE PODER DESCRIÇÃO ACRÉSCIMO AUTORIZADO\n1 Poder Executivo Admissão ou Contratação de Pessoal 173.236.598\n2 Poder Executivo Alteração de Estruturas de Carreiras 90.076.109\n3 Poder Executivo Concessão de vantagens ou aumento de remuneração 1.270.392.429\nTOTAL GERAL ANUAL 2.452.907.236\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24401",
+   "short": "Lei 24401/2026",
+   "title": "Lei nº 24401, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115996",
+   "first_law": "lei-2026-24401",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115996",
+     "sha256": "71f21844996475685d0dba455a8c5edbdf65627fdd20bd997a9578f74ad77739",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.401, DE 29 DE JUNHO DE 2026\nSubdivide a Classe Especial da carreira de Delegado de Polícia do Quadro Permanente de pessoal da Delegacia-Geral da Polícia Civil, altera a Lei nº 15.397, de 22 de setembro de 2005, e a Lei nº 16.901, de 26 de janeiro de 2010.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Classe Especial da carreira de Delegado de Polícia, do Quadro Permanente da Delegacia-Geral da Polícia Civil, fica estruturada em dois níveis, denominados Padrão I e Padrão II.\n§ 1º O Padrão I será ocupado por promoção, nos termos da Lei nº 16.901, de 26 de janeiro de 2010.\n§ 2º O Padrão II será ocupado por progressão funcional, aplicável exclusivamente ao Delegado Especial Padrão I, preenchidos os seguintes requisitos:\nI - cumprimento de onze anos de efetivo exercício no Padrão I da Classe Especial; e\nII - cumprimento de vinte e cinco anos de contribuição para a previdência social.\n§ 3º Suspendem a contagem do interstício previsto no inciso I do § 2º deste artigo:\nI - pena de suspensão, quando não for convertida em multa;\nII - caso de afastamento não considerado de efetivo exercício, nos termos da Lei nº 20.756, de 28 de janeiro de 2020; e\nIII - exercício de atividades alheias às atribuições do cargo efetivo em unidade administrativa não integrante da estrutura da Secretaria de Estado da Segurança Pública, inclusive quando estiver investido em cargo em comissão ou função comissionada.\n§ 4º O afastamento para o exercício de mandato eletivo ou classista e a cessão para outro órgão de natureza de segurança pública ou institucional, parlamentar ou de gestão pública não suspendem a contagem do interstício, nos termos da Lei federal nº 14.735, de 23 de novembro de 2023.\n§ 5º A progressão de que trata o § 2º deste artigo será efetivada por ato do Delegado-Geral, após a verificação do cumprimento dos requisitos.\n§ 6º A verificação dos requisitos de que tratam os §§ 2º e 3º deste artigo será consolidada pela unidade setorial de gestão e desenvolvimento de pessoas do órgão, ou equivalente, após a manifestação da Goiás Previdência - GOIASPREV.\n§ 7º Os efeitos funcionais e financeiros da progressão serão a partir do primeiro dia do mês subsequente ao da edição do ato de que trata o § 5º deste artigo, vedada a retroatividade.\n§ 8º Os níveis Padrão I e II mantêm o quantitativo de vagas para a Classe Especial, previsto na Lei nº 16.901, de 2010.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O subsídio dos Delegados de Polícia ocupantes da Classe Especial, do Quadro Permanente da Delegacia-Geral da Polícia Civil, posicionados no Padrão II corresponde ao subsídio fixado para o Padrão I acrescido de 20% (vinte por cento).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O enquadramento dos atuais Delegados de Polícia da ativa, do Quadro Permanente da Delegacia-Geral da Polícia Civil, ocupantes da Classe Especial, na data da publicação desta Lei, será realizado:\nI - na classe Delegado de Polícia da Classe Especial Padrão I; e\nII - em seguida, aplicada a progressão para a classe Delegado de Polícia da Classe Especial Padrão II, aos servidores que cumprirem os requisitos estabelecidos no § 2º do art. 1º desta Lei.\n§ 1º A progressão de que trata o inciso II deste artigo será efetivada nos termos dos §§ 5º a 7º do art. 1º desta Lei.\n§ 2º Na contagem do interstício previsto no inciso I do § 2º do art. 1º desta Lei, será considerado o tempo de efetivo exercício cumprido na Classe Especial da carreira de Delegado de Polícia, até a publicação desta Lei.\n§ 3º Os ocupantes do cargo de Delegado de Polícia da Classe Especial que não atenderem aos requisitos previstos no inciso II deste artigo permanecerão posicionados no Padrão I, e ficarão sujeitos à progressão posterior, nos termos desta Lei.\n§ 4º Aos Delegados de Polícia da inatividade será aplicada a paridade remuneratória equivalente à do inciso I deste artigo.\n§ 5º Aos Delegados de Polícia da Classe Especial I ativos e inativos, do Quadro Transitório da Polícia Civil, nos termos da Lei nº 17.691, de 04 de julho de 2012, será aplicada, respectivamente, a referência ou a paridade remuneratória equivalente à do inciso I deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A progressão desta Lei não se aplica ao Delegado de Polícia da Classe Especial I, do Quadro Transitório da Polícia Civil, nos termos da Lei nº 17.691, de 2012.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Lei nº 15.397, de 22 de setembro de 2005, passa a vigorar com as seguintes alterações:\n\"Art. 1º-A Os subsídios especificados nesta Lei são fixados de acordo com a classe ocupada pelos Delegados de Polícia e têm como referência o valor do subsídio do Delegado da Classe Especial Padrão I, observadas as seguintes proporções:\nII - Delegado de Polícia da Classe Especial Padrão I, 100% (cem por cento);\nParágrafo único. O valor do subsídio das classes e padrões do cargo de Delegado de Polícia é o constante do Anexo Único desta Lei.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Lei nº 16.901, de 26 de janeiro de 2010, passa a vigorar com as seguintes alterações:\n\"Art. 54. ...............................................\n§ 1º .....................................................\n§ 2º A classe do cargo de Delegado de Polícia, de que trata a alínea \"a\" do inciso I deste artigo fica estruturada em dois níveis, denominados Padrão I e Padrão II.\" (NR)\n\"Art. 72. ...............................................\nParágrafo único. Excepcionalmente, para os cargos de Agente de Polícia, de Escrivão de Polícia, de Papiloscopista Policial e de Delegado de Polícia da Classe Especial, considera-se como promoção a elevação do servidor de uma classe para o Padrão I da classe imediatamente superior àquela em que se encontrava na categoria funcional a que pertence, na respectiva série de classes.\" (NR)\n\"Art. 84. Os efeitos funcionais e financeiros que decorrerem da promoção serão contados a partir do primeiro dia do mês subsequente ao da publicação do ato, vedada a retroatividade.\" (NR)\n\"Art. 92. ....................................................\nI - da Primeira Classe para a Classe Especial Padrão I depende ainda de conclusão, com aproveitamento:\n.........................................................................\" (NR)\n\"Art. 94-B. Exclusivamente aos Delegados de Polícia, do Quadro Permanente da Delegacia-Geral da Polícia Civil, em atividade na Classe Especial Padrão I, poderá ser aplicada a progressão ao Padrão II, se forem preenchidos os seguintes requisitos:\nI - o cumprimento de onze anos de efetivo exercício no Padrão I da Classe Especial; e\nII - o cumprimento de vinte e cinco anos de contribuição para a previdência social.\n§ 1º Suspendem a contagem do interstício previsto no inciso I do caput deste artigo:\nI - a pena de suspensão, quando não for convertida em multa;\nII - o afastamento não considerado como efetivo exercício, nos termos da Lei nº 20.756, de 28 de janeiro de 2020; e\nIII - o exercício de atividades alheias às atribuições do cargo efetivo em unidade administrativa não integrante da estrutura da Secretaria de Estado da Segurança Pública, inclusive quando estiver investido em cargo em comissão ou função comissionada.\n§ 2º O afastamento para o exercício de mandato eletivo ou classista e a cessão para outro órgão de natureza de segurança pública ou institucional, parlamentar ou de gestão pública não suspendem a contagem do interstício, nos termos do § 10 do art. 30 da Lei federal nº 14.735, de 23 de novembro de 2023.\n§ 3º A progressão de que trata este artigo será efetivada por ato do Delegado-Geral, após a verificação do cumprimento dos requisitos.\n§ 4º A verificação dos requisitos de que tratam o caput e o § 1º deste artigo será consolidada pela unidade setorial de gestão e desenvolvimento de pessoas do órgão, ou equivalente, após a manifestação da Goiás Previdência - GOIASPREV quanto ao cumprimento do requisito previsto no inciso II do caput deste artigo.\n§ 5º Os efeitos funcionais e financeiros da progressão serão a partir do primeiro dia do mês subsequente ao da edição do ato de que trata o § 3º deste artigo, vedada a retroatividade.\n§ 6º Os níveis Padrão I e II mantêm o quantitativo de vagas para a Classe Especial, previsto no Anexo VII desta Lei.\n§ 7º A progressão deste artigo não se aplica ao Delegado de Polícia da Classe Especial I, do Quadro Transitório da Polícia Civil, nos termos da Lei nº 17.691, de 2012.\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica transformado em § 1º o parágrafo único do art. 54 da Lei nº 16.901, de 2010.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Anexo Único da Lei nº 15.397, de 2005, passa a vigorar conforme Anexo I desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Anexo VII da Lei nº 16.901, de 2010, passa a vigorar com as alterações constantes do Anexo II desta Lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO I\n(Alteração do Anexo Único da Lei nº 15.397, de 22 de setembro de 2005)\n\"Anexo Único\nCargo Classes Padrões Valor do Subsídio - R$\nDELEGADO DE POLÍCIA CLASSE ESPECIAL II 49.442,66\nI 41.202,22\n1ª CLASSE - 37.081,99\n2ª CLASSE - 32.961,78\nSUBSTITUTO - 28.841,56\n\"(NR)\nANEXO II\n(Alteração do Anexo VII da Lei nº 16.901, de 26 de janeiro de 2010)\n\"Anexo VII\nCargo Classes Padrões Vagas\nAtuais Vigência a partir de 1º de julho de 2025 Vigência a partir de 1º de julho de 2026\nDELEGADO DE POLÍCIA CLASSE ESPECIAL II 123 154 185\nI\n1ª CLASSE - ..... ..... .....\n2ª CLASSE - ..... ..... .....\nSUBSTITUTO - ..... ..... .....\n\"(NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24405",
+   "short": "Lei 24405/2026",
+   "title": "Lei nº 24405, de 2026 (Altera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115997",
+   "first_law": "lei-2026-24405",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115997",
+     "sha256": "1a0a183171ce2433d6382aada5d4be56fa5e76a055ca03d10b35e8772a919472",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.405, DE 29 DE JUNHO DE 2026\nAltera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Anexo V da Lei nº 16.901, de 26 de janeiro de 2010, passa a vigorar conforme o Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As evoluções funcionais efetivadas após a publicação desta Lei terão efeitos funcionais e financeiros a partir do primeiro dia do mês subsequente ao da edição do ato, observados os critérios e as condições da legislação específica, vedada a retroatividade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Alteração da Lei nº 16.901, de 26 de janeiro de 2010)\n\"ANEXO V\nCargo Classes Padrões Vagas\nAtuais Vigência a partir de 1º de julho de 2025 Vigência a partir de 1º de julho de 2026\nPAPILOSCOPISTA POLICIAL ESPECIAL ............... ............... 38\n1ª III ............... ............... ...............\nII\nI\n2ª III ............... ............... ...............\nII\nI\n3ª III ............... ............... 128\nII\nI\nTOTAL ............... ............... ...............\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24402",
+   "short": "Lei 24402/2026",
+   "title": "Lei nº 24402, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/115998",
+   "first_law": "lei-2026-24402",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-06-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/115998",
+     "sha256": "796270957115881fb186a6d9a98bfdece4a9f8501b9cc7ca810793342dd26116",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.402, DE 29 DE JUNHO DE 2026\nDispõe sobre a estruturação dos postos de Coronel da Polícia Militar e de Coronel do Corpo de Bombeiros Militar do Estado de Goiás em classes, estabelece critérios para a respectiva progressão funcional e altera as Leis nº 8.000, de 25 de novembro de 1975, nº 8.033, de 2 de dezembro de 1975, nº 11.383, de 28 de dezembro de 1990, nº 11.416, de 5 de fevereiro de 1991, e nº 15.668, de 1º de junho de 2006.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os postos de Coronel da Polícia Militar do Estado de Goiás - PM e de Coronel do Corpo de Bombeiros Militar do Estado de Goiás - CBM ficam estruturados nos Níveis I e II.\n§ 1º O Nível I será ocupado pelo Coronel promovido nos termos das Leis nº 8.000, de 25 de novembro de 1975, referente à PM, e nº 11.383, de 28 de dezembro de 1990, referente ao CBM.\n§ 2º O Nível II será ocupado mediante progressão funcional, aplicável exclusivamente ao militar da ativa ocupante do posto de Coronel, Nível I, com trinta anos de serviço, dos quais pelo menos vinte e cinco anos sejam de serviço de natureza militar.\n§ 3º A progressão de que trata o § 2º deste artigo será efetivada por ato do Comandante-Geral do respectivo órgão de origem do militar, após a verificação do cumprimento dos requisitos.\n§ 4º A verificação dos requisitos de que trata o § 2º deste artigo será consolidada pela unidade setorial de gestão e desenvolvimento de pessoas do órgão, ou equivalente, após a manifestação da Goiás Previdência - GOIASPREV.\n§ 5º Os efeitos funcionais e financeiros da progressão serão a partir do primeiro dia do mês subsequente ao da edição do ato de que trata o § 3º deste artigo, vedada a retroatividade.\n§ 6º Os Níveis I e II integram o mesmo posto hierárquico de Coronel, mantido o quantitativo de vagas previsto nas Leis nº 16.899, de 26 de janeiro de 2010, e nº 17.866, de 19 de dezembro de 2012.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O subsídio dos militares ocupantes do posto de Coronel posicionados no Nível II corresponde ao subsídio fixado para o Nível I do mesmo posto acrescido de 20% (vinte por cento).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O enquadramento dos atuais militares da ativa ocupantes dos postos de Coronel da PM e do CBM, na data da publicação desta Lei, será realizado:\nI - no posto de Coronel, Nível I; e\nII - em seguida, aplicada a progressão para o posto de Coronel, Nível II, aos militares que cumprirem os requisitos estabelecidos no § 2º do art. 1º desta Lei.\n§ 1º A progressão de que trata o inciso II deste artigo será efetivada nos termos dos §§ 3º a 5º do art. 1º desta Lei.\n§ 2º Os ocupantes dos postos de Coronel que não atenderem aos requisitos previstos no inciso II deste artigo permanecerão posicionados no Nível I e ficarão sujeitos à progressão posterior, nos termos desta Lei.\n§ 3º Aos Coronéis da inatividade será aplicada a paridade remuneratória equivalente à que se refere o previsto no inciso I deste artigo.\n§ 4º O acréscimo dos Coronéis transferidos para a Reserva Remunerada pelos efeitos das Leis nº 9.270, de 29 de setembro de 1982, e nº 15.809, de 13 de novembro de 2006, será aplicado sobre a remuneração a que se refere o previsto no inciso I deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A progressão à que se refere esta Lei não se aplica ao Coronel promovido nos termos da Lei nº 23.118, de 27 de novembro de 2024, ou ao contemplado pela Lei nº 15.809, de 2006.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Lei nº 8.000, de 1975, passa a vigorar com as seguintes alterações:\n\"Art. 10. ...................................................\nParágrafo único. As promoções de que trata o inciso IV do caput deste artigo serão efetivadas no posto de Coronel, Nível I.\" (NR)\n\"Art. 10-A. Exclusivamente aos militares da ativa ocupantes do posto de Coronel, Nível I, poderá ser aplicada a progressão ao Nível II, com trinta anos de serviço, dos quais pelo menos vinte e cinco anos sejam de serviço de natureza militar.\n§ 1º A progressão de que trata o caput deste artigo será efetivada por ato do Comandante-Geral da Polícia Militar, após a verificação do cumprimento dos requisitos.\n§ 2º A verificação dos requisitos do caput deste artigo será consolidada pela unidade setorial de gestão e desenvolvimento de pessoas do órgão, ou equivalente, após a manifestação da GOIASPREV.\n§ 3º Os efeitos funcionais e financeiros da progressão serão a partir do primeiro dia do mês subsequente ao da edição do ato de que trata o § 1º deste artigo, vedada a retroatividade.\n§ 4º Os Níveis I e II integram o mesmo posto hierárquico de Coronel, mantido o quantitativo de vagas previsto na Lei nº 17.866, de 2012.\n§ 5º O disposto neste artigo não se aplica ao Coronel promovido nos termos da Lei nº 23.118, de 2024, ou ao contemplado pela Lei nº 15.809, de 2006.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Lei nº 8.033, de 2 de dezembro de 1975, passa a vigorar com as seguintes alterações:\n\"Art. 14. .....................................................\n§ 6º O Posto de Coronel será estruturado nos Níveis I e II, mantida a mesma hierarquia funcional.\n§ 7º A passagem de um nível para outro de que trata o § 6º deste artigo será efetivada por progressão, nos termos estabelecidos em lei específica.\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A Lei nº 11.383, de 1990, passa a vigorar com as seguintes alterações:\n\"Art. 3º .......................................................\n§ 1º ............................................................\n§ 2º As promoções de que trata o inciso IV do caput deste artigo serão efetivadas no posto de Coronel, Nível I.\" (NR)\n\"Art. 3º-A Exclusivamente aos militares da ativa ocupantes do posto de Coronel, Nível I, poderá ser aplicada a progressão ao Nível II, com trinta anos de serviço, dos quais pelo menos vinte e cinco anos sejam de serviço de natureza militar.\n§ 1º A progressão de que trata o caput deste artigo será efetivada por ato do Comandante-Geral do CBM, após a verificação do cumprimento dos requisitos.\n§ 2º A verificação dos requisitos a que se refere o caput deste artigo será consolidada pela unidade setorial de gestão e desenvolvimento de pessoas do órgão, ou equivalente, após a manifestação da GOIASPREV.\n§ 3º Os efeitos funcionais e financeiros da progressão serão a partir do primeiro dia do mês subsequente ao da edição do ato de que trata o § 1º deste artigo, vedada a retroatividade.\n§ 4º Os Níveis I e II integram o mesmo posto hierárquico de Coronel, mantido o quantitativo de vagas previsto na Lei nº 16.899, de 2010.\n§ 5º O disposto neste artigo não se aplica ao Coronel promovido nos termos da Lei nº 23.118, de 2024, ou ao contemplado pela Lei nº 15.809, de 2006.\" (NR)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Lei nº 11.416, de 5 de fevereiro de 1991, passa a vigorar com as seguintes alterações:\n\"Art. 16. ......................................................\n§ 7º O Posto de Coronel será estruturado nos Níveis I e II, mantida a mesma hierarquia funcional.\n§ 8º A passagem de um nível para outro de que trata o § 7º deste artigo será efetivada por progressão, nos termos estabelecidos em lei específica.\" (NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O Anexo Único da Lei nº 15.668, de 1º de junho de 2006, passa a vigorar conforme o Anexo Único desta Lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Fica transformado em § 1º o parágrafo único do art. 3º da Lei nº 11.383, de 1990.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir do primeiro dia do mês subsequente.\nGoiânia, 29 de junho de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n(Alteração da Lei nº 15.668, de 1º de junho de 2006)\n\"ANEXO ÚNICO\nTABELA DE POSTOS E VALORES DE SUBSÍDIOS DOS OFICIAIS E DAS PRAÇAS DA POLÍCIA MILITAR E DO CORPO DE BOMBEIROS MILITAR\nPosto ou graduação Nível Subsídio (R$)\nCoronel II 48.353,02\nI 40.294,18\nTenente-Coronel - 36.321,51\nMajor - 32.632,62\nCapitão - 28.547,01\nPrimeiro-Tenente - 20.724,98\nSegundo-Tenente - 17.930,43\nAspirante a oficial - 17.167,09\nCadete 3º ano - 13.516,29\nCadete 2º ano - 11.714,12\nCadete 1º ano - 10.813,01\nSubtenente - 17.167,09\nPrimeiro-Sargento - 13.516,29\nSegundo-Sargento - 11.714,12\nTerceiro-Sargento - 10.813,01\nCabo - 9.861,48\nSoldado de 1ª Classe - 8.980,38\nSoldado de 2ª Classe - 8.145,38\n\"(NR)\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
