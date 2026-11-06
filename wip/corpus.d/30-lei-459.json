@@ -1,0 +1,2403 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-22902": {
+   "label": "Lei nº 22902, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109350",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22903": {
+   "label": "Lei nº 22903, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109351",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22904": {
+   "label": "Lei nº 22904, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109352",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22905": {
+   "label": "Lei nº 22905, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109353",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22906": {
+   "label": "Lei nº 22906, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109354",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22907": {
+   "label": "Lei nº 22907, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109355",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22908": {
+   "label": "Lei nº 22908, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109356",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22909": {
+   "label": "Lei nº 22909, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109357",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22910": {
+   "label": "Lei nº 22910, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-07",
+   "published": "2024-08-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109359",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22911": {
+   "label": "Lei nº 22911, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109360",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22912": {
+   "label": "Lei nº 22912, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109361",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22913": {
+   "label": "Lei nº 22913, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109362",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22914": {
+   "label": "Lei nº 22914, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109363",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22915": {
+   "label": "Lei nº 22915, de 2024",
+   "title": "Institui a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109364",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22916": {
+   "label": "Lei nº 22916, de 2024",
+   "title": "Institui o Dia do Esporte nas escolas da rede pública estadual de ensino.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109365",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22917": {
+   "label": "Lei nº 22917, de 2024",
+   "title": "Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-08",
+   "published": "2024-08-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109366",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22918": {
+   "label": "Lei nº 22918, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109369",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22919": {
+   "label": "Lei nº 22919, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109370",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22920": {
+   "label": "Lei nº 22920, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109371",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22921": {
+   "label": "Lei nº 22921, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109372",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22922": {
+   "label": "Lei nº 22922, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109373",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22923": {
+   "label": "Lei nº 22923, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109374",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22924": {
+   "label": "Lei nº 22924, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109375",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22925": {
+   "label": "Lei nº 22925, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109376",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22926": {
+   "label": "Lei nº 22926, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109377",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22927": {
+   "label": "Lei nº 22927, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109378",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22928": {
+   "label": "Lei nº 22928, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109379",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22929": {
+   "label": "Lei nº 22929, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109380",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22930": {
+   "label": "Lei nº 22930, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109381",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22931": {
+   "label": "Lei nº 22931, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-13",
+   "published": "2024-08-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109382",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22932": {
+   "label": "Lei nº 22932, de 2024",
+   "title": "Estabelece prazo para encerramento das atividades de extração e beneficiamento do amianto da variedade crisotila, conforme a Lei nº 20.514, de 16 de julho de 2019, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-15",
+   "published": "2024-08-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109385",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22937": {
+   "label": "Lei nº 22937, de 2024",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Ipameri/GO.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109390",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22935": {
+   "label": "Lei nº 22935, de 2024",
+   "title": "Dispõe sobre a convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal sem o cumprimento de condicionantes previstas na legislação tributária, bem como a extinção de crédito tributário conexo.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109391",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22934": {
+   "label": "Lei nº 22934, de 2024",
+   "title": "Cria o Adicional de Responsabilidade Técnica para os profissionais temporários de Arquitetura e Engenharia.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109392",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22933": {
+   "label": "Lei nº 22933, de 2024",
+   "title": "Dispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte - SUSAF/GO e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109393",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22936": {
+   "label": "Lei nº 22936, de 2024",
+   "title": "Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109395",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22938": {
+   "label": "Lei nº 22938, de 2024",
+   "title": "Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109396",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22939": {
+   "label": "Lei nº 22939, de 2024",
+   "title": "Dispõe sobre a mudança de denominação dos estabelecimentos de ensino da rede estadual de educação que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-21",
+   "published": "2024-08-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109397",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22940": {
+   "label": "Lei nº 22940, de 2024",
+   "title": "Altera a Lei nº 21.670, de 6 de dezembro de 2022, que dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA, para criar o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-08-23",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109401",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22941": {
+   "label": "Lei nº 22941, de 2024",
+   "title": "Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-23",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22942": {
+   "label": "Lei nº 22942, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109407",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22943": {
+   "label": "Lei nº 22943, de 2024",
+   "title": "Institui a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador - TOD.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109408",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22944": {
+   "label": "Lei nº 22944, de 2024",
+   "title": "Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109409",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22945": {
+   "label": "Lei nº 22945, de 2024",
+   "title": "Confere ao Município de Jaraguá o título de Capital Goiana das Confecções.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109410",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22946": {
+   "label": "Lei nº 22946, de 2024",
+   "title": "Institui o Dia Estadual do Trilheiro e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109411",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22947": {
+   "label": "Lei nº 22947, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109412",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22948": {
+   "label": "Lei nº 22948, de 2024",
+   "title": "Institui o Dia Estadual do Nutricionista.",
+   "kind": "law",
+   "enacted": "2024-08-26",
+   "published": "2024-08-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109413",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22949": {
+   "label": "Lei nº 22949, de 2024",
+   "title": "Institui o Calendário Estadual de Eventos Religiosos.",
+   "kind": "law",
+   "enacted": "2024-08-28",
+   "published": "2024-08-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109415",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22950": {
+   "label": "Lei nº 22950, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada no Município de Silvânia/GO.",
+   "kind": "law",
+   "enacted": "2024-08-28",
+   "published": "2024-08-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109416",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22951": {
+   "label": "Lei nº 22951, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-08-28",
+   "published": "2024-08-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109417",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-22902",
+   "short": "Lei 22902/2024",
+   "title": "Lei nº 22902, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109350",
+   "first_law": "lei-2024-22902",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109350",
+     "sha256": "08d815bbd4c8dffab2935594dcebdc9d468ec5d4842980b94e36288da161fa6b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.902, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FILIPE SPENSER DOWSLEY o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22903",
+   "short": "Lei 22903/2024",
+   "title": "Lei nº 22903, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109351",
+   "first_law": "lei-2024-22903",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109351",
+     "sha256": "ec85375dfb90eb123ae171f8418a0adbff27ed6ded93f9a782b28195c641f26e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.903, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LINEU MAIANO GARCIA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22904",
+   "short": "Lei 22904/2024",
+   "title": "Lei nº 22904, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109352",
+   "first_law": "lei-2024-22904",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109352",
+     "sha256": "c7e723deec632a9a691ff6f2d6876bed71e8268e8050f8c540b29fba7026c927",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.904, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SVETHIANA BATISTA DE MORAIS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22905",
+   "short": "Lei 22905/2024",
+   "title": "Lei nº 22905, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109353",
+   "first_law": "lei-2024-22905",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109353",
+     "sha256": "f73d1c86211c10503d69d1b555bc70be33f5aa777be69a8c981a384847dc77a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.905, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARIA CLÁUDIA NUNES SANTOS TOLENTINO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22906",
+   "short": "Lei 22906/2024",
+   "title": "Lei nº 22906, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109354",
+   "first_law": "lei-2024-22906",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109354",
+     "sha256": "5a02d33ea6e075b987d04fd623ba5934ba43f8bbc8ea2bd313cb0f74d8506842",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.906, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FRANCISCO NERI FELIPE XAVIER o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22907",
+   "short": "Lei 22907/2024",
+   "title": "Lei nº 22907, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109355",
+   "first_law": "lei-2024-22907",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109355",
+     "sha256": "cc95c067a15c26e2134918675358d230cd25c1ad67d54ff7b3eb599db1ca0664",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.907, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IVANDIR MEDEIROS DA SILVA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22908",
+   "short": "Lei 22908/2024",
+   "title": "Lei nº 22908, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109356",
+   "first_law": "lei-2024-22908",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109356",
+     "sha256": "4c4624263c154e769def390ae72d69807c1e3944adfe3116e1880b39ea4f7a58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.908, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a POLIANA DIAS ALVES JULIÃO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22909",
+   "short": "Lei 22909/2024",
+   "title": "Lei nº 22909, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109357",
+   "first_law": "lei-2024-22909",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109357",
+     "sha256": "ca4ae0beab563202eb5477419049ac0fd152ea0de40f501821ea987ae0fc8678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.909, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FABIANA BAPTISTA DE BASTOS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22910",
+   "short": "Lei 22910/2024",
+   "title": "Lei nº 22910, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109359",
+   "first_law": "lei-2024-22910",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109359",
+     "sha256": "626ae0c6db92af96e4b8ac0d4ae062bc0b1fe3a2c5be144fc07ab195281e7a4b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.910, DE 7 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GRACIELE LACERDA DE OLIVEIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22911",
+   "short": "Lei 22911/2024",
+   "title": "Lei nº 22911, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109360",
+   "first_law": "lei-2024-22911",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109360",
+     "sha256": "16b6143a56b62fffecb2a873b55df9cb168fb867c7d8ce24391fcf3a32a98fc8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.911, DE 8 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ADINALDA CIRQUEIRA CAVALCANTE o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22912",
+   "short": "Lei 22912/2024",
+   "title": "Lei nº 22912, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109361",
+   "first_law": "lei-2024-22912",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109361",
+     "sha256": "5a42dd4d0b963fa5a1f49854b9afec14957b49ac815d7136b3b6603284dbd661",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.912, DE 8 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FRANCISCO RAMOS MENDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22913",
+   "short": "Lei 22913/2024",
+   "title": "Lei nº 22913, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109362",
+   "first_law": "lei-2024-22913",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109362",
+     "sha256": "edadc40a1e2bc948b3c409a8e500c84dceb61aae516dc30c3a6efc2d6dd36545",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.913, DE 8 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SANDOVAL DE ARAUJO FEITOSA NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22914",
+   "short": "Lei 22914/2024",
+   "title": "Lei nº 22914, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109363",
+   "first_law": "lei-2024-22914",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109363",
+     "sha256": "075159329ff779c5e9205ac77881ba1cb16801e786338d4f0053ee53a2515092",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.914, DE 8 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARLY DIAS IRIGON o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22915",
+   "short": "Lei 22915/2024",
+   "title": "Lei nº 22915, de 2024 (Institui a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109364",
+   "first_law": "lei-2024-22915",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109364",
+     "sha256": "e55d7c2e35f5914f3e4d6db7f845de5e293d6aa36d3cb08010133d67812e98b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.915, DE 8 DE AGOSTO DE 2024\nInstitui a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras, que tem por objetivo conscientizá-la:\nI - para evitar golpes e fraudes praticados por meio do comércio eletrônico, internet, ligações telefônicas, mensagens enviadas por SMS e aplicativos de celular;\nII - sobre os perigos do envio de dados pessoais, informações bancárias e de cartões de crédito ou débito, via ligações telefônicas, aplicativos de celular ou links enviados por SMS.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha instituída por esta Lei atenderá, especialmente, às seguintes diretrizes, todas com o objetivo de conscientizar e prevenir a prática de fraudes contra a pessoa idosa:\nI - estimular a realização de palestras educativas e informativas;\nII - estimular a realização de debates, dinâmicas em grupo e reflexões;\nIII - estimular a distribuição de cartilhas informativas e educativas;\nIV - estimular a divulgação de informações por meio dos veículos de comunicação, bem como por sites da internet.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22916",
+   "short": "Lei 22916/2024",
+   "title": "Lei nº 22916, de 2024 (Institui o Dia do Esporte nas escolas da rede pública estadual de ensino.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109365",
+   "first_law": "lei-2024-22916",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109365",
+     "sha256": "cc19f7618298413670cfc6b02a4bce098e0c77fd888dc1283d9d66249d0048ec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.916, DE 8 DE AGOSTO DE 2024\nInstitui o Dia do Esporte nas escolas da rede pública estadual de ensino.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia do Esporte nas escolas da rede pública estadual de ensino, a ser realizado, bimestralmente, com o objetivo de integrar e comprometer a comunidade escolar, bem como incentivar e promover atividades esportivas diversas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para atingir seu objetivo, o Dia do Esporte atenderá, prioritariamente, às seguintes diretrizes:\nI - incentivar a realização de atividades esportivas, nas diversas séries escolares, faixas etárias e modalidades;\nII - incentivar a realização de palestras educativas sobre saúde e atividade física;\nIII - valorizar o esporte como instrumento de desenvolvimento integral da pessoa.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22917",
+   "short": "Lei 22917/2024",
+   "title": "Lei nº 22917, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109366",
+   "first_law": "lei-2024-22917",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109366",
+     "sha256": "2f2dd6d844c86daa766bbe683ad6550a973f34643787c5c4856848ba840298ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.917, DE 8 DE AGOSTO DE 2024\nAltera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.104, de 23 de setembro de 2021, passa a vigorar com as seguintes alterações:\n\"Art 4º ..............................................................................................\nXIII - promoção e valorização de cuidadores comunitários;\nXIV - (VETADO).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22918",
+   "short": "Lei 22918/2024",
+   "title": "Lei nº 22918, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109369",
+   "first_law": "lei-2024-22918",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109369",
+     "sha256": "fb3f7cf38e53fa9622823bdd03888a812051472c257fcb90a79f989e0ae36729",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.918, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RODRIGO CARVALHO CURVO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22919",
+   "short": "Lei 22919/2024",
+   "title": "Lei nº 22919, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109370",
+   "first_law": "lei-2024-22919",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109370",
+     "sha256": "38d86189b44067fcb9cf7888499d858a50dedcb6b663dda63b16a52548dbec7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.919, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ARIANA GARCIA DO NASCIMENTO TELES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22920",
+   "short": "Lei 22920/2024",
+   "title": "Lei nº 22920, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109371",
+   "first_law": "lei-2024-22920",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109371",
+     "sha256": "f122e365689b02a528e06743902139260caa24778f7502f01ffb46275b8fbe08",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.920, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FERNANDA TERRA DE CASTRO COLLICCHIO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22921",
+   "short": "Lei 22921/2024",
+   "title": "Lei nº 22921, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109372",
+   "first_law": "lei-2024-22921",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109372",
+     "sha256": "8f31ebfc088c8d288cb76367b65746af8eee299229c005dfa5760720f7f30943",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.921, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ARTHUR ANTUNES COIMBRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22922",
+   "short": "Lei 22922/2024",
+   "title": "Lei nº 22922, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109373",
+   "first_law": "lei-2024-22922",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109373",
+     "sha256": "8bf1ec92b566be44a0f917bf585924a40b6bb7d46d7ca54d5c1286cd1b7e5462",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.922, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANDRÉ LUIZ GOMES GONTIJO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDRA. ZELI\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22923",
+   "short": "Lei 22923/2024",
+   "title": "Lei nº 22923, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109374",
+   "first_law": "lei-2024-22923",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109374",
+     "sha256": "914fc75507fb8d759d33dc3f8c77aa5f97344fed6b95727fb4550862bdd2d3af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.923, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JÁDER MIRANDA DE ALMEIDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22924",
+   "short": "Lei 22924/2024",
+   "title": "Lei nº 22924, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109375",
+   "first_law": "lei-2024-22924",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109375",
+     "sha256": "1b0ae89bddc4d4e87c3432019abc6c5da368c30446e144b75b2c2b2b944a00aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.924, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SELENE DE FÁTIMA FERREIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22925",
+   "short": "Lei 22925/2024",
+   "title": "Lei nº 22925, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109376",
+   "first_law": "lei-2024-22925",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109376",
+     "sha256": "e34423c2aa0cf1fd417cd8e0e3ca3ba4514b7eafc1a505f8f8204623c242877d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.925, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GIORGIA KRISTINY DOS SANTOS ADAD o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22926",
+   "short": "Lei 22926/2024",
+   "title": "Lei nº 22926, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109377",
+   "first_law": "lei-2024-22926",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109377",
+     "sha256": "d019da16b22b514e6a6cb70fbfca04f1a7798b5ac8491b9e428e89e15d03322f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.926, DE 13 DE aGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ELMIRO IVAN BARBOSA DE SOUZA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22927",
+   "short": "Lei 22927/2024",
+   "title": "Lei nº 22927, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109378",
+   "first_law": "lei-2024-22927",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109378",
+     "sha256": "00ef265601dc289d5c1a356af6856ccd7e29615de6719afb8795b7146e4e1e7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.927, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCÍLIO DA SILVA FERREIRA FILHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22928",
+   "short": "Lei 22928/2024",
+   "title": "Lei nº 22928, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109379",
+   "first_law": "lei-2024-22928",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109379",
+     "sha256": "9813b46be52757efbfc578e443a080f606aa820ab2b17e49e88399115930bd17",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.928, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ DO CARMO CASTRO E SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22929",
+   "short": "Lei 22929/2024",
+   "title": "Lei nº 22929, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109380",
+   "first_law": "lei-2024-22929",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109380",
+     "sha256": "6c86efdd9195767acdd50781298282e128b613ffc2fb367cd00810d8076587a5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.929, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a KASSIO NUNES MARQUES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22930",
+   "short": "Lei 22930/2024",
+   "title": "Lei nº 22930, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109381",
+   "first_law": "lei-2024-22930",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109381",
+     "sha256": "7fbd270b406f9d8a0463ff0681e5e526fb5fb2860e9378a340eca7a22264b83c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.930, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DALINE PAULA BARROS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22931",
+   "short": "Lei 22931/2024",
+   "title": "Lei nº 22931, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109382",
+   "first_law": "lei-2024-22931",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109382",
+     "sha256": "ceff3edbc20930474a12df7eb7f1b1db9561b8e2ce829a7a6135fd9a06e97e9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.931, DE 13 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a BEATRIZ RANDAL POMPEU MOTA RODRIGUES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22932",
+   "short": "Lei 22932/2024",
+   "title": "Lei nº 22932, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109385",
+   "first_law": "lei-2024-22932",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109385",
+     "sha256": "2b4fafd04c3f3afa5aa731a66e1ce6d65a58a4b61072e2245395c7c8737d3e18",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.932, DE 15 DE AGOSTO DE 2024\nEstabelece prazo para encerramento das atividades de extração e beneficiamento do amianto da variedade crisotila, conforme a Lei nº 20.514, de 16 de julho de 2019, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica estabelecido o prazo máximo de 5 (cinco) anos para o encerramento das atividades de extração e beneficiamento do amianto da variedade crisotila, em todo o território do Estado de Goiás, conforme a Lei nº 20.514, de 16 de julho de 2019.\nParágrafo único. O prazo estabelecido no caput deste artigo será contado a partir da assinatura do Termo de Compromisso de Cumprimento de Obrigações de que trata o art. 4º desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A empresa concessionária de lavra para a extração e o beneficiamento do amianto crisotila, nos termos da Lei nº 20.514, de 2019, deverá apresentar, em 90 (noventa) dias a partir da regulamentação desta Lei, o plano estratégico de fechamento de mina para minimizar os impactos econômicos, sociais e ambientais decorrentes do encerramento das atividades de mineração, no mínimo com os seguintes requisitos:\nI - mapas, plantas, fotografias e imagens para demonstrar a situação atual da área e do seu entorno (mapas de uso do solo, geologia, drenagem, limites municipais, edificações, unidades protegidas ou com restrições, cartas planialtimétricas, modelo digital de terreno e imagens digitais de satélite, radar ou aéreas com alta resolução);\nII - documentação com a descrição da situação atual da área, incluídos:\na) o histórico da área e das atividades de mineração, quando for o caso; e\nb) as estruturas existentes;\nIII - projeto da infraestrutura minerária sobreposto ao contexto atual da área;\nIV - projeto de descomissionamento das estruturas civis e de estabilização física e química das estruturas remanescentes;\nV - proposta de reabilitação da área;\nVI - proposta de ações de monitoramento e manutenção para a área;\nVII - propostas de medidas para a desativação segura das instalações;\nVIII - procedimentos de descarte seguro de todos os resíduos gerados com o descomissionamento da área, inclusive do minério de amianto remanescente;\nIX - plano de recuperação ambiental da área degradada;\nX - plano de monitoramento ambiental pós-encerramento;\nXI - plano de monitoramento geofísico das estruturas remanescentes;\nXII - plano de monitoramento da saúde dos trabalhadores da concessionária pós-encerramento;\nXIII - projeto preliminar, com a demonstração da real viabilidade econômico-financeira, para a implementação de outras atividades de natureza mineral ou não, no município em que se encontra a mina, como contribuição para o enfrentamento da difícil situação econômica, financeira e social a ser enfrentada pela população municipal com o término das atividades de mineração;\nXIV - cronograma físico-financeiro do plano de fechamento da mina, com as ações integradas de pré-fechamento, fechamento e pós-fechamento; e\nXV - cronograma detalhado da execução das ações de encerramento das atividades de mineração durante os 5 (cinco) anos estabelecidos, especialmente para viabilizar, tão logo encerradas essas atividades, a transição para outra atividade econômica no município em que se encontra a mina.\n§ 1º Além dos requisitos estabelecidos nesta Lei, o plano de encerramento da mina deve respeitar a legislação ambiental e as normas editadas pela Agência Nacional de Mineração.\n§ 2º O plano de fechamento da mina abrangerá, necessariamente, a investigação de passivos ambientais gerados pelas atividades de mineração que serão encerradas conforme a metodologia definida na legislação de regência.\n§ 3º A Secretaria de Estado de Indústria, Comércio e Serviços - SIC, por meio da Superintendência de Mineração, e a Secretaria de Estado de Meio Ambiente e Desenvolvimento Sustentável - SEMAD serão responsáveis pela apreciação, acompanhamento e fiscalização das atividades operacionais, técnicas e econômicas previstas nesta Lei, com o dever de comunicar aos demais órgãos para, em suas respectivas áreas de competência, atuarem sobre eventuais infrações aos dispositivos desta Lei e das demais normas aplicáveis.\n§ 4º O plano de fechamento de mina previsto no caput deste artigo, quanto aos aspectos socioambientais, dependerá de aprovação prévia da SEMAD, nos termos do art. 35 da Lei nº 20.694, de 26 de dezembro de 2019.\n§ 5º Os recursos necessários à implementação de todas as etapas do plano de encerramento das atividades da mina correrão por conta do fundo financeiro indicado no inciso II do art. 5º do Decreto nº 9.518, de 24 de setembro de 2019.\n§ 6º Caso os recursos indicados no § 5º deste artigo não sejam suficientes para a completa implementação do plano, a concessionária deverá cobrir a diferença com recursos próprios ou de seu patrimônio.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O plano de mitigação do impacto econômico pelo encerramento da atividade de mineração a que se refere o art. 2º desta Lei deverá conter, no mínimo, os seguintes requisitos:\nI - programas de qualificação e de requalificação profissional para os trabalhadores afetados;\nII - incentivos à criação de novas oportunidades de emprego na região;\nIII - parcerias com instituições educacionais para a formação em áreas alternativas de emprego; e\nIV - apoio à diversificação econômica local a novos setores produtivos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Após a aprovação do plano de fechamento da mina, será firmado o Termo de Compromisso de Cumprimento de Obrigações entre o Estado de Goiás e a concessionária, em caráter de título executivo extrajudicial, com a previsão de prazo não superior a 90 (noventa) dias para o início da execução do cronograma físico-financeiro aprovado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O descumprimento injustificado do Termo de Compromisso de Cumprimento de Obrigações ou de qualquer etapa do cronograma de fechamento da mina por período superior a 6 (seis) meses sujeitará a concessionária, após o regular processo administrativo, ao pagamento de multa equivalente a 2% (dois por cento) do orçamento total previsto para a implementação das atividades de mineração, salvo se o descumprimento for decorrente de caso fortuito ou por força maior.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A concessionária deverá realizar audiências públicas e consultas à comunidade local e às partes interessadas, para garantir a transparência e a participação no processo de descomissionamento ambiental e de implementação de novas atividades produtivas em substituição à mineração do amianto crisotila.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Durante todas as etapas do processo de encerramento das atividades de mineração do amianto crisotila, a concessionária deverá atender aos requisitos previstos na Lei nº 20.514, de 2019, e no Decreto nº 9.518, de 24 de setembro de 2019.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22937",
+   "short": "Lei 22937/2024",
+   "title": "Lei nº 22937, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Ipameri/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109390",
+   "first_law": "lei-2024-22937",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109390",
+     "sha256": "867d820ecf3aa0b1e2a819b6a8aa82e0875de3077dbc08de28b7394c0b54a362",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.937, DE 21 DE AGOSTO DE 2024\nAutoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Ipameri/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Chefe do Poder Executivo autorizado a alienar, mediante doação onerosa ao Município de Ipameri/GO, CNPJ nº 01.763.606/0001-41, o imóvel com 30.000,00 m² (trinta mil metros quadrados) especificado no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel descrito e caracterizado no Anexo Único desta Lei está avaliado em R$ 360.000,00 (trezentos e sessenta mil reais), conforme o Laudo de Avaliação para Doação nº 88/2023, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata esta Lei destina-se à construção, no prazo de 5 (cinco) anos, do Hospital Municipal de Ipameri, vedadas a locação, a sublocação, a transferência, a cessão ou a utilização do bem para finalidade diversa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes ao doador, caso haja o descumprimento do disposto no art. 3º desta Lei, sem direito à indenização.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 4 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel ao Município de Ipameri/GO.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a formalização da doação de que trata esta Lei, deverá ser observada a vedação temporal contida no art. 73, inciso VI, alínea \"a\", da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nESPECIFICAÇÃO DO IMÓVEL A SER DOADO\nIMÓVEL OBJETO DE DOAÇÃO ONEROSA AO MUNICÍPIO DE IPAMERI/GO, DESTINADO À CONSTRUÇÃO DAS INSTALAÇÕES DO HOSPITAL MUNICIPAL DE IPAMERI\nDENOMINAÇÃO ÁREA URBANA\nÁREA 30.000,00 m²\nLOCALIZAÇÃO AVENIDA MIGUEL DOS SANTOS, ESQUINA COM A GO-330 (ANEL VIÁRIO), 75780-000, BAIRRO NOVO HORIZONTE, IPAMERI/GO\nPROPRIETÁRIO ESTADO DE GOIÁS\nMATRÍCULA Nº 10.733 - CARTÓRIO DO 1º OFÍCIO TABELIONATO DE NOTAS E REGISTRO DE IMÓVEIS DA COMARCA DE IPAMERI\nMEMORIAL DESCRITIVO ASSIM SE DESCREVE: \"NA FRENTE 210,00 METROS PARA A AVENIDA MIGUEL ALVES DOS SANTOS MAIS 34,65 METROS DE CHANFRO PARA GO-330; FUNDOS: 231 METROS PARA A ÁREA REMANESCENTE (CENTAURO IMÓVEIS LTDA - ME); LATERAL DIREITA: 130,00 METROS PARA A ÁREA REMANESCENTE (CENTAURO IMÓVEIS LTDA - ME); LATERAL ESQUERDA: 105,00 METROS PARA GO-330 (ANEL VIÁRIO)\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22935",
+   "short": "Lei 22935/2024",
+   "title": "Lei nº 22935, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109391",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2024-22935"
+   ],
+   "versions": [
+    {
+     "from": "2024-10-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109391",
+     "sha256": "5774083d47a517cc750d07b91d8da31225a970d981f318437ff9e6f4b588103c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.935, DE 21 DE AGOSTO DE 2024\nDispõe sobre a convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal sem o cumprimento de condicionantes previstas na legislação tributária, bem como a extinção de crédito tributário conexo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica convalidada a utilização de incentivo e benefício fiscal ou financeiro-fiscal previstos na legislação tributária estadual, relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, sem o cumprimento das seguintes condições:\nI - pagamento da contribuição para o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, instituído pela Lei nº 14.469, de 16 de julho de 2003;\nII - adimplência com o ICMS relativo às obrigações tributárias vencidas, próprias e aquelas em que for responsável ou substituto tributário; ou\nIII - inexistência de crédito tributário inscrito em dívida ativa.\n§ 1º A convalidação referida neste artigo:\nI - somente abrange crédito tributário:\na) constituído ou não, e se aplica ao crédito não constituído exclusivamente quando ele decorrer da condição prevista no inciso III do caput deste artigo;\nb) inscrito ou não em dívida ativa, ainda que esteja ajuizado; e\nc) cujo fato gerador tenha ocorrido até 31 de dezembro de 2023;\nII - fica sujeita a que o contribuinte:\na) implemente a condição descumprida, por meio do pagamento dos débitos correspondentes; e\nb) protocolize requerimento de convalidação na Secretaria de Estado da Economia, exigido apenas para o crédito tributário constituído;\nIII - extingue o crédito tributário conexo, sob condição resolutória da homologação pela Secretaria de Estado da Economia, por meio dos Superintendentes de Controle e Auditoria ou de Fiscalização Regionalizada, conforme o caso.\n§ 2º A obrigatoriedade do pagamento do crédito tributário inscrito em dívida ativa não abrange o que for constituído em razão da utilização do benefício sem o cumprimento das condicionantes mencionadas nos incisos do caput deste artigo, desde que o contribuinte implemente integralmente, nos termos desta Lei, a condição inicialmente descumprida.\n§ 3º A adimplência referida no inciso II do caput deste artigo alcança a parcela não incentivada pelo Fundo de Participação e Fomento à Industrialização do Estado de Goiás - FOMENTAR, pelo Programa de Desenvolvimento Industrial de Goiás - PRODUZIR e seus subprogramas.\n§ 4º O pagamento parcial dos débitos gera:\nI - a convalidação e a extinção do crédito tributário conexo proporcionalmente ao pagamento realizado, quanto a débitos relacionados às condições previstas nos incisos I ou II do caput deste artigo; e\nII - a perda integral do direito à convalidação e à extinção do crédito tributário conexo, para os débitos relacionados à condição prevista no inciso III do caput deste artigo.\n§ 5º A convalidação de que trata esta Lei alcança o crédito tributário constituído em decorrência de Termo de Acordo de Regime Especial - TARE suspenso, desde que o motivo da suspensão decorra da existência de crédito tributário inscrito em dívida ativa e o contribuinte implemente a condição descumprida nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica permitido o pagamento parcelado dos débitos relativos à implementação das condições descumpridas previstas nos incisos do caput do art. 1º desta Lei, com a aplicação das regras de parcelamento previstas na legislação, hipótese em que fica suspensa, até a quitação ou a extinção do parcelamento, a exigibilidade do crédito correspondente à utilização de incentivo e benefício fiscal ou financeiro-fiscal de que trata esta Lei.\n§ 1º No caso dos débitos do PROTEGE GOIÁS, o parcelamento pode ser concedido em até 60 (sessenta) parcelas mensais e sucessivas, desde que o valor de cada parcela não seja inferior a R$ 200,00 (duzentos reais).\n§ 2º Em caso de denúncia do parcelamento, nos termos previstos na legislação tributária, a convalidação e a extinção do crédito tributário devem seguir o disposto no § 4º do art. 1º desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Aplicam-se os benefícios das Leis nº 22.571 e nº 22.572, ambas de 19 de março de 2024, na implementação das condições descumpridas indicadas nos incisos II ou III do caput do art. 1º desta Lei, desde que o período seja abrangido pelo programa definido nas referidas leis e o pagamento seja feito conforme as demais regras estabelecidas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O contribuinte, para usufruir da convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal e da extinção de crédito tributário conexo, deve fazer sua adesão até 20 de dezembro de 2024.\n§ 1º Considera-se formalizada a adesão com o pagamento da condição descumprida à vista ou, se ele for parcelado, de sua primeira parcela.\n§ 2º Findo o prazo previsto no caput deste artigo, o interessado não mais terá direito de requerer a convalidação e a extinção do crédito tributário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A convalidação de que trata esta Lei abrange a situação em que o contribuinte, na data da publicação desta Lei, já tenha adimplido, conforme o caso, as condicionantes de que trata o art. 1º desta Lei, observado também o disposto na alínea \"b\" do inciso II do § 1º do mesmo artigo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O disposto nesta Lei não implica restituição de valores eventualmente pagos pelo contribuinte ou pelo substituto tributário, de acordo com a legislação tributária vigente à época da ocorrência do fato gerador.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica o Secretário de Estado da Economia autorizado a expedir os atos necessários à implementação do disposto nesta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 22935, de 2024 was altered on 1 date(s) its notes cite, the latest 2024-10-25."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22934",
+   "short": "Lei 22934/2024",
+   "title": "Lei nº 22934, de 2024 (Cria o Adicional de Responsabilidade Técnica para os profissionais temporários de Arquitetura e Engenharia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109392",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2024-22934"
+   ],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109392",
+     "sha256": "047100464934477d456fb4772ce0cae756fadd20bea555f013656cfee85f2001",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.934, DE 21 DE AGOSTO DE 2024\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 22934, de 2024 was altered on 1 date(s) its notes cite, the latest 2026-03-18."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22933",
+   "short": "Lei 22933/2024",
+   "title": "Lei nº 22933, de 2024 (Dispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte - SUSAF/GO e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109393",
+   "first_law": "lei-2024-22933",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109393",
+     "sha256": "95fce8f13e4b39830d5698485b4f3308a64e5c764e7216aa5ae4df8545265665",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.933, DE 21 DE AGOSTO DE 2024\nDispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte - SUSAF/GO e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte - SUSAF/GO, relativo aos serviços municipais de inspeção e fiscalização sanitária, que poderá ser vinculado ao Sistema Brasileiro de Inspeção de Produtos de Origem Animal - SISBI, que integra o Sistema Unificado de Atenção à Sanidade Agropecuária - SUASA, de acordo com a instância definida em regulamentação federal específica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O SUSAF/GO objetiva garantir a inocuidade, a integridade e a qualidade do produto final por meio de orientações para a edição de normas técnicas e de instruções direcionadas à avaliação da condição sanitária, considerados os parâmetros técnicos de boas práticas agroindustriais e alimentares, também as especificidades locais, as diferentes escalas de produção, os aspectos sociais, geográficos e históricos do produto e os valores culturais agregados a ele.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei considera:\nI - agroindústrias familiares de pequeno porte: estabelecimentos de propriedade ou posse dos agricultores familiares de que trata o art. 3º da Lei federal nº 11.326, de 24 de julho de 2006, de forma individual ou coletiva, com instalações mínimas destinadas ao abate, ao processamento e à industrialização de produtos de origem animal, segundo critérios definidos em regulamento;\nII - agroindústrias familiares de pequeno porte de processamento artesanal: estabelecimentos agroindustriais com pequena escala de produção dirigidos diretamente por agricultores familiares, com meios de produção próprios ou mediante contrato de parceria, cuja produção abranja desde o preparo da matéria- prima até o acabamento do produto e seja realizada com o trabalho predominantemente manual, também que agregue aos produtos características peculiares, por processos de transformação diferenciados que lhes confiram identidade, geralmente relacionados a aspectos geográficos e histórico- culturais locais ou regionais; e\nIII - Serviço de Inspeção Municipal - SIM: serviço criado por legislação específica para dotar o município, individualmente ou por meio de consórcio regional, de serviço público de inspeção e fiscalização industriais e sanitárias de produtos de origem animal e derivados, comestíveis e não comestíveis, efetuadas em estabelecimentos de abate, processamento, manipulação, transformação, acondicionamento, armazenamento e envasamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O SUSAF/GO tem como objetivos específicos:\nI - realizar a integração sistêmica, horizontal e descentralizada dos serviços de inspeção municipais;\nII - traçar as diretrizes básicas da sanidade agroindustrial familiar, artesanal e de pequeno porte;\nIII - produzir e editar recomendações e instruções por meio de documentos técnicos específicos que sejam socialmente adequados;\nIV - estimular e realizar parcerias com órgãos públicos e entidades privadas, também com instituições educacionais, de pesquisa, de capacitação, de assistência técnica e de extensão;\nV - fazer a interlocução e o monitoramento dos serviços de inspeção municipais do Estado do Goiás;\nVI - autorizar a liberação do comércio intermunicipal, bem como descredenciar os serviços de inspeção municipais que deixarem de atender aos critérios definidos no SUSAF/GO;\nVII - conceder autorização de uso e realizar a gestão do selo de qualidade; e\nVIII - organizar e manter informações cadastrais das agroindústrias familiares, artesanais e de pequeno porte existentes no Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para aderir voluntariamente ao SUSAF/GO, os municípios deverão contar com o SIM legalmente instituído, dotado de recursos humanos e materiais necessários ao funcionamento e que atendam aos requisitos de infraestrutura administrativa, de inocuidade e de qualidade de produtos, de prevenção e combate à fraude econômica e de controle ambiental definidos em normas próprias, mediante a fiscalização e a aprovação pelos órgãos competentes.\n§ 1º Os estabelecimentos que obtiverem a aprovação pelo SIM com adesão ao SUSAF/GO poderão realizar comércio intermunicipal no Estado.\n§ 2º O órgão ou a entidade estadual responsável pela inspeção sanitária dos produtos de origem animal poderá celebrar convênios e firmar parcerias com órgãos ou entidades de inspeção sanitária municipais com adesão ao SUSAF/GO, para qualificar, agilizar e facilitar esse serviço no Estado.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O SUSAF/GO atuará em articulação com o Sistema Único de Saúde - SUS e desenvolverá parcerias com órgãos estaduais e a sociedade civil para preservar e promover a saúde pública.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Estado poderá celebrar convênios com outros entes federados e criar programas de incentivo e de apoio aos municípios para a estruturação dos serviços de inspeção municipais, bem como desenvolver ações educativas, de extensão e de pesquisa para a qualidade dos produtos das agroindústrias cadastrados no SUSAF/GO, com o objetivo de promover a saúde pública.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O SUSAF/GO poderá abranger estabelecimentos familiares de pequeno porte não dirigidos por agricultores familiares considerados equivalentes às agroindústrias familiares de pequeno porte, conforme regulamento.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22936",
+   "short": "Lei 22936/2024",
+   "title": "Lei nº 22936, de 2024 (Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109395",
+   "first_law": "lei-2024-22936",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109395",
+     "sha256": "95c6c9083bcb4e9841b1f09890b63d1a3a60959ba79bcf207bcfb2207d407854",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.936, DE 21 DE AGOSTO DE 2024\nAbre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto no corrente exercício o crédito especial de R$ 1.120.000,00 (um milhão e cento e vinte mil reais) à Secretaria-Geral de Governo - SGG, conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários para a abertura do crédito especial, nos termos do art. 1º desta Lei, serão provenientes de anulação parcial ou total de dotações orçamentárias, com observância ao disposto no inciso III do § 1º do art. 43 da Lei f ederal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica criado o produto Wi-Fi fornecido em pontos turísticos ( Access Points - APs) na Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, conforme o Anexo III desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\nCRÉDITO ESPECIAL\nExercício 2024\nUnidade Orçamentária 4001 - GABINETE DA SECRETARIA-GERAL DE GOVERNO\nFunção 15 - URBANISMO\nSubfunção 451 - INFRAESTRUTURA URBANA\nPrograma 1049 - GOIÁS DA INOVAÇÃO E DA TRANSFORMAÇÃO DIGITAL\nAção 3345 - IMPLANTAÇÃO DE INTERNET SEM FIO EM PONTOS TURÍSTICOS\nGrupo de Despesa 03 - OUTRAS DESPESAS CORRENTES\nFonte 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor R$ 1.120.000,00\nANEXO II\nREDUÇÃO\nExercício 2024\nUnidade Orçamentária 4001 - GABINETE DA SECRETARIA-GERAL DE GOVERNO\nFunção 24 - COMUNICAÇÕES\nSubfunção 722 - TELECOMUNICAÇÕES\nPrograma 1049 - GOIÁS DA INOVAÇÃO E DA TRANSFORMAÇÃO DIGITAL\nAção 3279 - IMPLANTAÇÃO DA REDE DE FIBRA ÓTICA EM MUNICÍPIOS - GOIÁS DE FIBRA\nGrupo de Despesa 04 - INVESTIMENTOS\nFonte 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor R$ 1.120.000,00\nANEXO III\nPRODUTO A SER CRIADO NO PLANO PLURIANUAL 2024-2027\nJUSTIFICATIVA PARA A CRIAÇÃO DO PRODUTO Este Produto se trata de contratação (por registro de preços) de prestação de serviços de fornecimento, instalação, configuração e operação de Pontos de Acesso Outdoor ( Access Points - APs) e demais itens necessários à implementação de rede sem fio ( Wi-Fi público) em regiões de pouca disponibilidade desse serviço de conectividade no Estado de Goiás, para aumentar a cobertura delas. Não se trata de aquisição de infraestrutura, mas de implementação do benefício nos pontos preliminarmente levantados (40 pontos turísticos e remotos de pouca acessibilidade) e demais pontos para o atendimento de demandas futuras (40 pontos), razão pela qual houve opção pelo registro de preços.\nPROGRAMA 1049 - GOIÁS DA INOVAÇÃO E DA TRANSFORMAÇÃO DIGITAL\nNOME DA INICIATIVA Conectividade e Infraestrutura\nNOME DA ENTREGA Wi-Fi fornecido em Pontos Turísticos ( Access Points - APs)\nUNIDADE DE MEDIDA Número\nMETA ACUMULATIVA (S/N) Não\nDESCRIÇÃO DO PRODUTO O produto se trata de prestação de serviços de fornecimento de Pontos de Acesso Outdoor ( Access Points - APs) e demais itens necessários para uma rede sem fio ( Wi-Fi público) em regiões de pouca disponibilidade desse serviço de conectividade, considerados os pontos preliminarmente levantados (40 pontos) e demais pontos para o atendimento de demandas futuras (40 pontos). Esses APs deverão considerar os seguintes cenários:\n- Cenário 1 ( kit 1): locais com infraestrutura de links de dados via fibra óptica ou rádio e energia comercial;\n- Cenário 2 ( kit 2): locais com infraestrutura de energia comercial e links de dados via satélite;\n- Cenário 3 ( kit 3): locais sem infraestrutura onde serão implantados energia solar e links de dados via satélite.\nMÉTODO DE COMPROVAÇÃO Gestão de contrato e fiscalização de cumprimento do contrato.\nCOMPROMISSOS DO PLANO DE GOVERNO Infraestrutura - Implantar e ampliar a conectividade nos destinos turísticos.\nMETAS DO DESENVOLVIMENTO SUSTENTÁVEL Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, inclusive infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem- estar humano, com foco no acesso.\nTIPO DE LOCALIDADE DE PLANEJAMENTO (ESTADO/MUNICÍPIO) Estado de Goiás.\nNOME DA LOCALIDADE META FÍSICA 2024 CUSTO ESTIMADO 2024 META FÍSICA 2025 CUSTO ESTIMADO 2025 META FÍSICA 2026 CUSTO ESTIMADO 2026 META FÍSICA 2027 CUSTO ESTIMADO 2027\nREGIÃO METROPOLITANA DE GOIÂNIA 40 R$ 1.120.000,00 80 R$ 4.796.179,32 80 R$ 4.796.179,32 80 R$ 4.796.179,32\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22938",
+   "short": "Lei 22938/2024",
+   "title": "Lei nº 22938, de 2024 (Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109396",
+   "first_law": "lei-2024-22938",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109396",
+     "sha256": "7cfcce6714d8e1b98904829efdf1a46bffc540b86390b1ada796aaed30f4ef61",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.938, DE 21 DE AGOSTO DE 2024.\nAbre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto no corrente exercício o crédito especial de R$ 200.000,00 (duzentos mil reais) à Secretaria- Geral de Governo - SGG, conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial autorizado no art. 1º desta Lei serão provenientes de anulação parcial ou total de dotações orçamentárias, nos termos do inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica criado o produto Parques Urbanos Revitalizados, na Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, conforme o Anexo III desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRonaldo Caiado\nGovernador do Estado\nANEXO I\nCRÉDITO ESPECIAL\nExercício 2024\nUnidade Orçamentária 4001 - GAB. DA SECRETARIA-GERAL DE GOVERNO\nFunção 15 - URBANISMO\nSubfunção 451 - INFRAESTRUTURA URBANA\nPrograma 1003 - CIDADES INTELIGENTES E MOBILIDADE URBANA EFICIENTE\nAção 3344 - REVITALIZAÇÃO DE PARQUES URBANOS\nGrupo de Despesa 03 - OUTRAS DESPESAS CORRENTES\nFonte 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor: R$ 200.000,00\nANEXO II\nREDUÇÃO\nExercício 2024\nUnidade Orçamentária 4001 - GAB. DA SECRETARIA-GERAL DE GOVERNO\nFunção 15 - URBANISMO\nSubfunção 451 - INFRAESTRUTURA URBANA\nPrograma 1003 - CIDADES INTELIGENTES E MOBILIDADE URBANA EFICIENTE\nAção 3281 - INFRAESTRUTURA DE CIDADES INTELIGENTES\nGrupo de Despesa 03 - OUTRAS DESPESAS CORRENTES\nFonte 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor: R$ 200.000,00\nANEXO III\nPRODUTO A SER CRIADO NO PLANO PLURIANUAL 2024-2027\nJUSTIFICATIVA PARA A CRIAÇÃO DO PRODUTO Revitalização e recuperação de áreas degradadas de parques urbanos para o desenvolvimento sustentável das grandes cidades e para o bem-estar social\nPROGRAMA 1003 - CIDADES INTELIGENTES E MOBILIDADE URBANA EFICIENTE\nNOME DA INICIATIVA INFRAESTRUTURA E MOBILIDADE URBANA\nNOME DA ENTREGA PARQUES URBANOS REVITALIZADOS\nUNIDADE DE MEDIDA PARQUE REVITALIZADO\nMETA ACUMULATIVA (S/N) Não\nDESCRIÇÃO DO PRODUTO Revitalização e recuperação de áreas degradadas de parques urbanos, com a promoção da melhoria da qualidade do ar e do ambiente, amenização das altas temperaturas e dos efeitos das \"ilhas de calor\", maior bem-estar e saúde mental aos cidadãos, incentivo à interação social e à prática de exercícios físicos, oferta de habitat à fauna e à flora, contribuição com o fluxo gênico da biota e conservação da biodiversidade local, criação de locais de lazer e valor estético para melhorar a qualidade de vida da população, valorização imobiliária por tornar a área atrativa a investidores e contribuição para o desenvolvimento econômico da Região Metropolitana de Goiânia\nMÉTODO DE COMPROVAÇÃO Processos no SEI e publicação no Diário Oficial\nCOMPROMISSOS PLANO DE GOVERNO Sustentabilidade e meio ambiente (promover e incentivar práticas voltadas à sustentabilidade e reduzir a poluição ambiental)\nMETAS DO DESENVOLVIMENTO SUSTENTÁVEL Desenvolver infraestrutura de qualidade, confiável, sustentável e resiliente, inclusive infraestrutura regional e transfronteiriça, para apoiar o desenvolvimento econômico e o bem-estar humano, com foco no acesso equitativo e a preços acessíveis a todos\nTIPO DE LOCALIDADE DE PLANEJAMENTO (ESTADO/MUNICÍPIO) Região\nNOME DA LOCALIDADE META FÍSICA 2024 CUSTO ESTIMADO 2024 META FÍSICA 2025 CUSTO ESTIMADO 2025 META FÍSICA 2026 CUSTO ESTIMADO 2026 META FÍSICA 2027 CUSTO ESTIMADO 2027\nREGIÃO METROPOLITANA DE GOIÂNIA 1 R$ 200.000 1 R$ 5.000.000 1 R$ 5.000.000 1 -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22939",
+   "short": "Lei 22939/2024",
+   "title": "Lei nº 22939, de 2024 (Dispõe sobre a mudança de denominação dos estabelecimentos de ensino da rede estadual de educação que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109397",
+   "first_law": "lei-2024-22939",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109397",
+     "sha256": "c7ea8551efb085b3790bc82c6d74b968ab9a67f6f14eaa7cb3cbca02c0ee1e0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.939, DE 21 DE AGOSTO DE 2024\nDispõe sobre a mudança de denominação dos estabelecimentos de ensino da rede estadual de educação que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam alteradas as denominações dos estabelecimentos de ensino relacionados no Anexo Único.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, salvo quanto ao número de ordem 10 do Anexo Único, com relação ao qual os efeitos são retroativos a 21 de dezembro de 2020.\nGoiânia, 21 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nESTABELECIMENTOS DE ENSINO DA REDE PÚBLICA ESTADUAL - EDUCAÇÃO ESCOLAR QUILOMBOLA\nNº DE ORDEM LEI DE CRIAÇÃO E/OU DE DENOMINAÇÃO UNIDADE ESCOLAR NOVA DENOMINAÇÃO MUNICÍPIO DE GOIÁS QUE CONSTA DA LEI DE CRIAÇÃO E/OU DENOMINAÇÃO MUNICÍPIO DE GOIÁS ATUAL / REGULARIZAÇÃO DE SEDE\n1 Lei nº 10.392, de 30 de dezembro de 1987 EE MANOEL LIBÂNIO DA SILVA COLÉGIO ESTADUAL QUILOMBOLA MANOEL LIBÂNIO DA SILVA SANCLERLÂNDIA ABADIA DE GOIÁS\n2 Lei nº 11.989, de 8 de junho de 1993 ESCOLA ESTADUAL JARDIM CASCATA COLÉGIO ESTADUAL EM PERÍODO INTEGRAL QUILOMBOLA JARDIM CASCATA\n- Denominação alterada pela Lei nº 23.991, de 30-12-2025. - APARECIDA DE GOIÂNIA\n3 Lei nº 17.409, de 8 de setembro de 2011 ESCOLA ESTADUAL CALUNGA VI COLÉGIO ESTADUAL QUILOMBOLA KALUNGA PROFESSOR JOSÉ CABRAL DE ARAUJO - CAVALCANTE\n4 Lei nº 11.564, de 16 de outubro de 1991 COLÉGIO ESTADUAL PROF. ANTÔNIO MESTRE COLÉGIO ESTADUAL QUILOMBOLA PROFESSOR ANTÔNIO MESTRE - CROMÍNIA\n5 Lei nº 10.084, de 10 de setembro de 1986 ESCOLA ESTADUAL GREGÓRIO BATISTA DOS PASSOS COLÉGIO ESTADUAL QUILOMBOLA GREGÓRIO BATISTA DOS PASSOS GALHEIROS DIVINÓPOLIS DE GOIÁS\n6 Lei nº 8.408, de 19 de janeiro de 1978 ESCOLA ESTADUAL DE 1º GRAU MAL. HUMBERTO DE A. CASTELO BRANCO COLÉGIO ESTADUAL QUILOMBOLA MARECHAL HUMBERTO DE ALENCAR CASTELO BRANCO - FLORES DE GOIÁS\n7 Lei nº 10.392, de 30 de dezembro de 1987 EE CALUNGA COLÉGIO ESTADUAL QUILOMBOLA KALUNGA SALUSTRIANO PEREIRA DAS VIRGENS - MONTE ALEGRE DE GOIÁS\n8 Lei nº 14.649, de 30 de dezembro de 2003 COLÉGIO ESTADUAL POLIVALENTE DE PALMEIRAS DE GOIÁS COLÉGIO ESTADUAL QUILOMBOLA DE PALMEIRAS DE GOIÁS - PALMEIRAS DE GOIÁS\n9 Lei nº 8.408, de 19 de janeiro de 1978 ESCOLA ESTADUAL DE 1º E 2º GRAUS PILAR DE GOIÁS COLÉGIO ESTADUAL QUILOMBOLA PILAR DE GOIÁS - PILAR DE GOIÁS\n10 Lei nº 20.917, de 21 de dezembro de 2020 CENTRO DE ENSINO EM PERÍODO INTEGRAL LEO LYNCE COLÉGIO ESTADUAL EM PERÍODO INTEGRAL QUILOMBOLA LEO LYNCE\n- Denominação alterada pela Lei nº 23.991, de 30-12-2025. - PIRACANJUBA\n11 Lei nº 8.408, de 19 de janeiro de 1978 ESCOLA ESTADUAL DE 1º GRAU BOA NOVA COLÉGIO ESTADUAL QUILOMBOLA BOA NOVA PIRACANJUBA PROFESSOR JAMIL\n12 Lei nº 7.944, de 16 de julho de 1975 ESCOLA DE 1º GRAU PROFESSOR JAMIL SAFADE COLÉGIO ESTADUAL EM PERÍODO INTEGRAL QUILOMBOLA PROFESSOR JAMIL SAFADY\n- Denominação alterada pela Lei nº 23.991, de 30-12-2025. PIRACANJUBA PROFESSOR JAMIL\n13 Lei nº 21.578, de 14 de setembro de 2022 COLÉGIO ESTADUAL QUILOMBOLA KALUNGA III COLÉGIO ESTADUAL QUILOMBOLA KALUNGA MÃE FRANÇA - TERESINA DE GOIÁS\n14 Lei nº 9.977, de 14 de janeiro de 1986 ESCOLA ESTADUAL FILOMENO LUIZ DE FRANÇA COLÉGIO ESTADUAL QUILOMBOLA FILOMENO LUIZ DE FRANÇA - URUAÇU\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22940",
+   "short": "Lei 22940/2024",
+   "title": "Lei nº 22940, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109401",
+   "first_law": "lei-2024-22940",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109401",
+     "sha256": "34a4e22ea1e3f9743acdc8c3088048381530b1a8b6451905f0160c126167b156",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.940, DE 23 DE AGOSTO DE 2024\n- Lei com Eficácia suspensa (liminar), nos termos da ADI nº 7885-STF\nAltera a Lei nº 21.670, de 6 de dezembro de 2022, que dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA, para criar o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 21.670, de 6 de dezembro de 2022, passa a vigorar com a seguinte alteração:\n\"Dispõe sobre a criação do Fundo Estadual de Infraestrutura - FUNDEINFRA e cria o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 21.670, de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 6º-A Ficam autorizadas, nos termos de regulamento a ser editado pelo Secretário de Estado da Infraestrutura, a contratação de estudos de viabilidade técnica, econômica e ambiental - EVTEAs, de projetos básicos e/ou projetos executivos, para posterior utilização pela administração pública, e a execução de obras de engenharia por contribuintes, de maneira privada, em regime de compensação com os créditos do FUNDEINFRA, admitida a formação de consórcios para essa finalidade.\" (NR)\n\"Art. 8º-A Fica criado o Programa de Parcerias Institucionais para o Progresso e o Desenvolvimento Econômico do Estado de Goiás, com a finalidade de viabilizar os objetivos estabelecidos no art. 1º desta Lei.\n§ 1º A execução do programa a que se refere o caput deste artigo ocorrerá mediante celebração de ajuste de parceria com entidades privadas sem fins econômicos constituídas por representantes dos setores econômicos contribuintes do FUNDEINFRA que, sob a forma associativa, se predisponham ao desempenho de atividades, projetos e ações de fomento ao desenvolvimento econômico e à infraestrutura do Estado.\n§ 2º A SEINFRA é o órgão supervisor da política pública de que cuida esta Lei e dos ajustes de parceria com base nela firmados, facultado ao seu titular solicitar, quando for necessário, o auxílio técnico da Agência Goiana de Infraestrutura e Transportes - GOINFRA.\" (NR)\n\"Art. 8º-B São diretrizes fundamentais do regime jurídico da parceria institucional de que trata esta Lei:\nI - a promoção, o fortalecimento institucional, a capacitação da sociedade civil e o incentivo à organização dela para a cooperação com o poder público quanto ao desenvolvimento econômico e à criação de infraestruturas;\nII - a priorização do controle de resultados;\nIII - o intercâmbio de experiências entre os setores público e privado, que, para alcançar eficiência, deverá incorporar soluções inovadoras nas perspectivas econômica e administrativa;\nIV - o estabelecimento de mecanismos que ampliem a gestão de informação, transparência e publicidade; e\nV - a adoção de práticas de gestão administrativa necessárias e suficientes para coibir a obtenção, individual ou coletiva, de benefícios ou vantagens indevidos.\" (NR)\n\"Art. 8º-C As entidades representativas dos setores produtivos, empresariais, industriais, profissionais e acadêmicos, constituídas há pelo menos 2 (dois) anos antes da publicação da presente lei e interessadas em colaborar para o progresso e o desenvolvimento econômico do Estado de Goiás poderão se associar, por meio da constituição de pessoa jurídica de direito privado sem fins econômicos, cujo estatuto deverá contemplar os seguintes elementos:\nI - a finalidade institucional constituída pelo desenvolvimento e pelo fomento de atividades e projetos nas áreas de infraestrutura agropecuária, modais de transporte, recuperação, manutenção, conservação, pavimentação e implantação de rodovias, sinalização e artes especiais;\nII - a finalidade não lucrativa, com a obrigatoriedade de investimento de seus excedentes financeiros no desenvolvimento das próprias atividades, previstas em ajuste de parceria, mediante a aprovação prévia do parceiro público;\nIII - a previsão expressa de a entidade possuir, como órgãos de deliberação superior e de direção:\na) Conselho de Administração e Diretoria definidos nos termos do estatuto, asseguradas àquele a composição e as atribuições normativas e de controle básicas; e\nb) Conselho Fiscal, como órgão de fiscalização quanto ao bom emprego dos recursos públicos transferidos ao parceiro privado em ajuste de parceria;\nIV - a previsão expressa de a entidade editar regulamento próprio, com os procedimentos que deverá adotar para a contratação de obras, serviços, compras, alienações e admissão de pessoal, com respeito aos princípios da impessoalidade, da isonomia, da moralidade, da publicidade, da eficiência, da economicidade e do julgamento objetivo; e\nV - a disposição de que, caso haja a dissolução da entidade, o respectivo patrimônio líquido será transferido a outra pessoa jurídica de igual natureza que preencha os requisitos desta Lei, com vínculo de parceria celebrado com o Estado de Goiás e cujo objeto social seja, preferencialmente, o mesmo da entidade extinta.\n§ 1º O Conselho de Administração das entidades que se predisponham a participar do programa instituído pelo art. 8º-A desta Lei será composto por 30% (trinta por cento) de representantes do poder público estadual, indicados pelo titular da SEINFRA.\n§ 2º O poder público estadual fomentará a criação das pessoas jurídicas de direito privado de que trata o caput deste artigo, para viabilizar a celebração de futuras parcerias.\" (NR)\n\"Art. 8º-D Fica facultado ao Estado de Goiás integrar a entidade associativa de que trata o art. 8º-C desta Lei, por meio da SEINFRA, caso em que os regulamentos de contratações da entidade e os processos seletivos correspondentes poderão, a critério do titular da referida pasta, ser submetidos à Procuradoria-Geral do Estado - PGE, para suporte e análise jurídica.\" (NR)\n\"Art. 8º-E A SEINFRA deverá aprovar previamente os planos de trabalho apresentados por entidades associativas interessadas, com posterior ratificação pelo Conselho Gestor do FUNDEINFRA, condição sem a qual não poderá ser celebrada a parceria de que trata esta Lei.\n§ 1º Deverão constar do plano de trabalho:\nI - a descrição das metas a serem atingidas e de atividades ou projetos a serem executados;\nII - a previsão de receitas e de despesas a serem realizadas na execução das atividades ou dos projetos abrangidos pela parceria;\nIII - a forma de execução das atividades ou dos projetos e de cumprimento das metas a eles atreladas; e\nIV - a definição dos parâmetros a serem utilizados para a aferição do cumprimento das metas.\n§ 2º Com o plano de trabalho, deverão ser apresentados documentos comprobatórios da regularidade jurídico-fiscal, econômica e financeira da entidade, bem como documentos demonstrativos da experiência técnica do corpo diretivo da entidade.\n§ 3º A SEINFRA deverá manter, em seu sítio eletrônico oficial na internet, a relação das parcerias celebradas e dos respectivos planos de trabalho até 180 (cento e oitenta) dias após o respectivo encerramento, como medida de promoção da transparência ativa.\" (NR)\n\"Art. 8º-F Fica autorizada a transferência de recursos econômicos do FUNDEINFRA às entidades que firmarem o ajuste de parceria a que se refere o § 1º do art. 8º-A desta Lei.\n§ 1º Os recursos econômicos serão transferidos pelo Estado de Goiás em estrito cumprimento do plano de trabalho, com prestação de contas mensal, sob o acompanhamento e a supervisão da SEINFRA, da Controladoria-Geral do Estado - CGE, da Agência Goiana de Regulação, Controle e Fiscalização de Serviços Públicos - AGR, do Conselho Gestor do FUNDEINFRA e, quando houver solicitação pelo titular do órgão supervisor, da GOINFRA.\n§ 2º A administração pública poderá fornecer, a título de colaboração, manuais específicos às entidades por ocasião da celebração da parceria, que terão como premissas a simplificação, a racionalização dos procedimentos e o diálogo público-privado.\n§ 3º Deverá constar do instrumento da parceria o livre acesso dos agentes da administração pública, do controle interno e do Tribunal de Contas do Estado de Goiás - TCE-GO aos correspondentes processos e documentos, também às informações relacionadas à execução do ajuste, bem como aos locais de realização do respectivo objeto.\n§ 4º A prestação de contas deverá atender aos princípios que regem a administração pública, com a aplicação supletiva, no que couber, da Lei federal nº 13.019, de 31 de julho de 2014.\" (NR)\n\"Art. 8º-G A administração pública promoverá o monitoramento e a avaliação do cumprimento do objeto da parceria.\n§ 1º Para a implementação do disposto no caput deste artigo, a administração pública poderá se valer do apoio técnico de terceiros, delegar competência ou firmar parcerias com órgãos ou entidades que se situem próximos ao local de aplicação dos recursos.\n§ 2º Fica facultado ao titular da SEINFRA convocar servidores efetivos do Estado de Goiás, inclusive do quadro da GOINFRA, preferencialmente dos cargos de Gestor de Infraestrutura e/ou Analista Técnico de Infraestrutura, a fim de comporem colegiado de engenheiros para acompanhar e fiscalizar as contratações realizadas, bem como os projetos a serem executados pelos parceiros privados.\n§ 3º Os demais procedimentos de monitoramento e avaliação do cumprimento do objeto da parceria deverão ser disciplinados em ato do titular da SEINFRA.\" (NR)\n\"Art. 8º-H Por ocasião da conclusão, da denúncia, da rescisão ou da extinção da parceria, os saldos financeiros remanescentes, inclusive os provenientes das receitas obtidas das aplicações financeiras realizadas, serão devolvidos à administração pública no prazo improrrogável de 30 (trinta) dias, sob pena da imediata instauração de tomada de contas especial do responsável, providenciada pela autoridade competente do poder público.\" (NR)\n\"Art. 8º-I O instrumento de parceria, que terá por base minuta padrão elaborada pela SEINFRA e submetida à PGE, deverá discriminar as atribuições, as responsabilidades e as obrigações do poder público e da entidade parceira, sem prejuízo a outras especificidades e cláusulas técnicas, a cargo da referida secretaria.\" (NR)\n\"Art. 8º-J A entidade parceira deverá comunicar imediatamente à SEINFRA e à PGE as eventuais demandas judiciais em que figurar como parte, com o encaminhamento a este último órgão das informações, dos dados e dos documentos requisitados para a defesa dos interesses do Estado de Goiás, em juízo ou fora dele, sob pena de responsabilidade administrativa, civil e criminal de quem deixar de fazê-lo.\" (NR)\n\"Art. 8º-K Para a execução da parceria de que trata esta Lei, serão aplicadas, no que couber, as disposições da Lei federal nº 13.019, de 2014.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22941",
+   "short": "Lei 22941/2024",
+   "title": "Lei nº 22941, de 2024 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109402",
+   "first_law": "lei-2024-22941",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109402",
+     "sha256": "c0b06bcdd59cb17456691ae16e7eff612d0369052b23448c406c62effc6c4e5b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.941, DE 23 DE AGOSTO DE 2024\nAltera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogados o inciso III do caput e o parágrafo único, com seus incisos, do art. 30 da Lei nº 21.792, de 16 de fevereiro de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22942",
+   "short": "Lei 22942/2024",
+   "title": "Lei nº 22942, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109407",
+   "first_law": "lei-2024-22942",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109407",
+     "sha256": "5caebdff963a5040ce775e92d56a7453108b8ab7f903f5771ec4dd36b434f9fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.942, DE 26 DE AGOSTO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ ARLIWAN ELIAS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22943",
+   "short": "Lei 22943/2024",
+   "title": "Lei nº 22943, de 2024 (Institui a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador - TOD.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109408",
+   "first_law": "lei-2024-22943",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109408",
+     "sha256": "480c4a355344fa01185cea530bfd870012277f2ecee058b1ce3a32db52a0269e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.943, DE 26 DE AGOSTO DE 2024\nInstitui a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador - TOD.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador - TOD, a ser realizada, anualmente, na semana que inclui o dia 10 de outubro.\nParágrafo único. A Semana Estadual instituída por esta Lei tem por objetivo promover o conhecimento, a sensibilização e o apoio ao diagnóstico do TOD.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos principais da Semana Estadual instituída por esta Lei:\nI - estimular a realização de palestras e atividades interativas, nas unidades das redes pública e privada de ensino, que priorizem a identificação e o gerenciamento do transtorno;\nII - estimular a realização de atividades publicitárias para divulgar informações sobre os sintomas e formas de apoio disponíveis para pessoas com TOD;\nIII - estimular a disponibilização de avaliação psicológica e educacional nas unidades das redes pública e privada de ensino, visando à identificação precoce de alunos que apresentem sinais de TOD;\nIV - estimular a disponibilização de tratamento aos alunos com sinais positivos para TOD;\nV - estimular o envolvimento da escola e dos pais na observação precoce dos sintomas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a realização da Semana Estadual instituída por esta Lei, poderão ser celebradas parcerias ou convênios com instituições de pesquisa, organizações da sociedade civil e setor privado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Semana Estadual ora instituída será incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22944",
+   "short": "Lei 22944/2024",
+   "title": "Lei nº 22944, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109409",
+   "first_law": "lei-2024-22944",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109409",
+     "sha256": "aff6000a8c78f5add00e67aa95577e19ad12c7c4704b46689adffbc491c373a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.944, DE 26 DE AGOSTO DE 2024\nAltera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O inciso II do art. 22 da Lei nº 21.104, de 23 de setembro de 2021, passa a vigorar com a seguinte alteração:\n\"Art 22 ..............................................................................................\nII - utilizar chicote, ferrão pontiagudo ou elétrico, pedaços de madeira ou outros objetos que venham a machucar o animal atrelado a veículo de tração;\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22945",
+   "short": "Lei 22945/2024",
+   "title": "Lei nº 22945, de 2024 (Confere ao Município de Jaraguá o título de Capital Goiana das Confecções.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109410",
+   "first_law": "lei-2024-22945",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109410",
+     "sha256": "a26dc8055272e84a83622c42a1c789e74c67a348024eeb2ca6315a6df22104e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.945, DE 26 DE AGOSTO DE 2024\nConfere ao Município de Jaraguá o título de Capital Goiana das Confecções.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Jaraguá o título de Capital Goiana das Confecções.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22946",
+   "short": "Lei 22946/2024",
+   "title": "Lei nº 22946, de 2024 (Institui o Dia Estadual do Trilheiro e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109411",
+   "first_law": "lei-2024-22946",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109411",
+     "sha256": "c00364cf2a7516bb42b6ca081ae7ea0f91e9b564d2af1361c6eca06adfe6f28b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.946, DE 26 DE AGOSTO DE 2024\nInstitui o Dia Estadual do Trilheiro e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Trilheiro, a ser comemorado, anualmente, no dia 28 de fevereiro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual instituído por esta Lei tem como objetivo reconhecer e homenagear os trilheiros, ressaltando a importância da prática responsável do esporte, o uso sustentável das trilhas e o respeito ao meio ambiente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Dia Estadual instituído por esta Lei, serão realizadas atividades comemorativas, incluindo eventos, palestras, cursos, campanhas educativas, entre outras ações que visem à promoção e à valorização dos trilheiros no Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual do Trilheiro fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22947",
+   "short": "Lei 22947/2024",
+   "title": "Lei nº 22947, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109412",
+   "first_law": "lei-2024-22947",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109412",
+     "sha256": "56da16353db38fc5fd541b4f952b950ed781aa31f14b44cd8c79efea0c4ecd58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.947, DE 26 DE AGOSTO DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Igreja do Divino Espírito Santo, situada no Município de Posse/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22948",
+   "short": "Lei 22948/2024",
+   "title": "Lei nº 22948, de 2024 (Institui o Dia Estadual do Nutricionista.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109413",
+   "first_law": "lei-2024-22948",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109413",
+     "sha256": "06003f53d31ceab40f35bacbcdf496282c073c5cb0602422043b44cac969e2a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.948, DE 26 DE AGOSTO DE 2024\nInstitui o Dia Estadual do Nutricionista.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Nutricionista, a ser comemorado, anualmente, no dia 31 de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Nutricionista passa a integrar o Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22949",
+   "short": "Lei 22949/2024",
+   "title": "Lei nº 22949, de 2024 (Institui o Calendário Estadual de Eventos Religiosos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109415",
+   "first_law": "lei-2024-22949",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109415",
+     "sha256": "876ae1dfece7985ab99164fc4c1a9b241d183edb1883c1a2c9ddb9c152d1df74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.949, DE 28 DE AGOSTO DE 2024\nInstitui o Calendário Estadual de Eventos Religiosos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Calendário Estadual de Eventos Religiosos, que tem por objetivo registrar, divulgar e estimular as principais atividades religiosas do Estado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A estrutura do Calendário Estadual ora instituído será organizada mensalmente, subdividida em dias, semanas, meses e eventos.\nParágrafo único. Na impossibilidade de estruturar os eventos, de acordo com o disposto no caput deste artigo, far-se-á a organização de forma apartada, com classificação sine die.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O planejamento do Calendário Estadual de Eventos Religiosos será realizado em parceria entre o Poder Público estadual e os segmentos interessados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22950",
+   "short": "Lei 22950/2024",
+   "title": "Lei nº 22950, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada no Município de Silvânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109416",
+   "first_law": "lei-2024-22950",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109416",
+     "sha256": "10146d2735095cec5a6189ebff3b2d76a50de34c19ef67431d728dfcc426a2cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.950, DE 28 DE AGOSTO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada no Município de Silvânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada, anualmente, no mês de julho, no Município de Silvânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22951",
+   "short": "Lei 22951/2024",
+   "title": "Lei nº 22951, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109417",
+   "first_law": "lei-2024-22951",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-08-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109417",
+     "sha256": "ba9b27a0aa302d200be57dad81b1505c68614082ba127c07305913ac089ade87",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.951, DE 28 DE AGOSTO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada DR. ANTÔNIO BARRETO DE ARAÚJO a Rodovia GO-439, no trecho que liga os Municípios de Pilar de Goiás/GO e Hidrolina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de agosto de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
