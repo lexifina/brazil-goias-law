@@ -1,0 +1,2222 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-23604": {
+   "label": "Lei nº 23604, de 2025",
+   "title": "Institui o Mês Estadual \"Julho Neon\", dedicado à democratização do acesso à saúde bucal, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-08-29",
+   "published": "2025-08-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111185",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23605": {
+   "label": "Lei nº 23605, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-08-29",
+   "published": "2025-08-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111186",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23606": {
+   "label": "Lei nº 23606, de 2025",
+   "title": "Confere ao Município de Goianésia/GO o título de \"Capital Goiana da Produção Sucroalcooleira\".",
+   "kind": "law",
+   "enacted": "2025-08-29",
+   "published": "2025-08-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111187",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23607": {
+   "label": "Lei nº 23607, de 2025",
+   "title": "Reconhece o javali ( Sus scrofa) e seus híbridos como espécie exótica invasora no Estado de Goiás, também institui normas para o controle populacional e o manejo sustentável da espécie em todas as suas formas, linhagens, raças e diferentes graus de cruzamento, em âmbito estadual.",
+   "kind": "law",
+   "enacted": "2025-09-01",
+   "published": "2025-09-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111188",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23608": {
+   "label": "Lei nº 23608, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111189",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23609": {
+   "label": "Lei nº 23609, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111190",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23610": {
+   "label": "Lei nº 23610, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111191",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23611": {
+   "label": "Lei nº 23611, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111192",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23612": {
+   "label": "Lei nº 23612, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111193",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23613": {
+   "label": "Lei nº 23613, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111194",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23614": {
+   "label": "Lei nº 23614, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111195",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23615": {
+   "label": "Lei nº 23615, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111196",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23616": {
+   "label": "Lei nº 23616, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111197",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23617": {
+   "label": "Lei nº 23617, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111198",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23618": {
+   "label": "Lei nº 23618, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111199",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23619": {
+   "label": "Lei nº 23619, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111200",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23620": {
+   "label": "Lei nº 23620, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111201",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23621": {
+   "label": "Lei nº 23621, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111202",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23622": {
+   "label": "Lei nº 23622, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111203",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23623": {
+   "label": "Lei nº 23623, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111204",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23624": {
+   "label": "Lei nº 23624, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111205",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23625": {
+   "label": "Lei nº 23625, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111206",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23626": {
+   "label": "Lei nº 23626, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111207",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23627": {
+   "label": "Lei nº 23627, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111208",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23628": {
+   "label": "Lei nº 23628, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111209",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23629": {
+   "label": "Lei nº 23629, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-02",
+   "published": "2025-09-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111210",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23630": {
+   "label": "Lei nº 23630, de 2025",
+   "title": "Autoriza os municípios a instalarem faixas elevadas para travessia de pedestres - lombofaixas - nas rodovias estaduais que atravessam o perímetro urbano.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111215",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23631": {
+   "label": "Lei nº 23631, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111216",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23632": {
+   "label": "Lei nº 23632, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111217",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23633": {
+   "label": "Lei nº 23633, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111218",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23634": {
+   "label": "Lei nº 23634, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111219",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23635": {
+   "label": "Lei nº 23635, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111220",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23636": {
+   "label": "Lei nº 23636, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111221",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23637": {
+   "label": "Lei nº 23637, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111222",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23638": {
+   "label": "Lei nº 23638, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111223",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23639": {
+   "label": "Lei nº 23639, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111224",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23640": {
+   "label": "Lei nº 23640, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111225",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23641": {
+   "label": "Lei nº 23641, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111226",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23642": {
+   "label": "Lei nº 23642, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111227",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23643": {
+   "label": "Lei nº 23643, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-04",
+   "published": "2025-09-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111228",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23644": {
+   "label": "Lei nº 23644, de 2025",
+   "title": "Altera a Lei nº 19.749, de 17 de julho de 2017, que estabelece sanções administrativas em caso de utilização de bomba de abastecimento adulterada nos postos revendedores de combustíveis, e a Lei nº 22.666, de 6 de maio de 2024, que institui a Política Estadual Combustíveis de Goiás.",
+   "kind": "law",
+   "enacted": "2025-09-08",
+   "published": "2025-09-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111231",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23645": {
+   "label": "Lei nº 23645, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111232",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23646": {
+   "label": "Lei nº 23646, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111233",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23647": {
+   "label": "Lei nº 23647, de 2025",
+   "title": "Institui o Dia Estadual do Bombeiro Militar Veterano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111234",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23648": {
+   "label": "Lei nº 23648, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111235",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23649": {
+   "label": "Lei nº 23649, de 2025",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111236",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23650": {
+   "label": "Lei nº 23650, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111237",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23651": {
+   "label": "Lei nº 23651, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111238",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23652": {
+   "label": "Lei nº 23652, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111239",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23653": {
+   "label": "Lei nº 23653, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111240",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-23604",
+   "short": "Lei 23604/2025",
+   "title": "Lei nº 23604, de 2025 (Institui o Mês Estadual \"Julho Neon\", dedicado à democratização do acesso à saúde bucal, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111185",
+   "first_law": "lei-2025-23604",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111185",
+     "sha256": "eac9b8cfe39c438fba3d2e581b4a5253fe4f64d76701c336bf03d8ca3df7dfb2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.604, DE 29 DE AGOSTO DE 2025\nInstitui o Mês Estadual \"Julho Neon\", dedicado à democratização do acesso à saúde bucal, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Mês Estadual \"Julho Neon\", dedicado à democratização do acesso à saúde bucal, que tem por objetivos, especialmente:\nI - conscientizar a população sobre a importância dos cuidados com a higiene bucal e de sua essencialidade para uma vida saudável;\nII - democratizar o acesso à saúde bucal em todo o Estado de Goiás;\nIII - incentivar consultas frequentes, como medida de antecipação de eventuais problemas dentários e de garantia de um futuro mais saudável;\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Mês Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de agosto de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23605",
+   "short": "Lei 23605/2025",
+   "title": "Lei nº 23605, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111186",
+   "first_law": "lei-2025-23605",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111186",
+     "sha256": "55e9274508760e032d9c4cf1ad0174dbedeb59210e5ef07e29027845aeb1eda6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.605, DE 29 DE AGOSTO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Cavalgada de Montividiu do Norte, realizada, anualmente, no mês de agosto, no Município de Montividiu do Norte/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de agosto de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23606",
+   "short": "Lei 23606/2025",
+   "title": "Lei nº 23606, de 2025 (Confere ao Município de Goianésia/GO o título de \"Capital Goiana da Produção Sucroalcooleira\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111187",
+   "first_law": "lei-2025-23606",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-08-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111187",
+     "sha256": "cd0ca0cbee7f1d44f22bc091470f5fc58e51221ccd84fb110681a0cccc01f2b0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.606, DE 29 DE AGOSTO DE 2025\nConfere ao Município de Goianésia/GO o título de \"Capital Goiana da Produção Sucroalcooleira\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Goianésia/GO o título de \"Capital Goiana da Produção Sucroalcooleira\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de agosto de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23607",
+   "short": "Lei 23607/2025",
+   "title": "Lei nº 23607, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111188",
+   "first_law": "lei-2025-23607",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111188",
+     "sha256": "6e4e1053c574b3a2aec8457c2b26334a77acc52b62fccd7ece43c4a258a5b569",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.607, DE 1º DE SETEMBRO DE 2025\nReconhece o javali (Sus scrofa) e seus híbridos como espécie exótica invasora no Estado de Goiás, também institui normas para o controle populacional e o manejo sustentável da espécie em todas as suas formas, linhagens, raças e diferentes graus de cruzamento, em âmbito estadual.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado animal nocivo aos seres humanos, ao meio ambiente, à saúde pública, à pecuária e à agricultura, bem como praga de peculiar interesse do Estado, o javali-europeu ( Sus scrofa), doravante denominado \"javali\", em todas as suas formas, linhagens, raças e diferentes graus de cruzamento e seus híbridos, em liberdade no Estado de Goiás, também são autorizados o controle populacional e o manejo sustentável da espécie, nos termos desta Lei.\n§ 1º A critério do órgão competente, para o controle populacional ou o manejo dos javalis, poderão ser adotados:\nI - a perseguição, o abate, a captura e a marcação de espécimes seguidos de soltura para rastreamento;\nII - a captura seguida de eliminação; e\nIII - a eliminação direta de espécimes.\n§ 2º O emprego de armadilhas, o uso de anestésicos ou de qualquer substância química e a realização de soltura de animais para rastreamento com a finalidade de controle somente serão permitidos com a autorização de manejo, que deverá ser solicitada ao órgão ambiental competente.\n§ 3º São vedados o uso de produtos com composição ou método de aplicação capazes de afetar animais que não sejam alvo do controle e a utilização de equipamentos que possam causar maus-tratos à espécie-alvo.\n§ 4º São proibidos métodos cruéis, como o envenenamento e o uso de armadilhas que causem ferimentos ou mutilem os animais.\n§ 5º Somente se permitirá o uso de armadilhas que capturem e mantenham os animais vivos, e serão proibidas as que forem capazes de matar ou ferir.\n§ 6º O controle de espécimes de javalis não será permitido nas propriedades particulares sem o consentimento dos titulares ou dos detentores dos direitos de uso das propriedades, e caberá aos que não consentirem comprovar ao órgão competente as ações realizadas para o combate à espécie invasora.\n§ 7º No interior de Unidades de Conservação Estaduais, caberá a anuência do respectivo órgão gestor, e as ações de controle dos javalis ficarão sujeitas ao regramento estabelecido por esse órgão.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os javalis capturados durante as ações de controle deverão ser abatidos no local da captura e estará proibido o transporte de animais vivos, exceto em casos excepcionais com a autorização do órgão ambiental competente.\n§ 1º O transporte de animais abatidos deverá atender à legislação vigente.\n§ 2º O descarte das carcaças, das vísceras e dos demais resíduos corpóreos provenientes dos abates dos javalis deverá ser realizado pelo controlador de forma adequada, observados os potenciais riscos sanitários e a legislação vigente, especialmente as normas de defesa sanitária animal e ambiental.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo atualizará e publicará anualmente o Plano de Manejo e Monitoramento de Javalis, observadas as informações divulgadas pelo órgão público federal competente a cada ano, nos termos do art. 8º da Lei federal nº 5.197, de 3 de janeiro de 1967.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23608",
+   "short": "Lei 23608/2025",
+   "title": "Lei nº 23608, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111189",
+   "first_law": "lei-2025-23608",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111189",
+     "sha256": "b9e30fc912b8dbb0bf85d92b6f033fa5753075976a53b42b18d3a81076ae2e8a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.608, DE 2 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE MOTOCICLISTAS AROEIRA JEEP CROSS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 11.497.516/0001-00, com sede no Município de Padre Bernardo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23609",
+   "short": "Lei 23609/2025",
+   "title": "Lei nº 23609, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111190",
+   "first_law": "lei-2025-23609",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111190",
+     "sha256": "987f7deb26c60d0b9ef2017f1e04350dc537c595a6527211beab00e1ebd6b3ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.609, DE 2 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO DE PESQUISA ARTHUR MIRANDA - IPAM, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 39.683.285/0001-48, com sede no Município de Piracanjuba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23610",
+   "short": "Lei 23610/2025",
+   "title": "Lei nº 23610, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111191",
+   "first_law": "lei-2025-23610",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111191",
+     "sha256": "c9c3cfb27138b87d9e0350715a614aaa9d49beb1892ccc1b7f52280a49414b8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.610, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MÁRCIA JOSÉ STEVANATO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23611",
+   "short": "Lei 23611/2025",
+   "title": "Lei nº 23611, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111192",
+   "first_law": "lei-2025-23611",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111192",
+     "sha256": "054c110c267e3101cbbf0ef45089d6109b1f7bac2ad77b030e75a7499ff4b005",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.611, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Monsenhor VANILDO FERNANDES DA MOTA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23612",
+   "short": "Lei 23612/2025",
+   "title": "Lei nº 23612, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111193",
+   "first_law": "lei-2025-23612",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111193",
+     "sha256": "91504ca49b9016701bbc0737da56c30b881d99465a6e911b7152d9d8b9cf02e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.612, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VALTER TOMAZ DE SOUSA ANDERES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23613",
+   "short": "Lei 23613/2025",
+   "title": "Lei nº 23613, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111194",
+   "first_law": "lei-2025-23613",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111194",
+     "sha256": "56a1305f1e282924528c173158843690889ca99ac3ae4691e6ffad0667fd2dc5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.613, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ FELIPE SPOHR SOBRINHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23614",
+   "short": "Lei 23614/2025",
+   "title": "Lei nº 23614, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111195",
+   "first_law": "lei-2025-23614",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111195",
+     "sha256": "24ce7ae001098e48c940bd23398c2e5de61d1f7ae3a869d254d218045b8e92ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.614, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALESSANDRO CORTESE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23615",
+   "short": "Lei 23615/2025",
+   "title": "Lei nº 23615, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111196",
+   "first_law": "lei-2025-23615",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111196",
+     "sha256": "1f9c90ad217867db563e0085447da65063c538412b01443fd5a472c891365ab6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.615, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ELIAS ANTÔNIO DE PAULA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23616",
+   "short": "Lei 23616/2025",
+   "title": "Lei nº 23616, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111197",
+   "first_law": "lei-2025-23616",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111197",
+     "sha256": "4551b5bf6fd656bc9d12e28647b6d613fa4933dddfbbea2168e691fdcb72b5c2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.616, DE 2 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o LIONS CLUBE DE CATALÃO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 00.001.925/0001-57, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23617",
+   "short": "Lei 23617/2025",
+   "title": "Lei nº 23617, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111198",
+   "first_law": "lei-2025-23617",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111198",
+     "sha256": "b356d124aa2f943cda6796f6fefe1f195026a91781a8213bf709732b762ab328",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.617, DE 2 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO LAÇOS DE BEM (ALB), inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.993.330/0001-96, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23618",
+   "short": "Lei 23618/2025",
+   "title": "Lei nº 23618, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111199",
+   "first_law": "lei-2025-23618",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111199",
+     "sha256": "21970556b6ece0090f2014f2c40708d32edc4d6e490cd29f5dee8b663fb23008",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.618, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANUZA AZEVEDO MAIA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23619",
+   "short": "Lei 23619/2025",
+   "title": "Lei nº 23619, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111200",
+   "first_law": "lei-2025-23619",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111200",
+     "sha256": "da4d596c68b0a83dd0fe13a9f2c82ccf53254c095c7d7cabe31488bea070f0ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.619, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CARLOS NEUCLIMAR VIEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23620",
+   "short": "Lei 23620/2025",
+   "title": "Lei nº 23620, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111201",
+   "first_law": "lei-2025-23620",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111201",
+     "sha256": "d973305e6f9935e2fffa3d5fa4099c268a4d041d9d6421c234dd383230430515",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.620, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CAMILA CARMINATO MELHADO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23621",
+   "short": "Lei 23621/2025",
+   "title": "Lei nº 23621, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111202",
+   "first_law": "lei-2025-23621",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111202",
+     "sha256": "dc0a26a4790beb329e19781a5400b68f1545e2fe54bae3b687e1ee0de0a3f0b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.621, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a AGOSTINHO JOSÉ BOTELHO LOPES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23622",
+   "short": "Lei 23622/2025",
+   "title": "Lei nº 23622, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111203",
+   "first_law": "lei-2025-23622",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111203",
+     "sha256": "97b9b48491364d44bfac0a993550aaf846a4906cad117c593502cf5040887c4d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.622, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HUMBERTO EUSTÁQUIO SOARES MARTINS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23623",
+   "short": "Lei 23623/2025",
+   "title": "Lei nº 23623, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111204",
+   "first_law": "lei-2025-23623",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111204",
+     "sha256": "a41a7f0c74ba9b5d4e2c0af996121e1c59c31c2eedd8b7f7ec26e66cd74faaaf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.623, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CELSO ATHAYDE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23624",
+   "short": "Lei 23624/2025",
+   "title": "Lei nº 23624, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111205",
+   "first_law": "lei-2025-23624",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111205",
+     "sha256": "db2510a6ded2c20696738c14346350ddf517e0105e053f37ae9488b6af034518",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.624, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CELSO RONALDO RAGUZZONI FIGUEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23625",
+   "short": "Lei 23625/2025",
+   "title": "Lei nº 23625, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111206",
+   "first_law": "lei-2025-23625",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111206",
+     "sha256": "615dfa56e1814d5e3bfeb36ae1d2264e6713214e6ba490442f8ccd4c9596001a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.625, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LEANDRA VALÉRIA SILVA NEGRETTO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23626",
+   "short": "Lei 23626/2025",
+   "title": "Lei nº 23626, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111207",
+   "first_law": "lei-2025-23626",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111207",
+     "sha256": "1c2c403ee7465b028527568ec3838209b75a3f5ad78de1215e76d93b9056318a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.626, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SARQUIZ ENRIQUE TORRES SEADE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23627",
+   "short": "Lei 23627/2025",
+   "title": "Lei nº 23627, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111208",
+   "first_law": "lei-2025-23627",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111208",
+     "sha256": "170ccd966b41045d55573b74c27c2b123a4335f1d6692035650ec96f5bcc56e9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.627, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GILBERTO BOTELHO MOUTINHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23628",
+   "short": "Lei 23628/2025",
+   "title": "Lei nº 23628, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111209",
+   "first_law": "lei-2025-23628",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111209",
+     "sha256": "a79f039f4c10957f8ea976079c40cf18fe52fe329c0e50cb96652f1c5d0cdfa1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.628, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a EDSON APARECIDO IZIDORO RODRIGUES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23629",
+   "short": "Lei 23629/2025",
+   "title": "Lei nº 23629, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111210",
+   "first_law": "lei-2025-23629",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111210",
+     "sha256": "f3cf1cc3aa203784e968850d13031a0f4a3d1b374eb18d6d695c84cc652b6dcd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.629, DE 2 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DEJAIR JOSÉ DE RESENDE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23630",
+   "short": "Lei 23630/2025",
+   "title": "Lei nº 23630, de 2025 (Autoriza os municípios a instalarem faixas elevadas para travessia de pedestres - lombofaixas - nas rodovias estaduais que atravessam o perímetro urbano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111215",
+   "first_law": "lei-2025-23630",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111215",
+     "sha256": "8767ed3c7d0d52dc49457dfeb1630c1b29924c783e156de3c8a348c8783e9368",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.630, DE 4 DE SETEMBRO DE 2025\nAutoriza os municípios a instalarem faixas elevadas para travessia de pedestres - lombofaixas - nas rodovias estaduais que atravessam o perímetro urbano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam os municípios do Estado de Goiás autorizados a instalar faixas elevadas para travessia de pedestres - lombofaixas - nas rodovias estaduais que atravessam o perímetro urbano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A instalação das faixas de que trata o art. 1º será realizada sob a autorização e supervisão da Agência Goiana de Infraestrutura e Transportes - Goinfra e deverá atender aos padrões e critérios definidos na Resolução nº 738, de 6 de setembro de 2018, do Conselho Nacional de Trânsito - Contran.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23631",
+   "short": "Lei 23631/2025",
+   "title": "Lei nº 23631, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111216",
+   "first_law": "lei-2025-23631",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111216",
+     "sha256": "05a767a584f76a79ad18730366a43d23b788f4b606330f12e826d634db98f97d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.631, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FERNANDO LUCAS CARDOSO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23632",
+   "short": "Lei 23632/2025",
+   "title": "Lei nº 23632, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111217",
+   "first_law": "lei-2025-23632",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111217",
+     "sha256": "d8c0a864e695a08573ae30770c1525874c07ad1f0557cd0941088a6428b8efed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.632, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUÍS GUSTAVO SOARES AMORIM DE SOUSA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23633",
+   "short": "Lei 23633/2025",
+   "title": "Lei nº 23633, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111218",
+   "first_law": "lei-2025-23633",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111218",
+     "sha256": "431e368ec51ffa9d045578dc1a83214076b1abc2e301a70f4935b1f62c3143f6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.633, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CRISTIANO ZANIN MARTINS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23634",
+   "short": "Lei 23634/2025",
+   "title": "Lei nº 23634, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111219",
+   "first_law": "lei-2025-23634",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111219",
+     "sha256": "50d008ee3f581e02e09b71eb1d503af7e42303fc123b73b56b79a260d8191b53",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.634, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SAULO DE OLIVEIRA PINTO COELHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23635",
+   "short": "Lei 23635/2025",
+   "title": "Lei nº 23635, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111220",
+   "first_law": "lei-2025-23635",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111220",
+     "sha256": "1fb5b8d7e0c34eaa99faa3347d2918deddffcc7a797c8666f43399569185fca8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.635, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCAS DA SILVA ROCHA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23636",
+   "short": "Lei 23636/2025",
+   "title": "Lei nº 23636, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111221",
+   "first_law": "lei-2025-23636",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111221",
+     "sha256": "47ee3cec5db496094a89aee648982f9a3a43a7a609aaa6d2116fd111ec4da356",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.636, DE 4 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO JOÃO NETO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 56.040.957/0001-16, com sede no Município de Firminópolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23637",
+   "short": "Lei 23637/2025",
+   "title": "Lei nº 23637, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111222",
+   "first_law": "lei-2025-23637",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111222",
+     "sha256": "20052d300673d8fb2baa52c76107b2e59c679502faa81a41869c6dfd1fcda0d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.637, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ARI DIÓGENES DA ROCHA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23638",
+   "short": "Lei 23638/2025",
+   "title": "Lei nº 23638, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111223",
+   "first_law": "lei-2025-23638",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111223",
+     "sha256": "95a594c9cf9bf81b0245c91aed54ce2b101602e75088f7fbc0547f604507f6d1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.638, DE 4 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO AMOR ANIMAL, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 53.425.878/0001-35, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23639",
+   "short": "Lei 23639/2025",
+   "title": "Lei nº 23639, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111224",
+   "first_law": "lei-2025-23639",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111224",
+     "sha256": "90b8b36e0213185e14a626071404d5b69acf09550dd00b5f773abcb5c794e99a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.639, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CRISTIAN ASSIS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23640",
+   "short": "Lei 23640/2025",
+   "title": "Lei nº 23640, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111225",
+   "first_law": "lei-2025-23640",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111225",
+     "sha256": "c2df59c604580985bed943c709722d7ceca94779648b1716b2e45d300d01e7e7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.640, DE 4 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE APRISCO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 06.206.400/0001-34, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23641",
+   "short": "Lei 23641/2025",
+   "title": "Lei nº 23641, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111226",
+   "first_law": "lei-2025-23641",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111226",
+     "sha256": "69979b09f0ffff0b2685bee5527e6b1f1d684289f89da888fb3fbc9537fc5197",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.641, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ENRIQUE RICARDO LEWANDOWSKI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23642",
+   "short": "Lei 23642/2025",
+   "title": "Lei nº 23642, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111227",
+   "first_law": "lei-2025-23642",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111227",
+     "sha256": "c8ecb84c60c11618af9da47ea59148af46d8e5746f7b649f6227fd56548e49a9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.642, DE 4 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CLEIDE MARIA HOLANDA MÁXIMO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23643",
+   "short": "Lei 23643/2025",
+   "title": "Lei nº 23643, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111228",
+   "first_law": "lei-2025-23643",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111228",
+     "sha256": "e40adf40cb52eeb924a6376a39e21ae4765397726abfef4ceac1433b1e82766e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.643, DE 4 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO COMERCIAL E INDUSTRIAL DA CIDADE DE JARAGUÁ, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 01.688.720/0001-54, com sede no Município de Jaraguá/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23644",
+   "short": "Lei 23644/2025",
+   "title": "Lei nº 23644, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111231",
+   "first_law": "lei-2025-23644",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111231",
+     "sha256": "3d33a2e6ea120fe2245487f77f4311950faf61bedb303a2862db24f1e19aae68",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.644, DE 8 DE SETEMBRO DE 2025\nAltera a Lei nº 19.749, de 17 de julho de 2017, que estabelece sanções administrativas em caso de utilização de bomba de abastecimento adulterada nos postos revendedores de combustíveis, e a Lei nº 22.666, de 6 de maio de 2024, que institui a Política Estadual Combustíveis de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.749, de 17 de julho de 2017, passa a vigorar com as seguintes alterações:\n\"Art 1º ..............................................................................................\nI - advertência ou, na hipótese da primeira reincidência, multa no valor de R$ 5.000,00 (cinco mil reais) a R$ 100.000,00 (cem mil reais);\nII - interdição do estabelecimento pelo período de 60 (sessenta) dias, na hipótese da segunda reincidência;\n..........................................................................................................................\" (NR)\n\"Art. 1º-A Fica assegurada, no âmbito da comercialização de combustíveis no Estado de Goiás, a proteção das relações de consumo, a preservação do meio ambiente e a integridade da ordem econômica.\" (NR)\n\"Art. 1º-B Sem prejuízo das sanções previstas no art. 1º, serão também punidas, na forma desta Lei, as seguintes condutas:\nI - comercialização, pelo posto revendedor, distribuidora ou Transportador Revendedor Retalhista (TRR), de combustível cuja composição esteja em desconformidade com a proporção de adição obrigatória de biocombustíveis, especialmente quanto à adição de etanol anidro à gasolina e de biodiesel ao óleo diesel, nos termos da legislação federal vigente;\nII - comercialização e a entrega, pela distribuidora, de combustível adulterado ou fora dos parâmetros legais de composição ou qualidade.\n§ 1º As infrações descritas neste artigo sujeitam os infratores às penalidades previstas nos incisos I, II e III do art. 1º desta Lei.\n§ 2º O posto revendedor ou o TRR poderá ser isento de responsabilidade nas hipóteses do inciso I do caput deste artigo, desde que comprove, cumulativamente:\nI - a coleta e a guarda, no ato do recebimento do combustível, de amostra- testemunha devidamente lacrada, nos termos das normas federais vigentes;\nII - a realização de análise técnica laboratorial certificada que comprove a desconformidade do combustível antes do seu recebimento;\nIII - a apresentação da documentação fiscal de aquisição do combustível compatível com o lote e a amostra- testemunha coletada.\n§ 3º Comprovada, por meio técnico e documental, a responsabilidade exclusiva da distribuidora de combustíveis, esta responderá integralmente pelas penalidades administrativas previstas nesta Lei.\n§ 4º As penalidades previstas nesta Lei poderão ser aplicadas cumulativamente às previstas na legislação ambiental, de defesa do consumidor e de defesa da ordem econômica, observada a ampla defesa e o contraditório.\n§ 5º Os órgãos estaduais competentes comunicarão ao Ministério Público a existência de indícios de crime contra a ordem econômica, nos termos do art. 1º, inciso I, da Lei federal nº 8.176, de 8 de fevereiro de 1991, e de crime contra o meio ambiente, nos termos do art. 56 da Lei federal nº 9.605, de 12 de fevereiro de 1998, sempre que constatada, mediante laudo técnico ou outro meio idôneo, a prática de qualquer das condutas descritas neste artigo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 22.666, de 6 de maio de 2024, passa a vigorar com as seguintes alterações:\n\"Art. 7º-A O Estado de Goiás atuará, no âmbito de sua competência, para coibir a comercialização, no território estadual, de combustíveis líquidos ou gasosos em desconformidade com os padrões legais de composição, qualidade ou proporção mínima de biocombustíveis, especialmente quanto à adição obrigatória de etanol anidro à gasolina e de biodiesel ao óleo diesel, nos termos da legislação federal vigente.\n§ 1º A atuação do Estado se dará em articulação com os órgãos federais responsáveis, inclusive a Agência Nacional do Petróleo, Gás Natural e Biocombustíveis (ANP), e poderá compreender a lavratura de autos de infração, a comunicação imediata aos órgãos de persecução penal e a adoção de medidas cautelares e sancionatórias no âmbito estadual.\n§ 2º O Estado de Goiás adotará medidas para a capacitação técnica de seus órgãos de fiscalização ambiental e de defesa do consumidor, com o objetivo de assegurar a rastreabilidade da origem do combustível comercializado e a responsabilização dos infratores, inclusive por meio de convênios com entidades públicas e privadas, especialmente com a ANP.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23645",
+   "short": "Lei 23645/2025",
+   "title": "Lei nº 23645, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111232",
+   "first_law": "lei-2025-23645",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111232",
+     "sha256": "879079fcb27005d3cd1613bd4171778b7e1f0de784cfb7e014ff771b14bff2d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.645, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO DE ARTE E CULTURA JUNINA BALANCÊ DO CERRADO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 39.442.626/0001-93, com sede no Município de Goianira/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23646",
+   "short": "Lei 23646/2025",
+   "title": "Lei nº 23646, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111233",
+   "first_law": "lei-2025-23646",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111233",
+     "sha256": "634d7a69279a8592db744f2d2699946e70deb407b237dcc8d3c46bcdf4cf2dc4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.646, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação ATOS DE JUSTIÇA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 15.229.054/0001-09, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23647",
+   "short": "Lei 23647/2025",
+   "title": "Lei nº 23647, de 2025 (Institui o Dia Estadual do Bombeiro Militar Veterano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111234",
+   "first_law": "lei-2025-23647",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111234",
+     "sha256": "da2ab945e526ecc631fb81f2f624bc21bc7481400ca2a5f241084d048f11d892",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.647, DE 9 DE SETEMBRO DE 2025\nInstitui o Dia Estadual do Bombeiro Militar Veterano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Bombeiro Militar Veterano, a ser comemorado, anualmente, no dia 5 de novembro.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Bombeiro Militar Veterano fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23648",
+   "short": "Lei 23648/2025",
+   "title": "Lei nº 23648, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111235",
+   "first_law": "lei-2025-23648",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111235",
+     "sha256": "c0a56d00efef3f3908baa08825811d9dc28406aa80e994be036dce0fb184bf05",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.648, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação IPAMERI MOTO FEST, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 52.715.237/0001-52, com sede no Município de Ipameri/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23649",
+   "short": "Lei 23649/2025",
+   "title": "Lei nº 23649, de 2025 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111236",
+   "first_law": "lei-2025-23649",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111236",
+     "sha256": "4f5e0f105b8252717d5de23d5dd2c9bcb3ee989403734a9d300bf03619748d3e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.649, DE 9 DE SETEMBRO DE 2025\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada JOSÉ ANTÔNIO DE REZENDE a Rodovia GO-219, no trecho que liga os Municípios de Hidrolândia/GO e Bela Vista de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23650",
+   "short": "Lei 23650/2025",
+   "title": "Lei nº 23650, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111237",
+   "first_law": "lei-2025-23650",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111237",
+     "sha256": "38d0a8db3b2da17311509e9cad17cb7089364d36b5a8819265a829a96e6efc35",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.650, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO GOIANA DE DOENÇAS RARAS - AGORA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 53.172.285/0001-04, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23651",
+   "short": "Lei 23651/2025",
+   "title": "Lei nº 23651, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111238",
+   "first_law": "lei-2025-23651",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111238",
+     "sha256": "367bf995d5f8992b3aa865e7a2262027bc054ea7a364c3118ce1e6d244634c53",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.651, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO CRUZEIRO DO SUL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 15.253.686/0001-08, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23652",
+   "short": "Lei 23652/2025",
+   "title": "Lei nº 23652, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111239",
+   "first_law": "lei-2025-23652",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111239",
+     "sha256": "60ea9f77a03f165029a9bcec3e21dae9b48bc6c2e0321f85e075a186dce23471",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.652, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO COMERCIAL E AGRO INDUSTRIAL DE CRISTALINA/GO - ACAIC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 25.053.893/0001-64, com sede no Município de Cristalina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23653",
+   "short": "Lei 23653/2025",
+   "title": "Lei nº 23653, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111240",
+   "first_law": "lei-2025-23653",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111240",
+     "sha256": "72b94b2841dec7fab48f344c83fa1e67ee526ad7667b46c80a61ef5fe5507e2a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.653, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO META E VERSO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 20.321.853/0001-32, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

@@ -1,0 +1,2642 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-23654": {
+   "label": "Lei nº 23654, de 2025",
+   "title": "Institui a Política de Conscientização sobre a Depressão na Pessoa Idosa no âmbito do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111241",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23655": {
+   "label": "Lei nº 23655, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111242",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23656": {
+   "label": "Lei nº 23656, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111243",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23657": {
+   "label": "Lei nº 23657, de 2025",
+   "title": "Estabelece a Política Estadual de Gerenciamento Adequado de Resíduos Sólidos gerados em eventos e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111244",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23658": {
+   "label": "Lei nº 23658, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111245",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23659": {
+   "label": "Lei nº 23659, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111246",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23660": {
+   "label": "Lei nº 23660, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111247",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23661": {
+   "label": "Lei nº 23661, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-09",
+   "published": "2025-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111248",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23662": {
+   "label": "Lei nº 23662, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-11",
+   "published": "2025-09-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111249",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23663": {
+   "label": "Lei nº 23663, de 2025",
+   "title": "Institui a Política de Incentivo aos Esportes de Rua no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-11",
+   "published": "2025-09-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111250",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23664": {
+   "label": "Lei nº 23664, de 2025",
+   "title": "Reorganiza a estrutura administrativa básica da Fundação de Amparo à Pesquisa de Goiás - FAPEG e de seu Conselho Superior, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111256",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23665": {
+   "label": "Lei nº 23665, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111257",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23666": {
+   "label": "Lei nº 23666, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111258",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23667": {
+   "label": "Lei nº 23667, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Fenashow, realizada no Município de Pontalina/GO.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111259",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23668": {
+   "label": "Lei nº 23668, de 2025",
+   "title": "Institui o Dia Estadual da Juventude Empreendedora e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111260",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23669": {
+   "label": "Lei nº 23669, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111261",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23679": {
+   "label": "Lei nº 23679, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Salão Nacional de Artes de Jataí.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111262",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23678": {
+   "label": "Lei nº 23678, de 2025",
+   "title": "Institui a Política Estadual de Fomento à Cadeia Produtiva da Uva.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111263",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23677": {
+   "label": "Lei nº 23677, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111264",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23676": {
+   "label": "Lei nº 23676, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Projeto Estrelas do Araguaia.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111265",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23675": {
+   "label": "Lei nº 23675, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá Pé de Serra, realizado no Município de Mairipotaba/GO.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111266",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23674": {
+   "label": "Lei nº 23674, de 2025",
+   "title": "Institui o Dia Estadual do Torcedor do Vila Nova.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111267",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23673": {
+   "label": "Lei nº 23673, de 2025",
+   "title": "Institui o Calendário Estadual de Corridas de Rua e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111268",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23672": {
+   "label": "Lei nº 23672, de 2025",
+   "title": "Institui o Dia Estadual do Árbitro de Várzea.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111269",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23671": {
+   "label": "Lei nº 23671, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111270",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23670": {
+   "label": "Lei nº 23670, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-16",
+   "published": "2025-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111271",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23680": {
+   "label": "Lei nº 23680, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-17",
+   "published": "2025-09-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111272",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23681": {
+   "label": "Lei nº 23681, de 2025",
+   "title": "Institui o Dia Estadual do Sistema S e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-17",
+   "published": "2025-09-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111273",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23682": {
+   "label": "Lei nº 23682, de 2025",
+   "title": "Institui a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.",
+   "kind": "law",
+   "enacted": "2025-09-17",
+   "published": "2025-09-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111274",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23683": {
+   "label": "Lei nº 23683, de 2025",
+   "title": "Altera a Lei nº 15.071, de 29 de dezembro de 2004, que institui na Secretaria da Saúde a Junta Médica Oficial Específica com vista ao atendimento das disposições da Lei nº 9.425, de 24 de dezembro de 1996.",
+   "kind": "law",
+   "enacted": "2025-09-18",
+   "published": "2025-09-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111276",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23684": {
+   "label": "Lei nº 23684, de 2025",
+   "title": "Regulamenta o § 5º do art. 73 da Constituição Estadual, que dispõe sobre a designação de comissão de transição de governo para adoção de providências no âmbito da Administração Pública municipal.",
+   "kind": "law",
+   "enacted": "2025-09-18",
+   "published": "2025-09-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111277",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23685": {
+   "label": "Lei nº 23685, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111303",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23686": {
+   "label": "Lei nº 23686, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111304",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23687": {
+   "label": "Lei nº 23687, de 2025",
+   "title": "Institui a Política Estadual de Atenção Integral à Doença de Huntington e o Dia Estadual de Conscientização sobre a Doença de Huntington.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111305",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23688": {
+   "label": "Lei nº 23688, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111306",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23689": {
+   "label": "Lei nº 23689, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Marco Zero do Estado de Goiás, realizada no Distrito de Buenolândia, no Município de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111307",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23690": {
+   "label": "Lei nº 23690, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Goianésia Rodeio Festival\", realizado no Município de Goianésia/GO.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111308",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23691": {
+   "label": "Lei nº 23691, de 2025",
+   "title": "Institui a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down.",
+   "kind": "law",
+   "enacted": "2025-09-24",
+   "published": "2025-09-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111309",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23692": {
+   "label": "Lei nº 23692, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111331",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23693": {
+   "label": "Lei nº 23693, de 2025",
+   "title": "Institui a Semana Estadual de Acessibilidade.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111332",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23694": {
+   "label": "Lei nº 23694, de 2025",
+   "title": "Institui a Política Estadual \"Qualifica Mulher\".",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111333",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23695": {
+   "label": "Lei nº 23695, de 2025",
+   "title": "Institui a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111334",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23696": {
+   "label": "Lei nº 23696, de 2025",
+   "title": "Altera a Lei nº 20.517, de 19 de julho de 2019, que dispõe sobre a instituição de programa de mediação escolar nas escolas públicas e privadas de Educação Básica do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111335",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23697": {
+   "label": "Lei nº 23697, de 2025",
+   "title": "Institui a Política Estadual de Incentivo ao Empreendedorismo Turístico e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111336",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23698": {
+   "label": "Lei nº 23698, de 2025",
+   "title": "Altera a Lei nº 19.075, de 27 de outubro de 2015, que institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e estabelece diretrizes para sua consecução.",
+   "kind": "law",
+   "enacted": "2025-09-29",
+   "published": "2025-09-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111337",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23699": {
+   "label": "Lei nº 23699, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Advocacia, realizado no Município de Aparecida de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111339",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23700": {
+   "label": "Lei nº 23700, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111340",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23701": {
+   "label": "Lei nº 23701, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111341",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23702": {
+   "label": "Lei nº 23702, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111342",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23703": {
+   "label": "Lei nº 23703, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111343",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-23654",
+   "short": "Lei 23654/2025",
+   "title": "Lei nº 23654, de 2025 (Institui a Política de Conscientização sobre a Depressão na Pessoa Idosa no âmbito do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111241",
+   "first_law": "lei-2025-23654",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111241",
+     "sha256": "b2d5de20c6a24e1b598cc5de4e93a4ac8312e4201d56736b546bb9e7002707c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.654, DE 9 DE SETEMBRO DE 2025\nInstitui a Política de Conscientização sobre a Depressão na Pessoa Idosa no âmbito do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política de Conscientização sobre a Depressão na Pessoa Idosa no Estado de Goiás, com o objetivo de promover campanhas educativas, capacitar profissionais de saúde e criar redes de apoio para identificar precocemente os sinais de depressão, oferecendo tratamento adequado e suporte emocional à pessoa idosa.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São diretrizes da Política Pública instituída por esta Lei, especialmente:\nI - estimular a promoção de campanhas educativas sobre a depressão na pessoa idosa, visando à conscientização da população em geral, sinais e sintomas da doença;\nII - incentivar a capacitação de profissionais de saúde para identificar precocemente os sinais de depressão na pessoa idosa e informar sobre o tratamento adequado;\nIII - estimular a criação de redes de apoio que envolvam familiares, amigos, cuidadores e profissionais de saúde para oferecer suporte emocional e acompanhamento contínuo às pessoas idosas diagnosticadas com depressão;\nIV - garantir o acesso a serviços de saúde mental de qualidade para a pessoa idosa, incluindo atendimento psicológico e psiquiátrico.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para efetivação da Política Pública prevista nesta Lei, o Poder Público estadual, por meio de seus órgãos competentes, poderá firmar parcerias com instituições públicas e privadas para a realização de ações conjuntas de conscientização e apoio à pessoa idosa com depressão, visando ampliar o alcance e a eficácia das medidas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23655",
+   "short": "Lei 23655/2025",
+   "title": "Lei nº 23655, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111242",
+   "first_law": "lei-2025-23655",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111242",
+     "sha256": "601e33410d125d488de037379640429d94157b1a759b43933df7070a2d8d26ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.655, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO DE FORMAÇÃO, INSERÇÃO E PROMOÇÃO SOCIAL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 06.926.371/0001-85, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23656",
+   "short": "Lei 23656/2025",
+   "title": "Lei nº 23656, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111243",
+   "first_law": "lei-2025-23656",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111243",
+     "sha256": "dcff0244e2a87b5734d5d543f6fa405f965c1c364e1416a8b1e0d1271d25ce6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.656, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DESPORTIVA JARDIM CARAVELAS - ADEJAC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 39.760.644/0001-13, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23657",
+   "short": "Lei 23657/2025",
+   "title": "Lei nº 23657, de 2025 (Estabelece a Política Estadual de Gerenciamento Adequado de Resíduos Sólidos gerados em eventos e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111244",
+   "first_law": "lei-2025-23657",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111244",
+     "sha256": "a07d1e69ec667af35afbc206de39de1f05d958ae3b1aa521d0ad9424dbb98639",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.657, DE 9 DE SETEMBRO DE 2025\nEstabelece a Política Estadual de Gerenciamento Adequado de Resíduos Sólidos gerados em eventos e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei estabelece exigências, obrigações e diretrizes para o gerenciamento adequado de resíduos sólidos gerados em eventos públicos, privados ou público-privados, a serem realizados no Estado de Goiás, conforme a Lei federal nº 12.305, de 2 de agosto de 2010, que institui a Política Nacional de Resíduos Sólidos, a Lei estadual nº 14.248, de 29 de julho de 2002, que dispõe sobre a Política Estadual de Resíduos Sólidos, e a Lei estadual nº 22.593, de 5 de abril de 2024, que institui a Política Estadual de Incentivo à Economia Circular.\nParágrafo único. Para os fins desta Lei, considera-se gerenciamento adequado de resíduos sólidos o conjunto de ações exercidas, direta ou indiretamente, nas etapas de coleta, transbordo, transporte, tratamento e destinação final ambientalmente adequada dos resíduos sólidos e disposição final ambientalmente adequada dos rejeitos, conforme plano de gerenciamento de resíduos, exigidos na forma da legislação.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O cumprimento das obrigações e exigências desta Lei recai sobre os organizadores dos eventos que gerem resíduos sólidos.\n§ 1º Os organizadores devem fornecer a estrutura necessária para a segregação, o acondicionamento e a destinação ambientalmente adequada dos resíduos sólidos gerados pelos participantes, bem como incentivá-los a fazer o descarte correto.\n§ 2º Os organizadores são responsáveis por assegurar uma comunicação eficaz com o público-alvo do evento, indicando claramente os locais apropriados para o descarte de resíduos sólidos, especificando os tipos de resíduos a serem descartados e promovendo ações de educação ambiental que facilitem a compreensão e a prática do descarte correto pelos participantes ao longo do evento.\n§ 3º A obrigação estabelecida no § 1º deste artigo deverá ser prevista e constar no Plano de Gerenciamento de Resíduos Sólidos (PGRS) de que trata o art. 3º desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Caberá aos organizadores onde serão realizados os eventos a elaboração de Planos de Gerenciamento de Resíduos Sólidos (PGRS), conforme o conteúdo mínimo estabelecido no art. 21 da Lei federal nº 12.305, de 2010.\nParágrafo único. O Plano de Gerenciamento de Resíduos Sólidos (PGRS) dos eventos, mencionado no caput deste artigo, deverá ser aprovado pelos órgãos competentes, constituindo-se como requisito obrigatório para a emissão de autorização para realização dos eventos indicados no art. 5º desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os eventos, sejam públicos, privados ou público-privados, devem respeitar a ordem de prioridade estabelecida no art. 9º da Lei federal nº 12.305, de 2010, priorizando as ações voltadas à não geração e à redução da geração de resíduos sólidos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para efeito de aplicação desta Lei, consideram-se eventos:\nI - shows e festivais musicais;\nII - festas e manifestações culturais e religiosas;\nIII - congressos, seminários, workshops, feiras, convenções, encontros corporativos e congêneres; e\nIV - campeonatos esportivos de qualquer modalidade.\n§ 1º Para fins de qualificação e caracterização dos eventos mencionados no caput deste artigo, ficam sujeitos ao cumprimento do disposto nesta Lei aqueles que contemplem a participação estimada de 2.000 (duas mil) ou mais pessoas, com as seguintes características:\nI - caráter público, privado ou público-privado, organizados por entidades públicas ou privadas ou do terceiro setor;\nII - realizados em ambientes fechados, cobertos ou ao ar livre;\nIII - realizados em espaços ou estabelecimentos privados ou em logradouros públicos;\nIV - realizados com ou sem cobrança de ingresso.\n§ 2º Os eventos descritos no § 1º deste artigo, com menos de 2.000 (dois mil) participantes, poderão ser isentos da obrigatoriedade de elaboração do PGRS, desde que não haja normatização específica para tal exigência no município onde o evento será realizado, não estando dispensados da obrigação de providenciar a estrutura necessária para o gerenciamento e a destinação ambientalmente adequada dos resíduos sólidos gerados pelos participantes, devendo, ainda, realizar o descarte correto e priorizar a destinação dos resíduos passíveis de reciclagem às cooperativas ou associações de catadores de materiais recicláveis.\n§ 3º Para fins desta Lei, não são considerados como eventos as feiras livres de rua.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Caberá aos órgãos competentes, conforme definição estabelecida pela Lei federal nº 12.305, de 2010, a definição dos critérios e dos procedimentos necessários para autorizar a realização dos eventos qualificados no art. 5º desta Lei, respeitadas as diretrizes definidas em legislação própria e nos respectivos planos de gestão integrada de resíduos sólidos.\nParágrafo único. Os procedimentos de acompanhamento e fiscalização do cumprimento do disposto no caput deste artigo serão de competência dos respectivos órgãos ambientais, tendo como instrumentos prioritários os respectivos planos de gestão integrada de resíduos sólidos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Os organizadores dos eventos são os responsáveis pela destinação ambientalmente adequada dos resíduos sólidos.\n§ 1º Para cumprir o disposto no caput deste artigo, deve-se priorizar a participação de cooperativas ou associações de catadores de materiais reutilizáveis e recicláveis, em atenção ao disposto no inciso VIII do art. 6º da Lei federal nº 12.305, de 2010, que reconhece o resíduo sólido reutilizável e reciclável como um bem econômico e de valor social, gerador de trabalho e renda e promotor de cidadania.\n§ 2º Eventos públicos e público-privados deverão obrigatoriamente contratar a prestação de serviço de cooperativas ou associações de catadores de materiais reutilizáveis e recicláveis.\n§ 3º Em eventos privados, os organizadores deverão priorizar a contratação de cooperativas ou associações de catadores nas etapas de gestão, triagem e destinação dos resíduos gerados em suas atividades.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º No caso de evento realizado sem a cobrança de ingresso e que ocorra em espaços ou logradouros públicos, considera-se organizador o poder público autorizante, sujeito a punições e penalidades no caso do descumprimento da presente Lei, ficando igualmente obrigado à apresentação do Plano previsto no art. 3º desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Cabe aos organizadores informar e orientar os participantes, usuários e o público-alvo dos eventos sobre o correto descarte dos resíduos sólidos gerados, incluindo os materiais e os meios de comunicação utilizados para divulgar o evento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As sanções e as penalidades ao descumprimento do disposto nesta Lei são as previstas na Lei federal nº 12.305, de 2010, e as definidas pelo titular da prestação dos serviços públicos de saneamento básico, em conformidade com o disposto na legislação específica, a serem aplicadas pelos órgãos competentes.\nParágrafo único. Poderá o órgão ambiental estadual aplicar sanções e penalidades previstas na legislação estadual, em especial aquelas relacionadas ao descarte irregular de resíduos sólidos e à contaminação do meio ambiente, tanto aos organizadores dos eventos previstos nesta Lei quanto aos municípios que, por ação ou omissão, descumprirem suas disposições.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As despesas decorrentes da aplicação desta Lei serão custeadas pelas dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23658",
+   "short": "Lei 23658/2025",
+   "title": "Lei nº 23658, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111245",
+   "first_law": "lei-2025-23658",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111245",
+     "sha256": "1ed92e919ff2456bd9387ef70d301d966b13baf7dceb11a999efd861f8c125bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.658, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o JARAGUÁ MOTO CLUBE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 07.138.024/0001-50, com sede no Município de Jaraguá/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23659",
+   "short": "Lei 23659/2025",
+   "title": "Lei nº 23659, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111246",
+   "first_law": "lei-2025-23659",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111246",
+     "sha256": "80b374afc250a49c94252d9e436b9ad0edea18315534ecf76a6eef53d2f42e0c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.659, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ELOHIN COMUNIDADE TERAPÊUTICA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 35.352.875/0001-37, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23660",
+   "short": "Lei 23660/2025",
+   "title": "Lei nº 23660, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111247",
+   "first_law": "lei-2025-23660",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111247",
+     "sha256": "1004862daa81a476599a7f36772ccb73d30b89e5bbd67a9f2f2642839503cbd5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.660, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS EMPREGADOS DA EMBRAPA GOIÁS - AEE/GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 02.900.348/0001-60, com sede no Município de Santo Antônio de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23661",
+   "short": "Lei 23661/2025",
+   "title": "Lei nº 23661, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111248",
+   "first_law": "lei-2025-23661",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111248",
+     "sha256": "d780c804d2f445681aeca1eb2d8a0e97b9152fb271e76a4074e359416bc8e58e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.661, DE 9 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS PRODUTORES RURAIS DEZESSETE DE ABRIL, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.376.943/0001-77, com sede no Município de Faina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23662",
+   "short": "Lei 23662/2025",
+   "title": "Lei nº 23662, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111249",
+   "first_law": "lei-2025-23662",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111249",
+     "sha256": "8061d724070cb5d9c3e708a1d5c6edb5f4c41766db06e962cc49ef04b3dc4807",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.662, DE 11 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO IRIS REZENDE MACHADO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 57.384.514/0001-05, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23663",
+   "short": "Lei 23663/2025",
+   "title": "Lei nº 23663, de 2025 (Institui a Política de Incentivo aos Esportes de Rua no Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111250",
+   "first_law": "lei-2025-23663",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111250",
+     "sha256": "1a643840112337ce57acfbde4f39fe936f4fd768bd716ba751b988c254ab9e59",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.663, DE 11 DE SETEMBRO DE 2025\nInstitui a Política de Incentivo aos Esportes de Rua no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política de Incentivo aos Esportes de Rua no Estado de Goiás, com o objetivo de promover a prática esportiva, a inclusão social e a ocupação saudável dos espaços públicos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os fins desta Lei, consideram-se Esportes de Rua as atividades esportivas realizadas em espaços públicos, urbanos ou rurais, caracterizadas por sua acessibilidade, informalidade e inclusão social, abrangendo, mas não se limitando, as seguintes modalidades:\nI - basquete de rua (s treetball): modalidade de basquete jogada em quadras abertas, geralmente em parques, praças ou ruas, com regras adaptadas e maior ênfase na criatividade e habilidade individual;\nII - skateboarding: prática do skate em pistas, parques, praças e ruas, incluindo modalidades como street, vert, downhill e freestyle;\nIII - patins ( rollerblading): uso de patins em áreas urbanas, como calçadas, ciclovias e parques, tanto para lazer quanto para prática esportiva;\nIV - parkour: disciplina física que envolve saltar, correr e escalar obstáculos urbanos, utilizando técnicas que maximizam a eficiência e fluidez dos movimentos;\nV - BMX: ciclismo realizado com bicicletas BMX em pistas, parques e ruas, englobando modalidades como street, park, dirt e flatland;\nVI - futebol de rua: forma informal de futebol praticada em ruas, praças e campos improvisados, com regras flexíveis e foco na diversão e inclusão;\nVII - tênis de rua ( street tennis): versão do tênis jogada em quadras improvisadas em ruas ou parques, utilizando equipamentos adaptados para o ambiente urbano;\nVIII - breakdance: dança urbana que combina movimentos atléticos e acrobáticos, praticada em espaços públicos como praças, calçadas e parques;\nIX - corrida de rua: competições e treinos de corrida realizados em vias públicas, integrando a comunidade local e incentivando a prática esportiva acessível a todos;\nX - slackline: prática de equilíbrio sobre uma fita esticada entre dois pontos fixos, geralmente em parques, praças e outros espaços públicos;\nXI - ciclismo urbano: uso da bicicleta como meio de transporte e prática esportiva em ciclovias, ruas e parques;\nXII - esportes adaptados: modalidades esportivas adaptadas para pessoas com deficiência, promovendo inclusão e acessibilidade em espaços públicos.\nParágrafo único. A lista de modalidades contempladas no caput deste artigo é exemplificativa, podendo ser ampliada para incluir outras práticas esportivas que atendam aos critérios de acessibilidade, informalidade e inclusão social em espaços públicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23664",
+   "short": "Lei 23664/2025",
+   "title": "Lei nº 23664, de 2025 (Reorganiza a estrutura administrativa básica da Fundação de Amparo à Pesquisa de Goiás - FAPEG e de seu Conselho Superior, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111256",
+   "first_law": "lei-2025-23664",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111256",
+     "sha256": "1b17c874a50776723c76be4f8eb6415e96b262d801d9edebe9765c59c8a94ea2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.664, DE 16 DE SETEMBRO DE 2025\nReorganiza a estrutura administrativa básica da Fundação de Amparo à Pesquisa de Goiás - FAPEG e de seu Conselho Superior, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES PRELIMINARES\nArt. 1º A Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG, criada pela Lei nº 15.472, de 12 de dezembro de 2005, entidade com personalidade jurídica de direito público, dotada de autonomia administrativa, financeira e patrimonial, integrada ao Sistema Estadual de Ciência e Tecnologia de Goiás, passa a ser disciplinada pelas disposições desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## FINALIDADE E COMPETÊNCIA\nArt. 2º A FAPEG atuará no fomento às atividades de pesquisa científica, tecnológica e de inovação que possam contribuir para o desenvolvimento socioeconômico e ambientalmente sustentável do Estado de Goiás.\n§ 1º Para a consecução de seus fins, compete à FAPEG:\nI - custear e financiar, total ou parcialmente, os projetos de pesquisa, inovação, difusão tecnológica e extensão, individuais ou de instituições públicas ou privadas e de empresas, aprovados por seus órgãos competentes, e difundir os resultados desses projetos;\nII - custear e financiar a instalação e a modernização de unidades de pesquisa e inovação públicas ou privadas;\nIII - custear e financiar, total ou parcialmente, as despesas com o registro de propriedade intelectual decorrente de pesquisa realizada sob seu amparo total ou parcial;\nIV - apoiar a realização e a participação de pesquisadores em eventos científicos, tecnológicos e de inovação;\nV - fomentar o intercâmbio entre pesquisadores de entidades ou instituições com sede em Goiás e estrangeiros, no país ou no exterior;\nVI - conceder ou complementar bolsas de pesquisa e extensão, de formação e de desenvolvimento em ciência, tecnologia e inovação;\nVII - firmar parcerias com os demais entes da administração pública, entidades nacionais ou estrangeiras, públicas ou privadas para a consecução de objetivos compatíveis com seus fins;\nVIII - apoiar a implantação e a consolidação de ambientes promotores da inovação e a formação de alianças estratégicas entre empresas e entidades públicas ou privadas sem fins lucrativos, para a geração de produtos, processos e serviços inovadores e a transferência e a difusão de tecnologias;\nIX - fiscalizar a aplicação dos amparos que conceder, com a possibilidade de suspendê-los nos casos de inobservância das normas de regência;\nX - manter e promover os cadastros dos projetos sob seu amparo e os levantamentos de seus indicadores para o auxílio à governança sobre as políticas de fomento a serem implementadas ou descontinuadas pela FAPEG;\nXI - fomentar ações promotoras da inclusão digital e da inclusão social e as voltadas ao desenvolvimento socioeconômico e ambientalmente sustentável;\nXII - captar recursos financeiros de entidades públicas e privadas nos âmbitos local, regional, nacional e internacional, bem como aplicá-los em conformidade com os objetivos e procedimentos operacionais da FAPEG e com a lei e os princípios da administração pública;\nXIII - conceder distinções, honrarias, prêmios ou outras formas de agraciamento a pessoas físicas ou jurídicas, para estimular ou exaltar ações de divulgação científica e de inovação promovidas em Goiás; e\nXIV - desenvolver outras atividades compatíveis com os fins da FAPEG.\n§ 2º A concessão de amparos pela FAPEG será, preferencialmente, antecedida da realização de chamamento público e se observarão, além da competência técnica e da capacidade de gestão, os princípios da legalidade, da impessoalidade, da moralidade, da publicidade e da eficiência, possibilitada a dispensa excepcional do chamamento com a necessária motivação e justificativa de seu Presidente, na forma exigida por lei.\n§ 3º Nas análises da execução de propostas fomentadas com recursos oriundos da FAPEG, por meio de relatórios técnicos, financeiros, inspeções e outras formas de monitoramento, serão adotadas formas simplificadas para a análise financeira, nos casos em que se demonstrar a efetividade no alcance de resultados, permitida a dispensa de cotação de preços, em patamar a ser definido em regulamento, além de outras simplificações nas prestações de contas.\n§ 4º Nos casos em que a avaliação de propostas seja submetida pela FAPEG a avaliadores externos, serão escolhidos especialistas com títulos de mestre ou doutor ou profissionais com comprovada experiência profissional em sua área de atuação.\n§ 5º Os beneficiários dos recursos financeiros da FAPEG deverão, quando houver a solicitação, emitir pareceres técnicos em sua área de especialidade na condição de consultores ad hoc, sem ônus para a Fundação, por cinco anos a contar da data da última concessão de fomento.\n§ 6º Os procedimentos relativos ao funcionamento da FAPEG serão regulados em seu estatuto.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º É vedado à FAPEG:\nI - criar órgãos próprios de pesquisa;\nII - assumir encargos externos permanentes de qualquer natureza; e\nIII - custear ou subsidiar atividades administrativas de instituições de pesquisa públicas ou privadas.\n§ 1º A FAPEG poderá conceder recursos financeiros para a cobertura de despesas operacionais e administrativas, desde que ocorram na execução de acordos, parcerias, contratos e termos de outorga voltados ao desenvolvimento científico, tecnológico, de inovação, na forma e nos limites estabelecidos pela legislação estadual específica.\n§ 2º Poderá ser admitida a hipótese de reembolso de valores, executados por terceiros na modalidade de despesas administrativas e operacionais, se forem observados, pelo convenente e interveniente os seguintes requisitos:\nI - a vinculação direta com o objeto do ajuste;\nII - a especificação no plano de trabalho;\nIII - a comprovação detalhada nas prestações de contas;\nIV - a apresentação pelo convenente ou interveniente de método de definição do percentual da despesa atribuído a cada ajuste, quando houver rateio das despesas com outros convênios; e\nV - a especificação dos convênios que, em andamento no período de vigência do ajuste fomentado, compartilhem custos administrativos e operacionais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DOS RECURSOS E DO PATRIMÔNIO\nArt. 4º Constituem recursos da FAPEG:\nI - os créditos consignados no orçamento do Estado de Goiás e em leis especiais;\nII - as rendas de seu patrimônio;\nIII - os saldos de exercícios anteriores;\nIV - as captações na forma de doações, legados e subvenções, benefícios, emendas parlamentares ou de contribuições de pessoa física ou jurídica nacional ou internacional;\nV - os valores provenientes de ajustes celebrados com instituição pública e privada nacional ou internacional;\nVI - lucros decorrentes da exploração econômica da propriedade intelectual, como comercialização, licença e cessão para terceiros, em relação à pesquisa desenvolvida com o amparo total ou parcial da FAPEG, nos termos de regulamentação por ato administrativo de sua Presidência;\nVII - os saldos remanescentes de convênios e restituições de auxílios concedidos pela FAPEG; e\nVIII - outras rendas ou recursos de qualquer natureza e origem que lhe forem atribuídas, inclusive as provenientes de fundos públicos destinados à pesquisa, à inovação e a outras áreas.\n§ 1º A FAPEG aplicará seus recursos na formação de um patrimônio rentável.\n§ 2º Na aplicação dos recursos da FAPEG, conforme dispuser seu estatuto, será constituída uma reserva técnica para garantir a estabilidade e a continuidade de programas e projetos de desenvolvimento científico, tecnológico e inovação em andamento.\n§ 3º Os saldos remanescentes de convênios e restituições de auxílios serão revertidos à Conta Única do Tesouro Estadual, realizando-se o respectivo crédito na conta escritural da FAPEG, para garantir a aplicação destes recursos nas suas finalidades institucionais, observadas as disposições da Lei Complementar nº 121, de 21 de dezembro de 2015, ou revertidos a fundo específico.\n§ 4º As receitas ordinárias classificadas como Fonte 100 serão registradas contabilmente no Tesouro Estadual.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O patrimônio da FAPEG é constituído de:\nI - bens e direitos transferidos a ela, em caráter definitivo, por instituições públicas e privadas nacionais ou internacionais; e\nII - bens e direitos que adquira em seu nome.\n§ 1º Os bens e os direitos da FAPEG serão utilizados e aplicados exclusivamente na consecução de seus fins.\n§ 2º No caso de extinção da FAPEG, seus bens e direitos, atendidos os encargos e as responsabilidades assumidas, serão revertidos ao patrimônio do Estado de Goiás.\n§ 3º Os bens patrimoniais adquiridos com recursos financeiros da FAPEG, em projetos de pesquisa científica, tecnológica ou de inovação fomentados por ela, serão incorporados, desde sua aquisição, ao patrimônio da instituição, da entidade ou da empresa executora do projeto.\n§ 4º Quando os bens forem adquiridos, nos projetos de que trata o § 3º deste artigo, com a participação de fundação de apoio, a titularidade observará o disposto em contrato ou convênio entre a instituição executora e a fundação de apoio.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA ORGANIZAÇÃO\nArt. 6º As unidades administrativas da estrutura básica e complementar da FAPEG são as seguintes:\nI - Conselho Superior;\nII - Gabinete do Presidente, integrado pelas seguintes unidades:\na) Gerência da Secretaria-Geral;\nb) Procuradoria Setorial;\nc) Chefia de Gabinete;\nd) Comunicação Setorial;\ne) Gerência de Estudos e Indicadores de Ciência, Tecnologia e Inovação - CT&I;\nf) Assessoria de Políticas de Fomento em CT&I;\ng) Diretoria de Gestão Integrada, composta pelas seguintes gerências:\n1. Gerência de Execução Orçamentária e Financeira;\n2. Gerência de Compras Governamentais, Patrimônio e Logística;\n3. Gerência de Planejamento e Gestão de Pessoas;\n4. Gerência de Tecnologia; e\n5. Gerência de Contabilidade;\nh) Diretoria Científica e de Inovação, composta pelas seguintes gerências:\n1. Gerência Científica;\n2. Gerência de Inovação; e\n3. Gerência de Parcerias Internacionais;\ni) Diretoria de Programas e Monitoramento, composta pelas seguintes gerências:\n1. Gerência de Avaliação e Monitoramento;\n2. Gerência de Operações de Fomento; e\n3. Gerência de Parcerias e Monitoramento.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção I\n## Do Conselho Superior\nArt. 7º O Conselho Superior é um órgão deliberativo e normativo, composto pelo presidente da FAPEG e outros 20 (vinte) membros, indicados:\nI - dois pela Universidade Federal de Goiás - UFG;\nII - um pela Universidade Federal de Jataí - UFJ;\nIII - um pela Universidade Federal de Catalão - UFCat;\nIV - um pelo Instituto Federal Goiano - IFGOIANO;\nV - um pelo Instituto Federal de Goiás - IFG;\nVI - dois pela Universidade Estadual de Goiás - UEG;\nVII - um pelas instituições estaduais com ações em pesquisa, desenvolvimento e inovação, em funcionamento no Estado de Goiás;\nVIII - um pelas instituições federais com ações em pesquisa, desenvolvimento e inovação, em funcionamento no Estado de Goiás;\nIX - um pelas instituições do sistema estadual de educação superior em Goiás, exceto a UEG;\nX - um pela Pontifícia Universidade Católica de Goiás - PUC Goiás;\nXI - um pela Universidade Evangélica de Goiás - UniEvangélica;\nXII - um pelas instituições de ensino superior de direito privado, em funcionamento no Estado de Goiás, exceto a PUC Goiás e a UniEvangélica;\nXIII - um pelo setor empresarial privado com ações em pesquisa, desenvolvimento e inovação, em funcionamento no Estado;\nXIV - dois pela Secretaria de Estado de Ciência, Tecnologia e Inovação; e\nXV - três de livre escolha e nomeados pelo Governador do Estado.\n§ 1º Os membros mencionados nos incisos I a XIII serão escolhidos e nomeados pelo Governador do Estado a partir de listas tríplices encaminhadas pelas respectivas instituições.\n§ 2º Os candidatos a membro do Conselho Superior deverão possuir título de doutor e produção acadêmica, científica ou tecnológica reconhecida, à exceção dos mencionados nos incisos XIII, XIV e XV deste artigo, que deverão possuir nível superior e notória experiência técnica ou empresarial em pesquisa, desenvolvimento e inovação.\n§ 3º As instituições mencionadas nos incisos I a XIII deste artigo deverão encaminhar, com a antecedência mínima de 90 dias antes do término de mandato de seus respectivos conselheiros, a lista tríplice à FAPEG, para que as indicações sejam apresentadas ao Governador do Estado.\n§ 4º No caso de inobservância do prazo de antecedência fixado no § 3º deste artigo para que as indicações sejam apresentadas pelas instituições, o Governador poderá escolher os conselheiros correspondentes às instituições, obedecida a representatividade estabelecida nos incisos deste artigo.\n§ 5º Os conselheiros serão nomeados em até 30 dias a contar da abertura de vaga.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O mandato de cada conselheiro será de três anos, com a possibilidade de apenas uma renovação.\n§ 1º A cada período de um ano, o Conselho Superior será renovado em 1/3 (um terço).\n§ 2º A falta não justificada a duas reuniões em um mesmo ano implicará a perda automática do mandato.\n§ 3º A função de conselheiro não será remunerada.\n§ 4º Não haverá suplentes e, em caso de vacância antes do término do mandato, a vaga dos membros mencionados nos incisos I a XIII do art. 7º deste artigo será ocupada por um dos candidatos da lista tríplice correspondente indicada ao Governador do Estado.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Compete ao Conselho Superior:\nI - aprovar o Estatuto da FAPEG, mediante a aprovação mínima por 2/3 (dois terços) de seus membros, e submetê-lo à homologação do Governador do Estado;\nII - deliberar sobre os casos omissos no Estatuto da FAPEG;\nIII - determinar a orientação geral da FAPEG, em consonância com a política de ciência, tecnologia e inovação do Estado de Goiás;\nIV - aprovar as propostas orçamentárias anuais e plurianuais elaboradas pela Diretoria;\nV - orientar a política patrimonial e financeira da FAPEG, dentro de suas disponibilidades;\nVI - julgar, em fevereiro de cada ano, as contas do ano anterior e apreciar os relatórios de gestão e balanços sobre as atividades de monitoramento e prestações de contas de fomentos concedidos e de recursos obtidos, ressalvada a competência do Tribunal de Contas do Estado de Goiás - TCE- GO;\nVII - apreciar o plano de carreira e vencimentos do quadro permanente do pessoal da FAPEG, elaborado pela Diretoria, e encaminhá- lo ao Governador do Estado, para as providências quanto a sua instituição; e\nVIII - aprovar a concessão de amparo solicitado à FAPEG.\n§ 1º O Conselho Superior se reunirá, ordinariamente, uma vez por trimestre e, extraordinariamente, quando julgar necessário.\n§ 2º Incumbe ao Conselho Superior a avaliação e o julgamento dos relatórios de gestão previstos no inciso VI deste artigo, ressalvados os casos omissos ou outras situações que exijam sua manifestação, se ela for solicitada pelo Presidente da FAPEG.\n§ 3º Os diretores da FAPEG poderão ser convocados para participar das reuniões do Conselho Superior, sem direito a voto.\n§ 4º O Presidente terá voto de qualidade.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## Seção II\n## Da Presidência\nArt. 10. O Presidente da FAPEG será nomeado pelo Governador do Estado e deverá possuir título de doutor.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. São atribuições do Presidente da FAPEG:\nI - auxiliar o Governador do Estado no exercício da direção superior da administração pública estadual;\nII - administrar a FAPEG com a prática de todos os atos necessários à área de sua competência, notadamente os relacionados com a orientação, a coordenação e a supervisão das atividades a cargo das unidades administrativas integrantes da entidade;\nIII - praticar os atos pertinentes às atribuições que lhe forem conferidas ou delegadas pelo Governador do Estado;\nIV - expedir instruções e outros atos normativos necessários à boa execução de leis, decretos e regulamentos;\nV - prestar, pessoalmente ou por escrito, à Assembleia Legislativa do Estado de Goiás ou a qualquer de suas comissões, quando for convocado e na forma da convocação, informações sobre assunto previamente determinado;\nVI - propor ao Governador, anualmente, o orçamento da FAPEG;\nVII - delegar suas próprias atribuições, por ato expresso, a seus subordinados, observados os limites estabelecidos em lei;\nVIII - referendar as leis sancionadas pelo Governador e os decretos assinados por ele que disserem respeito à FAPEG;\nIX - convocar e presidir as reuniões do Conselho Superior;\nX - analisar, com o auxílio da Diretoria Científica e de Inovação, as solicitações de amparo que forem formuladas à FAPEG e, em seguida, submetê- las à aprovação do Conselho Superior;\nXI - elaborar e lançar, com o auxílio da Diretoria Científica e de Inovação e após a aprovação do Conselho Superior, editais e chamadas de programas e projetos a serem amparados pela FAPEG;\nXII - cumprir as normas estatutárias, regulamentares e deliberações do Conselho Superior, bem como observar a legislação pertinente às fundações de direito público e as determinações do poder público relativas à fiscalização institucional;\nXIII - articular-se com o Conselho Estadual de Ciência, Tecnologia e Inovação e com as demais entidades públicas e privadas voltadas à atividade de pesquisa e inovação científica e tecnológica, para compatibilizar a aplicação dos recursos da FAPEG;\nXIV - promover e participar de iniciativas e de programas voltados ao desenvolvimento científico, tecnológico e de inovação do Estado, inclusive os que visem à transferência dos resultados de pesquisa para o setor produtivo;\nXV - convocar e presidir as reuniões com as diretorias;\nXVI - encaminhar, após a aprovação do Conselho Superior, a prestação de contas anual ao TCE- GO;\nXVII - ordenar despesas;\nXVIII - providenciar a instauração de tomada de contas especial e notificar os órgãos de controle; e\nXIX - desempenhar outras atribuições decorrentes do pleno exercício do cargo e as que lhe forem atribuídas pelo Governador do Estado e pelo Estatuto da FAPEG.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Em seus impedimentos ou ausências, o Presidente será substituído, a seu critério, pelo(a) Diretor(a) Científico(a) e de Inovação, pelo(a) Diretor(a) de Programas e Monitoramento ou pelo(a) Diretor(a) de Gestão Integrada, se for atendida a formação acadêmica requerida na parte final do caput do art. 10 desta Lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## Seção III\n## Da Diretoria\nArt. 13. A Diretoria da FAPEG é constituída pelo Presidente, pelo(a) Diretor(a) de Gestão Integrada, pelo(a) Diretor(a) Científico(a) e de Inovação e pelo(a) Diretor(a) de Programas e Monitoramento.\n§ 1º Os cargos de Diretor Científico e de Inovação, Diretor de Programas e Monitoramento e de Diretor de Gestão Integrada são de provimento em comissão, nomeados pelo Governador do Estado.\n§ 2º A Diretoria Científica e de Inovação deverá ser ocupada por pessoa possuidora de título de doutorado e produção acadêmica, científica e tecnológica reconhecida.\n§ 3º A Diretoria de Programas e Monitoramento deverá ser ocupada por pessoa com formação superior, possuidora de experiência comprovada em sua área de atuação, e ser servidor(a) efetivo(a) da administração estadual.\n§ 4º A Diretoria de Gestão Integrada deverá ser ocupada por pessoa com formação superior, possuidora de comprovada experiência na sua área de atuação e ser servidor(a) efetivo(a) da administração estadual.\n§ 5º Nos casos de impedimento ou ausência de um diretor, ele será substituído por um dos gerentes que integram a respectiva diretoria e, nesse caso, poderão ser desconsiderados os requisitos exigidos ao titular do cargo, relativos à titulação acadêmica e ao vínculo efetivo com a administração estadual.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. São atribuições da Diretoria:\nI - estruturar administrativamente a FAPEG e elaborar seu estatuto, que será submetido à apreciação e à aprovação do Conselho Superior;\nII - elaborar o plano de carreira e vencimentos do quadro permanente do pessoal da FAPEG que será submetido à apreciação do Conselho Superior e encaminhado ao Governador do Estado;\nIII - elaborar as propostas e os planos orçamentários anuais e plurianuais da FAPEG e submetê- los à apreciação e à aprovação do Conselho Superior;\nIV - deliberar sobre os pedidos de concessão de amparo emergencial ad referendum do Conselho Superior;\nV - elaborar o relatório anual das atividades da FAPEG, em especial sobre os amparos concedidos e os resultados das pesquisas e providenciar a sua divulgação, após a aprovação do Conselho Superior;\nVI - propor ao Conselho Superior projetos para a captação de recursos em fontes alternativas;\nVII - propor ao Conselho Superior a adoção de sistemáticas relativas à apresentação, à tramitação e ao julgamento de projetos a serem amparados com recursos da FAPEG, também relativas à apresentação e à análise de relatórios e à prestação de contas dos projetos amparados, para haver sempre a simplificação, a agilização, a divulgação ampla, a economia de recursos e a segurança nos procedimentos; e\nVIII - deliberar sobre questões pontuais não abarcadas pelo regramento da FAPEG.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. São atribuições do(a) Diretor(a) de Gestão Integrada:\nI - coordenar as atividades de gestão de pessoas, patrimônio, contabilidade, orçamento, finanças, serviços administrativos, planejamento e tecnologia da informação, bem como dar suporte operacional às demais atividades;\nII - dispor a infraestrutura necessária à implementação dos sistemas informatizados que suportem as atividades da FAPEG;\nIII - promover os recursos materiais e os serviços necessários ao perfeito funcionamento da FAPEG;\nIV - coordenar a formulação dos planos estratégicos e do Plano Plurianual - PPA e da proposta orçamentária, além de acompanhar e avaliar os resultados da FAPEG;\nV - promover a atualização permanente dos sistemas e dos relatórios de informações governamentais, em consonância com as diretrizes dos órgãos de orientação e de controle;\nVI - promover a disseminação da cultura de melhoria da gestão por processos, a governança, a inovação, a simplificação, a medição do desempenho, a elaboração e a manutenção da carta de serviços públicos, para a transformação da gestão pública e a melhoria contínua das atividades;\nVII - instaurar e julgar processo administrativo para a apuração da responsabilidade de pessoa jurídica, previsto na Lei nº 18.672, de 13 de novembro de 2014;\nVIII - coordenar, sob a orientação da Controladoria-Geral do Estado - CGE, a implantação do Programa de Compliance Público do Poder Executivo do Estado de Goiás;\nIX - coordenar a execução do conjunto de procedimentos e estruturas destinados a assegurar a conformidade dos atos de gestão, com base nos padrões morais e legais, com o fomento à ética, à transparência, à responsabilização e à gestão de riscos sob a orientação consultiva da CGE;\nX - definir e coordenar a execução da política de gestão de pessoas da FAPEG;\nXI - coordenar e implementar os processos licitatórios e a gestão dos contratos administrativos firmados pela FAPEG;\nXII - supervisionar as atividades referentes a pagamento, recebimento, controle, movimentação e disponibilidade financeira, com o acompanhamento da execução da contabilização orçamentária, financeira e patrimonial da FAPEG;\nXIII - atuar em atividades de formalização de convênios e de seus termos aditivos relacionados à transferência voluntária de recursos para instituições públicas e privadas sem fins lucrativos e outros entes da Federação nos casos em que a FAPEG for responsável pela transferência de recursos financeiros;\nXIV - acompanhar e fiscalizar com as demais diretorias a execução de convênios com instituições públicas e privadas sem fins lucrativos e outros entes da Federação nos casos em que a entidade for responsável pela transferência de recursos financeiros;\nXV - analisar e encaminhar aos órgãos de controle a prestação de contas de convênios com instituições públicas e privadas sem fins lucrativos e outros entes da Federação, nos casos em que a FAPEG for responsável pela transferência de recursos financeiros;\nXVI - coordenar o processo de elaboração e de manutenção do Estatuto da FAPEG;\nXVII - coordenar a elaboração e a implementação do planejamento estratégico da FAPEG, além de acompanhar e avaliar seus resultados; e\nXVIII - encarregar-se de competências correlatas.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. São atribuições do(a) Diretor(a) Científico(a) e de Inovação:\nI - coordenar a execução dos procedimentos de análise e seleção de solicitações de amparo feitos à FAPEG;\nII - prover subsídios à Presidência da FAPEG para o cumprimento dos objetivos e das metas da entidade;\nIII - participar do processo de planejamento das ações estratégicas da FAPEG;\nIV - elaborar, com a participação da Presidência, as chamadas públicas de programas e de projetos a serem amparados pela FAPEG;\nV - apoiar a elaboração de acordos e de convênios relativos a parcerias e solicitações de amparo para a deliberação da Presidência e do Conselho Superior;\nVI - participar da elaboração das minutas dos atos normativos de sua competência, também da elaboração e da revisão de resoluções e instruções normativas da FAPEG;\nVII - operacionalizar a relação com organismos nacionais e internacionais de fomento à pesquisa e à inovação para a captação de recursos;\nVIII - assessorar a Presidência no relacionamento com pesquisadores, instituições de ensino superior - IESs e institutos de ciência e tecnologia - ICTs, também no atendimento às demandas desses agentes; e\nIX - encarregar-se de competências correlatas.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. São atribuições do(a) Diretor(a) de Programas e Monitoramento:\nI - prover subsídios à Presidência da FAPEG para o cumprimento dos objetivos e das metas da entidade;\nII - participar do processo de planejamento das ações estratégicas da FAPEG;\nIII - estabelecer diretrizes e regras para as atividades de monitoramento e de gerenciamento da execução e da avaliação dos resultados técnico- científicos, bem como para a análise das prestações de contas das parcerias;\nIV - estabelecer os modelos de formulários e de relatórios necessários ao monitoramento, ao acompanhamento, à avaliação e à prestação de contas;\nV - manter interlocução com órgãos e entidades federais, municipais e de outras unidades da Federação para a definição de estratégias de gestão, acompanhamento e avaliação de programas e projetos;\nVI - participar da elaboração de minutas e de atos normativos de sua competência, também da elaboração e da revisão de resoluções e instruções normativas da FAPEG;\nVII - manifestar-se nos processos de prestações de contas dos projetos amparados pela FAPEG e atuar nas consolidações de pareceres sobre prestações de contas financeiras e relatórios técnicos emitidos pelas unidades que integram a diretoria;\nVIII - recomendar a suspensão de amparos concedidos e a aplicação de penalidades, nos termos do ordenamento;\nIX - atuar, em consonância com a prospecção e a estruturação propostas pela Presidência da FAPEG e pela Diretoria Científica e de Inovação, na formalização de acordos e de convênios relativos a parcerias e solicitações de amparo, para a deliberação superior; e\nX - encarregar-se de competências correlatas.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS DISPOSIÇÕES FINAIS\nArt. 18. Fica instituído, na FAPEG, o Programa de Estágio de Pós-Graduação, lato ou stricto sensu, para estudantes graduados matriculados em instituições de ensino superior oficialmente reconhecidas.\n§ 1º O programa de estágio de que trata este artigo será regulamentado por resolução do Conselho Superior da FAPEG, inclusive quanto à fixação dos valores a serem pagos a título de bolsa e auxílio-transporte.\n§ 2º Competem à FAPEG a gestão de seu Programa de Estágio de Pós-Graduação e a seleção dos estagiários.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. As despesas resultantes da aplicação desta Lei correrão à conta de dotações consignadas no orçamento vigente e, se houver necessidade, poderão ser suplementadas.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Os créditos derivados da atuação da FAPEG poderão ser pagos em parcelas mensais e sucessivas.\n§ 1º O parcelamento deverá ser pactuado em termo de acordo de parcelamento, do qual constarão as seguintes cláusulas, entre outras previstas em resolução do Conselho Superior da FAPEG:\nI - máximo de 24 parcelas mensais;\nII - cada parcela não inferior a R$ 300,00 (trezentos reais);\nIII - pagamento via Documento de Arrecadação de Receitas Estaduais - DARE;\nIV - cancelamento do parcelamento com o atraso superior a três parcelas, sucessivas ou não;\nV - acréscimo de juros e atualização monetária aos valores originais; e\nVI - efetivação do parcelamento somente com o pagamento da primeira parcela.\n§ 2º O parcelamento implica a confissão irretratável da dívida por parte do devedor, a expressa renúncia a qualquer defesa ou recurso e a desistência em relação aos recursos já interpostos.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Fica revogada a Lei nº 15.472, de 12 de dezembro de 2005.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23665",
+   "short": "Lei 23665/2025",
+   "title": "Lei nº 23665, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111257",
+   "first_law": "lei-2025-23665",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111257",
+     "sha256": "245ba5a4c1c0c6a98e342d742777780166ca6bc6b688fc1928704b4fad5a8631",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.665, DE 16 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO GOIANA DE JOGOS DIGITAIS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 44.755.278/0001-44, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23666",
+   "short": "Lei 23666/2025",
+   "title": "Lei nº 23666, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111258",
+   "first_law": "lei-2025-23666",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111258",
+     "sha256": "533682e9fa98542081d84c207e4bbb49f67a2457a9c6e98b0681f2398d64e34c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.666, DE 16 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CENTRO DE RECUPERAÇÃO DE VICIADOS DE IPAMERI - CASA DO CAMINHEIRO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 36.826.998/0001-25, com sede no Município de Ipameri/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23667",
+   "short": "Lei 23667/2025",
+   "title": "Lei nº 23667, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Fenashow, realizada no Município de Pontalina/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111259",
+   "first_law": "lei-2025-23667",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111259",
+     "sha256": "9c8ccb24b706326a3aaa8820ec942b4e9a9bae00a96eb717e296bf4a9cc2e86a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.667, DE 16 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Fenashow, realizada no Município de Pontalina/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Nacional do Agronegócio de Pontalina e Região - Fenashow, realizada, anualmente, na primeira quinzena do mês de junho, no Município de Pontalina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23668",
+   "short": "Lei 23668/2025",
+   "title": "Lei nº 23668, de 2025 (Institui o Dia Estadual da Juventude Empreendedora e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111260",
+   "first_law": "lei-2025-23668",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111260",
+     "sha256": "744e85eadca508b4af1e0b09596af905678a6eea7ca600b305c8ff30ff802463",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.668, DE 16 DE SETEMBRO DE 2025\nInstitui o Dia Estadual da Juventude Empreendedora e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Juventude Empreendedora, a ser comemorado, anualmente, no dia 13 de março.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual da Juventude Empreendedora fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Dia Estadual instituído por esta Lei, poderão ser realizados eventos, campanhas e atividades para valorizar os jovens empreendedores goianos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual instituído por esta Lei será marcado por ações que busquem:\nI - conscientizar sobre a importância do empreendedorismo juvenil para o desenvolvimento do Estado;\nII - incentivar o desenvolvimento de habilidades empreendedoras por meio de atividades educativas;\nIII - estimular a criação de políticas públicas que facilitem o acesso dos jovens ao mercado de trabalho e aos negócios;\nIV - oferecer programas de capacitação e mentoria para jovens empreendedores.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23669",
+   "short": "Lei 23669/2025",
+   "title": "Lei nº 23669, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111261",
+   "first_law": "lei-2025-23669",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111261",
+     "sha256": "cfd4614df2fdd93e6658eade278b1550a6c2ecfed3bd566acd534fce25fe6bca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.669, DE 16 DE SETEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As organizações Embaixadores do Rei e Mensageiras do Rei ficam reconhecidas como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23679",
+   "short": "Lei 23679/2025",
+   "title": "Lei nº 23679, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Salão Nacional de Artes de Jataí.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111262",
+   "first_law": "lei-2025-23679",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111262",
+     "sha256": "f949e42bcb7bb885e39d090668a22e68f6bb2979642b45f7420da50be4d3b8a9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.679, DE 16 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Salão Nacional de Artes de Jataí.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Salão Nacional de Artes de Jataí, realizado, anualmente, na segunda semana do mês de setembro, no Município de Jataí/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23678",
+   "short": "Lei 23678/2025",
+   "title": "Lei nº 23678, de 2025 (Institui a Política Estadual de Fomento à Cadeia Produtiva da Uva.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111263",
+   "first_law": "lei-2025-23678",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111263",
+     "sha256": "c740a2daaaa3253934f212b5fa7d9ca09aceda97c06a2de37339083defb97cee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.678, DE 16 DE SETEMBRO DE 2025\nInstitui a Política Estadual de Fomento à Cadeia Produtiva da Uva.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Fomento à Cadeia Produtiva da Uva, que tem por objetivo promover o desenvolvimento sustentável, a competitividade, a expansão da produção de uvas e produtos derivados, bem como fortalecer a economia rural e o agronegócio vitivinícola.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a disponibilização de assistência técnica, treinamento e capacitação para agricultores, abrangendo boas práticas de cultivo, manejo sustentável e expansão das atividades;\nII - estimular a realização de campanhas de promoção e marketing para aumentar a visibilidade dos produtos da uva do Estado de Goiás, incentivando o consumo e a comercialização;\nIII - estimular a pesquisa agrícola, tecnológica e científica, voltada para o melhoramento da qualidade das uvas cultivadas e o desenvolvimento de novas variedades adaptadas ao clima local;\nIV - estimular a criação e concessão de selos de qualidade e origem, que atestem a procedência e excelência dos produtos da uva produzidos no Estado de Goiás;\nV - estimular a construção e manutenção de infraestruturas como estradas rurais, armazéns, unidades de processamento e instalações de apoio aos produtores;\nVI - estimular a formação e fortalecimento de cooperativas e associações de produtores, visando à troca de experiências, ao compartilhamento de recursos e aos ganhos de escala;\nVII - estimular a adoção de práticas agrícolas sustentáveis, com foco na preservação do meio ambiente, na conservação do solo e na otimização do uso de recursos naturais;\nVIII - estimular a concessão de linhas de crédito destinadas a produtores e empreendedores do setor vitivinícola, visando à modernização e expansão das atividades;\nIX - estimular a celebração de parcerias ou convênios com órgãos públicos e com a organização da sociedade civil para alcançar os objetivos da Política Estadual instituída por esta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23677",
+   "short": "Lei 23677/2025",
+   "title": "Lei nº 23677, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111264",
+   "first_law": "lei-2025-23677",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111264",
+     "sha256": "795f57b7a74d0dce2817f0a330225daab704633c21c4d5ac985baf24c6a9945e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.677, DE 16 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO BRASA VIVA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.615.963/0001-38, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23676",
+   "short": "Lei 23676/2025",
+   "title": "Lei nº 23676, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Projeto Estrelas do Araguaia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111265",
+   "first_law": "lei-2025-23676",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111265",
+     "sha256": "ce64b02e5cf82b6738e80e69cb84c2b9e772cb9a218e86bc3bed4f717cefb9d9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.676, DE 16 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Projeto Estrelas do Araguaia.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Projeto Estrelas do Araguaia, realizado, anualmente, durante o mês de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23675",
+   "short": "Lei 23675/2025",
+   "title": "Lei nº 23675, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá Pé de Serra, realizado no Município de Mairipotaba/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111266",
+   "first_law": "lei-2025-23675",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111266",
+     "sha256": "07f31f2fb5fcc00d2051a60749456aa3b5832416a33dd4b77c1f91d592a9ccdd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.675, DE 16 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá Pé de Serra, realizado no Município de Mairipotaba/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá Pé de Serra, realizado, anualmente, na última quinzena do mês de junho, no Município de Mairipotaba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23674",
+   "short": "Lei 23674/2025",
+   "title": "Lei nº 23674, de 2025 (Institui o Dia Estadual do Torcedor do Vila Nova.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111267",
+   "first_law": "lei-2025-23674",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111267",
+     "sha256": "83da7aea97e1f8477cff9078d40efa6fa4783f19c50071cec79e6ad0e2ea1934",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.674, DE 16 DE SETEMBRO DE 2025\nInstitui o Dia Estadual do Torcedor do Vila Nova.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Torcedor do Vila Nova, a ser celebrado, anualmente, no dia 29 de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No Dia Estadual instituído por esta Lei, poderão ser realizadas, por órgãos e entidades públicas e privadas, campanhas educativas, eventos culturais e atividades de promoção do esporte e da cidadania, voltados ao reconhecimento da torcida do Vila Nova Futebol Clube e de sua contribuição para a cultura goiana.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23673",
+   "short": "Lei 23673/2025",
+   "title": "Lei nº 23673, de 2025 (Institui o Calendário Estadual de Corridas de Rua e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111268",
+   "first_law": "lei-2025-23673",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111268",
+     "sha256": "38ca2885f0802a27f4a77a635dd6993d5470f5894890849a64f66ad2b8f646e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.673, DE 16 DE SETEMBRO DE 2025\nInstitui o Calendário Estadual de Corridas de Rua e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Calendário Estadual de Corridas de Rua, com a finalidade de registrar, divulgar e estimular a participação dos esportistas nas principais corridas de rua realizadas no Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Calendário Estadual instituído por esta Lei subdivide-se em:\nI - dias, contendo as datas específicas de cada corrida realizada no respectivo mês;\nII - semanas, apresentando as corridas organizadas por período semanal, facilitando a visualização dos eventos em sequência;\nIII - meses, trazendo a descrição detalhada das corridas programadas ao longo do período.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Sempre que possível, serão incluídas, no Calendário Estadual instituído por esta Lei, informações completas sobre os organizadores do evento, bem como as respectivas redes sociais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23672",
+   "short": "Lei 23672/2025",
+   "title": "Lei nº 23672, de 2025 (Institui o Dia Estadual do Árbitro de Várzea.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111269",
+   "first_law": "lei-2025-23672",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111269",
+     "sha256": "6cf1f93238ec24a110903359f7ec936a60958b07837ec6a2d242d4848f37b180",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.672, DE 16 DE SETEMBRO DE 2025\nInstitui o Dia Estadual do Árbitro de Várzea.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Árbitro de Várzea, a ser comemorado, anualmente, no dia 11 de setembro.\nParágrafo único. O Dia Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23671",
+   "short": "Lei 23671/2025",
+   "title": "Lei nº 23671, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111270",
+   "first_law": "lei-2025-23671",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111270",
+     "sha256": "0fe2daae7dadd56548bb228c1d80e83cf3cbeb62b8107c1a5c2f695a2948c798",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.671, DE 16 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o GRUPO ECOLÓGICO AMBIENTAL NACIONAL COMANDO PANTERA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 38.258.886/0001-40, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23670",
+   "short": "Lei 23670/2025",
+   "title": "Lei nº 23670, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111271",
+   "first_law": "lei-2025-23670",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111271",
+     "sha256": "344c57d8fcc680900da00e12ea65636313b5663053d0b1beb9d11c5ef4a299d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.670, DE 16 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO SOCIAL TERAPÊUTICO RENOVO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.931.500/0001-59, com sede no Município de Novo Gama/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23680",
+   "short": "Lei 23680/2025",
+   "title": "Lei nº 23680, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111272",
+   "first_law": "lei-2025-23680",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111272",
+     "sha256": "f65733179cd8cd84a71aa09249fc2afe6a2393646ecd1cbac446ccf8555f9dd1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.680, DE 17 DE SETEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Circuito Orgulho de Viver, realizado, anualmente, nos meses de abril, junho e setembro, no Município de Goiânia/GO:\nI - fica declarado como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23681",
+   "short": "Lei 23681/2025",
+   "title": "Lei nº 23681, de 2025 (Institui o Dia Estadual do Sistema S e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111273",
+   "first_law": "lei-2025-23681",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111273",
+     "sha256": "998fc573ad3a7c81c1f5247d56a623467c7a189e3ee75f82842f7e19157e0f4c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.681, DE 17 DE SETEMBRO DE 2025\nInstitui o Dia Estadual do Sistema S e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Sistema S, a ser comemorado, anualmente, no dia 3 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Sistema S fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a comemoração do Dia Estadual ora instituído, poderão ser realizadas atividades como seminários, palestras, exposições e outros eventos que busquem conscientizar a sociedade sobre a importância do Sistema S.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23682",
+   "short": "Lei 23682/2025",
+   "title": "Lei nº 23682, de 2025 (Institui a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111274",
+   "first_law": "lei-2025-23682",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111274",
+     "sha256": "d8bbde1c2533a39f1833127b8a10678bfdee6d48b305922f9ab619c816fdfd2c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.682, DE 17 DE SETEMBRO DE 2025\nInstitui a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Pública instituída por esta Lei objetiva, especialmente, promover o uso seguro e responsável da internet por crianças e adolescentes, assegurando-lhes proteção integral e um ambiente digital seguro, educativo e respeitador de seus direitos e dignidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São princípios da Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet:\nI - respeito à dignidade da criança e do adolescente;\nII - proteção integral de seus direitos;\nIII - garantia da privacidade e da segurança no ambiente digital;\nIV - promoção do uso responsável e seguro da internet;\nV - cooperação entre o Estado, a família, a escola e a sociedade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política instituída por esta Lei tem como diretrizes, especialmente:\nI - promover a conscientização dos pais e responsáveis sobre a importância do controle parental no acesso à internet;\nII - estimular o desenvolvimento e a implementação de ferramentas de controle parental e filtragem de conteúdos impróprios em dispositivos eletrônicos utilizados por crianças e adolescentes;\nIII - incentivar a oferta de conteúdos educativos sobre segurança na internet nas escolas estaduais;\nIV - estabelecer parcerias com a sociedade civil, escolas e provedores de internet para promover ações educativas sobre esse tema;\nV - incentivar o desenvolvimento e a implementação de programas educativos sobre o uso seguro e responsável da internet;\nVI - promover campanhas de conscientização dirigidas a pais, educadores e responsáveis;\nVII - estimular a cooperação com provedores de serviços de internet e plataformas digitais para a proteção dos dados e da privacidade das crianças e adolescentes;\nVIII - apoiar iniciativas de combate ao cyberbullying, sexting, grooming e outras formas de exploração infantil online;\nIX - incentivar a criação de centros de apoio e orientação para pais e responsáveis;\nX - divulgar linhas de denúncia e atendimento para casos de exploração infantil online.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Público estadual estabelecerá formas de monitoramento e de avaliação da Política Pública instituída por esta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23683",
+   "short": "Lei 23683/2025",
+   "title": "Lei nº 23683, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111276",
+   "first_law": "lei-2025-23683",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111276",
+     "sha256": "975a0a7e7f372021d3be1e82293bf9b9a040da9e4fb2f48d64f4f083d5a315c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.683, DE 18 DE SETEMBRO DE 2025\nAltera a Lei nº 15.071, de 29 de dezembro de 2004, que institui na Secretaria da Saúde a Junta Médica Oficial Específica com vista ao atendimento das disposições da Lei nº 9.425, de 24 de dezembro de 1996.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.071, de 29 de dezembro de 2004, passa a vigorar com as seguintes alterações:\n\"Art. 2º A Junta Médica Oficial Específica será integrada por seis médicos nas especialidades de Oncologia, Hematologia, Dermatologia, Oftalmologia, Medicina Nuclear e Psiquiatria, e a atuação, neste último caso, estará condicionada ao periciado apresentar moléstias psiquiátricas.\n§ 1º Os profissionais que comporão a Junta Médica Oficial Específica serão recrutados preferencialmente do Quadro Permanente dos servidores da Secretaria de Estado da Saúde, subordinados à Lei nº 20.756, de 28 de janeiro de 2020, ou cedidos pelo Ministério da Saúde.\n§ 2º Sempre que o periciado apresentar moléstias que não correspondam às especialidades dos membros da Junta Médica Oficial Específica, poderão ser considerados laudos e perícias fornecidos por outros profissionais especializados, e a prioridade será dos médicos vinculados ao sistema público de saúde.\" (NR)\n\"Art. 4º A atuação da Junta Médica Oficial Específica dependerá apenas da presença mínima de 2/3 (dois terços) de seus componentes, que emitirão os laudos pertinentes.\nParágrafo único. Fica instituída a possibilidade de substituição temporária dos membros da Junta Médica Oficial Específica nos casos de afastamentos, licenças ou impedimentos superiores a trinta dias, sem prejuízo à utilização da faculdade prevista no § 2º do art. 2º desta Lei.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Aplicam-se, no que couber, as disposições da Lei federal nº 9.784, de 29 de janeiro de 1999, aos processos administrativos da Junta Médica Oficial Específica.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados os seguintes dispositivos da Lei nº 15.071, de 2004:\nI - o parágrafo único do art. 2º; e\nII - o art. 5º.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23684",
+   "short": "Lei 23684/2025",
+   "title": "Lei nº 23684, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111277",
+   "first_law": "lei-2025-23684",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111277",
+     "sha256": "fa3d3f6074712b8ee16c90078499d17cc8ee8263b6b6e0823820c35f4441484b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.684, DE 18 DE SETEMBRO DE 2025\nRegulamenta o § 5º do art. 73 da Constituição Estadual, que dispõe sobre a designação de comissão de transição de governo para adoção de providências no âmbito da Administração Pública municipal.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei regulamenta o § 5º do art. 73 da Constituição Estadual, que dispõe que, nos dez dias seguintes ao conhecimento do resultado das eleições municipais, o Prefeito Municipal designará uma comissão de transição de governo que será constituída por 3 (três) membros responsáveis pelo controle interno, finanças e administração, e 3 (três) membros indicados pelo candidato eleito ao cargo de Prefeito Municipal.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Prefeito que estiver no exercício do mandato deverá constituir, por ato normativo, uma comissão de transição de governo em até 10 (dez) dias após a proclamação oficial do resultado das eleições municipais.\n§ 1º A comissão será responsável por repassar informações e documentos ao candidato eleito, garantindo a continuidade administrativa e prevenindo a interrupção de serviços públicos.\n§ 2º A comissão será composta por 3 (três) representantes indicados pelo Prefeito que estiver no exercício do mandato, ocupantes de funções ligadas ao controle interno, finanças e administração, e por 3 (três) representantes indicados pelo candidato eleito.\n§ 3º O candidato eleito deverá indicar seus representantes em até 5 (cinco) dias após a proclamação oficial do resultado das eleições.\n§ 4º O ato de constituição da comissão deverá definir as datas de início e término dos trabalhos e ser publicado nos meios oficiais, incluindo o sítio eletrônico da Prefeitura.\n§ 5º A comissão deverá avaliar a necessidade de prorrogação de contratos continuados vigentes ou a realização de novos processos licitatórios, conforme a legislação aplicável, para garantir a continuidade dos serviços públicos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Prefeito que estiver no exercício do mandato encaminhará à comissão, no prazo de 10 (dez) dias após sua constituição, documentos e informações detalhadas especialmente sobre:\nI - planejamento orçamentário;\nII - quadro de pessoal;\nIII - contratos, convênios e processos licitatórios;\nIV - obras em andamento;\nV - concursos públicos vigentes;\nVI - legislação municipal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Prefeito que estiver no exercício do mandato encaminhará à comissão, até 15 de janeiro do ano subsequente, documentos e informações relativas à situação orçamentária, contábil, financeira e patrimonial do município em 31 de dezembro do exercício findo.\nParágrafo único. Caso os demonstrativos contábeis e anexos previstos na Lei federal nº 4.320, de 17 de março de 1964, não estejam concluídos, deverão ser apresentados relatórios discriminativos das receitas e despesas, acompanhados da documentação comprobatória.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os documentos mencionados nos arts. 3º e 4º desta Lei deverão ser emitidos em papel timbrado do município e assinados pelo Prefeito, pelo Secretário de Administração e pelo Secretário de Finanças.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A comissão de transição elaborará um relatório conclusivo e uma certidão com base nas informações recebidas, que serão entregues ao controle interno, ao Prefeito que encerra o mandato e ao Prefeito empossado.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO).\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Caso o Prefeito que estiver no exercício do mandato não constitua a comissão ou não forneça as informações exigidas, o Prefeito eleito deverá adotar providências para responsabilização, especialmente a notificação extrajudicial, representação ao Ministério Público ou ação judicial.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Caso o Prefeito eleito não indique seus representantes no prazo previsto, o Prefeito que estiver no exercício do mandato deverá adotar medidas para garantir a transição, incluindo notificação extrajudicial e representação ao Ministério Público.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Substituições ou recusas de membros da comissão deverão ser formalizadas por meio de solicitação escrita, com exposição de motivos.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As disposições desta Lei aplicam-se, no que couber, à administração indireta, incluindo fundações, autarquias e sociedades de economia mista.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Prefeito responsável pela prestação de contas de Governo do último ano do mandato deverá apresentar a certidão prevista no art. 6º quando da autuação das contas no Tribunal de Contas dos Municípios.\n§ 1º A certidão deverá confirmar o cumprimento das exigências do caput do art. 2º desta Lei.\n§ 2º Caso a transição não tenha ocorrido conforme previsto, isso deverá ser registrado na certidão.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. (VETADO).\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Tribunal de Contas dos Municípios editará ato normativo próprio para disciplinar a execução desta Lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23685",
+   "short": "Lei 23685/2025",
+   "title": "Lei nº 23685, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111303",
+   "first_law": "lei-2025-23685",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111303",
+     "sha256": "86713b5fa9b1270da84b03d3a280bf0c4160137a42b0dd935c673e94d946ff03",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.685, DE 24 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANILA CLÁUDIA LE SUEUR RAMALDES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23686",
+   "short": "Lei 23686/2025",
+   "title": "Lei nº 23686, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111304",
+   "first_law": "lei-2025-23686",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111304",
+     "sha256": "7753fd5964de96a827cccfbecda35ec9088443e507bcf66e897e5f38663cbabc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.686, DE 24 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE CORREDORES DE PORANGATU DO ESTADO DE GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 12.003.401/0001-84, com sede no Município de Porangatu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23687",
+   "short": "Lei 23687/2025",
+   "title": "Lei nº 23687, de 2025 (Institui a Política Estadual de Atenção Integral à Doença de Huntington e o Dia Estadual de Conscientização sobre a Doença de Huntington.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111305",
+   "first_law": "lei-2025-23687",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111305",
+     "sha256": "718d06bbdeb93cd9e8ead7fa8d02b8a9dbe74690fd5328f2293a62161dd0bda5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.687, DE 24 DE SETEMBRO DE 2025\nInstitui a Política Estadual de Atenção Integral à Doença de Huntington e o Dia Estadual de Conscientização sobre a Doença de Huntington.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos:\nI - a Política Estadual de Atenção Integral à Doença de Huntington;\nII - o Dia Estadual de Conscientização sobre a Doença de Huntington, a ser realizado, anualmente, no dia 27 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual de Atenção Integral à Doença de Huntington atenderá, especialmente, às seguintes diretrizes:\nI - incentivar a pesquisa científica voltada ao estudo da doença de Huntington;\nII - estimular a realização de ações educativas e informativas direcionadas à conscientização sobre a doença de Huntington;\nIII - facilitar o diagnóstico precoce e o acesso ao tratamento adequado da doença de Huntington;\nIV - estimular a promoção de cursos de capacitação para profissionais de saúde sobre a doença de Huntington;\nV - estimular o atendimento multidisciplinar de pessoas com doença de Huntington;\nVI - incentivar a criação de centros de referência especializados no atendimento às pessoas com doença de Huntington;\nVII - estimular a inclusão das pessoas com doença de Huntington em programas de assistência social.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Dia Estadual de Conscientização sobre a Doença de Huntington, serão realizados debates, bem como atividades direcionadas à informação e conscientização sobre a doença.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual de Conscientização sobre a Doença de Huntington fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23688",
+   "short": "Lei 23688/2025",
+   "title": "Lei nº 23688, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111306",
+   "first_law": "lei-2025-23688",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111306",
+     "sha256": "cbb0c6a06483b1878521d3389d3bdc9d61d26ca9131fca23a05ac021bab544a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.688, DE 24 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a REDE DE APOIO AOS PORTADORES DE CÂNCER - INSTITUTO POR AMOR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.218.448/0001-70, com sede no Município de Caldas Novas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23689",
+   "short": "Lei 23689/2025",
+   "title": "Lei nº 23689, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111307",
+   "first_law": "lei-2025-23689",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111307",
+     "sha256": "e839a4f383278472d0d69093080fccbb253580424473045c408bef47e8d67a8a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.689, DE 24 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Marco Zero do Estado de Goiás, realizada no Distrito de Buenolândia, no Município de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Marco Zero do Estado de Goiás, realizada, anualmente, no mês de agosto, no Distrito de Buenolândia, no Município de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23690",
+   "short": "Lei 23690/2025",
+   "title": "Lei nº 23690, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Goianésia Rodeio Festival\", realizado no Município de Goianésia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111308",
+   "first_law": "lei-2025-23690",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111308",
+     "sha256": "682a755ee354d79ebab44ec2ca5737471071def4b9f0f63ce67fb06a1d7c71de",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.690, DE 24 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Goianésia Rodeio Festival\", realizado no Município de Goianésia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Goianésia Rodeio Festival\", realizado, anualmente, na primeira quinzena de setembro, no Município de Goianésia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23691",
+   "short": "Lei 23691/2025",
+   "title": "Lei nº 23691, de 2025 (Institui a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111309",
+   "first_law": "lei-2025-23691",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111309",
+     "sha256": "a6fd3dcf13347aca66ae7f0abfb71eb5acf5e5e03b802eba4b3db8d3ffabf9ad",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.691, DE 24 DE SETEMBRO DE 2025\nInstitui a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down, que tem por objetivo incentivar a inclusão no mercado de trabalho formal e remunerado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São diretrizes e objetivos da Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down, especialmente:\nI - promover a capacitação profissional;\nII - desenvolver a implementação de estratégias que permitam a adaptação desse trabalhador e a sua permanência no emprego;\nIII - incentivar a adoção de ações afirmativas que garantam a igualdade de oportunidades;\nIV - incentivar a disponibilização de equipe multidisciplinar que auxilie esse trabalhador no desenvolvimento de sua habilidade profissional;\nV - estimular a formalização de parcerias com a sociedade civil organizada.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a consecução dos objetivos desta Lei, poderão ser formalizados convênios ou parcerias com a sociedade civil organizada ou outros órgãos públicos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23692",
+   "short": "Lei 23692/2025",
+   "title": "Lei nº 23692, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111331",
+   "first_law": "lei-2025-23692",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111331",
+     "sha256": "8a7c7e2b96c5bea8bbcfaf9f60faea5dbdfdf9991b3e596930e14926ae756c08",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.692, DE 29 DE SETEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa de Santo Antônio de Pádua, realizada, anualmente, no segundo final de semana do mês de junho, no Povoado de Deuslândia, Município de Brazabrantes/GO:\nI - fica declarada patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23693",
+   "short": "Lei 23693/2025",
+   "title": "Lei nº 23693, de 2025 (Institui a Semana Estadual de Acessibilidade.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111332",
+   "first_law": "lei-2025-23693",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111332",
+     "sha256": "fd96d18b4fd7dfb8d51e03cf06a9d4ae4ad0acbedc350ebd7d9d0cbb15e1a706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.693, DE 29 DE SETEMBRO DE 2025\nInstitui a Semana Estadual de Acessibilidade.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Acessibilidade, a ser realizada, anualmente, na terceira semana do mês de maio, em alusão ao Dia Mundial da Conscientização sobre a Acessibilidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da Semana instituída por esta Lei, especialmente:\nI - sensibilizar a sociedade sobre as dificuldades vividas pelas pessoas com deficiência ou mobilidade reduzida;\nII - promover a divulgação de conhecimento sobre acessibilidade;\nIII - estimular uma ação proativa em direção à construção de uma sociedade inclusiva e solidária;\nIV - promover a conscientização da sociedade sobre a importância da acessibilidade para pessoas com deficiência ou mobilidade reduzida;\nV - fomentar o debate e a reflexão sobre a promoção da acessibilidade em todas as esferas da sociedade, em especial nos edifícios públicos ou privados de uso coletivo, transporte, comunicação, tecnologia, cultura, lazer e turismo;\nVI - incentivar a adoção de políticas públicas de acessibilidade em todas as áreas mencionadas no inciso V deste artigo;\nVII - valorizar a diversidade humana, o respeito às diferenças e a inclusão social;\nVIII - proporcionar atividades que envolvam pessoas com deficiência ou mobilidade reduzida e a sociedade em geral, como forma de demonstrar as habilidades, os talentos e as potencialidades de tais pessoas; e\nIX - divulgar boas práticas de acessibilidade, que possam ser replicadas por outras instituições públicas e privadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As atividades desenvolvidas durante a Semana Estadual de Acessibilidade serão coordenadas pelo Poder Público estadual, em conjunto com organizações da sociedade civil que atuem na defesa dos direitos das pessoas com deficiência ou mobilidade reduzida.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual de Acessibilidade passa a integrar o calendário oficial de eventos do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23694",
+   "short": "Lei 23694/2025",
+   "title": "Lei nº 23694, de 2025 (Institui a Política Estadual \"Qualifica Mulher\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111333",
+   "first_law": "lei-2025-23694",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111333",
+     "sha256": "7bc854ac226dda5aee6e7f51c8856734fc2cf95e823b766c52e2a82db0d50bdd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.694, DE 29 DE SETEMBRO DE 2025\nInstitui a Política Estadual \"Qualifica Mulher\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual \"Qualifica Mulher\", que tem por objetivo ampliar o acesso da mulher ao mercado de trabalho e promover sua autonomia financeira.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - incentivar e maximizar a oferta de vagas para mulheres em situação de vulnerabilidade social em cursos de qualificação profissional;\nII - estimular o oferecimento de cursos gratuitos de qualificação profissional às mulheres em situação de vulnerabilidade social;\nIII - estimular a contratação de mulheres nos mais diversos postos de trabalho;\nIV - (VETADO);\nV - estimular a celebração de parcerias com órgãos públicos e com a organização da sociedade civil que tenham por objetivo efetivar a implantação da Política Estadual ora instituída.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nHENRIQUE CÉSAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23695",
+   "short": "Lei 23695/2025",
+   "title": "Lei nº 23695, de 2025 (Institui a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111334",
+   "first_law": "lei-2025-23695",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111334",
+     "sha256": "d5aac4fc35b418642a12d215c8e2bede812ecf07c8fc7ad9fad2005190e5efa5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.695, DE 29 DE SETEMBRO DE 2025\nInstitui a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários, que tem por objetivo incentivar o acesso à educação, a capacitação profissional e o desenvolvimento socioeconômico das comunidades menos favorecidas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para os efeitos desta Lei, consideram-se cursos sociais, populares e comunitários aqueles organizados por iniciativa da sociedade civil, bem como por outras organizações de caráter não oficial, que ofereçam, regularmente e sem finalidade econômica, cursos, oficinas, treinamentos ou aulas de reforço, direcionados para a comunidade, especialmente:\nI - cursos pré-vestibulares;\nII - cursos pré-universitários;\nIII - cursos pré-militares;\nIV - cursos pré-técnicos;\nV - cursos preparatórios para concursos públicos;\nVI - cursos de formação continuada de professores;\nVII - cursos de línguas estrangeiras;\nVIII - cursos de informática;\nIX - oficinas de artes visuais, artes cênicas, artes marciais, dança ou música.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual ora instituída tem por objetivos específicos:\nI - estimular a criação, manutenção e ampliação de cursos sociais, populares e comunitários, em áreas prioritárias, como educação básica, profissionalizante e superior, saúde, meio ambiente, cultura, esporte e lazer;\nII - estimular a inclusão social e a redução das desigualdades, por meio da oferta de cursos gratuitos ou a preços acessíveis às populações em situação de vulnerabilidade social e econômica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - estimular a concessão de apoio financeiro, técnico e material a entidades e organizações da sociedade civil sem fins lucrativos que promovam cursos e atividades educativos;\nII - estimular a celebração de parcerias entre o Poder Público e as instituições de ensino públicas e privadas, visando à oferta de vagas gratuitas ou a preços acessíveis, em cursos regulares ou de extensão;\nIII - estimular a criação de banco de dados e de um cadastro estadual de cursos sociais, populares e comunitários, com informações sobre a oferta, a demanda e os resultados alcançados;\nIV - estimular a realização de campanhas de divulgação e de mobilização social em prol da educação e da capacitação profissional;\nV - estimular a realização de eventos, seminários e oficinas para a capacitação de gestores, professores e demais profissionais envolvidos nos cursos.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Política ora instituída será implementada, preferencialmente, em bairros e comunidades de baixa renda per capita, visando assegurar novas oportunidades à população carente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23696",
+   "short": "Lei 23696/2025",
+   "title": "Lei nº 23696, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111335",
+   "first_law": "lei-2025-23696",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111335",
+     "sha256": "60ee15acc88a0028daa85488c8a03cd9a8a3522a4012adebb2e22a8834154612",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.696, DE 29 DE SETEMBRO DE 2025\nAltera a Lei nº 20.517, de 19 de julho de 2019, que dispõe sobre a instituição de programa de mediação escolar nas escolas públicas e privadas de Educação Básica do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.517, de 19 de julho de 2019, passa a vigorar com as seguintes alterações:\n\"Art. 2º. ..............................................................................................\nVI - a prevenção da violência no ambiente escolar, por meio, inclusive, da realização de palestras e outras ações preventivas;\nVIII - a capacitação de colaboradores para a resolução pacífica de conflitos;\nIX - o resgate da convivência harmoniosa no ambiente escolar;\nX - o combate a quaisquer formas de discriminação;\nXI - a identificação das causas da violência escolar e das áreas que apresentem mais riscos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23697",
+   "short": "Lei 23697/2025",
+   "title": "Lei nº 23697, de 2025 (Institui a Política Estadual de Incentivo ao Empreendedorismo Turístico e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111336",
+   "first_law": "lei-2025-23697",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111336",
+     "sha256": "94f443616786ab912fd0632c7767419385361b397cbbfff8f36267cf05179739",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.697, DE 29 DE setembro DE 2025\nInstitui a Política Estadual de Incentivo ao Empreendedorismo Turístico e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo ao Empreendedorismo Turístico, que tem por objetivo promover o desenvolvimento sustentável e incentivar o empreendedorismo e a criação de negócios voltados ao turismo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - estimular a criação e expansão de empreendimentos turísticos;\nII - estimular a concessão de linhas de crédito e de incentivos fiscais voltados aos empreendimentos turísticos;\nIII - estimular a divulgação e comercialização dos produtos e serviços turísticos oferecidos pelos empreendedores locais, por meio de plataformas on- line e parcerias com agências de turismo;\nIV - estimular a capacitação e o treinamento de empreendedores para o ingresso no setor turístico;\nV - estimular a inovação e diversificação dos negócios turísticos, de forma a se incentivar a criação de experiências únicas para os turistas;\nVI - estimular a celebração de convênios ou parcerias com órgãos públicos ou com a organização da sociedade civil de fomento ao empreendedorismo para alcançar os objetivos da Política ora instituída.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23698",
+   "short": "Lei 23698/2025",
+   "title": "Lei nº 23698, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111337",
+   "first_law": "lei-2025-23698",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111337",
+     "sha256": "5cfa5ac7fd46fc31d7a2f907e0861aeeea5b7459a8812de561767da1710e2e81",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.698, DE 29 DE SETEMBRO DE 2025\nAltera a Lei nº 19.075, de 27 de outubro de 2015, que institui a Política Estadual de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista e estabelece diretrizes para sua consecução.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 3º da Lei nº 19.075, de 27 de outubro de 2015, passa a vigorar com a seguinte alteração:\n\"Art 3º ..............................................................................................\nIV - ....................................................................................................\ne) ao transporte e à mobilidade, inclusive mediante:\n1. (VETADO);\n2. a garantia de assento preferencial nos veículos da rede de transporte público intermunicipal, condicionada à comprovação do transtorno do espectro autista por meio de laudo médico;\n§ 3º O direito de que trata o item 2 da alínea \"e\" do inciso IV deste artigo será divulgado por meio da afixação de placas ou cartazes no interior dos veículos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23699",
+   "short": "Lei 23699/2025",
+   "title": "Lei nº 23699, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Advocacia, realizado no Município de Aparecida de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111339",
+   "first_law": "lei-2025-23699",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111339",
+     "sha256": "11d7fc12dfef2e18e4f7bbbfb92ae8c2b613fecaeb7ca052242927830ce3ad96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.699, DE 30 DE SETEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Advocacia, realizado no Município de Aparecida de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Advocacia, realizado, anualmente, no mês de junho, no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23700",
+   "short": "Lei 23700/2025",
+   "title": "Lei nº 23700, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111340",
+   "first_law": "lei-2025-23700",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111340",
+     "sha256": "e556e1f8ee8931bef5ca6a1d2d1b5215574fc036d5c2a612bf68e39c34ef3e71",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.700, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE COMERCIANTES E PRODUTORES RURAIS DA LOCALIDADE DE VILA TAVEIRA - NIQUELÂNDIA/GO - ASTUDO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 29.960.139/0001-69, com sede no Município de Niquelândia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23701",
+   "short": "Lei 23701/2025",
+   "title": "Lei nº 23701, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111341",
+   "first_law": "lei-2025-23701",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111341",
+     "sha256": "a0b101b78db750bc32f037bd89e334f5c363ef42b8c2176d4a8ea7bb295603c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.701, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS MUNICÍPIOS DO EXTREMO SUDOESTE GOIANO - AMESGO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.858.490/0001-20, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23702",
+   "short": "Lei 23702/2025",
+   "title": "Lei nº 23702, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111342",
+   "first_law": "lei-2025-23702",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111342",
+     "sha256": "31243a284eb2b547d45fecdc04ff728fa18695804dfdb2c99978ac6842d754c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.702, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO PESTALOZZI DE PROFESSOR JAMIL, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 54.476.645/0001-24, com sede no Município de Professor Jamil/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23703",
+   "short": "Lei 23703/2025",
+   "title": "Lei nº 23703, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111343",
+   "first_law": "lei-2025-23703",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111343",
+     "sha256": "63ac7c634946838f3663a84f68d55c08ad7a02d773c629a4305d3462273c35bd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.703, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO MILLENAR DE RESPONSABILIDADE SOCIAL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.613.532/0001-06, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

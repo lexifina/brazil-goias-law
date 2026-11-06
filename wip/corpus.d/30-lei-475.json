@@ -1,0 +1,2477 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-23704": {
+   "label": "Lei nº 23704, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111344",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23705": {
+   "label": "Lei nº 23705, de 2025",
+   "title": "Confere ao Município de Itaguaru/GO o título de \"Capital Goiana da Festa da Banana\".",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111345",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23706": {
+   "label": "Lei nº 23706, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111346",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23707": {
+   "label": "Lei nº 23707, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111347",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23708": {
+   "label": "Lei nº 23708, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111348",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23709": {
+   "label": "Lei nº 23709, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111349",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23710": {
+   "label": "Lei nº 23710, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111350",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23711": {
+   "label": "Lei nº 23711, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111351",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23712": {
+   "label": "Lei nº 23712, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111352",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23713": {
+   "label": "Lei nº 23713, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111353",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23714": {
+   "label": "Lei nº 23714, de 2025",
+   "title": "Altera a Lei nº 20.735, de 17 de janeiro de 2020, que institui a Política Estadual de Incentivo à Prática de Compostagem.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111354",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23715": {
+   "label": "Lei nº 23715, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111355",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23716": {
+   "label": "Lei nº 23716, de 2025",
+   "title": "Institui o Dia Estadual do Médico-Veterinário.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111356",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23717": {
+   "label": "Lei nº 23717, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111357",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23718": {
+   "label": "Lei nº 23718, de 2025",
+   "title": "Institui, no Estado de Goiás, o \"Ano Escritor Bernardo Élis\" e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-09-30",
+   "published": "2025-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111358",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23719": {
+   "label": "Lei nº 23719, de 2025",
+   "title": "Altera a Lei nº 23.389, de 6 de maio de 2025, que reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos e de empregos públicos nos Poderes Executivo e Legislativo do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-10-01",
+   "published": "2025-10-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23720": {
+   "label": "Lei nº 23720, de 2025",
+   "title": "Altera a denominação do estabelecimento de ensino que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-03",
+   "published": "2025-10-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111365",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23721": {
+   "label": "Lei nº 23721, de 2025",
+   "title": "Institui o Dia Estadual do Agente de Viagem e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-10-03",
+   "published": "2025-10-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111366",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23722": {
+   "label": "Lei nº 23722, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-03",
+   "published": "2025-10-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111367",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23723": {
+   "label": "Lei nº 23723, de 2025",
+   "title": "Institui a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.",
+   "kind": "law",
+   "enacted": "2025-10-03",
+   "published": "2025-10-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111368",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23724": {
+   "label": "Lei nº 23724, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-03",
+   "published": "2025-10-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111369",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23725": {
+   "label": "Lei nº 23725, de 2025",
+   "title": "Autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, o Prêmio Matemática Enem.",
+   "kind": "law",
+   "enacted": "2025-10-06",
+   "published": "2025-10-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111381",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23726": {
+   "label": "Lei nº 23726, de 2025",
+   "title": "Altera a Lei nº 13.194, de 26 de dezembro de 1997, que trata de matéria tributária.",
+   "kind": "law",
+   "enacted": "2025-10-06",
+   "published": "2025-10-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111382",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23727": {
+   "label": "Lei nº 23727, de 2025",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Águas Lindas de Goiás/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-06",
+   "published": "2025-10-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111383",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23728": {
+   "label": "Lei nº 23728, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-10-10",
+   "published": "2025-10-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111417",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23729": {
+   "label": "Lei nº 23729, de 2025",
+   "title": "Institui a Política Estadual de Incentivo à Agricultura e à Economia Regenerativas.",
+   "kind": "law",
+   "enacted": "2025-10-10",
+   "published": "2025-10-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111418",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23730": {
+   "label": "Lei nº 23730, de 2025",
+   "title": "Altera a Lei nº 21.073, de 9 de agosto de 2021, que cria o incentivo à alfabetização, destinado a premiar as escolas públicas da rede estadual e municipal de ensino, de acordo com os resultados no Índice de Desenvolvimento da Educação do Estado de Goiás na Alfabetização - IDEGO-Alfa e no Sistema de Avaliação Educacional do Estado de Goiás - SAEGO.",
+   "kind": "law",
+   "enacted": "2025-10-13",
+   "published": "2025-10-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111420",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23731": {
+   "label": "Lei nº 23731, de 2025",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Montes Claros de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111421",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23732": {
+   "label": "Lei nº 23732, de 2025",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Hidrolina/GO.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111422",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23733": {
+   "label": "Lei nº 23733, de 2025",
+   "title": "Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a Lei nº 13.453, de 16 de abril de 1999.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111423",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23734": {
+   "label": "Lei nº 23734, de 2025",
+   "title": "Institui o Dia Estadual do Orgulho Autista e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111424",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23735": {
+   "label": "Lei nº 23735, de 2025",
+   "title": "Institui o Dia Estadual do Psicólogo.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111425",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23736": {
+   "label": "Lei nº 23736, de 2025",
+   "title": "Institui o Dia Estadual do Biólogo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111426",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23737": {
+   "label": "Lei nº 23737, de 2025",
+   "title": "Institui a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111427",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23738": {
+   "label": "Lei nº 23738, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111428",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23739": {
+   "label": "Lei nº 23739, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111429",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23740": {
+   "label": "Lei nº 23740, de 2025",
+   "title": "Institui a Política Estadual de Amparo à Saúde da Mulher em Uso Abusivo de Álcool.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111430",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23741": {
+   "label": "Lei nº 23741, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111431",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23742": {
+   "label": "Lei nº 23742, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111432",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23743": {
+   "label": "Lei nº 23743, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111433",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23744": {
+   "label": "Lei nº 23744, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111434",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23745": {
+   "label": "Lei nº 23745, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111435",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23746": {
+   "label": "Lei nº 23746, de 2025",
+   "title": "Confere ao Município de Rubiataba/GO o título de \"Capital Goiana do Polo Moveleiro\".",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111436",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23747": {
+   "label": "Lei nº 23747, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111437",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23748": {
+   "label": "Lei nº 23748, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111438",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23749": {
+   "label": "Lei nº 23749, de 2025",
+   "title": "Estabelece o prazo de vida útil para veículos utilizados no transporte escolar no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-10-14",
+   "published": "2025-10-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111439",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23750": {
+   "label": "Lei nº 23750, de 2025",
+   "title": "Altera a Lei nº 21.219, de 29 de dezembro de 2021, que estabelece regras e critérios para a reforma e a construção de unidades habitacionais do Programa Pra Ter Onde Morar, no âmbito das ações sociais suplementares, em conformidade com o art. 1º da Lei nº 14.469, de 16 de julho de 2003, que institui o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, e a Lei nº 22.552, de 8 de março de 2024, que autoriza a concessão de subsídio aos beneficiários de programas habitacionais realizados em parceria com o Governo Federal, por intermédio da Caixa Econômica Federal, do Banco do Brasil ou de outras instituições financeiras credenciadas pelo Ministério das Cidades, para a aquisição de unidades habitacionais no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-10-15",
+   "published": "2025-10-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111440",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23751": {
+   "label": "Lei nº 23751, de 2025",
+   "title": "Dispõe sobre o reconhecimento da marcha equina e de muares como manifestação de relevância cultural e atividade esportiva de competição no âmbito do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-10-15",
+   "published": "2025-10-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111441",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23752": {
+   "label": "Lei nº 23752, de 2025",
+   "title": "Institui o Selo ASG de incentivo às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.",
+   "kind": "law",
+   "enacted": "2025-10-15",
+   "published": "2025-10-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111442",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23753": {
+   "label": "Lei nº 23753, de 2025",
+   "title": "Altera a Lei nº 15.122, de 04 de fevereiro de 2005, que institui o Plano de Carreira e o Quadro Permanente dos Servidores do Tribunal de Contas do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-10-22",
+   "published": "2025-10-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111448",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-23704",
+   "short": "Lei 23704/2025",
+   "title": "Lei nº 23704, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111344",
+   "first_law": "lei-2025-23704",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111344",
+     "sha256": "6e103768146916f4629e2b4b19a367354e35d6b15ee364e5dd375d0cec974999",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.704, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o CONSELHO DE PASTORES EVANGÉLICOS DE SILVÂNIA - COPES, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.803.498/0001-84, com sede no Município de Silvânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23705",
+   "short": "Lei 23705/2025",
+   "title": "Lei nº 23705, de 2025 (Confere ao Município de Itaguaru/GO o título de \"Capital Goiana da Festa da Banana\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111345",
+   "first_law": "lei-2025-23705",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111345",
+     "sha256": "ae99c5581f0ced239c1b9cd1ef9f3ebfeb465940990130a95d2ffdc3a197b17d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.705, DE 30 DE SETEMBRO DE 2025\nConfere ao Município de Itaguaru/GO o título de \"Capital Goiana da Festa da Banana\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Itaguaru/GO o título de \"Capital Goiana da Festa da Banana\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23706",
+   "short": "Lei 23706/2025",
+   "title": "Lei nº 23706, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111346",
+   "first_law": "lei-2025-23706",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111346",
+     "sha256": "cb19d674f30718d6b6d987753a98fa7b7445f891bc8aaa07230a1d50f5a7c63e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.706, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE MINISTÉRIO VIDA PLENA - ABEMVIP, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 48.552.359/0001-06, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nHENRIQUE CÉSAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23707",
+   "short": "Lei 23707/2025",
+   "title": "Lei nº 23707, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111347",
+   "first_law": "lei-2025-23707",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111347",
+     "sha256": "5fff4497f10ea5529aa6ccce652a9ca6eb2a834b6307ebc7cb74fe4bd6a07433",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.707, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação MALA DE HISTÓRIAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 43.923.250/0001-06, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23708",
+   "short": "Lei 23708/2025",
+   "title": "Lei nº 23708, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111348",
+   "first_law": "lei-2025-23708",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111348",
+     "sha256": "dd6e98f057ccdd526b6b5e24e97fdc264332c1f53f809e8fea747e7cd02c95af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.708, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS RANCHEIROS DE TRINDADE/GO ANIMAIS DE GRANDE PORTE: EQUINOS-MUARES E BOVINOS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 44.567.785/0001-54, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23709",
+   "short": "Lei 23709/2025",
+   "title": "Lei nº 23709, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111349",
+   "first_law": "lei-2025-23709",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111349",
+     "sha256": "2c25c9255ae5191b0fa9f07728bd5d4631eb74a412c646cf59302391100d4791",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.709, DE 30 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALESSANDRO OTONE BARCELOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23710",
+   "short": "Lei 23710/2025",
+   "title": "Lei nº 23710, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111350",
+   "first_law": "lei-2025-23710",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111350",
+     "sha256": "6cd7ada1d7f45975b45c793325f7aa054d5e29bbcfc9c019e41a5125f8bc0643",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.710, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DAS CAVALHADAS DE SANTA CRUZ DE GOIÁS-GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 21.478.965/0001-64, com sede no Município de Santa Cruz de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23711",
+   "short": "Lei 23711/2025",
+   "title": "Lei nº 23711, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111351",
+   "first_law": "lei-2025-23711",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111351",
+     "sha256": "a498164ca72d741943676fc6f8c83e661330718edf9c672188dc104861789615",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.711, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO SHEKINÁ, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 02.697.183/0001-71, com sede no Município de São Luís de Montes Belos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23712",
+   "short": "Lei 23712/2025",
+   "title": "Lei nº 23712, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111352",
+   "first_law": "lei-2025-23712",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111352",
+     "sha256": "84d62434afae852d458fa5a9ccbc3514de4630d31187fb186cedcaec522cd7d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.712, DE 30 DE SETEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa Social da Padroeira Nossa Senhora de Fátima, realizada, anualmente, durante o mês de maio, no Município de Valparaíso de Goiás/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDRA. ZELI\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23713",
+   "short": "Lei 23713/2025",
+   "title": "Lei nº 23713, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111353",
+   "first_law": "lei-2025-23713",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111353",
+     "sha256": "32e65d7a78589b12db6a037a5ba2a7f3434aa64306fe751c0a2c2613954fbcf8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.713, DE 30 DE SETEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O arroz com pequi fica declarado patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23714",
+   "short": "Lei 23714/2025",
+   "title": "Lei nº 23714, de 2025 (Altera a Lei nº 20.735, de 17 de janeiro de 2020, que institui a Política Estadual de Incentivo à Prática de Compostagem.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111354",
+   "first_law": "lei-2025-23714",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111354",
+     "sha256": "7fab5e3f354231d1393ff86fdaaffacb0b1534333520164cfa8d91e1c1643f20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.714, DE 30 DE SETEMBRO DE 2025\nAltera a Lei nº 20.735, de 17 de janeiro de 2020, que institui a Política Estadual de Incentivo à Prática de Compostagem.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.735, de 17 de janeiro de 2020, passa a vigorar com as seguintes alterações:\n\"Art 3º ..............................................................................................\nV - estimular a prática de compostagem nas escolas estaduais, promovendo a redução dos resíduos orgânicos provenientes da merenda escolar.\" (NR)\n\"Art 4º ..............................................................................................\nX - (VETADO).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23715",
+   "short": "Lei 23715/2025",
+   "title": "Lei nº 23715, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111355",
+   "first_law": "lei-2025-23715",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111355",
+     "sha256": "5881fb4e09120fbfd5e21c165a43ecd4eae0f331b57fd5fbdae8d814c8ae8e20",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.715, DE 30 DE SETEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO COMUNITÁRIA OLINDA CÂNDIDA DE SOUZA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 13.660.810/0001-16, com sede no Distrito de Nilópolis, Município de Cachoeira Dourada/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23716",
+   "short": "Lei 23716/2025",
+   "title": "Lei nº 23716, de 2025 (Institui o Dia Estadual do Médico-Veterinário.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111356",
+   "first_law": "lei-2025-23716",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111356",
+     "sha256": "86b9f5a3c80f133c93e03cdcd90be1023ad27db97f5283335ab6cdc2cb32c241",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.716, DE 30 DE SETEMBRO DE 2025\nInstitui o Dia Estadual do Médico-Veterinário.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Médico-Veterinário, a ser comemorado, anualmente, no dia 1º de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Médico-Veterinário tem por objetivos:\nI - reconhecer e valorizar a importância dos profissionais da Medicina Veterinária para a saúde animal, saúde pública, agropecuária, meio ambiente e bem- estar da sociedade;\nII - estimular ações educativas e de conscientização sobre o papel do médico-veterinário no desenvolvimento sustentável e na promoção da saúde única; e\nIII - fomentar a realização de eventos, seminários, campanhas e outras atividades que promovam a integração entre os profissionais da área e a sociedade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23717",
+   "short": "Lei 23717/2025",
+   "title": "Lei nº 23717, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111357",
+   "first_law": "lei-2025-23717",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111357",
+     "sha256": "c8ff94cb680628b92ecaa6f97ff00041e85ac23135d8c816276b83e80517f0a6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.717, DE 30 DE SETEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ULISSES DE SOUSA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23718",
+   "short": "Lei 23718/2025",
+   "title": "Lei nº 23718, de 2025 (Institui, no Estado de Goiás, o \"Ano Escritor Bernardo Élis\" e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111358",
+   "first_law": "lei-2025-23718",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111358",
+     "sha256": "7a9e6b2963ed35afcb4b55b6f13f4961c9b50e8018159d712c75abad551c320e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.718, DE 30 DE SETEMBRO DE 2025\nInstitui, no Estado de Goiás, o \"Ano Escritor Bernardo Élis\" e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, no Estado de Goiás, o \"Ano Escritor Bernardo Élis\", a ser comemorado em 2025, em homenagem ao cinquentenário de sua posse na Academia Brasileira de Letras.\nParágrafo único. O calendário de comemorações de que trata o caput incluirá a realização das respectivas solenidades e festividades, especialmente no dia 10 de dezembro, data de sua posse na Academia Brasileira de Letras.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O \"Ano Escritor Bernardo Élis\" fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23719",
+   "short": "Lei 23719/2025",
+   "title": "Lei nº 23719, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111359",
+   "first_law": "lei-2025-23719",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111359",
+     "sha256": "31e047b548f49dbeeeadac3f183ccfbabf9ad4b8dace6584e3eed907e24c1968",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.719, DE 1º DE OUTUBRO DE 2025\nAltera a Lei nº 23.389, de 6 de maio de 2025, que reserva aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos e de empregos públicos nos Poderes Executivo e Legislativo do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 23.389, de 6 de maio de 2025, passa a vigorar com as seguintes alterações:\n\"Art. 1º Ficam reservadas aos negros 20% (vinte por cento) das vagas oferecidas nos concursos públicos ou nos processos seletivos simplificados para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, sempre que o número de vagas oferecidas for igual ou superior a três.\n§ 3º Os editais dos concursos públicos ou dos processos simplificados deverão especificar o total de vagas correspondente à reserva para cada cargo, emprego público, função pública decorrente de contratos por tempo determinado ou de contratos de estágio oferecido.\n..........................................................................................................................\" (NR)\n\"Art 4º ..............................................................................................\n§ 1º Os candidatos negros aprovados para as vagas a eles reservadas e para as reservadas às pessoas com deficiência, convocados concomitantemente para o provimento de cargos efetivos, de empregos públicos e de funções públicas decorrentes de contratos por tempo determinado ou de contratos de estágio, deverão optar por uma delas.\n..........................................................................................................................\" (NR)\n\"Art 9º ..............................................................................................\nI - após decorridos cento e vinte dias de sua publicação, para o Poder Executivo; e\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, e seus efeitos retroagem quanto à redução do prazo de vigência disposto no inciso I do art. 9º da Lei nº 23.389, de 2025.\nGoiânia, 1º de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23720",
+   "short": "Lei 23720/2025",
+   "title": "Lei nº 23720, de 2025 (Altera a denominação do estabelecimento de ensino que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111365",
+   "first_law": "lei-2025-23720",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111365",
+     "sha256": "6a3fd28897a04a9279b6971f7c9a5a7942809dae2ff3ed1e6f3df4a694eed43f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.720, DE 3 DE OUTUBRO DE 2025\nAltera a denominação do estabelecimento de ensino que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a denominação do então Colégio Estadual Residencial Center Ville, criado pela Lei nº 22.557, de 12 de março de 2024, situado no Município de Goiânia/GO, e denominado Colégio Estadual Regina Pimenta Peixoto Moura pela Lei nº 23.438, de 21 de maio de 2025, que passa a ser denominado Colégio Estadual em Período Integral do Esporte Regina Pimenta Peixoto Moura.\n- Denominação alterada pela Lei nº 23.991, de 30-12-2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogada a Lei nº 23.438, de 2025.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23721",
+   "short": "Lei 23721/2025",
+   "title": "Lei nº 23721, de 2025 (Institui o Dia Estadual do Agente de Viagem e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111366",
+   "first_law": "lei-2025-23721",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111366",
+     "sha256": "5d010435ae46966977310f6348130687248f2038023413ce1c9dda382eb37f40",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.721, DE 3 DE OUTUBRO DE 2025\nInstitui o Dia Estadual do Agente de Viagem e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Agente de Viagem, a ser celebrado, anualmente, no dia 22 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Agente de Viagem passa a integrar o Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23722",
+   "short": "Lei 23722/2025",
+   "title": "Lei nº 23722, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111367",
+   "first_law": "lei-2025-23722",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111367",
+     "sha256": "dd234075c88db262d10e3178d163dbf005c52689194ae2f41d6df33245f93d26",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.722, DE 3 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS CARREIROS DE DAMOLÂNDIA - ACARDAM, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 46.565.723/0001-39, com sede no Município de Damolândia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23723",
+   "short": "Lei 23723/2025",
+   "title": "Lei nº 23723, de 2025 (Institui a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111368",
+   "first_law": "lei-2025-23723",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111368",
+     "sha256": "c2a437960c84c28a075a14f54204faecda1d572da8f0b9ef50eae1d087558cae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.723, DE 3 DE OUTUBRO DE 2025\nInstitui a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei dispõe sobre a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes, constituída de um conjunto de normas integradas de iniciativas públicas dedicadas ao cuidado com a saúde mental de crianças e adolescentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política instituída por esta Lei rege-se pelos seguintes princípios:\nI - atenção integral às necessidades psicossociais de crianças e adolescentes;\nII - desenvolvimento de ações intersetoriais e interdisciplinares, destinadas a garantir a prevenção de adoecimentos psíquicos, visando à diminuição de fatores de risco e ao aumento dos fatores de proteção, e o acesso de crianças e adolescentes em situação de sofrimento psíquico agudo ou crônico aos cuidados instituídos pelo poder público, voltadas para a promoção do bem- estar mental;\nIII - igualdade de direitos no acesso ao atendimento a crianças e adolescentes, considerando aspectos como linguagem simples e acessível, sem discriminação de qualquer natureza, com atenção especial às peculiaridades próprias de pessoas em desenvolvimento, bem como de sua condição de moradoras de área urbana, rural, indígena ou quilombola;\nIV - participação da sociedade civil, em especial do público de crianças e adolescentes, por meio de organizações representativas, na formulação, na revisão e no controle em todas as camadas, a fim de possibilitar a integração entre o poder público e a sociedade;\nV - primazia da responsabilidade do poder público na oferta e condução das medidas preconizadas pela Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual de Combate ao Suicídio de Crianças e Adolescentes tem por objetivos:\nI - a proteção ao bem-estar psicossocial de crianças e adolescentes, assegurada a oferta pelo poder público dos cuidados voltados para a saúde mental de crianças e adolescentes;\nII - (VETADO);\nIII - (VETADO).\nParágrafo único. São também objetivos da Política Estadual de Combate ao Suicídio de Crianças e Adolescentes aqueles constantes no art. 3º da Lei federal nº 13.819, de 26 de abril de 2019.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO).\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O poder público dará ampla divulgação desta Lei, garantido o uso de linguagem compreensível e adequada a crianças e adolescentes.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º As disposições da Lei nº 13.819, de 26 de abril de 2019, aplicam-se a esta Lei no que lhe forem compatíveis.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23724",
+   "short": "Lei 23724/2025",
+   "title": "Lei nº 23724, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111369",
+   "first_law": "lei-2025-23724",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111369",
+     "sha256": "7bfa7dd9869cb3dc06edf4bc0adc22b933e4776060c0778f5abff8e6f4b19908",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.724, DE 3 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO SOL CENTRAL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 52.097.548/0001-03, com sede no Município de Bom Jardim de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23725",
+   "short": "Lei 23725/2025",
+   "title": "Lei nº 23725, de 2025 (Autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, o Prêmio Matemática Enem.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111381",
+   "first_law": "lei-2025-23725",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111381",
+     "sha256": "abbf8671b2a9d0547ae5fe400ca3cc50b68b54fee17f2b0a250147ae5ca5cb12",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.725, DE 6 DE OUTUBRO DE 2025\nAutoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, o Prêmio Matemática Enem.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, a partir do ano letivo de 2025, o Prêmio Matemática Enem.\nParágrafo único. O Prêmio Matemática Enem objetiva reconhecer o desempenho dos estudantes concluintes do Ensino Médio da rede pública estadual de Goiás que obtiverem nota igual ou superior a 900 (novecentos) pontos ou nota entre 850 (oitocentos e cinquenta) e 899,99 (oitocentos e noventa e nove inteiros e noventa e nove centésimos) pontos na prova de Matemática do Exame Nacional do Ensino Médio - Enem, também o desempenho dos profissionais da educação relacionados diretamente a esse resultado, para potencializar o cumprimento das Metas nº 4 e nº 5 do Plano Estadual de Educação - PEE do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Prêmio Matemática Enem tem os seguintes objetivos específicos:\nI - incentivar os estudantes a realizarem o Enem;\nII - diminuir a abstenção nos dois dias de provas do Enem;\nIII - elevar os resultados dos estudantes no Enem;\nIV - impulsionar os estudantes ao Ensino Superior; e\nV - reconhecer a excelência do trabalho pedagógico desenvolvido pelo Professor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O prêmio de que trata esta Lei terá os seguintes valores:\nI - R$ 10.000,00 (dez mil reais); ou\nII - R$ 5.000,00 (cinco mil reais).\n§ 1º O prêmio indicado no inciso I do caput poderá ser concedido aos estudantes concluintes do Ensino Médio matriculados na rede pública estadual que obtiverem nota igual ou superior a 900 (novecentos) pontos na prova de Matemática do Enem, e igual valor poderá ser concedido aos Professores de Matemática modulados há mais tempo nas turmas em que esses estudantes estiverem matriculados.\n§ 2º O prêmio indicado no inciso II do caput poderá ser concedido aos estudantes concluintes do Ensino Médio matriculados na rede pública estadual que obtiverem nota entre 850 (oitocentos e cinquenta) e 899,99 (oitocentos e noventa e nove inteiros e noventa e nove centésimos) pontos na prova de Matemática do Enem, e igual valor poderá ser concedido aos Professores de Matemática modulados há mais tempo nas turmas em que esses estudantes estiverem matriculados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Poderão participar do Prêmio Matemática Enem:\nI - os estudantes concluintes do Ensino Médio matriculados na rede pública estadual que participarem do Enem nos dois dias de prova, a partir de 2025;\nII - os Professores da rede pública estadual, efetivos ou contratados, modulados há mais tempo no componente curricular Matemática nas turmas em que os estudantes premiados estiverem matriculados; e\nIII - os Diretores, os Coordenadores Pedagógicos e, quando houver, os Coordenadores da Área de Matemática das unidades escolares em que mais de um estudante for premiado.\n§ 1º Se os estudantes estiverem matriculados em turmas do Ensino Médio mediadas por tecnologia, como o GOIÁS TEC, o Prêmio Matemática Enem do Professor será dividido igualmente entre o Professor Presencial modulado há mais tempo na turma do estudante e o Professor de Estúdio de Matemática modulado na Gerência de Mediação Tecnológica, vinculada à Superintendência de Ensino Médio, da SEDUC.\n§ 2º Quando a unidade escolar possuir mais de um estudante contemplado com o Prêmio Matemática Enem, o Diretor, o Coordenador Pedagógico e, quando houver, o Coordenador da Área de Matemática receberão prêmios das seguintes formas:\nI - se os estudantes premiados da unidade escolar tiverem alcançado notas iguais ou superiores a 900 (novecentos) pontos, o Diretor, o Coordenador Pedagógico e, quando houver, o Coordenador da Área de Matemática poderão receber o prêmio de R$ 10.000,00 (dez mil reais), dividido igualmente entre eles;\nII - se os estudantes premiados da unidade escolar tiverem alcançado notas entre 850 (oitocentos e cinquenta) e 899,99 (oitocentos e noventa e nove inteiros e noventa e nove centésimos) pontos, o Diretor, o Coordenador Pedagógico e, quando houver, o Coordenador da Área de Matemática poderão receber o prêmio de R$ 5.000,00 (cinco mil reais), dividido igualmente entre eles; e\nIII - se os estudantes premiados da unidade escolar tiverem alcançado notas tanto iguais ou superiores a 900 (novecentos) pontos quanto entre 850 (oitocentos e cinquenta) e 899,99 (oitocentos e noventa e nove inteiros e noventa e nove centésimos) pontos, o Diretor, o Coordenador Pedagógico e, quando houver, o Coordenador da Área de Matemática poderão receber o prêmio de R$ 7.500,00 (sete mil e quinhentos reais), equivalente a 50% (cinquenta por cento) do prêmio pago ao Professor, consideradas as duas gradações, dividido igualmente entre eles.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O estudante deverá comprovar seu resultado na prova de Matemática do Enem com a apresentação à SEDUC do boletim de resultado oficial, disponibilizado pelo Instituto Nacional de Estudos e Pesquisas Educacionais Anísio Teixeira - INEP, extraído da página do participante.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Professor, o Coordenador Pedagógico, o Diretor e, quando houver, o Coordenador da Área de Matemática deverão comprovar sua modulação com a apresentação à SEDUC do espelho referente a essa modulação, emitido pela área de recursos humanos.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A premiação do Professor não será cumulativa em nenhuma hipótese.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os contemplados com o Prêmio Matemática Enem participarão de solenidade para a entrega simbólica desse prêmio.\nParágrafo único. Os valores referentes ao Prêmio Matemática Enem serão creditados nas contas bancárias informadas pelos contemplados, após a apresentação dos documentos comprobatórios de que tratam os arts. 5º e 6º desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Para a implementação e a execução do programa de que trata esta Lei, poderão ser utilizados recursos financeiros da fonte do Tesouro Estadual 15000100, além de outras fontes previstas no orçamento do respectivo exercício financeiro.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A implementação do programa será determinada anualmente por decreto do Chefe do Poder Executivo, condicionada à existência de dotação orçamentária e disponibilidade financeira.\nParágrafo único. O Chefe do Poder Executivo também poderá expedir regulamento específico para disciplinar a premiação de que trata esta Lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23726",
+   "short": "Lei 23726/2025",
+   "title": "Lei nº 23726, de 2025 (Altera a Lei nº 13.194, de 26 de dezembro de 1997, que trata de matéria tributária.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111382",
+   "first_law": "lei-2025-23726",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111382",
+     "sha256": "7a0adfd049be76fabb7e9c16230008c34fc14b71c0eabf39ba59d55623a7e263",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.726, DE 6 DE OUTUBRO DE 2025\nAltera a Lei nº 13.194, de 26 de dezembro de 1997, que trata de matéria tributária.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 13.194, de 26 de dezembro de 1997, passa a vigorar com a seguinte alteração:\n\"Art 2º ..............................................................................................\nIII - ..................................................................................................\nc) látex de borracha natural;\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23727",
+   "short": "Lei 23727/2025",
+   "title": "Lei nº 23727, de 2025 (Autoriza a aquisição, por doação onerosa do Município de Águas Lindas de Goiás/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111383",
+   "first_law": "lei-2025-23727",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111383",
+     "sha256": "594eae3b87b17ffdbc434d79829d6ff45f7a9a2fdbc7a4be590c6b690d083623",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.727, DE 6 DE OUTUBRO DE 2025\nAutoriza a aquisição, por doação onerosa do Município de Águas Lindas de Goiás/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Águas Lindas de Goiás/GO, CNPJ nº 01.616.520/0001-96, possibilitada pela Lei municipal nº 1.638, de 2 de março de 2023.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel da doação autorizada no art. 1º está avaliado em R$ 2.306.360,52 (dois milhões, trezentos e seis mil, trezentos e sessenta reais e cinquenta e dois centavos), conforme o Termo de Avaliação de Imóveis Urbanos da Comissão de Avaliação de Bens Imóveis, da Secretaria Municipal de Gestão Estratégica, da Prefeitura Municipal de Águas Lindas de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei destina-se à implantação do projeto Mercado Goiano - Feira Coberta, vedada a alteração dessa finalidade.\nParágrafo único. A partir da assinatura da escritura pública de doação, as obras do projeto deverão ser iniciadas em 24 (vinte e quatro) meses e concluídas em 48 (quarenta e oito) meses.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel e das benfeitorias porventura existentes ao patrimônio do doador em caso de descumprimento do disposto no art. 3º desta Lei, sem direito à indenização.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE ÁGUAS LINDAS DE GOIÁS/GO, PARA A IMPLEMENTAÇÃO DO PROJETO MERCADO GOIANO - FEIRA COBERTA, DESENVOLVIDO PELA SECRETARIA DE ESTADO DE INDÚSTRIA, COMÉRCIO E SERVIÇOS, CONFORME A LEI MUNICIPAL Nº 1.638, DE 2 DE MARÇO DE 2023\nDENOMINAÇÃO Terreno Urbano\nLOCALIZAÇÃO Rua 35, Lote 1 E , Quadra 53, Jardim Brasília , Águas Lindas de Goiás /GO\nÁREA 8.477,32 m²\nMATRÍCULA nº 508 , Cartório de Registro de Imóveis de Águas Lindas de Goiás /GO\nMEMORIAL DESCRITIVO Assim se descreve: \" Confrontando pela Frente para a Área Non Aedificandi, com 86,19 metros, mais dois chanfros com 7,57 metros e 7,68 metros, pelo fundo com a Área Non Aedificandi-5, com 58,51 metros, mais 45,79 metros, em curva circular para a esquina da própria Área Non Aedificandi-5, mais 21,12 metros em curva circular para a esquina da Rua 35 e com a Área Non Aedificandi-5, pelo lado direito com a Área Non Aedificandi-05, com 51,74 metros, e pelo lado esquerdo com a Rua 35, com 71,80 metros \".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23728",
+   "short": "Lei 23728/2025",
+   "title": "Lei nº 23728, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111417",
+   "first_law": "lei-2025-23728",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111417",
+     "sha256": "8b48315e7fceeacaeaeb57f9a3b97c4ee79e5a63adc29c8fd3d3abbef325ce9a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.728, DE 10 DE OUTUBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa de Folia de Reis, realizada, anualmente, na segunda semana de janeiro, no Distrito de Nova Fátima, Município de Hidrolândia/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23729",
+   "short": "Lei 23729/2025",
+   "title": "Lei nº 23729, de 2025 (Institui a Política Estadual de Incentivo à Agricultura e à Economia Regenerativas.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111418",
+   "first_law": "lei-2025-23729",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111418",
+     "sha256": "a0cd4c124922452243266ec2e99956ff93d061155c193105b2f6ed918b4d8af3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.729, DE 10 DE OUTUBRO DE 2025\nInstitui a Política Estadual de Incentivo à Agricultura e à Economia Regenerativas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Agricultura e à Economia Regenerativas, que tem por objetivos promover:\nI - a recuperação e a sustentabilidade dos ecossistemas agrícolas;\nII - a redução da emissão de gases de efeito estufa;\nIII - o aumento da biodiversidade;\nIV - a melhoria do solo;\nV - a saúde humana;\nVI - a qualidade de vida dos agricultores;\nVII - a produção agrícola diversificada e sustentável;\nVIII - a transição para um modelo econômico sustentável, baseado:\na) na promoção de práticas agrícolas e industriais sustentáveis; e\nb) no estímulo à inovação social e tecnológica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, aos seguintes princípios:\nI - a promoção da saúde do solo como base para a sustentabilidade agrícola;\nII - a regeneração dos ecossistemas agrícolas;\nIII - a conservação e o aumento da biodiversidade;\nIV - o estímulo à utilização de práticas agrícolas regenerativas; e\nV - o respeito à autonomia do agricultor.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estímulo à criação de programas de assistência técnica para agricultores;\nII - estímulo à concessão de incentivos fiscais e financeiros para a adoção de práticas agrícolas regenerativas;\nIII - estímulo à criação de programas educacionais em escolas e comunidades agrícolas;\nIV - estímulo à celebração de parcerias com instituições de pesquisa para o desenvolvimento de novas tecnologias e práticas agrícolas regenerativas;\nV - estímulo e apoio ao agricultor na transição para a agricultura regenerativa;\nVI - estímulo à capacitação de técnicos e agricultores para formar multiplicadores da agricultura regenerativa em todas as regiões do Estado;\nVII - estímulo à criação de programas de certificação de produtos da agricultura regenerativa, que atestarão a adoção de práticas agrícolas regenerativas em sua produção e garantirão aos consumidores a possibilidade de escolha consciente;\nVIII - estímulo à incorporação, na grade curricular, pelas escolas públicas e privadas, do tema \"agricultura regenerativa\", com vistas à formação de profissionais capacitados e conscientes da importância dessa prática para a sustentabilidade do setor agropecuário e para a conservação do meio ambiente;\nIX - estímulo à instituição de políticas públicas de crédito rural para incentivar a agricultura regenerativa, especialmente no que se refere aos pequenos produtores rurais e agricultura familiar;\nX - estímulo à utilização de remineralizadores oriundos de rochas para recuperação de solos degradados, como parte das práticas de agricultura regenerativa;\nXI - estímulo à celebração de parcerias com empresas de mineração que tenham por objeto a capacitação de agricultores para a utilização de remineralizadores na agricultura regenerativa;\nXII - estímulo à inclusão de remineralizadores nos programas de assistência técnica e extensão rural, com vistas à recuperação de solos degradados e à promoção da agricultura regenerativa;\nXIII - estímulo à criação de campanhas de conscientização, destinadas aos produtores rurais e à população, sobre os benefícios ambientais, econômicos e sociais da agricultura regenerativa;\nXIV - estímulo à integração das iniciativas de agricultura regenerativa às políticas de gestão de recursos hídricos, conservação da biodiversidade e combate às mudanças climáticas;\nXV - estímulo à integração e cooperação com os municípios para a efetiva implementação da Política Estadual instituída por esta Lei;\nXVI - estímulo à reutilização, reciclagem e redução do consumo de recursos naturais, bem como à criação de cadeias produtivas fechadas e sustentáveis;\nXVII - estímulo à implementação de projetos de reflorestamento, recuperação de áreas degradadas, proteção de recursos hídricos e conservação da biodiversidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23730",
+   "short": "Lei 23730/2025",
+   "title": "Lei nº 23730, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111420",
+   "first_law": "lei-2025-23730",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111420",
+     "sha256": "8469fca285b8d2a2cdaa513c999c58089463c3f70fc08b5ff63d2705830485bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.730, DE 13 DE OUTUBRO DE 2025\nAltera a Lei nº 21.073, de 9 de agosto de 2021, que cria o incentivo à alfabetização, destinado a premiar as escolas públicas da rede estadual e municipal de ensino, de acordo com os resultados no Índice de Desenvolvimento da Educação do Estado de Goiás na Alfabetização - IDEGO-Alfa e no Sistema de Avaliação Educacional do Estado de Goiás - SAEGO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.073, de 9 de agosto de 2021, passa a vigorar com a seguinte alteração:\n\"Art 2º ..............................................................................................\n§ 2º Do valor total da premiação indicado no inciso I do caput deste artigo, 50% (cinquenta por cento) deverão ser destinados, a título de bonificação, aos professores regentes das turmas de 1º e 2º ano do Ensino Fundamental (ciclo alfabetização).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O parágrafo único do art. 2º da Lei nº 21.073, de 2021, é transformado em § 1º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de janeiro de 2026.\nGoiânia, 13 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23731",
+   "short": "Lei 23731/2025",
+   "title": "Lei nº 23731, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Montes Claros de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111421",
+   "first_law": "lei-2025-23731",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111421",
+     "sha256": "8c6de6856909da4d63fb96becad68983be367d2736fc71b2f1deee317cc5bb5e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.731, DE 14 DE OUTUBRO DE 2025\nAutoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Montes Claros de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a alienar o imóvel do Estado de Goiás especificado no Anexo Único desta Lei, por doação onerosa ao Município de Montes Claros de Goiás/GO, CNPJ nº 01.767.722/0001-39, possibilitada pela Lei municipal nº 1.360, de 21 de junho de 2023, alterada pela Lei nº 1.433, de 20 de maio de 2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel da doação autorizada no art. 1º está avaliado em R$ 270.548,23 (duzentos e setenta mil, quinhentos e quarenta e oito reais e vinte e três centavos), conforme o Laudo de Avaliação para Doação nº 37/2025, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata esta Lei destina-se à construção da sede própria da Secretaria Municipal de Obras e Serviços Urbanos, em dois anos, a partir da escritura pública de doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com a cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes ao doador, caso haja o descumprimento do disposto no art. 3º desta Lei, sem direito à indenização ou à restituição por encargo não cumprido.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL OBJETO DE DOAÇÃO ONEROSA AO MUNICÍPIO DE MONTES CLAROS DE GOIÁS/GO, DESTINADO À CONSTRUÇÃO DA SEDE PRÓPRIA DA SECRETARIA MUNICIPAL DE OBRAS E SERVIÇOS URBANOS\nDENOMINAÇÃO Terreno urbano\nLOCALIZAÇÃO Avenida Joaquim Benício Magalhães, Quadra 2, Lote 10-A, Setor Água Branca, 76255-000, Montes Claros de Goiás/GO\nÁREA 3.250,00 m²\nPROPRIETÁRIO Estado de Goiás\nMATRÍCULA nº 8.730 - Cartório de Registro de Imóveis, Pessoas Jurídicas, Títulos e Documentos, Protestos, Tabelionato de Notas e Registro Civil de Pessoas Naturais da Comarca de Montes Claros de Goiás/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"com área total de 3.250 m², dentro dos seguintes limites e confrontações: frente para a Avenida Joaquim Benício de Magalhães (antiga Avenida Goiás), com 50,00 metros; fundo confrontando com Hospital Municipal com 50,00 metros; lado direito confrontando com lotes 01, 02, 03, 04, 05 e 06, com 5,00 metros; e lado esquerdo confrontando com o lote 'B' com 65,00 metros\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23732",
+   "short": "Lei 23732/2025",
+   "title": "Lei nº 23732, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Hidrolina/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111422",
+   "first_law": "lei-2025-23732",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111422",
+     "sha256": "55932a972aca1098f6928ab0cab65b273e4379e72f151cdb7c420f6cbe2b164c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.732, DE 14 DE OUTUBRO DE 2025\nAutoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Hidrolina/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a alienar o imóvel do Estado de Goiás especificado no Anexo Único desta Lei, por doação onerosa ao Município de Hidrolina/GO, CNPJ nº 01.067.230/0001-30.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel da doação autorizada no art. 1º está avaliado em R$ 185.000,00 (cento e oitenta e cinco mil reais), conforme o Laudo de Avaliação para Doação nº 236/2025, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata esta Lei destina-se à manutenção e às melhorias estruturais e pedagógicas da Escola Municipal Francisco Lopes Sobrinho.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com a cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes ao doador, caso haja o descumprimento do disposto no art. 3º desta Lei, sem direito à indenização ou à restituição por encargo não cumprido.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL OBJETO DE DOAÇÃO AO MUNICÍPIO DE HIDROLINA/GO, DESTINADO À MANUTENÇÃO E ÀS MELHORIAS ESTRUTURAIS E PEDAGÓGICAS DA ESCOLA MUNICIPAL FRANCISCO LOPES SOBRINHO\nDENOMINAÇÃO Terreno urbano\nLOCALIZAÇÃO Avenida Antônio Braga, Quadra 5, Lote 10, S/N, Setor Aeroporto II, 76375-000, Hidrolina/GO\nÁREA 25.200,00 m²\nPROPRIETÁRIO Estado de Goiás\nMATRÍCULA nº 703 - Cartório de Registro de Imóveis, Tabelionato, RTD e anexos - Comarca de Hidrolina/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"uma área de terras de 25.200,00 metros quadrados, com 180,00 metros com a Rua Antônio Braga, 180,00 metros com o imóvel Campo Redondo, 140,00 em confrontação com a Associação de Desenvolvimento Comunitário de Hidrolina e 140,00 com a área do abrigo de São Vicente de Paulo\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23733",
+   "short": "Lei 23733/2025",
+   "title": "Lei nº 23733, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111423",
+   "first_law": "lei-2025-23733",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111423",
+     "sha256": "a9b7ec4663bebb406796166ba952d9830f09959b8e80491cfdf948ec998586d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.733, DE 14 DE OUTUBRO DE 2025\nDispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a Lei nº 13.453, de 16 de abril de 1999.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, do disposto nas Leis Complementares federais nº 24, de 7 de janeiro de 1975, e nº 160, de 7 de agosto de 2017, também do Convênio ICMS nº 190, de 15 de dezembro de 2017, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei promove a adesão do Estado de Goiás ao disposto no art. 34 da Lei Complementar nº 93, de 5 de novembro de 2001, e no art. 3º da Lei nº 4.049, de 30 de junho de 2011, ambas do Estado de Mato Grosso do Sul, conforme autorizam o § 8º do art. 3º da Lei Complementar federal nº 160, de 7 de agosto de 2017, e a cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017, mediante a alteração da Lei nº 13.453, de 16 de abril de 1999.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 13.453, de 1999, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\nII - ....................................................................................................\nf) amendoim em grão, arroz, aveia, cacau, café em coco e em grão, cana-de-açúcar, canola, cogumelo comestível, cominho, gergelim, girassol, leite em estado natural, mamona, milho, sisal, soja, sorgo e trigo na saída de produção própria do estabelecimento do produtor com destino a industrialização;\naa) biomassas, definidas em regulamento, para o uso na geração de energia elétrica ou a vapor;\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23734",
+   "short": "Lei 23734/2025",
+   "title": "Lei nº 23734, de 2025 (Institui o Dia Estadual do Orgulho Autista e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111424",
+   "first_law": "lei-2025-23734",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111424",
+     "sha256": "defbaa8e110e77ddff1740e781ef7344ec7685a154fd12fc274e5ece3f29bf13",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.734, DE 14 DE OUTUBRO DE 2025\nInstitui o Dia Estadual do Orgulho Autista e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Orgulho Autista, a ser comemorado, anualmente, no dia 18 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Orgulho Autista fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23735",
+   "short": "Lei 23735/2025",
+   "title": "Lei nº 23735, de 2025 (Institui o Dia Estadual do Psicólogo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111425",
+   "first_law": "lei-2025-23735",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111425",
+     "sha256": "d556c970cd9fa6ad0614310c28d149a4eb1e0e6427b84d3f109cd324c45315b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.735, DE 14 DE OUTUBRO DE 2025\nInstitui o Dia Estadual do Psicólogo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Psicólogo, a ser comemorado, anualmente, no dia 27 de agosto.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Psicólogo fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23736",
+   "short": "Lei 23736/2025",
+   "title": "Lei nº 23736, de 2025 (Institui o Dia Estadual do Biólogo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111426",
+   "first_law": "lei-2025-23736",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111426",
+     "sha256": "8dcda86d844babb58298113be670cdb7b9583a0eed769ad98e276a6a7544341b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.736, DE 14 DE OUTUBRO DE 2025\nInstitui o Dia Estadual do Biólogo e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Biólogo, a ser comemorado, anualmente, no dia 3 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Biólogo fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23737",
+   "short": "Lei 23737/2025",
+   "title": "Lei nº 23737, de 2025 (Institui a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111427",
+   "first_law": "lei-2025-23737",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111427",
+     "sha256": "0468462c0118b652f7a248f28c7fafa0f1df4fd3eaf1b88c2d0a2dfa520ba3fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.737, DE 14 DE OUTUBRO DE 2025\nInstitui a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico, a ser realizada, anualmente, na semana que inclui o dia 24 de junho - Dia Mundial de Prevenção de Quedas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Durante a Semana Estadual instituída por esta Lei, será incentivada a adoção das seguintes medidas:\nI - estimular a discussão e prevenção de quedas de pessoas idosas em ambientes domésticos;\nII - estimular a capacitação de cuidadores e familiares para identificar os riscos de quedas de pessoas idosas em ambiente doméstico;\nIII - estimular a divulgação de iniciativas, ações e campanhas de prevenção a quedas de pessoas idosas em ambiente doméstico;\nIV - estimular a celebração de parcerias ou convênios com o setor privado, instituições de ensino, entidades representativas e demais organizações da sociedade civil para a realização das atividades previstas nesta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23738",
+   "short": "Lei 23738/2025",
+   "title": "Lei nº 23738, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111428",
+   "first_law": "lei-2025-23738",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111428",
+     "sha256": "c48650b296a8e57b3476af4348c463f10eeb802bbb90c914ae5c6e18152b32dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.738, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CUIDANDO DE PESSOAS (ACP), inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 31.536.331/0001-74, com sede no Município de Nova Veneza/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23739",
+   "short": "Lei 23739/2025",
+   "title": "Lei nº 23739, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111429",
+   "first_law": "lei-2025-23739",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111429",
+     "sha256": "78a0c7abd3d495f679fa3970bfa3093105d364904bcc58399f5c7faa6eeaa4df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.739, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO HOSPITALEGRES, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 60.595.995/0001-02, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23740",
+   "short": "Lei 23740/2025",
+   "title": "Lei nº 23740, de 2025 (Institui a Política Estadual de Amparo à Saúde da Mulher em Uso Abusivo de Álcool.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111430",
+   "first_law": "lei-2025-23740",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111430",
+     "sha256": "a90e28d6da2c7a8a8be7164ccda94557421f94e631d33ae6b78aca6da4a9a125",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.740, DE 14 DE OUTUBRO DE 2025\nInstitui a Política Estadual de Amparo à Saúde da Mulher em Uso Abusivo de Álcool.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Amparo à Saúde da Mulher em Uso Abusivo de Álcool, que tem por objetivo oferecer assistência psicossocial à mulher em uso abusivo de álcool, bem como aos seus familiares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a recuperação integral, pautada na redução de danos, com medidas de reinserção social e reconstrução dos vínculos familiares;\nII - garantir, de forma articulada e integrada, o acesso da mulher em uso abusivo de álcool, bem como de seus familiares, aos tratamentos disponíveis na rede SUS;\nIII - garantir a confidencialidade na atenção em relação aos dados pessoais das mulheres assistidas;\nIV - incentivar a divulgação da importância da Política de amparo à mulher, com alertas sobre a prevenção do uso abusivo de álcool.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23741",
+   "short": "Lei 23741/2025",
+   "title": "Lei nº 23741, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111431",
+   "first_law": "lei-2025-23741",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111431",
+     "sha256": "a5528ef7a9f3afebd289c50e39bafcfad8df72d8ddfa99e05f27093b2103420c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.741, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ATLÉTICA SANTA-ROSENSE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 01.736.974/0001-09, com sede no Município de Santa Rosa de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23742",
+   "short": "Lei 23742/2025",
+   "title": "Lei nº 23742, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111432",
+   "first_law": "lei-2025-23742",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111432",
+     "sha256": "fbc61a769627d72bb5bbffadb4b58fe6e602c1ca391965da06a866a3941fe3d1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.742, DE 14 DE OUTUBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GERALDO APARECIDO DE PAULA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23743",
+   "short": "Lei 23743/2025",
+   "title": "Lei nº 23743, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111433",
+   "first_law": "lei-2025-23743",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111433",
+     "sha256": "e9ec6ddb10b5bb35f4af93c4fc33224c483011ccaac1040b0a7d3c5e17882d8d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.743, DE 14 DE OUTUBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DARIO DANIEL BERNAL o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23744",
+   "short": "Lei 23744/2025",
+   "title": "Lei nº 23744, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111434",
+   "first_law": "lei-2025-23744",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111434",
+     "sha256": "4190b4bf5a1eb915c41a73b37cf8fb5fe82927e7181cb03f41ee606bd0ac04d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.744, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VIDA E FÉ, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 28.620.708/0001-64, com sede no Município de Ceres/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23745",
+   "short": "Lei 23745/2025",
+   "title": "Lei nº 23745, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111435",
+   "first_law": "lei-2025-23745",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111435",
+     "sha256": "5a336a14cfd42bce42fe925da925a3d9fed7a480e53f8fac2136a3d729a2f846",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.745, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO TRINDADE SOLIDÁRIA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.698.518/0001-89, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23746",
+   "short": "Lei 23746/2025",
+   "title": "Lei nº 23746, de 2025 (Confere ao Município de Rubiataba/GO o título de \"Capital Goiana do Polo Moveleiro\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111436",
+   "first_law": "lei-2025-23746",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111436",
+     "sha256": "611136c36f704dc2414e56d567be78920bf4f64cd7b999bd60d04b56be7bed02",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.746, DE 14 DE OUTUBRO DE 2025\nConfere ao Município de Rubiataba/GO o título de \"Capital Goiana do Polo Moveleiro\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Rubiataba/GO o título de \"Capital Goiana do Polo Moveleiro\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23747",
+   "short": "Lei 23747/2025",
+   "title": "Lei nº 23747, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111437",
+   "first_law": "lei-2025-23747",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111437",
+     "sha256": "efc1fb59387aa687e8e9d5a743886bddc7907c0a1ec95859f1987a503dabc417",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.747, DE 14 DE OUTUBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ARCA - ASSOCIAÇÃO RESGATANDO COM AMOR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 51.681.969/0001-06, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23748",
+   "short": "Lei 23748/2025",
+   "title": "Lei nº 23748, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111438",
+   "first_law": "lei-2025-23748",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111438",
+     "sha256": "08c66e5e510e36a941df14ec696313e2c815e9a63307d564584553cb481cc999",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.748, DE 14 DE OUTUBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GEOVANE GONÇALVES DE OLIVEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23749",
+   "short": "Lei 23749/2025",
+   "title": "Lei nº 23749, de 2025 (Estabelece o prazo de vida útil para veículos utilizados no transporte escolar no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111439",
+   "first_law": "lei-2025-23749",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111439",
+     "sha256": "82820ba573b227ad5ed3d1af91450c3319787b6f2a58540f2d832e4a05dad335",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.749, DE 14 DE OUTUBRO DE 2025.\nEstabelece o prazo de vida útil para veículos utilizados no transporte escolar no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O veículo destinado à condução coletiva de escolares, para fins de circulação nas vias, deverá ter, no máximo, 20 (vinte) anos de fabricação para ônibus e micro- ônibus e, no máximo, 15 (quinze) anos de fabricação para os demais veículos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os veículos de que trata esta Lei deverão ser submetidos a vistoria semestralmente, nos termos da legislação vigente.\nParágrafo único. A cada vistoria, deverá ser identificado o veículo com um adesivo de aprovação, se este for o caso.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 14 de outubro de 2025.\nDeputado BRUNO PEIXOTO\n- PRESIDENTE -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23750",
+   "short": "Lei 23750/2025",
+   "title": "Lei nº 23750, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111440",
+   "first_law": "lei-2025-23750",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111440",
+     "sha256": "1dfd62964cdce508d8e187b52ecbd37fe8a523ae41cc8d001fcafbc03a689678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.750, DE 15 DE OUTUBRO DE 2025\nAltera a Lei nº 21.219, de 29 de dezembro de 2021, que estabelece regras e critérios para a reforma e a construção de unidades habitacionais do Programa Pra Ter Onde Morar, no âmbito das ações sociais suplementares, em conformidade com o art. 1º da Lei nº 14.469, de 16 de julho de 2003, que institui o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, e a Lei nº 22.552, de 8 de março de 2024, que autoriza a concessão de subsídio aos beneficiários de programas habitacionais realizados em parceria com o Governo Federal, por intermédio da Caixa Econômica Federal, do Banco do Brasil ou de outras instituições financeiras credenciadas pelo Ministério das Cidades, para a aquisição de unidades habitacionais no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.219, de 29 de dezembro de 2021, passa a vigorar com a seguinte alteração:\n\"Art. 4º-A Os beneficiários do Programa Pra Ter Onde Morar especificados no art. 4º desta Lei, além de não se sujeitarem à cobrança do Imposto sobre a Transmissão Causa Mortis e Doação - ITCD, na forma do art. 79, inciso III, da Lei estadual nº 11.651, de 26 de dezembro de 1991, são isentos de custas, taxas e emolumentos para os atos relacionados ao registro do contrato de doação do imóvel, à averbação da construção e à expedição das certidões que comprovem a condição de proprietários, nos termos do art. 36, inciso XIV, da Lei estadual nº 14.376, de 27 de dezembro de 2002.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 22.552, de 8 de março de 2024, passa a vigorar com a seguinte alteração:\n\"Art. 5º-A Os beneficiários dos programas especificados no art. 1º desta Lei, além de não se sujeitarem à cobrança do Imposto sobre a Transmissão Causa Mortis e Doação - ITCD, na forma do art. 79, inciso III, da Lei estadual nº 11.651, de 26 de dezembro de 1991, são isentos de custas, taxas e emolumentos para os atos relacionados ao registro do contrato de doação do imóvel, à averbação da construção e à expedição das certidões que comprovem a condição de proprietários, nos termos do art. 36, inciso XIV, da Lei estadual nº 14.376, de 27 de dezembro de 2002.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23751",
+   "short": "Lei 23751/2025",
+   "title": "Lei nº 23751, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111441",
+   "first_law": "lei-2025-23751",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111441",
+     "sha256": "5a2d7bf107cb3fdc48b65ce3cc441e4f148c58e90d41c0603cf4e0cc1cdf297f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.751, DE 15 DE OUTUBRO DE 2025\nDispõe sobre o reconhecimento da marcha equina e de muares como manifestação de relevância cultural e atividade esportiva de competição no âmbito do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica a marcha equina e de muares reconhecida como manifestação de relevância cultural e atividade esportiva de competição no âmbito do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O reconhecimento da marcha equina e de muares previsto nesta Lei tem como objetivos, especialmente:\nI - fomentar a prática da marcha como atividade esportiva e manifestação cultural, promovendo o desenvolvimento de habilidades interdisciplinares entre seus praticantes;\nII - incentivar a participação em competições de marcha em nível local, regional, nacional e internacional, proporcionando aos participantes a oportunidade de aprimorar suas habilidades técnicas e criativas, além de estimular o trabalho em equipe e o espírito competitivo;\nIII - promover a inclusão social por meio do acesso ao esporte, contribuindo para a formação de cidadãos conscientes de seu papel na sociedade;\nIV - incentivar o fortalecimento do patrimônio cultural goiano, o desenvolvimento social e econômico, o reconhecimento das práticas sociais tradicionais, a inovação e o empreendedorismo.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Público estadual poderá, por meio de seus órgãos competentes:\nI - apoiar a criação e o desenvolvimento de competições de marcha de equinos e muares no Estado de Goiás;\nII - apoiar a realização de eventos, competições e feiras de marcha, bem como incentivar a participação de competidores goianos em eventos similares em outras unidades da Federação e no exterior;\nIII - estabelecer parcerias com entidades do setor público, privado, instituições de ensino, centros de pesquisa, empresas e organizações não governamentais, visando divulgar a marcha equina e de muares, fomentar campeonatos esportivos e fortalecer a competitividade;\nIV - estimular a criação de bolsas, prêmios e outras formas de reconhecimento para praticantes e instrutores que se destacarem nas atividades de marcha de equinos e muares.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica instituído o Dia do Competidor de Marcha de Equinos e Muares, a ser comemorado, anualmente, no dia 22 de maio.\nParágrafo único. O Dia previsto no caput fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de agosto de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23752",
+   "short": "Lei 23752/2025",
+   "title": "Lei nº 23752, de 2025 (Institui o Selo ASG de incentivo às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111442",
+   "first_law": "lei-2025-23752",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111442",
+     "sha256": "fd180a2b8be2c817575a4c36cd5e724d826bc1160e91e6cd611072006da3ea32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.752, DE 15 DE OUTUBRO DE 2025\nInstitui o Selo ASG de incentivo às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Selo ASG, conferido às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.\nParágrafo único. Para os efeitos desta Lei, entendem-se por motivação ASG as ações e projetos que adotem:\nI - boas práticas com seus colaboradores, clientes e fornecedores, valorizando a ética, a transparência e os mecanismos de compliance;\nII - políticas e relações de trabalho voltadas à inclusão e diversidade, à capacitação da força de trabalho, aos direitos humanos, à privacidade e segurança de dados e à diversidade na composição dos órgãos de gestão;\nIII - programas de responsabilidade corporativa e ambiental nas áreas de educação, saúde, saneamento, conservação da natureza, empreendedorismo, segurança viária, desenvolvimento econômico e social;\nIV - práticas eficientes do ponto de vista ambiental, como uso adequado de recursos naturais, eficiência energética e uso de tecnologias sustentáveis;\nV - matéria- prima obtida por meio de práticas regenerativas;\nVI - consciência ASG nas metodologias de investimento, de planejamento, de gestão e de monitoramento das atividades.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Empresas detentoras do Selo ASG têm acesso aos seguintes benefícios:\nI - (VETADO);\nII - (VETADO);\nIII - tramitação prioritária em procedimentos administrativos necessários para o exercício legal da atividade;\nIV - permissão para utilizar o Selo ASG em seus produtos, rótulos, embalagens e propagandas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A forma de concessão, o modelo, a confecção, o controle e a fiscalização da homenagem prevista nesta Lei serão objeto de regulamentação pelo Poder Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23753",
+   "short": "Lei 23753/2025",
+   "title": "Lei nº 23753, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111448",
+   "first_law": "lei-2025-23753",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-10-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111448",
+     "sha256": "98cab431f444a859af4256af2b9abd52991db91509eb36844e3ea456c97d92c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.753, DE 22 DE OUTUBRO DE 2025\nAltera a Lei nº 15.122, de 04 de fevereiro de 2005, que institui o Plano de Carreira e o Quadro Permanente dos Servidores do Tribunal de Contas do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os Anexos III, IV, V e VI da Lei nº 15.122, de 04 de fevereiro de 2005, passam a vigorar com as alterações previstas nos Anexos I, II, III e IV desta Lei, respectivamente.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O vencimento do cargo de Assistente Técnico Especializado, previsto no Anexo VII da Lei nº 15.122, de 2005, passa a corresponder ao vencimento atualmente em vigor fixado para o cargo de Assessor de Assuntos Contábeis, Financeiros, Jurídicos e Orçamentários.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 22 de outubro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE CONTAS DO ESTADO DE GOIÁS\nANEXO I\n(Altera o Anexo III da Lei nº 15.122, de 2005)\n\"ANEXO III\nCARGOS EM COMISSÃO - ASSESSORAMENTO\nCARGOS REFERÊNCIA QUANTIDADE VENCIMENTO GRATIFICAÇÃO\nASSESSOR I ASTCE I 54 (...) (...)\nASSESSOR II ASTCE II 70 (...) (...)\nASSESSOR III ASTCE III 42 (...) (...)\n\" (NR)\nANEXO II\n(Altera o Anexo IV da Lei nº 15.122, de 2005)\n\"ANEXO IV\nCARGOS EM COMISSÃO - DIREÇÃO E CHEFIAS\nCARGOS REFERÊNCIA QUANTIDADE\nDiretoria Superior DS TCE I 12\nDiretor/Gerente DS TCE II 35\nChefe de Serviço CH TCE I 53\n\" (NR)\nANEXO III\n(Altera o Anexo V da Lei nº 15.122, de 2005)\n\"ANEXO V\nTABELA DE VENCIMENTOS DOS CARGOS EM COMISSÃO - DIREÇÃO E CHEFIAS\nREFERÊNCIA QUANTIDADE VENCIMENTO GRATIFICAÇÃO\nDS TCE I 12 (...) (...)\nDS TCE II 35 (...) (...)\nCH TCE I 53 (...) (...)\n\" (NR)\nANEXO IV\n(Altera o Anexo VI da Lei nº 15.122, de 2005)\n\"ANEXO VI\nFUNÇÕES DE CONFIANÇA\n(Art. 4º)\nFUNÇÕES REFERÊNCIA QUANTIDADE GRATIFICAÇÃO\nAssessor Técnico I FC-1 24 (...)\nAssessor Técnico II FC-2 27 (...)\nAssessor Técnico III FC-3 13 (...)\nAssessor Técnico IV FC-4 50 (...)\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
