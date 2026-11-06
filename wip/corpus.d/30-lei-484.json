@@ -1,0 +1,2407 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24154": {
+   "label": "Lei nº 24154, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-18",
+   "published": "2026-03-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113607",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24155": {
+   "label": "Lei nº 24155, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-18",
+   "published": "2026-03-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113608",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24156": {
+   "label": "Lei nº 24156, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-18",
+   "published": "2026-03-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113609",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24157": {
+   "label": "Lei nº 24157, de 2026",
+   "title": "Institui a Política Estadual de Restauração Ecológica e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-18",
+   "published": "2026-03-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113610",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24158": {
+   "label": "Lei nº 24158, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-18",
+   "published": "2026-03-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113638",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24160": {
+   "label": "Lei nº 24160, de 2026",
+   "title": "Altera a denominação do município que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113641",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24161": {
+   "label": "Lei nº 24161, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113642",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24162": {
+   "label": "Lei nº 24162, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113643",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24163": {
+   "label": "Lei nº 24163, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113644",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24164": {
+   "label": "Lei nº 24164, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113645",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24165": {
+   "label": "Lei nº 24165, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-24",
+   "published": "2026-03-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113646",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24166": {
+   "label": "Lei nº 24166, de 2026",
+   "title": "Altera as Leis nº 13.251, de 14 de janeiro de 1998, e nº 17.501, de 22 de dezembro de 2011.",
+   "kind": "law",
+   "enacted": "2026-03-25",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113653",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24167": {
+   "label": "Lei nº 24167, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113662",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24168": {
+   "label": "Lei nº 24168, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113663",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24169": {
+   "label": "Lei nº 24169, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113664",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24170": {
+   "label": "Lei nº 24170, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113665",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24171": {
+   "label": "Lei nº 24171, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113666",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24172": {
+   "label": "Lei nº 24172, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113667",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24173": {
+   "label": "Lei nº 24173, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113668",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24174": {
+   "label": "Lei nº 24174, de 2026",
+   "title": "Autoriza a instalação e o funcionamento de farmácias e drogarias integradas às áreas de venda de supermercados, hipermercados, atacarejos e estabelecimentos similares no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113669",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24175": {
+   "label": "Lei nº 24175, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113670",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24176": {
+   "label": "Lei nº 24176, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113671",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24177": {
+   "label": "Lei nº 24177, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113672",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24178": {
+   "label": "Lei nº 24178, de 2026",
+   "title": "Concede a revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo, e dos pensionistas do Poder Executivo estadual, na forma que especifica, e altera a Lei nº 19.951, de 29 de dezembro de 2017.",
+   "kind": "law",
+   "enacted": "2026-03-26",
+   "published": "2026-03-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113673",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24179": {
+   "label": "Lei nº 24179, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113682",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24180": {
+   "label": "Lei nº 24180, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113683",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24181": {
+   "label": "Lei nº 24181, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113684",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24182": {
+   "label": "Lei nº 24182, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113685",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24183": {
+   "label": "Lei nº 24183, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113686",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24184": {
+   "label": "Lei nº 24184, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-03-27",
+   "published": "2026-03-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113687",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24185": {
+   "label": "Lei nº 24185, de 2026",
+   "title": "Altera a Lei nº 19.179, de 29 de dezembro de 2015, que institui o regime de previdência complementar no âmbito do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-03-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113691",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24186": {
+   "label": "Lei nº 24186, de 2026",
+   "title": "Institui o Programa Estudantes de Atitude como política pública de promoção da participação social, da cidadania ativa e da integridade na rede pública de ensino do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-03-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113692",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24187": {
+   "label": "Lei nº 24187, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-03-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113693",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24188": {
+   "label": "Lei nº 24188, de 2026",
+   "title": "Altera a Lei nº 14.226, de 8 de julho de 2002, que reajusta os valores das pensões especiais que especifica, dispõe sobre a concessão de pensões especiais às pessoas irradiadas ou contaminadas que trabalharam na descontaminação da área acidentada com o Césio 137, na vigilância do Depósito Provisório em Abadia de Goiás e no atendimento de saúde às vítimas diretas do acidente e dá outras providências, também revoga as leis indicadas.",
+   "kind": "law",
+   "enacted": "2026-03-30",
+   "published": "2026-03-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113694",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24189": {
+   "label": "Lei nº 24189, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113738",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24190": {
+   "label": "Lei nº 24190, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113739",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24191": {
+   "label": "Lei nº 24191, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e seus pensionistas d",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113740",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24192": {
+   "label": "Lei nº 24192, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113741",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24194": {
+   "label": "Lei nº 24194, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113742",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24193": {
+   "label": "Lei nº 24193, de 2026",
+   "title": "Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-03",
+   "published": "2026-04-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113743",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24195": {
+   "label": "Lei nº 24195, de 2026",
+   "title": "Institui a Política Estadual do Empreendedorismo Inovador.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113747",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24196": {
+   "label": "Lei nº 24196, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113750",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24197": {
+   "label": "Lei nº 24197, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113751",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24198": {
+   "label": "Lei nº 24198, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113752",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24199": {
+   "label": "Lei nº 24199, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113753",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24200": {
+   "label": "Lei nº 24200, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113754",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24201": {
+   "label": "Lei nº 24201, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113755",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24202": {
+   "label": "Lei nº 24202, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113756",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24203": {
+   "label": "Lei nº 24203, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113757",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24204": {
+   "label": "Lei nº 24204, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113758",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24154",
+   "short": "Lei 24154/2026",
+   "title": "Lei nº 24154, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113607",
+   "first_law": "lei-2026-24154",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113607",
+     "sha256": "9c4c932f830437d6958dd92cfca12e3a25de9236097b5c5f22bb7c8f711d59a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.154, DE 18 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CATALANA DE CULTURA, ESPORTES, LAZER, EDUCAÇÃO, REABILITAÇÃO E ARTES - ACCELERA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 46.460.479/0001-40, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24155",
+   "short": "Lei 24155/2026",
+   "title": "Lei nº 24155, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113608",
+   "first_law": "lei-2026-24155",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113608",
+     "sha256": "b119d26fcc11b00a9067c7b5aae3fa95f8cc8fa7d2546050fc21ca04ce856378",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.155, DE 18 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCIO RODRIGO DELFIM o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24156",
+   "short": "Lei 24156/2026",
+   "title": "Lei nº 24156, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113609",
+   "first_law": "lei-2026-24156",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113609",
+     "sha256": "3c3d88f3cb4f8600bdd6ef1fc5e10d63aecdfb7d90a6981713e74585717240e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.156, DE 18 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o GRUPO ESCOTEIRO BERNARDO SAYÃO - 2º GO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 05.120.892/0001-88, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24157",
+   "short": "Lei 24157/2026",
+   "title": "Lei nº 24157, de 2026 (Institui a Política Estadual de Restauração Ecológica e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113610",
+   "first_law": "lei-2026-24157",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113610",
+     "sha256": "d05c222427dfbae47587c44ac5b2c8babbe08dfebb83be8507e9f90c6c0f2b5a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.157, DE 18 DE MARÇO DE 2026\nInstitui a Política Estadual de Restauração Ecológica e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Restauração Ecológica no âmbito do Estado de Goiás.\nParágrafo único. Para os efeitos desta Lei, considera-se restauração ecológica o processo intencional de intervenção em ecossistemas degradados ou alterados, com o objetivo de desencadear, facilitar ou acelerar a sucessão ecológica natural, promovendo a recuperação da biodiversidade, da conectividade e do funcionamento dos ecossistemas.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da política pública instituída por esta Lei, especialmente:\nI - incentivar a restauração de ecossistemas degradados ou alterados;\nII - reverter a degradação ambiental em áreas prioritárias do território goiano;\nIII - restaurar a conectividade entre ecossistemas fragmentados;\nIV - promover a conservação da biodiversidade e dos serviços ecossistêmicos;\nV - contribuir para a captura de carbono e a mitigação das mudanças climáticas;\nVI - incentivar a participação de comunidades locais e povos tradicionais nas iniciativas de restauração;\nVII - fomentar a utilização de técnicas sustentáveis, como plantio de espécies nativas, regeneração natural e sistemas agroflorestais;\nVIII - mitigar as mudanças climáticas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da política pública instituída por esta Lei, especialmente:\nI - estimular a sustentabilidade ambiental, social e econômica;\nII - incentivar a participação comunitária e a inclusão de povos tradicionais;\nIII - fomentar a priorização de espécies nativas e o respeito à biodiversidade local;\nIV - incentivar a integração com políticas públicas de meio ambiente, agricultura e mudanças climáticas;\nV - estimular o monitoramento contínuo e a avaliação dos resultados das ações de restauração;\nVI - fomentar a identificação e o mapeamento de áreas degradadas prioritárias para restauração;\nVII - incentivar a promoção de parcerias entre o poder público, a iniciativa privada, organizações não governamentais e comunidades locais;\nVIII - fomentar a pesquisa científica e a inovação em técnicas de restauração ecológica;\nIX - estimular a capacitação de agricultores, técnicos e comunidades para a implementação de projetos de restauração;\nX - incentivar a divulgação e a conscientização sobre a importância da restauração ecológica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Público Estadual regulamentará a forma de implementação e de desenvolvimento das ações previstas nesta Lei e estabelecerá a forma de monitoramento e de avaliação da política pública ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24158",
+   "short": "Lei 24158/2026",
+   "title": "Lei nº 24158, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113638",
+   "first_law": "lei-2026-24158",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113638",
+     "sha256": "b4501ca09e7006c7e7395480d51432a7198bdce3195b88aac0e8d0e1acd512ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.158, DE 18 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALICE TELES DE OLIVEIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24160",
+   "short": "Lei 24160/2026",
+   "title": "Lei nº 24160, de 2026 (Altera a denominação do município que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113641",
+   "first_law": "lei-2026-24160",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113641",
+     "sha256": "8e50a5dc2957f8e7445a104f06c90027d46061f54d0887e13decb1f22fbcb2c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.160, DE 24 DE MARÇO DE 2026\nAltera a denominação do município que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Município de Bom Jesus, criado pela Lei nº 4.796, de 7 de novembro de 1963, passa a ser denominado Bom Jesus de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para todos os efeitos legais, administrativos e cartográficos, a partir da vigência desta Lei, o município deverá ser tratado pela sua nova denominação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24161",
+   "short": "Lei 24161/2026",
+   "title": "Lei nº 24161, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113642",
+   "first_law": "lei-2026-24161",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113642",
+     "sha256": "b9a8a89cfca236d6d1d90dec00a58314fc979e6f23917574d66665440b7c774b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.161, DE 24 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO ASSISTENCIAL CONSTANTINO XAVIER, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 48.200.557/0001-00, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24162",
+   "short": "Lei 24162/2026",
+   "title": "Lei nº 24162, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113643",
+   "first_law": "lei-2026-24162",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113643",
+     "sha256": "a119ce75935bf99ffb125612907a5e34344af080a55ae9fc5a5aa5e78d6a0d3c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.162, DE 24 DE MARÇO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado GOVERNADOR MAGUITO VILELA o Complexo Viário a ser construído no km 1 da Rodovia GO-020, nas imediações do Centro Cultural Oscar Niemeyer, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24163",
+   "short": "Lei 24163/2026",
+   "title": "Lei nº 24163, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113644",
+   "first_law": "lei-2026-24163",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113644",
+     "sha256": "d83d3a15678473e29e15a5ddf7116e769245640a4924abeb8a17453e6425d775",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.163, DE 24 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o OLARIA FUTEBOL CLUBE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 03.227.004/0001-03, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24164",
+   "short": "Lei 24164/2026",
+   "title": "Lei nº 24164, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113645",
+   "first_law": "lei-2026-24164",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113645",
+     "sha256": "c07aa2c8c59153ca2696889efaead9c7ca71c8a8b8ecb3ad1d03176c75549f3e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.164, DE 24 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO EVANGÉLICA MUNICIPAL DE CORUMBÁ-GO - AEMC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 19.804.564/0001-05, com sede no Município de Corumbá de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24165",
+   "short": "Lei 24165/2026",
+   "title": "Lei nº 24165, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113646",
+   "first_law": "lei-2026-24165",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113646",
+     "sha256": "d44f93b7601c3433b0957e34096a508a09fe025134cf64009b9f6c4c1a97dffa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.165, DE 24 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO EMPRESARIAL DA REGIÃO DA 44 - AER 44, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.735.052/0001-08, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24166",
+   "short": "Lei 24166/2026",
+   "title": "Lei nº 24166, de 2026 (Altera as Leis nº 13.251, de 14 de janeiro de 1998, e nº 17.501, de 22 de dezembro de 2011.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113653",
+   "first_law": "lei-2026-24166",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113653",
+     "sha256": "44e0bfddc06e827660fbfca720d161f5d5447e71ec5343f73a4442dcc2600e51",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.166, DE 25 DE março DE 2026\nAltera as Leis nº 13.251, de 14 de janeiro de 1998, e nº 17.501, de 22 de dezembro de 2011.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O cargo em comissão de Assessor Jurídico do Ministério Público de Contas, símbolo AJMP, constante do Anexo V da Lei nº 13.251, de 14 de janeiro de 1998, passa a ser denominado Assessor Técnico do Ministério Público de Contas, símbolo ATMP.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam criados os seguintes cargos de provimento em comissão:\nI - 3 (três) cargos de Chefe de Gabinete do Ministério Público de Contas, símbolo CGMP;\nII - 2 (dois) cargos de Assessor Técnico do Ministério Público de Contas, símbolo ATMP;\nIII - 1 (um) cargo de Assessor Técnico da Presidência, símbolo ATP;\nIV - 2 (dois) cargos de Assessor Especial IV, símbolo AE-IV;\nV - 2 (dois) cargos de Assessor Especial V, símbolo AE-V;\nVI - 2 (dois) cargos de Assessor Especial VI, símbolo AE-VI.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os Anexos V, IX e XIII da Lei nº 13.251, de 14 de janeiro de 1998, passam a vigorar com as alterações constantes dos Anexos I, II e III desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica extinta a função de Coordenadoria Técnica do Ministério Público de Contas, Referência FC-1, constante do Anexo VI da Lei nº 17.501, de 22 de dezembro de 2011.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes desta Lei serão custeadas com recursos consignados no Orçamento-Geral do Estado ao Tribunal de Contas dos Municípios do Estado de Goiás.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DE GOIÁS\nANEXO I\n(Altera o Anexo V da Lei nº 13.251, de 1998)\n\"ANEXO V\nCargos em Comissão do Ministério Público Especial junto ao TCM\nDENOMINAÇÃO SÍMBOLO QUANTITATIVO VENCIMENTO GRATIFICAÇÃO\nChefe de Gabinete do Ministério Público de Contas CGMP 04 ....................... .........................\nAssessor Técnico do Ministério Público de Contas ATMP 06 ....................... ..........................\n\" (NR)\nANEXO II\n(Altera o Anexo IX da Lei nº 13.251, de 1998)\n\"ANEXO IX\nQuadro de cargos em comissão de apoio à Presidência\nDENOMINAÇÃO SÍMBOLO QUANTITATIVO VENCIMENTO GRATIFICAÇÃO\nAssessor Especial IV AE-IV 19 ........................ ...........................\nAssessor Especial V AE-V 11 ........................ ...........................\nAssessor Especial VI AE-VI 31 ........................ ...........................\nAssessor Técnico da Presidência ATP 01 R$ 7.500,00 R$ 7.500,00\n\" (NR)\nANEXO III\n(Altera o Anexo XIII da Lei nº 13.251, de 1998)\n\"ANEXO XIII\nRequisitos e atribuições dos cargos de Direção, Chefia e Assessoramento\nNOME DO CARGO SÍMBOLO REQUISITO ATRIBUIÇÃO\nAssessor Técnico da Presidência ATP Possuir nível superior completo Desempenhar atividades de assessoramento técnico administrativo de elevado grau de complexidade e responsabilidade, bem como outras atribuições definidas em regulamento interno específico.\nAssessor Técnico do Ministério Público de Contas ATMP Possuir nível superior completo Assessorar os Procuradores de Contas na análise dos processos a estes distribuídos, além de encargos que lhe forem designados e outras atribuições definidas em regulamento interno específico.\nChefe de Gabinete do Ministério Público de Contas CGMP Possuir nível superior completo Planejar, organizar, coordenar e acompanhar as atividades de assessoria, assistência e apoio ao gabinete do Procurador do Ministério Público de Contas, abrangendo as atividades técnicas e administrativas do gabinete, além de encargos que lhe forem designados e outras atribuições definidas em regulamento interno específico.\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24167",
+   "short": "Lei 24167/2026",
+   "title": "Lei nº 24167, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113662",
+   "first_law": "lei-2026-24167",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113662",
+     "sha256": "50902e9f7c382adf612a7a8838eb6bfb7344916b0fe7f8da5d9ccf02cf608ae1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.167, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE AFRO-BRASILEIRA SANTO ANTÔNIO DO DESCOBERTO - AFROSAD, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.672.224/0001-88, com sede no Município de Santo Antônio do Descoberto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24168",
+   "short": "Lei 24168/2026",
+   "title": "Lei nº 24168, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113663",
+   "first_law": "lei-2026-24168",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113663",
+     "sha256": "74d3dd33f07b2af5c0762a5d97c8db0490afd7b5969cb6e8bc8cfec60ad1bfe3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.168, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação CAMINHOS QUE GUIAM, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.037.497/0001-50, com sede no Município de Caldas Novas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24169",
+   "short": "Lei 24169/2026",
+   "title": "Lei nº 24169, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113664",
+   "first_law": "lei-2026-24169",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113664",
+     "sha256": "234d5701de514e175f6e0bba8ed191e73e824294364c9d9ca84471c3ff76173a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.169, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CULTURAL VIDA NOVA - UNIDADE II, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 05.506.239/0001-51, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24170",
+   "short": "Lei 24170/2026",
+   "title": "Lei nº 24170, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113665",
+   "first_law": "lei-2026-24170",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113665",
+     "sha256": "bf34c6e89b946deb44aa0d6e8a1ab2a82a17aa69498b36225ca26f655fcd9ca2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.170, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a CASA DE ACOLHIMENTO AMOR DE FELIPE (CAAF), inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 01.054.030/0001-43, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24171",
+   "short": "Lei 24171/2026",
+   "title": "Lei nº 24171, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113666",
+   "first_law": "lei-2026-24171",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113666",
+     "sha256": "f3830bfec55474266fb429477d3d33e687027018ca4602fdd14ef9d8ed21c8ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.171, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS CAVALEIROS DAS CAVALHADAS DE PALMEIRAS DE GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.871.778/0001-04, com sede no Município de Palmeiras de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24172",
+   "short": "Lei 24172/2026",
+   "title": "Lei nº 24172, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113667",
+   "first_law": "lei-2026-24172",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113667",
+     "sha256": "e93278f306fcc65b70bf9f28228640ce3084a38534f061cff7effeb08f7b8258",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.172, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO ABRAÇO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 43.350.965/0001-17, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24173",
+   "short": "Lei 24173/2026",
+   "title": "Lei nº 24173, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113668",
+   "first_law": "lei-2026-24173",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113668",
+     "sha256": "9a9e3655628151597572c10f6c510ba3038c9f8bbeb6bd725034c8692cb920b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.173, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO GOIANA DO CORAÇÃO - AGC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 54.910.127/0001-77, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24174",
+   "short": "Lei 24174/2026",
+   "title": "Lei nº 24174, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113669",
+   "first_law": "lei-2026-24174",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113669",
+     "sha256": "53a233bc6d864ac3c5603f84f6a3d4c4b06ec3e0dd9731f537c431845771622a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.174, DE 26 DE MARÇO DE 2026\nAutoriza a instalação e o funcionamento de farmácias e drogarias integradas às áreas de venda de supermercados, hipermercados, atacarejos e estabelecimentos similares no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam autorizados a instalação e o funcionamento de farmácias e drogarias integradas às áreas de venda de supermercados, hipermercados, atacarejos e estabelecimentos similares, em formato físico ou funcional compatível com as exigências sanitárias, estruturais e de assistência farmacêutica, conforme a legislação vigente.\n§ 1º A farmácia ou drogaria poderá ser:\nI - operada diretamente pelo próprio supermercado, sob a mesma identidade fiscal e responsabilidade técnica; ou\nII - operada mediante contrato com pessoa jurídica regularmente licenciada e registrada como farmácia ou drogaria nos órgãos competentes.\n§ 2º A área destinada à atividade farmacêutica poderá adotar os seguintes modelos operacionais:\nI - modelo segregado, com espaço físico próprio, delimitado e independente, com acesso direto ou interno controlado; ou\nII - (VETADO).\n§ 3º Em ambos os modelos de operação, deverão ser observadas integralmente as exigências legais e sanitárias relativas à estrutura física, armazenagem, rastreabilidade, dispensação, assistência farmacêutica e ao funcionamento de consultórios farmacêuticos, conforme as normas expedidas pela Anvisa e pela autoridade sanitária estadual.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É obrigatória a presença de farmacêutico legalmente habilitado durante todo o horário de funcionamento da farmácia ou drogaria instalada nas dependências de supermercados e similares, nos termos do art. 6º da Lei federal nº 13.021, de 8 de agosto de 2014.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A dispensação de medicamentos sujeitos a controle especial deverá ocorrer somente após o pagamento, ou, alternativamente, mediante transporte do produto do balcão de atendimento até o local de pagamento em embalagem lacrada, inviolável e identificável.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º É vedada a exposição ou oferta de medicamentos em áreas abertas, comunicáveis ou sem separação funcional do setor farmacêutico, como bancadas, estandes ou gôndolas, exceto na área de que trata o § 2º do art. 1º.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As farmácias e drogarias devidamente licenciadas e registradas poderão contratar plataformas digitais e canais de comércio eletrônico para fins de logística, entrega e relacionamento com o consumidor, desde que observada integralmente a regulamentação sanitária e profissional aplicável.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Aplicam-se às farmácias e drogarias instaladas em áreas de venda de supermercados todas as disposições desta Lei, da Lei federal nº 13.021, de 2014, da Lei federal nº 6.360, de 23 de setembro de 1976, e das normas complementares editadas pelos órgãos sanitários competentes.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O descumprimento das disposições desta Lei sujeitará o infrator às penalidades previstas na legislação sanitária, sem prejuízo às responsabilidades civil, administrativa e ético-profissional cabíveis.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24175",
+   "short": "Lei 24175/2026",
+   "title": "Lei nº 24175, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113670",
+   "first_law": "lei-2026-24175",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113670",
+     "sha256": "a910b9f45f1c33c66ebaa01ff88b8cdf35d571e7ca453a0f721b82196e8acb49",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.175, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO PROJETO SEMEAR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 21.536.647/0001-02, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24176",
+   "short": "Lei 24176/2026",
+   "title": "Lei nº 24176, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113671",
+   "first_law": "lei-2026-24176",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113671",
+     "sha256": "89b4796a0dbaefaefcf76ba05bec8633968a76bdad9d4b44ed7b9765e91bba36",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.176, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ATLÉTICA METROPOLITANA (A.A.M.), inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 20.476.886/0001-51, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24177",
+   "short": "Lei 24177/2026",
+   "title": "Lei nº 24177, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113672",
+   "first_law": "lei-2026-24177",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113672",
+     "sha256": "451e992582b9d05197424a563ced676be5843758ec5f0657d04e1997e963c86c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.177, DE 26 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO FELIPE DE LYON - IFLY, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 06.042.019/0001-87, com sede no Município de Planaltina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24178",
+   "short": "Lei 24178/2026",
+   "title": "Lei nº 24178, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113673",
+   "first_law": "lei-2026-24178",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113673",
+     "sha256": "e1763016f4622b14902aab2787a186921f46d3cb5528f6fa31a351d87015b206",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.178, DE 26 DE MARÇO DE 2026\nConcede a revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo, e dos pensionistas do Poder Executivo estadual, na forma que especifica, e altera a Lei nº 19.951, de 29 de dezembro de 2017.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida a revisão geral anual dos vencimentos, dos subsídios e dos proventos do pessoal civil e militar, ativo e inativo, e dos pensionistas previdenciários com direito à paridade da administração direta, autárquica e fundacional do Poder Executivo, em 4,26% (quatro inteiros e vinte e seis centésimos por cento), com base no Índice Nacional de Preços ao Consumidor Amplo - IPCA do ano de 2025.\nParágrafo único. O disposto neste artigo aplica-se aos cargos de provimento efetivo e comissionados, aos empregos públicos e às pensões especiais dos anistiados políticos beneficiários da Lei nº 14.067, de 26 de dezembro de 2001, nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As disposições desta Lei não se aplicam:\nI - ao pessoal contratado por tempo determinado para atender à necessidade temporária de excepcional interesse público;\nII - aos servidores públicos pertencentes ao quadro de pessoal abrangido pela Lei nº 13.909, de 25 de setembro de 2001, que serão objeto de lei específica; e\nIII - aos empregados públicos pertencentes às empresas estatais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O percentual de que trata o art. 1º desta Lei será também aplicado ao valor especificado no parágrafo único do art. 1º da Lei nº 19.951, de 29 de dezembro de 2017, que institui o programa de auxílio-alimentação nos órgãos e nas entidades que especifica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Em decorrência do disposto no art. 3º desta Lei, o parágrafo único do art. 1º da Lei nº 19.951, de 2017, passa a vigorar com a seguinte alteração:\n\"Art. 1º .....................................................\nParágrafo único. O auxílio-alimentação será devido aos servidores lotados e em efetivo exercício nos órgãos e nas entidades especificados nos incisos deste artigo que percebem remuneração mensal até R$ 6.671,61 (seis mil, seiscentos e setenta e um reais e sessenta e um centavos), com a exclusão de parcelas eventuais.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O percentual indicado no art. 1º desta Lei será aplicado aos valores especificados na tabela \"III\" do Anexo V da Lei nº 18.464, de 13 de maio de 2014, e na tabela \"d\" do Anexo II da Lei nº 22.524, de 3 de janeiro de 2024, que dispõem sobre cargos, carreiras e remunerações na Secretaria de Estado da Saúde, com efeitos financeiros a partir das datas ali especificadas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica concedido o reajuste percentual de 4,26% (quatro inteiros e vinte e seis centésimos por cento) ao valor do vencimento das funções por tempo determinado da administração direta, autárquica e fundacional do Poder Executivo estadual.\nParágrafo único. O disposto neste artigo não se aplica ao professor contratado por tempo determinado, que será objeto de lei específica.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º As despesas decorrentes da aplicação desta Lei serão custeadas pelo Orçamento-Geral do Estado.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de maio de 2026.\nGoiânia, 26 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24179",
+   "short": "Lei 24179/2026",
+   "title": "Lei nº 24179, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113682",
+   "first_law": "lei-2026-24179",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113682",
+     "sha256": "b61ec36984431dfa05c6ab7569f20674cef21b9dac24e2b76806f72a9370d805",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.179, DE 27 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ RICARDO MARQUES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24180",
+   "short": "Lei 24180/2026",
+   "title": "Lei nº 24180, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113683",
+   "first_law": "lei-2026-24180",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113683",
+     "sha256": "57c57c46abf896adaa000a99be3e476d5bbae382088f8cd4bcf998e50936f0d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.180, DE 27 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HILTON CESAR SERAFIM DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24181",
+   "short": "Lei 24181/2026",
+   "title": "Lei nº 24181, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113684",
+   "first_law": "lei-2026-24181",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113684",
+     "sha256": "76eef1873e50995889cdef347aac9e46b77c219c36e2fcfb27f81c8d24b9cdf1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.181, DE 27 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a APARECIDO DOS REIS MORAIS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24182",
+   "short": "Lei 24182/2026",
+   "title": "Lei nº 24182, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113685",
+   "first_law": "lei-2026-24182",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113685",
+     "sha256": "0c405aeee991a32ec7d27ca188cbc607f87262a310ebbc48b24c91d750b3072f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.182, DE 27 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCELO DOS REIS MORAIS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24183",
+   "short": "Lei 24183/2026",
+   "title": "Lei nº 24183, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113686",
+   "first_law": "lei-2026-24183",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113686",
+     "sha256": "a35ff332b09e2855f7c0b8c3e888d9f184dfba6c196c8371c554e6057158604b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.183, DE 27 DE MARÇO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GUSTAVO SANTANA DE SÁ DA CONCEIÇÃO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24184",
+   "short": "Lei 24184/2026",
+   "title": "Lei nº 24184, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113687",
+   "first_law": "lei-2026-24184",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113687",
+     "sha256": "b65df09a1519dedcbb5d5ae8727c719a9f354be6e7cc7c4dc871e4c37b74aed0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.184, DE 27 DE MARÇO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa da Rapadura, realizada, anualmente, no terceiro final de semana do mês de setembro, no Município de Cocalzinho de Goiás/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24185",
+   "short": "Lei 24185/2026",
+   "title": "Lei nº 24185, de 2026 (Altera a Lei nº 19.179, de 29 de dezembro de 2015, que institui o regime de previdência complementar no âmbito do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113691",
+   "first_law": "lei-2026-24185",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113691",
+     "sha256": "6c2a71f0dc72fef7bffbbcf03ed45880117afeea3ab1d63872899a0a40b7e8be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.185, DE 30 DE MARÇO DE 2026\nAltera a Lei nº 19.179, de 29 de dezembro de 2015, que institui o regime de previdência complementar no âmbito do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.179, de 29 de dezembro de 2015, passa a vigorar com as seguintes alterações:\n\"Art. 10. Os membros do Comitê Gestor não poderão integrar o Conselho Deliberativo, o Conselho Fiscal e a Diretoria-Executiva, por terem diferentes deveres, atribuições e responsabilidades, conforme o estabelecido no Estatuto da PREVCOM-BrC.\" (NR)\n\"Art. 12. A remuneração dos membros dos colegiados será limitada a percentual da remuneração do Diretor-Presidente da PREVCOM-BrC, da seguinte forma:\nI - 20% (vinte por cento) para o Conselho Deliberativo;\nII - 15% (quinze por cento) para o Conselho Fiscal;\nIII - 10% (dez por cento) para o Comitê Gestor; e\nIV - 10% (dez por cento) para o Comitê de Investimentos.\nParágrafo único. Caberá ao Regulamento de Pessoal fixar percentual nos termos do caput e dos incisos deste artigo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24186",
+   "short": "Lei 24186/2026",
+   "title": "Lei nº 24186, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113692",
+   "first_law": "lei-2026-24186",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113692",
+     "sha256": "b10453009733e13a4c77004f6649d949f3a0fd0d12b5a79d642ca97456af7d16",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.186, DE 30 DE MARÇO DE 2026\nInstitui o Programa Estudantes de Atitude como política pública de promoção da participação social, da cidadania ativa e da integridade na rede pública de ensino do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES GERAIS\nArt. 1º Fica instituído, no Estado de Goiás, o Programa Estudantes de Atitude como política pública para a promoção da participação e do controle social, da cidadania ativa, da integridade pública e do cuidado com o bem comum, a ser desenvolvida nas escolas da rede pública estadual de ensino.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa Estudantes de Atitude tem o objetivo geral de promover a formação cívica dos estudantes da rede pública estadual de ensino e incentivar o cuidado com o bem comum, a participação, o controle social, a integridade pública e o fortalecimento da confiança nas instituições democráticas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## OBJETIVOS ESPECÍFICOS\nArt. 3º São objetivos específicos do Programa Estudantes de Atitude:\nI - promover a reflexão e o desenvolvimento de práticas relacionadas a valores fundamentais à vida em sociedade, especialmente as ligadas à educação em direitos humanos, à igualdade racial, à preservação do meio ambiente, aos cuidados com o patrimônio público, à integridade e à prevenção da corrupção, bem como desenvolver essas práticas;\nII - estimular a responsabilidade individual e coletiva pela preservação do patrimônio público e fomentar valores éticos que estimulem a cultura da integridade, o altruísmo e o compromisso com o interesse público;\nIII - capacitar estudantes a avaliar, de forma crítica e qualificada, a execução de políticas públicas no contexto escolar, com a realização de auditorias cívicas para a identificação de problemas e a proposição de soluções, assegurado o protagonismo juvenil;\nIV - promover o engajamento da comunidade escolar na identificação e na resolução colaborativa de desafios do ambiente educacional, fortalecer as redes de cooperação e contribuir para o aumento da confiança social;\nV - incentivar no estudante o senso de pertencimento à escola e aos bens públicos e contribuir para a sua preservação e a valorização dela;\nVI - contribuir para a melhoria do desempenho escolar, a partir do fortalecimento do vínculo do estudante com a escola e da ampliação de seu engajamento cívico;\nVII - favorecer a melhoria do ambiente de trabalho dos profissionais da educação, com o fortalecimento das relações baseadas no respeito, na cooperação e no reconhecimento institucional;\nVIII - estimular a aproximação entre família e escola, além de reconhecer o papel da família na formação ética e moral dos estudantes de acordo com os tratados internacionais de direitos humanos ratificados pelo Brasil; e\nIX - reconhecer e valorizar boas práticas desenvolvidas por escolas, estudantes, professores e coordenações regionais de ensino, promover a divulgação dessas práticas e incentivar a aplicação de recursos em melhorias do ambiente escolar, nos termos a serem regulamentados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## IMPLEMENTAÇÃO NO AMBIENTE ESCOLAR\nArt. 4º O Programa Estudantes de Atitude será desenvolvido pela Controladoria-Geral do Estado - CGE em parceria com a Secretaria de Estado da Educação - SEDUC nas escolas da rede pública estadual de ensino, observadas as diretrizes pedagógicas da SEDUC.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica instituído, no calendário escolar da rede pública estadual de ensino, 15 de março como o Dia do Programa Estudantes de Atitude, marco pedagógico vinculado às finalidades do programa e destinado à realização de atividades pedagógicas voltadas à participação social, ao controle social, à cidadania e à integridade pública.\nParágrafo único. As atividades realizadas no Dia do Programa Estudantes de Atitude poderão envolver estudantes, professores, gestores escolares, famílias e demais integrantes da comunidade escolar, conforme dispuser a regulamentação a ser adotada.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA EXECUÇÃO E DAS COMPETÊNCIAS\nArt. 6º O Programa Estudantes de Atitude será executado pela CGE em parceria com a SEDUC.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Compete à CGE:\nI - coordenar metodologicamente o programa;\nII - elaborar orientações, materiais formativos e instrumentos de acompanhamento; e\nIII - monitorar e avaliar a execução da política pública em articulação com a SEDUC.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Compete à SEDUC:\nI - integrar o programa ao calendário escolar da rede pública estadual;\nII - apoiar a implementação pedagógica das ações nas unidades escolares; e\nIII - articular as escolas da rede pública estadual para a execução das atividades previstas nesta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DAS DISPOSIÇÕES FINAIS\nArt. 9º O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias consignadas aos órgãos responsáveis por sua execução, especialmente à CGE e à SEDUC, observada a legislação orçamentária vigente.\n§ 1º A execução das ações previstas nesta Lei fica condicionada à prévia inclusão de dotações orçamentárias específicas nas leis orçamentárias anuais dos órgãos responsáveis, observados as metas e os resultados fiscais estabelecidos na lei de diretrizes orçamentárias anual.\n§ 2º O programa poderá utilizar recursos decorrentes de doações, convênios e outras parcerias realizadas com entidades públicas ou privadas, nos termos da legislação aplicável.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24187",
+   "short": "Lei 24187/2026",
+   "title": "Lei nº 24187, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113693",
+   "first_law": "lei-2026-24187",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113693",
+     "sha256": "cae9722fff7209fba304624739da182979782dca4b1c5b2a4091d4ac066858b0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.187, DE 30 DE MARÇO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a entidade OBRAS SOCIAIS DO GRUPO ESPÍRITA BOA NOVA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 41.218.388/0001-89, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24188",
+   "short": "Lei 24188/2026",
+   "title": "Lei nº 24188, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113694",
+   "first_law": "lei-2026-24188",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-03-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113694",
+     "sha256": "292c7d5020ee1a1ff3c17030af6c5dba5895e0df9bce880aa8aced572e00d697",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.188, DE 30 DE MARÇO DE 2026\nAltera a Lei nº 14.226, de 8 de julho de 2002, que reajusta os valores das pensões especiais que especifica, dispõe sobre a concessão de pensões especiais às pessoas irradiadas ou contaminadas que trabalharam na descontaminação da área acidentada com o Césio 137, na vigilância do Depósito Provisório em Abadia de Goiás e no atendimento de saúde às vítimas diretas do acidente e dá outras providências, também revoga as leis indicadas.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 14.226, de 8 de julho de 2002, passa a vigorar com as seguintes alterações:\n\"Art. 1º .....................................................\nI - R$ 3.242,00 (três mil e duzentos e quarenta e dois reais), para os radiolesionados pelo contato direto com a substância radioativa Césio 137 e para os que receberam irradiação superior a 100 RAD, relacionados no Anexo I desta Lei; e\nII - R$ 1.621,00 (mil e seiscentos e vinte e um reais), para os demais beneficiários.\" (NR)\n\"Art. 2º Fica concedida, a partir da vigência desta Lei, pensão especial vitalícia no valor mensal de R$ 1.621,00 (mil e seiscentos e vinte e um reais) para até cento e vinte pessoas a serem definidas pela Secretaria de Estado da Administração - SEAD, com intervenção obrigatória da Secretaria de Estado da Saúde - SES, por meio do Centro Estadual de Assistência aos Radioacidentados Leide das Neves - CARA, dentre as relacionadas no Anexo II desta Lei, após o cadastramento e a avaliação minuciosa.\n..................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogadas:\nI - a Lei nº 13.346, de 24 de setembro de 1998;\nII - a Lei nº 17.604, de 27 de abril de 2012;\nIII - a Lei nº 18.497, de 09 de junho de 2014; e\nIV - a Lei nº 20.181, de 04 de julho de 2018.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, com efeitos financeiros a partir do primeiro dia do mês subsequente.\nGoiânia, 30 de março de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24189",
+   "short": "Lei 24189/2026",
+   "title": "Lei nº 24189, de 2026 (Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113738",
+   "first_law": "lei-2026-24189",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113738",
+     "sha256": "215d62ff3c5fb163643d9d563174b4ec534406abd756a89e36880c82352ce924",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.189, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso X, da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida a revisão geral anual da remuneração dos servidores ativos e dos proventos dos servidores aposentados e dos pensionistas do Tribunal de Contas do Estado de Goiás.\nParágrafo único. Em decorrência do disposto no caput deste artigo, os valores da remuneração dos servidores ativos e dos proventos dos servidores aposentados e dos pensionistas do Tribunal de Contas do Estado de Goiás ficam majorados, com base no Índice Nacional de Preços ao Consumidor Amplo (IPCA) acumulado no ano de 2025, em 4,26% (quatro inteiros e vinte e seis centésimos por cento), a partir de 1º de maio de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da aplicação desta Lei serão custeadas pelo Orçamento do Tribunal de Contas do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos financeiros a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTRIBUNAL DE CONTAS DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24190",
+   "short": "Lei 24190/2026",
+   "title": "Lei nº 24190, de 2026 (Concede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113739",
+   "first_law": "lei-2026-24190",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113739",
+     "sha256": "3ec153d76df1fa1fe5ffe983ef07d11ae8a4ebb170325e4c54ac45f9641c55e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.190, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida a revisão geral anual da remuneração dos servidores ativos, inativos e pensionistas da Defensoria Pública do Estado de Goiás de 4,26% (quatro inteiros e vinte e seis centésimos por cento), com base no Índice Nacional de Preços ao Consumidor Amplo (IPCA) do ano de 2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei correrão à conta dos recursos consignados à Defensoria Pública do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDEFENSORIA PÚBLICA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24191",
+   "short": "Lei 24191/2026",
+   "title": "Lei nº 24191, de 2026 (Concede revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e seus pensionistas d)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113740",
+   "first_law": "lei-2026-24191",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113740",
+     "sha256": "94aa2579d324668c7b187f37bdf00e86038c961e4f0881d4110329426b0716d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.191, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e seus pensionistas da Assembleia Legislativa do Estado de Goiás, na forma que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida revisão geral anual da remuneração dos servidores públicos efetivos ativos, inativos e dos pensionistas previdenciários da Assembleia Legislativa do Estado de Goiás, nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em decorrência do disposto no art. 1º desta Lei, o valor do vencimento, do subsídio e dos proventos dos servidores públicos efetivos ativos, inativos e dos pensionistas previdenciários com direito à paridade da Assembleia Legislativa do Estado de Goiás fica majorado em 4,26% (quatro inteiros e vinte e seis centésimos por cento), com base no Índice Nacional de Preços ao Consumidor Amplo (IPCA) do ano de 2025, em parcela única a partir da competência de maio de 2026.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes desta Lei correrão à conta dos recursos consignados no Orçamento-Geral do Estado de Goiás em favor da Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24192",
+   "short": "Lei 24192/2026",
+   "title": "Lei nº 24192, de 2026 (Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113741",
+   "first_law": "lei-2026-24192",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113741",
+     "sha256": "a98627be5eaaeaac28aa6d1779ce80e3eec9d01233f3f8b6631be35835e9c324",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.192, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso X, da Constituição do Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida a revisão geral anual da remuneração dos servidores ativos e dos proventos dos servidores aposentados e dos pensionistas do Tribunal de Contas dos Municípios do Estado de Goiás.\nParágrafo único. Em decorrência do disposto no caput deste artigo, os valores da remuneração dos servidores ativos e dos proventos dos servidores aposentados e pensionistas do Tribunal de Contas dos Municípios do Estado de Goiás ficam majorados, com base no índice Nacional de Preços ao Consumidor Amplo (IPCA) acumulado no ano de 2025, em 4,26% (quatro inteiros e vinte e seis centésimos por cento), a partir de 1º de maio de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da aplicação desta Lei serão custeadas pelo Orçamento do Tribunal de Contas dos Municípios do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos financeiros a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTRIBUNAL DE CONTAS DOS MUNICÍPIOS DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24194",
+   "short": "Lei 24194/2026",
+   "title": "Lei nº 24194, de 2026 (Concede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113742",
+   "first_law": "lei-2026-24194",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113742",
+     "sha256": "8fd24b142b914a227008c4a561f214f3f2c09baffb465fc219a0dd851e80a6dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.194, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso X, da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida a revisão geral anual da remuneração dos(as) servidores(as) do Ministério Público do Estado de Goiás de 4,26% (quatro inteiros e vinte e seis centésimos por cento), considerando o Índice Nacional de Preços ao Consumidor Amplo - IPCA do ano de 2025, incidente sobre os valores constantes das tabelas atualmente vigentes.\nParágrafo único. Aplica-se ao vencimento correspondente ao cargo de Subpromotor(a) de Justiça do Estado de Goiás a revisão prevista no caput deste artigo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei correrão à conta dos recursos consignados no Orçamento-Geral do Estado de Goiás ao Ministério Público do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nMINISTÉRIO PÚBLICO DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24193",
+   "short": "Lei 24193/2026",
+   "title": "Lei nº 24193, de 2026 (Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113743",
+   "first_law": "lei-2026-24193",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113743",
+     "sha256": "a5e8d3022f6aa6dc6eb2ed3111cdc4af84acd8024f9512f193f27d11e6b66d9d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.193, DE 3 DE ABRIL DE 2026\nConcede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedida, nos termos do parágrafo único do art. 42 da Lei estadual nº 17.663, de 14 de junho de 2012, e na forma dos anexos desta Lei, a revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás, no índice de 4,26% (quatro inteiros e vinte e seis centésimos por cento), com base no Índice Nacional de Preços ao Consumidor Amplo - IPCA do ano de 2025, sobre os valores de tabelas, proventos e pensões vigentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes desta Lei correrão à conta dos recursos consignados no Orçamento-Geral do Estado ao Tribunal de Justiça do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação e produz efeitos a partir de 1º de maio de 2026.\nGoiânia, 3 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\nANEXO I\n(ALTERA O ANEXO I DA LEI Nº 17.663, DE 2012)\n\"ANEXO I\nTABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO\nCargo Classe Nível Vencimento\nAnalista Judiciário - Área Judiciária A 1 R$ 5.683,78\n2 R$ 5.797,43\n3 R$ 5.913,38\nB 1 R$ 6.149,93\n2 R$ 6.272,93\n3 R$ 6.398,38\nC 1 R$ 6.654,31\n2 R$ 6.787,40\n3 R$ 6.923,16\nD 1 R$ 7.200,25\n2 R$ 7.344,08\n3 R$ 7.490,94\nE 1 R$ 7.790,61\n2 R$ 7.946,40\n3 R$ 8.105,33\nF 1 R$ 8.429,55\n2 R$ 8.598,15\n3 R$ 8.770,14\n\"(NR)\nANEXO II\n(ALTERA O ANEXO II DA LEI Nº 17.663, DE 2012)\n\"ANEXO II\nTABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO\nCargo Classe Nível Vencimento\nAnalista Judiciário - Área Especializada A 1 R$ 5.683,78\n2 R$ 5.797,43\n3 R$ 5.913,38\nB 1 R$ 6.149,93\n2 R$ 6.272,93\n3 R$ 6.398,38\nC 1 R$ 6.654,31\n2 R$ 6.787,40\n3 R$ 6.923,16\nD 1 R$ 7.200,25\n2 R$ 7.344,08\n3 R$ 7.490,94\nE 1 R$ 7.790,61\n2 R$ 7.946,40\n3 R$ 8.105,33\nF 1 R$ 8.429,55\n2 R$ 8.598,15\n3 R$ 8.770,14\n\" (NR)\nANEXO III\n(ALTERA O ANEXO III DA LEI Nº 17.663, DE 2012)\n\"ANEXO III\nTABELA DE VENCIMENTOS DOS CARGOS DE PROVIMENTO EFETIVO\nCargo Classe Nível Vencimento\nAnalista Judiciário - Área de Apoio Judiciário e Administrativo A 1 R$ 5.115,40\n2 R$ 5.217,71\n3 R$ 5.322,06\nB 1 R$ 5.534,94\n2 R$ 5.645,63\n3 R$ 5.758,54\nC 1 R$ 5.988,87\n2 R$ 6.108,66\n3 R$ 6.230,84\nD 1 R$ 6.480,08\n2 R$ 6.609,67\n3 R$ 6.741,87\nE 1 R$ 7.011,53\n2 R$ 7.151,76\n3 R$ 7.294,80\nF 1 R$ 7.586,59\n2 R$ 7.738,34\n3 R$ 7.893,13\n\" (NR)\nANEXO IV\n(ALTERA O ANEXO IV DA LEI Nº 17.663, DE 2012)\n\"ANEXO IV\nTABELA DE VENCIMENTOS DOS CARGOS EM EXTINÇÃO\nCargo Classe Nível Vencimento\nTécnico Judiciário A 1 R$ 5.683,78\n2 R$ 5.797,43\n3 R$ 5.913,38\nB 1 R$ 6.149,93\n2 R$ 6.272,93\n3 R$ 6.398,38\nC\n1 R$ 6.654,31\n2 R$ 6.787,40\n3 R$ 6.923,16\nD 1 R$ 7.200,25\n2 R$ 7.344,08\n3 R$ 7.490,94\nE 1 R$ 7.790,61\n2 R$ 7.946,40\n3 R$ 8.105,33\nF 1 R$ 8.429,55\n2 R$ 8.598,15\n3 R$ 8.770,14\n\" (NR)\nANEXO V\n(ALTERA O ANEXO V DA LEI Nº 17.663, DE 2012)\n\"ANEXO V\nTABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO\nCargo Classe Nível Vencimento\nAuxiliar Judiciário (especializado) A 1 R$ 5.115,40\n2 R$ 5.217,71\n3 R$ 5.322,06\nB 1 R$ 5.534,94\n2 R$ 5.645,63\n3 R$ 5.758,54\nC 1 R$ 5.988,87\n2 R$ 6.108,66\n3 R$ 6.230,84\nD 1 R$ 6.480,08\n2 R$ 6.609,67\n3 R$ 6.741,87\nE 1 R$ 7.011,53\n2 R$ 7.151,76\n3 R$ 7.294,80\nF 1 R$ 7.586,59\n2 R$ 7.738,34\n3 R$ 7.893,13\n\" (NR)\nANEXO VI\n(ALTERA O ANEXO VI DA LEI Nº 17.663, DE 2012)\n\"ANEXO VI\nTABELA DE VENCIMENTOS DOS CARGOS EM REGIME DE EXTINÇÃO\nCargo Classe Nível Vencimento\nAuxiliar de Serviços Gerais A 1 R$ 4.603,87\n2 R$ 4.695,93\n3 R$ 4.789,84\nB 1 R$ 4.981,44\n2 R$ 5.081,08\n3 R$ 5.182,68\nC 1 R$ 5.389,98\n2 R$ 5.497,80\n3 R$ 5.607,77\nD 1 R$ 5.832,07\n2 R$ 5.948,69\n3 R$ 6.067,68\nE 1 R$ 6.310,40\n2 R$ 6.436,58\n3 R$ 6.565,32\nF 1 R$ 6.827,92\n2 R$ 6.964,50\n3 R$ 7.103,81\n\" (NR)\nANEXO VII\n(ALTERA O ANEXO XI DA LEI Nº 17.663, DE 2012)\n\"ANEXO XI\nQUANTITATIVO DE FUNÇÕES POR ENCARGO DE CONFIANÇA\nDescrição Função Quantidade prevista Valor (R$)\nFunções por Encargo de Confiança FEC-1 50 R$ 750,32\nFEC-2 101 R$ 917,05\nFEC-3 24 R$ 1.250,51\nFEC-4 9 R$ 1.584,00\nFEC-5 29 R$ 2.084,22\nFEC-6 7 R$ 3.501,45\nFEC-7 36 R$ 4.418,52\nFEC-8 22 R$ 5.252,20\nFEC-9 1 R$ 6.836,17\nFEC-10 1 R$ 8.636,94\n\" (NR)\nANEXO VIII\n(ALTERA O ANEXO XII DA LEI Nº 17.663, DE 2012)\n\"ANEXO XII\nQUANTITATIVO DE CARGOS EM COMISSÃO\nDescrição Cargo Quantidade prevista Vencimento\nCargos de Provimento em Comissão DAE-01 181 R$ 2.150,89\nDAE-02 206 R$ 2.284,30\nDAE-03 1601 R$ 2.617,75\nDAE-04 376 R$ 3.034,60\nDAE-05 1236 R$ 3.384,75\nDAE-06 164 R$ 3.768,24\nDAE-07 735 R$ 5.002,09\nDAE-08 80 R$ 6.502,72\nDAE-09 295 R$ 8.636,94\nDAE-10 18 R$ 11.504,81\nDAE-11 3 R$ 14.054,61\nDAE-12 1 R$ 15.966,85\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24195",
+   "short": "Lei 24195/2026",
+   "title": "Lei nº 24195, de 2026 (Institui a Política Estadual do Empreendedorismo Inovador.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113747",
+   "first_law": "lei-2026-24195",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113747",
+     "sha256": "d7502c9eed865e9c1694157993edde463364f6bba95c6f0ead71f4677c6fdf3f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.195, DE 7 DE ABRIL DE 2026\nInstitui a Política Estadual do Empreendedorismo Inovador.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual do Empreendedorismo Inovador, que tem por objetivo fomentar a criação, o desenvolvimento e a consolidação de empresas inovadoras, em conformidade com as diretrizes da Lei Complementar federal nº 182, de 1º de junho de 2021, e as especificidades desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, aos seguintes princípios:\nI - sustentabilidade econômica, social e ambiental;\nII - inclusão social e diversidade;\nIII - cooperação e compartilhamento de conhecimento;\nIV - transparência e ética;\nV - competitividade e internacionalização.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual instituída por esta Lei tem por objetivos específicos:\nI - estimular o ambiente de inovação no Estado;\nII - apoiar a criação e o desenvolvimento de startups e empresas de base tecnológica;\nIII - promover a pesquisa, o desenvolvimento tecnológico e a inovação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a criação de programas de incubação e aceleração;\nII - estimular a instalação de parques tecnológicos e hubs de inovação;\nIII - estimular a disponibilização de linhas de financiamento e fundos de investimento específicos;\nIV - estimular a concessão de incentivos fiscais e tributários;\nV - estimular a criação de programas de capacitação e mentorias;\nVI - estimular a realização de eventos de networking e feiras de tecnologia;\nVII - estimular a celebração de parcerias público-privadas para desenvolvimento de projetos inovadores;\nVIII - incentivar a formação e atração de talentos para o setor de tecnologia e inovação;\nIX - fomentar a cooperação entre empresas, instituições de ensino, centros de pesquisa e o poder público.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24196",
+   "short": "Lei 24196/2026",
+   "title": "Lei nº 24196, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113750",
+   "first_law": "lei-2026-24196",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113750",
+     "sha256": "670e303997807c24e103754a25a0957949a57ec86a24ee9db255c836afe9831b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.196, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MAURÍCIO ROCHA PASSERINI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24197",
+   "short": "Lei 24197/2026",
+   "title": "Lei nº 24197, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113751",
+   "first_law": "lei-2026-24197",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113751",
+     "sha256": "a396d47d357def7e47846dcb0ac58a761907a82d6ec53d23d87a3670e2fc0be7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.197, DE 7 DE abril DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ EDUARDO SOUZA DE MIRANDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24198",
+   "short": "Lei 24198/2026",
+   "title": "Lei nº 24198, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113752",
+   "first_law": "lei-2026-24198",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113752",
+     "sha256": "b8f7be9e0b4c062c9232572b2e38d712bbd33818edf85c95cd363c485588346e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.198, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a TATIANA LOBO COELHO DE SAMPAIO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24199",
+   "short": "Lei 24199/2026",
+   "title": "Lei nº 24199, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113753",
+   "first_law": "lei-2026-24199",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113753",
+     "sha256": "c36fdfe3036ea2dbc117bf4adccf4cbf17732a8141f852033238e73bf7820037",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.199, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANA FLÁVIA SILVA DE PAULA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24200",
+   "short": "Lei 24200/2026",
+   "title": "Lei nº 24200, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113754",
+   "first_law": "lei-2026-24200",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113754",
+     "sha256": "7d84d2a1df57141a46923dbcb463484bcf2eaa4c1a4eff7146d60b23d18873c8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.200, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ AUGUSTO CARNEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24201",
+   "short": "Lei 24201/2026",
+   "title": "Lei nº 24201, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113755",
+   "first_law": "lei-2026-24201",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113755",
+     "sha256": "385029e4ada8aaf076991ffa08374bb5d3e68b0ed28d4ec9980f72af224fe672",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.201, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Padre ROGÉRIO LAVISCH o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24202",
+   "short": "Lei 24202/2026",
+   "title": "Lei nº 24202, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113756",
+   "first_law": "lei-2026-24202",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113756",
+     "sha256": "4179a776d6b0dc61a8afa1f34013a26617d843054f91a31523384622ee5ee044",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.202, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Frei JORGE CAMPELO DE ALBUQUERQUE E MELO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCRISTÓVÃO TORMIN\nDeputado Estadual\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24203",
+   "short": "Lei 24203/2026",
+   "title": "Lei nº 24203, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113757",
+   "first_law": "lei-2026-24203",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113757",
+     "sha256": "5ee0f6c77d8133a8474e66add16a972323e33a4eb9c212bb6214eef7962f9d52",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.203, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCOS TADEU DE ANDRADE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24204",
+   "short": "Lei 24204/2026",
+   "title": "Lei nº 24204, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113758",
+   "first_law": "lei-2026-24204",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113758",
+     "sha256": "9bdaea273640619f9c46ebe6ce4822586176885c720fc5482c70b00e7a4e9b84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.204, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ARTHUR DE JESUS BARCELOS DORNAS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

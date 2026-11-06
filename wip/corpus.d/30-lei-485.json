@@ -1,0 +1,2687 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24205": {
+   "label": "Lei nº 24205, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113759",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24206": {
+   "label": "Lei nº 24206, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113760",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24207": {
+   "label": "Lei nº 24207, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113761",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24208": {
+   "label": "Lei nº 24208, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-07",
+   "published": "2026-04-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113762",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24209": {
+   "label": "Lei nº 24209, de 2026",
+   "title": "Altera a Lei nº 16.834, de 15 de dezembro de 2009, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113772",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24210": {
+   "label": "Lei nº 24210, de 2026",
+   "title": "Institui o Selo de Honra às Famílias Doadoras de Órgãos.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113773",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24211": {
+   "label": "Lei nº 24211, de 2026",
+   "title": "Altera a Lei nº 22.520, de 28 de dezembro de 2023, que veda a solicitação abusiva de dados pessoais do consumidor, na forma que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113774",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24212": {
+   "label": "Lei nº 24212, de 2026",
+   "title": "Institui a Política Estadual de Promoção do Trabalho Formal.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113775",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24213": {
+   "label": "Lei nº 24213, de 2026",
+   "title": "Institui o Dia Estadual do Cinegrafista e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113776",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24214": {
+   "label": "Lei nº 24214, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113777",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24215": {
+   "label": "Lei nº 24215, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113778",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24216": {
+   "label": "Lei nº 24216, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-08",
+   "published": "2026-04-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113779",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24217": {
+   "label": "Lei nº 24217, de 2026",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Jataí/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113780",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24218": {
+   "label": "Lei nº 24218, de 2026",
+   "title": "instituir, na Secretaria de Estado da Educação, o Bônus por Resultado e o Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB, no ano de 2026, e altera o Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, que estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113781",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24219": {
+   "label": "Lei nº 24219, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113782",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24220": {
+   "label": "Lei nº 24220, de 2026",
+   "title": "Institui o Selo Abraço da Vida - Manobra de Heimlich.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113783",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24221": {
+   "label": "Lei nº 24221, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113784",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24222": {
+   "label": "Lei nº 24222, de 2026",
+   "title": "Institui a Política Estadual de Incentivo à Capacitação em Tecnologia para Pequenos Empreendedores.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113785",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24223": {
+   "label": "Lei nº 24223, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113786",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24224": {
+   "label": "Lei nº 24224, de 2026",
+   "title": "Institui a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática - PTI.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113787",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24225": {
+   "label": "Lei nº 24225, de 2026",
+   "title": "Institui a Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113788",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24226": {
+   "label": "Lei nº 24226, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-09",
+   "published": "2026-04-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113789",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24227": {
+   "label": "Lei nº 24227, de 2026",
+   "title": "Institui o Circuito Estadual das Folias e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-10",
+   "published": "2026-04-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113791",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24228": {
+   "label": "Lei nº 24228, de 2026",
+   "title": "Institui a Política Estadual de Qualidade do Ar.",
+   "kind": "law",
+   "enacted": "2026-04-10",
+   "published": "2026-04-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113792",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24229": {
+   "label": "Lei nº 24229, de 2026",
+   "title": "Dispõe sobre a regularização fundiária de ocupações de imóveis rurais de domínio do Estado de Goiás não enquadrados como terras devolutas e altera a Lei nº 20.229, de 18 de julho de 2018.",
+   "kind": "law",
+   "enacted": "2026-04-14",
+   "published": "2026-04-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113804",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24230": {
+   "label": "Lei nº 24230, de 2026",
+   "title": "Institui o Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência.",
+   "kind": "law",
+   "enacted": "2026-04-14",
+   "published": "2026-04-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113805",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24231": {
+   "label": "Lei nº 24231, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-14",
+   "published": "2026-04-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113806",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24232": {
+   "label": "Lei nº 24232, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-04-14",
+   "published": "2026-04-14",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113807",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24233": {
+   "label": "Lei nº 24233, de 2026",
+   "title": "Altera a Lei nº 18.052, de 24 de junho de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento à Mulher - DEAM, nas áreas de jurisdição das Delegacias Regionais de Polícia que menciona e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-15",
+   "published": "2026-04-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113811",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24234": {
+   "label": "Lei nº 24234, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-15",
+   "published": "2026-04-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113812",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24235": {
+   "label": "Lei nº 24235, de 2026",
+   "title": "Institui o Dia Estadual do Estado Laico.",
+   "kind": "law",
+   "enacted": "2026-04-15",
+   "published": "2026-04-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113813",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24236": {
+   "label": "Lei nº 24236, de 2026",
+   "title": "Institui a Política Estadual de Prevenção ao Afogamento no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-16",
+   "published": "2026-04-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113862",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24237": {
+   "label": "Lei nº 24237, de 2026",
+   "title": "Dispõe sobre a reestruturação dos Quadros de Pessoal dos servidores efetivos da Secretaria da Assembleia Legislativa do Estado de Goiás, altera a Lei nº 13.460, de 05 de maio de 1999, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-22",
+   "published": "2026-04-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113942",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24238": {
+   "label": "Lei nº 24238, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-23",
+   "published": "2026-04-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113939",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24239": {
+   "label": "Lei nº 24239, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-23",
+   "published": "2026-04-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113940",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24240": {
+   "label": "Lei nº 24240, de 2026",
+   "title": "Altera as Leis nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás, e nº 20.787, de 03 de junho de 2020, que institui o programa PROGOIÁS, e revoga dispositivo da Lei nº 14.244, de 29 de julho de 2002, que institui o incentivo Apoio à Instalação e Expansão de Empresas Operadoras de Logística de Distribuição de Produtos no Estado de Goiás - LOGPRODUZIR.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114122",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24242": {
+   "label": "Lei nº 24242, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Gastronômica, realizada no Município de Santo Antônio de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114123",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24243": {
+   "label": "Lei nº 24243, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114124",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24244": {
+   "label": "Lei nº 24244, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114125",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24245": {
+   "label": "Lei nº 24245, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114126",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24241": {
+   "label": "Lei nº 24241, de 2026",
+   "title": "Abre crédito especial à Diretoria-Geral de Polícia Penal, à Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária e à Indústria Química do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114128",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24246": {
+   "label": "Lei nº 24246, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-04-28",
+   "published": "2026-04-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114151",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24247": {
+   "label": "Lei nº 24247, de 2026",
+   "title": "Define deficiência auditiva e estabelece valor referencial da limitação auditiva no âmbito do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114153",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24248": {
+   "label": "Lei nº 24248, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114154",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24249": {
+   "label": "Lei nº 24249, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114155",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24250": {
+   "label": "Lei nº 24250, de 2026",
+   "title": "Altera a Lei nº 13.463, de 31 de maio de 1999, que dispõe sobre a Política Estadual da Pessoa Idosa e dá outras providências; e nº 18.338, de 30 de dezembro de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento ao Idoso - DEAI -, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114156",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24251": {
+   "label": "Lei nº 24251, de 2026",
+   "title": "Estabelece regras para a confecção de carimbos de profissionais da área da saúde e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114157",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24252": {
+   "label": "Lei nº 24252, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114159",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24253": {
+   "label": "Lei nº 24253, de 2026",
+   "title": "Reconhece o bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114160",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24254": {
+   "label": "Lei nº 24254, de 2026",
+   "title": "Institui a Política Estadual de Incentivo à Música.",
+   "kind": "law",
+   "enacted": "2026-04-29",
+   "published": "2026-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114161",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24205",
+   "short": "Lei 24205/2026",
+   "title": "Lei nº 24205, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113759",
+   "first_law": "lei-2026-24205",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113759",
+     "sha256": "8e02804ae6fc2f021bdca956800ec376951cfbee07e787d35632af4e2b9e6982",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.205, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a EDNILSON LINS RODRIGUES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24206",
+   "short": "Lei 24206/2026",
+   "title": "Lei nº 24206, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113760",
+   "first_law": "lei-2026-24206",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113760",
+     "sha256": "d75857481da36f0a13164769495a6c086335e4ca2ecf868d6b58257deafdfc28",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.206, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VANIA CRISTINA GONÇALVES DA SILVA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24207",
+   "short": "Lei 24207/2026",
+   "title": "Lei nº 24207, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113761",
+   "first_law": "lei-2026-24207",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113761",
+     "sha256": "f2c629c7e9d48a1ed4313fa295d628da2b847532f95253a08d1a41994bffe522",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.207, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FERNANDA BOTELHO ALVARENGA DA SILVA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24208",
+   "short": "Lei 24208/2026",
+   "title": "Lei nº 24208, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113762",
+   "first_law": "lei-2026-24208",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113762",
+     "sha256": "4b904674d9c45dff7fbd585b2db5515c08f5d865bb6dfc23255333aa99f2bd0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.208, DE 7 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MANOEL LEONILSON BEZERRA ROCHA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24209",
+   "short": "Lei 24209/2026",
+   "title": "Lei nº 24209, de 2026 (Altera a Lei nº 16.834, de 15 de dezembro de 2009, e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113772",
+   "first_law": "lei-2026-24209",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113772",
+     "sha256": "58c6f39bcc824829db02c5f5689c126e5bd4e53382e28d36c616ce4d526a7746",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.209, DE 8 DE ABRIL DE 2026\nAltera a Lei nº 16.834, de 15 de dezembro de 2009, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.834, de 15 de dezembro de 2009, passa a vigorar com as seguintes alterações:\n\"Art. 1º ...........................................\nIII - 35% (trinta e cinco por cento) ao servidor portador de diploma de conclusão de curso de pós-graduação stricto sensu, em mestrado;\nIV - 40% (quarenta por cento) ao servidor portador de diploma de conclusão de curso de pós-graduação stricto sensu, em nível de doutorado.\n..................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias da Assembleia Legislativa do Estado de Goiás consignadas no Orçamento-Geral do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação, produzindo efeitos financeiros a partir de 1º de abril de 2026.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24210",
+   "short": "Lei 24210/2026",
+   "title": "Lei nº 24210, de 2026 (Institui o Selo de Honra às Famílias Doadoras de Órgãos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113773",
+   "first_law": "lei-2026-24210",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113773",
+     "sha256": "2ac18545080e01abdd56f852448997395c7a10c607e28f2e8baab8cff4d2bc45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.210, DE 8 DE ABRIL DE 2026\nInstitui o Selo de Honra às Famílias Doadoras de Órgãos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Selo de Honra às Famílias Doadoras de Órgãos, destinado a reconhecer e homenagear famílias que autorizarem a doação de órgãos e tecidos de seus entes queridos para transplante.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Selo de Honra às Famílias Doadoras de Órgãos será entregue, preferencialmente, no mesmo dia da doação, em ato realizado no hospital ou unidade de saúde responsável pela captação do órgão.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O modelo, a padronização e a forma de entrega do Selo de Honra às Famílias Doadoras de Órgãos, bem como a forma de registro das homenagens concedidas, serão regulamentados pelo Poder Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24211",
+   "short": "Lei 24211/2026",
+   "title": "Lei nº 24211, de 2026 (Altera a Lei nº 22.520, de 28 de dezembro de 2023, que veda a solicitação abusiva de dados pessoais do consumidor, na forma que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113774",
+   "first_law": "lei-2026-24211",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113774",
+     "sha256": "302090c5e691add86ee3fec22db3ff7d6e8509fdb98dc39e0e7db310379ae251",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.211, DE 8 DE ABRIL DE 2026\nAltera a Lei nº 22.520, de 28 de dezembro de 2023, que veda a solicitação abusiva de dados pessoais do consumidor, na forma que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 22.520, de 28 de dezembro de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 2º O fornecedor pode oferecer condições e vantagens especiais ao consumidor, para fins de celebração do negócio, sob a condição de o consumidor consentir com o tratamento de seus dados pessoais, desde que:\nI - seja informada a finalidade do tratamento e observados a boa-fé, a transparência, bem como os demais princípios definidos no art. 6º da Lei federal nº 13.709, de 14 de agosto de 2018;\nII - seja informado ao consumidor, de acordo com a Lei federal nº 13.709, de 2018, se os dados pessoais tratados pelo fornecedor serão compartilhados e com quais entidades públicas ou privadas.\n.......................................................\" (NR)\n\"Art. 2º-A Poderão ser afixadas placas, no interior dos estabelecimentos comerciais, em local de fácil acesso e visibilidade nítida, que informem os direitos do consumidor previstos nesta Lei com suas devidas especificidades descritas de forma clara.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24212",
+   "short": "Lei 24212/2026",
+   "title": "Lei nº 24212, de 2026 (Institui a Política Estadual de Promoção do Trabalho Formal.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113775",
+   "first_law": "lei-2026-24212",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113775",
+     "sha256": "ff8e5f7a24993f3142c9334682e82c2b88fd8ca869418f269f80f422e67b5f1e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.212, DE 8 DE ABRIL DE 2026\nInstitui a Política Estadual de Promoção do Trabalho Formal.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Promoção do Trabalho Formal, que tem por objetivo enfrentar a precarização das condições de trabalho e incentivar a formalização dos vínculos empregatícios.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual de Promoção do Trabalho Formal atenderá aos seguintes princípios:\nI - a dignidade da pessoa humana;\nII - o valor social do trabalho;\nIII - a proteção e a valorização do trabalhador;\nIV - a igualdade salarial;\nV - o incentivo à contratação formal;\nVI - a continuidade da relação de emprego;\nVII - o respeito aos direitos trabalhistas;\nVIII - a observância da diversidade étnica, racial, sexual, etária e de gênero nas contratações.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual de Promoção do Trabalho Formal atenderá, especialmente, às seguintes diretrizes:\nI - prevenir e combater o trabalho análogo à escravidão;\nII - garantir o respeito às normas de segurança;\nIII - divulgar os riscos da informalidade trabalhista;\nIV - conscientizar sobre a formalização dos vínculos empregatícios, por meio da realização de:\na) palestras e materiais informativos sobre os benefícios da formalização;\nb) parcerias com entidades de apoio a pequenas empresas, federações e associações para auxiliar o processo de formalização dos vínculos empregatícios;\nc) ações que promovam a contratação formal, com registro em carteira de trabalho e previdência social.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política Estadual de Promoção do Trabalho Formal poderá ser monitorada por meio do acompanhamento de dados oficiais da informalidade em Goiás e, ainda, da avaliação:\nI - do impacto das ações implementadas para enfrentar a precarização das condições de trabalho;\nII - dos possíveis ajustes, com base nos resultados obtidos, para incentivar a formalização dos vínculos empregatícios.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24213",
+   "short": "Lei 24213/2026",
+   "title": "Lei nº 24213, de 2026 (Institui o Dia Estadual do Cinegrafista e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113776",
+   "first_law": "lei-2026-24213",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113776",
+     "sha256": "fa53bb791eae53b87f93eb61cbb5a7c44c7ee1d8e895ea02fcf599e626ec4540",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.213, DE 8 DE ABRIL DE 2026\nInstitui o Dia Estadual do Cinegrafista e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Cinegrafista, a ser celebrado, anualmente, no dia 2 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Cinegrafista será comemorado com eventos culturais, palestras, workshops e atividades educativas que:\nI - promovam a valorização da profissão de cinegrafista, bem como de profissionais de audiovisual, videomakers e repórteres cinematográficos; e\nII - destaquem sua importância na produção de conteúdo cultural, jornalístico e turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual do Cinegrafista fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24214",
+   "short": "Lei 24214/2026",
+   "title": "Lei nº 24214, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113777",
+   "first_law": "lei-2026-24214",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113777",
+     "sha256": "a0b236990d264c5e9547c70ec79f6e70fe74792555405032040d32ace0a47e73",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.214, DE 8 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Padre ALYSONN DIEGO PEREIRA DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24215",
+   "short": "Lei 24215/2026",
+   "title": "Lei nº 24215, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113778",
+   "first_law": "lei-2026-24215",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113778",
+     "sha256": "2b4dc863718d4c217aa19371c6f0f97c2173f54ca8c183e9f879878003ce8fc8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.215, DE 8 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CLACI FÁTIMA WEIRICH ROSSO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24216",
+   "short": "Lei 24216/2026",
+   "title": "Lei nº 24216, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113779",
+   "first_law": "lei-2026-24216",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113779",
+     "sha256": "bc7227ed4d5bdc980e6427dc0eb9709820ed607ff110e123a1910b87100ace1b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.216, DE 8 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ADEMAR JOSÉ ROSSO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24217",
+   "short": "Lei 24217/2026",
+   "title": "Lei nº 24217, de 2026 (Autoriza a aquisição, por doação onerosa do Município de Jataí/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113780",
+   "first_law": "lei-2026-24217",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113780",
+     "sha256": "b2c6e3f893b9387b60aef723d3b99855313ec49c94d95d2921422419ee6d0c48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.217, DE 9 DE ABRIL DE 2026\nAutoriza a aquisição, por doação onerosa do Município de Jataí/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Jataí/GO, CNPJ nº 01.165.729/0001-80, possibilitada pela Lei municipal nº 4.580, de 11 de agosto de 2023, alterada pelas Leis nº 4.851, de 18 de agosto de 2025, e nº 4.906, de 12 de fevereiro de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel da doação autorizada no art. 1º está avaliado em R$ 837.931,01 (oitocentos e trinta e sete mil, novecentos e trinta e um reais e um centavo), conforme o Laudo de Avaliação para Doação nº 145/2025, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei destina-se à construção do Hemocentro Regional de Jataí - HEMOGO Jataí, em quatro anos, vedada a alteração dessa finalidade.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel e das benfeitorias porventura existentes ao patrimônio do doador em caso de descumprimento do disposto no art. 3º desta Lei, sem direito à indenização.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a formalização da doação de que trata esta Lei, deverá ser observada a vedação temporal indicada na alínea \"a\" do inciso VI do art. 73 da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE JATAÍ/GO, PARA A CONSTRUÇÃO DO HEMOCENTRO REGIONAL DE JATAÍ - HEMOGO JATAÍ\nDENOMINAÇÃO Área urbana\nLOCALIZAÇÃO Rua W-06, Lote AP3, Quadra 4, Bairro Jardim Goiás, 75804-625, Jataí/GO\nÁREA 2.600,00 m²\nMATRÍCULA nº 70.157, Cartório de Registro de Imóveis, Pessoas Jurídicas, Títulos, Documentos e Tabelionato de Protesto da Comarca de Jataí /GO\nMEMORIAL DESCRITIVO Assim se descreve: \"medindo 52,00 metros de frente, 54,48 metros de fundo por 50,00 metros do lado direito, 47,76 metros do lado esquerdo, limitando à direita com os lotes 01, 02, 03, 04 e 05, à esquerda com a Rua 16 e ao fundo com o lote AP1, com a área total de 2.600,00 m²\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24218",
+   "short": "Lei 24218/2026",
+   "title": "Lei nº 24218, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113781",
+   "first_law": "lei-2026-24218",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113781",
+     "sha256": "6cd93a8223e44e97587142c774fc4196721a25d47aef22e44e0d3472daa79299",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.218, DE 9 DE ABRIL DE 2026\nAutoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação, o Bônus por Resultado e o Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB, no ano de 2026, e altera o Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, que estima a receita e ﬁxa a despesa do Estado de Goiás para o exercício de 2026.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a instituir o Bônus por Resultado, com natureza remuneratória, aos servidores em efetivo exercício na Secretaria de Estado da Educação - SEDUC, para estimular a contribuição deles na formação intelectual dos alunos e na obtenção de bons resultados nas avaliações estaduais e nacionais.\nParágrafo único. O pagamento do Bônus por Resultado autorizado por esta Lei poderá ocorrer até dezembro de 2026, com os critérios definidos pelo Chefe do Poder Executivo em regulamento específico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O valor empenhado e liquidado para o Bônus por Resultado será definido pelo Chefe do Poder Executivo e não poderá exceder R$ 215.000.000,00 (duzentos e quinze milhões de reais).\n§ 1º O pagamento do Bônus por Resultado corresponderá aos vencimentos do servidor beneficiário, nos termos dos incisos I e II do art. 88 da Lei nº 20.756, de 28 de janeiro de 2020, e a porcentagem dele será limitada a 100% (cem por cento) dos vencimentos dos servidores contemplados.\n§ 2º Serão beneficiários do Bônus por Resultado:\nI - os profissionais da Educação Básica em efetivo exercício na SEDUC, nos termos do art. 26 da Lei federal nº 14.113, de 25 de dezembro de 2020, e do inciso XI do art. 212-A da Constituição Federal;\nII - os profissionais efetivos da área administrativa em efetivo exercício na SEDUC; e\nIII - os servidores comissionados, os empregados públicos e os contratados temporariamente em efetivo exercício na SEDUC.\n§ 3º Os profissionais efetivos, os servidores comissionados, os empregados públicos e os contratados temporariamente em efetivo exercício na SEDUC mencionados nos incisos II e III do § 2º deste artigo que não se enquadrarem nos termos do art. 26 da Lei nº 14.113, de 2020, e do inciso XI do art. 212-A da Constituição Federal serão pagos com recursos do Orçamento Geral do Estado.\n§ 4º Não perceberão o benefício o Secretário de Estado da Educação e os servidores públicos organizados em carreira e remunerados por subsídio, de acordo com os §§ 4º e 8º do art. 39 da Constituição Federal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica vedado o pagamento do Bônus por Resultado aos docentes e aos demais trabalhadores da educação que estiverem:\nI - em desvio de função ou em atividade alheia à manutenção e ao desenvolvimento do ensino, conforme o inciso VI do art. 71 da Lei federal nº 9.394, de 20 de dezembro de 1996;\nII - cedidos, colocados à disposição de outros órgãos ou mesmo requisitados por órgãos municipais, estaduais ou federais; ou\nIII - afastados para o desempenho de mandato classista.\nParágrafo único. Excetuam-se da vedação deste artigo os servidores requisitados pela Justiça Eleitoral, nos termos da Lei federal nº 6.999, de 7 de junho de 1982.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O desempenho da atividade funcional nos meses de 2026 garante ao servidor o Bônus por Resultado, e o pagamento dele poderá ser realizado até dezembro de 2026, nos termos do parágrafo único do art. 1º desta Lei e das disposições do Chefe do Poder Executivo em regulamento específico.\nParágrafo único. O cálculo do valor do Bônus por Resultado abrangerá proporcionalmente os meses de efetivo exercício do servidor na SEDUC em 2026.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para o pagamento do Bônus por Resultado, considera-se como efetivo exercício o desempenho de atividades laborais presenciais ou remotas nas unidades administrativas e escolares da SEDUC que sejam inerentes à função do servidor efetivo, do servidor comissionado ou do contratado temporariamente, também se consideram os afastamentos decorrentes de:\nI - licença-maternidade;\nII - licença para tratamento de saúde; e\nIII - licença-paternidade.\nParágrafo único. O servidor deverá comprovar o desempenho da sua atividade laboral conforme os critérios definidos pelo Chefe do Poder Executivo em regulamento específico.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O valor do Bônus por Resultado não será incorporado ao vencimento ou ao subsídio para nenhum efeito e não será considerado para o cálculo de quaisquer vantagens pecuniárias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica autorizado o Chefe do Poder Executivo a instituir o Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB, com natureza remuneratória, aos servidores em efetivo exercício na SEDUC, vinculados às unidades escolares da rede estadual de educação que atingiram a meta pactuada em 2025 para o resultado no IDEB de 2025, publicado em 2026.\nParágrafo único. Não perceberão o benefício o Secretário de Estado da Educação e os servidores públicos organizados em carreira e remunerados por subsídio, de acordo com os §§ 4º e 8º do art. 39 da Constituição Federal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O valor empenhado e liquidado para o Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB será definido pelo Chefe do Poder Executivo e não poderá exceder R$ 53.000.000,00 (cinquenta e três milhões de reais).\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Fica vedado o pagamento do Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB aos servidores vinculados às unidades escolares da rede estadual de educação que não atingiram a meta indicada no caput do art. 7º desta Lei.\nParágrafo único. O valor e os critérios para o recebimento do Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB serão definidos pelo Chefe do Poder Executivo em regulamento específico.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O valor total destinado ao pagamento do Bônus por Resultado e do Bônus por Resultado do Índice de Desenvolvimento da Educação Básica - IDEB fica limitado ao montante global de R$ 268.000.000,00 (duzentos e sessenta e oito milhões de reais), observado o disposto nesta Lei e na legislação orçamentária vigente.\nParágrafo único. O limite estabelecido no caput deste artigo compreende a soma dos pagamentos nominais com todos os encargos sociais de acordo com os diferentes vínculos funcionais dos beneficiários.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O Chefe do Poder Executivo, em regulamento específico, tratará dos demais casos não previstos nesta Lei.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. As despesas decorrentes desta Lei serão cobertas por recursos do Fundo de Manutenção e Desenvolvimento da Educação Básica e de Valorização dos Profissionais da Educação - Fundeb e do Orçamento Geral do Estado.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. O Anexo VI da Lei nº 24.019, de 6 de janeiro de 2026, passa a vigorar com as alterações constantes do Anexo Único desta Lei, para adequar os limites de acréscimos de pessoal autorizados ao Poder Executivo.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\n\"Anexo VI - Autorizações de Acréscimos de Despesas de Pessoal para 2026 (Nos termos do art. 169, § 1º, inciso II, da Constituição Federal)\nITEM TIPO DE PODER DESCRIÇÃO ACRÉSCIMO AUTORIZADO\n1 Poder Executivo Admissão ou Contratação de Pessoal (até a quantidade de 3.600) 173.236.598\n2 Poder Executivo Alteração de Estrutura de Carreiras 85.383.366\n3 Poder Executivo Concessão de vantagens ou aumento de remuneração 1.020.717.894\nTOTAL GERAL ANUAL 2.198.539.958\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24219",
+   "short": "Lei 24219/2026",
+   "title": "Lei nº 24219, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113782",
+   "first_law": "lei-2026-24219",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113782",
+     "sha256": "f557eaa77181a3367faaa68cdcc2a43a08162a6b60573ec0068f7c2270fc7908",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.219, DE 9 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa de Nossa Senhora do Rosário, comemorada, anualmente, no Município de Goiás/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nRUBENS MARQUES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24220",
+   "short": "Lei 24220/2026",
+   "title": "Lei nº 24220, de 2026 (Institui o Selo Abraço da Vida - Manobra de Heimlich.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113783",
+   "first_law": "lei-2026-24220",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113783",
+     "sha256": "cb14ab65d95cf1e7cdd68187adcf6d7117766be6a974cdbaf57b06481fec22aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.220, DE 9 DE ABRIL DE 2026\nInstitui o Selo Abraço da Vida - Manobra de Heimlich.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Selo Abraço da Vida - Manobra de Heimlich, a ser outorgado aos estabelecimentos comerciais, educacionais, de saúde e de serviços em geral que aderirem ao programa de treinamento de seus funcionários sobre a aplicação da Manobra de Heimlich.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As instituições de que trata o art. 1º desta Lei que receberem o Selo Abraço da Vida - Manobra de Heimlich poderão:\nI - afixá-lo em local visível ao público, como símbolo de responsabilidade social e comprometimento com a segurança dos seus clientes e frequentadores;\nII - utilizá-lo em sua publicidade.\nParágrafo único. O Selo Abraço da Vida - Manobra de Heimlich terá validade de 2 (dois) anos, podendo ser renovado por meio da comprovação do atendimento aos requisitos legais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As instituições de que trata o art. 1º que receberem o Selo Abraço da Vida - Manobra de Heimlich deverão afixar, em locais visíveis e de fácil acesso ao público, cartazes informativos detalhando o passo a passo da aplicação da Manobra de Heimlich.\nParágrafo único. São requisitos dos cartazes mencionados no caput deste artigo:\nI - medidas mínimas de 59,4 cm x 42 cm;\nII - redação clara e objetiva;\nIII - informação dos contatos públicos de emergência, inclusive SAMU e Corpo de Bombeiros;\nIV - inserção, no rodapé, da seguinte mensagem: \"Este é um serviço de utilidade pública e as informações aqui contidas destinam-se exclusivamente à aplicação em situações emergenciais que coloquem a vida em risco imediato, devendo ser tratadas com seriedade e respeito.\".\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A forma de outorga do Selo Abraço da Vida - Manobra de Heimlich bem como a fiscalização do cumprimento desta Lei serão regulamentadas pelo órgão competente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24221",
+   "short": "Lei 24221/2026",
+   "title": "Lei nº 24221, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113784",
+   "first_law": "lei-2026-24221",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113784",
+     "sha256": "94232bfe9e69540e7bdd25fe5f9ee075ea698cf080953f2ffca8ee4cf6051cf7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.221, DE 9 DE ABRIL DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o CENTRO EDUCACIONAL EVANGÉLICO E ASSISTÊNCIA SOCIAL - CEEASO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 24.858.037/0001-13, com sede no Município de Serranópolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24222",
+   "short": "Lei 24222/2026",
+   "title": "Lei nº 24222, de 2026 (Institui a Política Estadual de Incentivo à Capacitação em Tecnologia para Pequenos Empreendedores.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113785",
+   "first_law": "lei-2026-24222",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113785",
+     "sha256": "c87f93abba93869dbf509cf120006a8e7b019bcabdc0c64d3782b928c18e3c6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.222, DE 9 DE ABRIL DE 2026\nInstitui a Política Estadual de Incentivo à Capacitação em Tecnologia para Pequenos Empreendedores.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Capacitação em Tecnologia para Pequenos Empreendedores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da política pública instituída por esta Lei, especialmente:\nI - incentivar a capacitação em tecnologia para pequenos empreendedores;\nII - aumentar a competitividade e a produtividade de pequenos negócios;\nIII - promover a inclusão digital e incentivar o desenvolvimento econômico e social;\nIV - incentivar a melhoria da eficiência e a expansão de pequenos negócios de maneira sustentável; e\nV - estabelecer parcerias entre o Poder Público estadual e instituições públicas e privadas que possuam expertise na área de tecnologia e capacitação empresarial.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público estadual estabelecerá formas de monitoramento e de avaliação da política pública instituída por esta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24223",
+   "short": "Lei 24223/2026",
+   "title": "Lei nº 24223, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113786",
+   "first_law": "lei-2026-24223",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113786",
+     "sha256": "116f2f1f823641a75eb3e833b28a36da3a14207f04427d112919514b581ecb28",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.223, DE 9 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Desfile de Carros de Boi e Cavaleiros, realizado, anualmente, entre a última semana do mês de julho e a primeira semana do mês de agosto, no Distrito de Capelinha, Município de Anicuns/GO:\nI - fica reconhecido como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nRUBENS MARQUES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24224",
+   "short": "Lei 24224/2026",
+   "title": "Lei nº 24224, de 2026 (Institui a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática - PTI.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113787",
+   "first_law": "lei-2026-24224",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113787",
+     "sha256": "058a69d7e7f6497012be8a75bdbe181d3bc2347caa93c5bf317f7534ef3bd5e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.224, DE 9 DE ABRIL DE 2026\nInstitui a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática - PTI.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática - PTI, que tem por objetivos:\nI - informar a população sobre a púrpura trombocitopênica idiopática, suas causas, sintomas e diagnóstico precoce;\nII - conscientizar a população sobre a importância da busca por atendimento médico diante de sinais e sintomas relacionados à doença;\nIII - estimular a capacitação e atualização de profissionais da saúde para identificação e acompanhamento adequado dos pacientes;\nIV - apoiar as pessoas diagnosticadas com PTI e seus familiares por meio do estímulo à criação de políticas de acolhimento e suporte psicológico e social;\nV - garantir atenção integral e humanizada à saúde das pessoas diagnosticadas com PTI;\nVI - incentivar pesquisas e debates sobre novas formas de prevenção, diagnóstico e tratamento;\nVII - combater os preconceitos e estigmas relacionados à doença.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As atividades da Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática poderão incluir palestras, seminários, distribuição de materiais educativos, campanhas em mídias sociais, iluminação de prédios públicos e demais ações voltadas à sensibilização da sociedade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para que a Campanha Estadual de Conscientização e Atenção à Púrpura Trombocitopênica Idiopática alcance os objetivos propostos, poderão ser celebradas parcerias ou convênios com entidades privadas, órgãos públicos, universidades e com organizações da sociedade civil.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24225",
+   "short": "Lei 24225/2026",
+   "title": "Lei nº 24225, de 2026 (Institui a Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113788",
+   "first_law": "lei-2026-24225",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113788",
+     "sha256": "92c1aea8bc5408e2c5669828100ec674aca77f7e11299071442be8644ccbbc02",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.225, DE 9 DE ABRIL DE 2026\nInstitui a Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais, a ser realizada, anualmente, na terceira semana do mês de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual instituída por esta Lei tem o objetivo de promover atividades de conscientização e palestras sobre temas como:\nI - utilização ética da internet e conscientização sobre os impactos de dados geoespaciais em comunidades tradicionais e territórios indígenas;\nII - fortalecimento dos Objetivos de Desenvolvimento Sustentável (ODS) da Organização das Nações Unidas (ONU) por meio da internet, com foco na preservação do meio ambiente e respeito aos direitos humanos;\nIII - segurança digital para comunidades tradicionais e povos originários, visando prevenir e combater crimes digitais por meio de tecnologias de comunicação;\nIV - incentivo ao uso de tecnologias e práticas que promovam a sustentabilidade e a inclusão digital no Estado;\nV - governança da internet, seus princípios, mecanismos, ecossistema e principais temáticas, como segurança, privacidade, transparência e participação democrática, letramento digital, inclusão e acessibilidade digital, cidadania digital.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante a Semana Estadual instituída por esta Lei, poderão ser celebradas parcerias com prefeituras, instituições de ensino, stakeholders da internet, ONGs e associações locais, que tenham por objeto a realização de campanhas educativas, palestras, atividades e workshops sobre:\nI - práticas de economia digital e incentivo ao reúso de equipamentos eletrônicos;\nII - educação e informação sobre direitos digitais, especialmente no que tange à privacidade, segurança e proteção de dados;\nIII - governança da internet, seus princípios, mecanismos, ecossistema e principais temas relacionados;\nIV - capacitação de gestores e servidores públicos em segurança digital e boas práticas de governança da internet.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual da Sustentabilidade Digital, Governança da Internet e Direitos Digitais fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24226",
+   "short": "Lei 24226/2026",
+   "title": "Lei nº 24226, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113789",
+   "first_law": "lei-2026-24226",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113789",
+     "sha256": "43d2b418e80da49e0fa6ea3e3e8820181b8ccfdd4c537bb82a593c06bca6df2b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.226, DE 9 DE ABRIL DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DO ENTORNO DE SANTO ANTÔNIO DA LAGUNA - AESAL, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 04.158.857/0001-95, com sede no Município de Barro Alto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24227",
+   "short": "Lei 24227/2026",
+   "title": "Lei nº 24227, de 2026 (Institui o Circuito Estadual das Folias e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113791",
+   "first_law": "lei-2026-24227",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113791",
+     "sha256": "78a36116812702d07f688a2f51541b2786452a402d9820537ceced52bac3a829",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.227, DE 10 DE ABRIL DE 2026\nInstitui o Circuito Estadual das Folias e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos o Circuito Estadual das Folias e o Calendário Oficial do Circuito Estadual das Folias, destinados à promoção, valorização e preservação das tradições culturais e religiosas relacionadas às Folias de Reis e a outras manifestações semelhantes realizadas nos municípios do Estado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Circuito Estadual das Folias tem como objetivos:\nI - valorizar e preservar as tradições históricas, culturais e religiosas relacionadas às Folias de Reis e manifestações culturais associadas;\nII - promover o turismo cultural e religioso nos municípios participantes, fomentando o desenvolvimento econômico local e regional;\nIII - incentivar a inclusão social por meio da participação comunitária e da promoção da cultura popular;\nIV - fortalecer a identidade cultural goiana e sua representatividade no cenário nacional; e\nV - fomentar o intercâmbio cultural entre os diferentes grupos de Folias de Reis do Estado, promovendo a troca de experiências e o fortalecimento da tradição.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Circuito Estadual das Folias será estruturado e organizado de acordo com os seguintes critérios:\nI - participação inicial dos municípios que realizam festividades tradicionais relacionadas às Folias de Reis;\nII - possibilidade de adesão futura de outros municípios que comprovem a realização de eventos culturais e religiosos relacionados; e\nIII - inclusão de eventos que promovam apresentações artísticas, musicais, religiosas e comunitárias ligadas à tradição das Folias de Reis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Calendário Oficial do Circuito Estadual das Folias reunirá anualmente as datas e locais das festividades de cada município participante.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para o alcance dos objetivos do Circuito instituído por esta Lei, poderão ser adotadas as seguintes diretrizes:\nI - estimular a celebração de parcerias com municípios, entidades privadas, organizações culturais e religiosas para a execução e promoção do Circuito Estadual das Folias e do Encontro Estadual das Folias Goianas;\nII - estimular a criação de programas de apoio financeiro, logístico e técnico para garantir a realização e continuidade das festividades nos municípios participantes;\nIII - estimular a disponibilização de infraestruturas adequadas para receber visitantes e fomentar o turismo cultural;\nIV - estimular a realização de campanhas educativas nas redes de ensino públicas e privadas, com o objetivo de sensibilizar os jovens sobre a importância da preservação cultural; e\nV - incentivar as participações ativas das comunidades locais na organização e realização das festividades.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24228",
+   "short": "Lei 24228/2026",
+   "title": "Lei nº 24228, de 2026 (Institui a Política Estadual de Qualidade do Ar.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113792",
+   "first_law": "lei-2026-24228",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113792",
+     "sha256": "6d1e0af3ab2407632798cbb007c70a357d31c5b164bc8bc521edd88140801c8f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.228, DE 10 DE ABRIL DE 2026\nInstitui a Política Estadual de Qualidade do Ar.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Qualidade do Ar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos da política pública instituída por esta Lei, especialmente:\nI - proteger a saúde da população, notadamente nas regiões mais afetadas por emissões atmosféricas poluentes e queimadas;\nII - promover o desenvolvimento sustentável, por meio do controle, do monitoramento e da melhoria da qualidade do ar.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da política pública instituída por esta Lei, especialmente:\nI - preservar e recuperar os recursos naturais e a biodiversidade, minimizando os impactos da poluição do ar;\nII - promover práticas sustentáveis e reduzir as emissões de poluentes atmosféricos provenientes de fontes industriais, veículos automotores e queimadas;\nIII - incentivar o uso de tecnologias limpas e energias renováveis;\nIV - fortalecer a educação ambiental, com foco na conscientização sobre os riscos e efeitos da poluição atmosférica;\nV - fomentar a cooperação entre o poder público, a sociedade civil e o setor privado na implementação de ações para a melhoria da qualidade do ar;\nVI - prevenir e combater queimadas, por meio de fiscalização, penalidades e programas de educação ambiental;\nVII - estimular a elaboração de Relatório de Avaliação da Qualidade do Ar, que deve conter, anualmente, os dados de monitoramento, a evolução da qualidade do ar e o resumo executivo, de forma objetiva e didática, com informações redigidas em linguagem acessível, garantindo sua publicidade, nos termos da legislação federal;\nVIII - fomentar a concessão de incentivos fiscais, financeiros e creditícios para prevenção, monitoramento e redução de poluentes atmosféricos;\nIX - incentivar a pesquisa científica e o desenvolvimento tecnológico voltados à melhoria da qualidade do ar e à mitigação dos impactos ambientais;\nX - estimular a participação ativa da sociedade civil, especialmente por meio da criação de conselhos consultivos e fóruns de discussão que envolvam representantes da população, especialistas e entidades ambientais;\nXI - incentivar a realização de campanhas de conscientização e educação ambiental, focadas na importância da qualidade do ar e nas formas de mitigação da poluição atmosférica;\nXII - estimular a disponibilização de canais eficazes para o registro e a denúncia de infrações relacionadas à poluição do ar, visando à promoção de maior transparência e controle social;\nXIII - incentivar o engajamento da sociedade no processo de planejamento, monitoramento e avaliação das políticas públicas voltadas à qualidade do ar, garantindo sua efetividade e aderência às necessidades da população.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para efetivação da política pública prevista nesta Lei, o Poder Público Estadual, por meio de seus órgãos competentes, visando ampliar o alcance e a eficácia das medidas, poderá firmar parcerias para o desenvolvimento de projetos e ações conjuntas de aprimoramento da qualidade do ar, incluindo a troca de tecnologias e boas práticas voltadas à sustentabilidade e à proteção ambiental.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24229",
+   "short": "Lei 24229/2026",
+   "title": "Lei nº 24229, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113804",
+   "first_law": "lei-2026-24229",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113804",
+     "sha256": "57f1e2a6f12e3c8985f7a7a4220dd31391a1675246cd11e8192f111e57318378",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.229, DE 14 DE ABRIL DE 2026\nDispõe sobre a regularização fundiária de ocupações de imóveis rurais de domínio do Estado de Goiás não enquadrados como terras devolutas e altera a Lei nº 20.229, de 18 de julho de 2018.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES GERAIS\nArt. 1º Fica autorizado o Poder Executivo estadual, com base nos fundamentos, nos objetivos e nos instrumentos disciplinados nesta Lei, a proceder à regularização fundiária das ocupações das terras rurais não devolutas de domínio do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei considera:\nI - imóvel rural: aquele que, independentemente de estar localizado em perímetro rural ou urbano de município, seja comprovadamente utilizado para atividades de exploração extrativa, vegetal, agrícola, pecuária, agroindustrial ou turismo rural e ecológico;\nII - terra não devoluta: qualquer imóvel rural não enquadrado no conceito de terra devoluta indicado no art. 3º da Lei nº 18.826, de 19 de maio de 2015;\nIII - exploração direta: atividade econômica em imóvel rural praticada diretamente pelo ocupante ou com auxílio de seus familiares e, eventualmente, com a colaboração de terceiros;\nIV - cultura efetiva: exploração agropecuária, agroindustrial, extrativa, florestal, pesqueira ou atividade similar mantida no imóvel rural para prover o sustento dos ocupantes, por meio da produção e da geração de renda;\nV - ocupação pacífica: aquela exercida sem oposição e de forma contínua;\nVI - área contínua: unidade econômica de exploração do imóvel independente de qualquer obstáculo físico na área explorada;\nVII - valor da terra nua: valor atribuído à área de um imóvel rural, desconsideradas quaisquer benfeitorias ou melhorias realizadas no local, com o estabelecimento por região baseado em critérios técnicos e de mercado, e serve como referência oficial para transações de alienação realizadas pela administração pública;\nVIII - módulo fiscal: unidade de medida expressa em hectares, fixada para cada município, que leva em consideração o tipo de exploração predominante no município, a renda obtida com a exploração e condições locais como infraestrutura, ecologia e características socioeconômicas, tem como finalidade principal definir políticas públicas de reforma agrária, além de classificar os imóveis rurais em pequenos, médios e grandes, conforme o número de módulos fiscais que ocupam;\nIX - pequena propriedade: imóvel com o máximo de dois módulos fiscais;\nX - agricultura familiar: categoria em que o produtor rural utiliza, predominantemente, mão de obra familiar, administra o próprio empreendimento, em até dois módulos fiscais, com renda proveniente principalmente da atividade agrícola, e o enquadramento como agricultor familiar decorre do Cadastro Nacional da Agricultura Familiar - CAF;\nXI - agricultura de subsistência: sistema de produção rural voltado exclusivamente ao consumo próprio do agricultor e de sua família, sem objetivos comerciais e sem nenhuma (ou sem expressiva) inserção no mercado, com produção em pequena escala e com uso de técnicas simples e mão de obra principalmente familiar, para garantir a sobrevivência alimentar; e\nXII - turismo rural e ecológico: atividade complementar à agricultura familiar, desenvolvida em imóveis rurais com mão de obra familiar e com a oferta de vivências no campo, contato com a natureza e valorização cultural e ambiental, integrada à produção rural e atenta à legislação ambiental vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA REGULARIZAÇÃO FUNDIÁRIA RURAL\nArt. 3º Poderão ser empregados, na regularização fundiária de imóveis rurais de que trata esta Lei, sem prejuízo a outros instrumentos que se apresentem adequados, os seguintes:\nI - doação;\nII - venda direta; e\nIII - concessão de direito real de uso onerosa.\nParágrafo único. A regularização fundiária de que trata esta Lei aplica-se exclusivamente aos imóveis ocupados até 31 de dezembro de 2019, e o requerente deve comprovar a ocupação e a exploração direta por si ou por seus antecessores, ou mediante aquisição de cessão de direito de terceiros.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## Seção I\n## Da doação\nArt. 4º As pequenas propriedades rurais ocupadas em sistema de agricultura familiar poderão ser transferidas por doação, precedida de ato do Chefe do Poder Executivo estadual que declare o interesse social.\nParágrafo único. O enquadramento na categoria de agricultura familiar deverá ser comprovado com a apresentação do CAF.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A doação de áreas será de até dois módulos fiscais e dependerá da apresentação de documentos comprobatórios de sua ocupação direta e de que o grupo familiar extrai da terra seu sustento, observados os seguintes requisitos:\nI - ser brasileiro nato ou naturalizado;\nII - não ser proprietário de imóvel rural ou urbano;\nIII - comprovar morada habitual, cultura efetiva, exploração direta, contínua e racional e ocupação pacífica da área pelo prazo mínimo de um ano, observado o que o parágrafo único do art. 3º desta Lei dispõe;\nIV - manter a exploração da área de acordo com a legislação ambiental vigente;\nV - ter como principal atividade a exploração do imóvel que ocupa, com destinação econômica voltada à atividade agropecuária, extrativa vegetal, florestal ou agroindustrial, independentemente de sua localização, com a possível inclusão, de forma complementar, do turismo rural ou ecológico; e\nVI - não exercer função pública.\nParágrafo único. É também condição à efetivação da doação indicada no caput deste artigo o ocupante ou o membro do núcleo familiar não ter sido beneficiado pelo poder público com outro imóvel urbano ou rural.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção II\n## Da venda direta\nArt. 6º Fica autorizado o Chefe do Poder Executivo estadual a promover a regularização fundiária por venda direta dos imóveis rurais não devolutos de propriedade do Estado de Goiás.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A venda direta ao ocupante fica condicionada ao pagamento do valor de mercado do imóvel, que não pode ser inferior ao valor da terra nua estipulada pelo Instituto Nacional de Colonização e Reforma Agrária - INCRA, a ser fixado em avaliação do órgão estadual de administração patrimonial.\nParágrafo único. A avaliação referida no caput deste artigo não deverá considerar o valor das acessões e das benfeitorias e a valorização decorrente de suas implementações.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O pagamento poderá ser realizado à vista ou em até cento e vinte parcelas mensais e consecutivas, atualizadas anualmente, sem incidência de juros, mediante o sinal mínimo de 10% (dez por cento) do valor da avaliação, e com parcela mensal não inferior a 50% (cinquenta por cento) do valor do salário mínimo vigente.\n§ 1º O parcelamento será atualizado monetariamente pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA ou por outro que o substitua.\n§ 2º O término do parcelamento não poderá ultrapassar a data em que o adquirente completar oitenta anos, todavia o direito poderá ser transmitido aos sucessores indicados no art. 1.829 do Código Civil.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Fica garantido ao adquirente do imóvel, no caso de pagamento à vista, o desconto de 25% (vinte e cinco por cento) do valor da avaliação.\nParágrafo único. O pagamento à vista deverá ser realizado no máximo de trinta dias, contados da notificação da decisão favorável da autoridade competente.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As vendas a prazo serão formalizadas por escritura pública de promessa de compra e venda, em que estarão previstas, entre outras, as seguintes condições:\nI - a resolução automática da promessa de compra e venda e reversão do imóvel ao Estado de Goiás, independentemente de interpelação judicial ou extrajudicial, superado o prazo estabelecido no § 1º do art. 11 desta Lei;\nII - a obrigação de serem pagos pelo adquirente tributos, emolumentos e despesas referentes à venda; e\nIII - a inalienabilidade do imóvel até o pagamento integral do preço, salvo a concordância do órgão de administração patrimonial com a substituição do promitente-comprador.\nParágrafo único. O pagamento do sinal mínimo deverá ser realizado no máximo de trinta dias, contados da ciência ao interessado da decisão favorável da autoridade competente.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Na hipótese de atraso no pagamento, as parcelas ficarão sujeitas a juros moratórios de 12% (doze por cento) ao ano.\n§ 1º Vencidas três prestações consecutivas e não pagas em trinta dias, contados da intimação por aviso de recebimento - AR ou, se a intimação for infrutífera, da publicação única de edital de chamamento no Diário Oficial do Estado de Goiás, ocorrerão o vencimento antecipado da dívida e a imediata resolução da promessa de compra e venda.\n§ 2º Para o disposto no § 1º do art. 11 desta Lei, presumem-se válidas as comunicações e as intimações dirigidas ao endereço do adquirente.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Na hipótese de resolução da promessa de compra e venda, o órgão estadual competente promoverá o registro respectivo no cartório.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## Seção III\n## Da concessão de direito real de uso onerosa\nArt. 13. Fica autorizada a concessão de direito real de uso onerosa de imóveis rurais de domínio do Estado de Goiás não enquadrados como terras devolutas, de acordo com a conveniência e oportunidade, como direito resolúvel, para o fim específico de regularização fundiária, e essa concessão será realizada quando não for preferível a venda ou a doação por ato do Poder Executivo estadual.\n§ 1º A concessão de direito real de uso onerosa poderá ser contratada por instrumento público ou particular ou por simples termo administrativo.\n§ 2º Desde a celebração da concessão de direito real de uso onerosa, o concessionário fruirá plenamente da terra para os fins estabelecidos no contrato e responderá por todos os encargos civis, administrativos e tributários que incidirem sobre o imóvel e suas rendas.\n§ 3º Resolve-se a concessão indicada neste artigo antes de seu término caso o concessionário dê ao imóvel destinação diversa da estabelecida no contrato ou descumpra cláusula resolutória do ajuste, independentemente de qualquer indenização por benfeitorias e acessões realizadas.\n§ 4º A concessão de direito real de uso onerosa, salvo disposição contratual em contrário, transfere-se por ato inter vivos, mediante anuência do órgão de administração patrimonial competente, ou causa mortis, desde que o sucessor se responsabilize diretamente pela continuidade da finalidade da ocupação objeto da concessão.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. A concessão de direito real de uso onerosa será outorgada pelo máximo de trinta e cinco anos, computadas as prorrogações, e poderá ser revogada na hipótese de o concessionário dar ao imóvel destinação diversa ou contrária ao interesse público.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Para o cômputo da contraprestação mensal a ser paga pelo concessionário, serão adotados os seguintes critérios:\nI - o imóvel deverá ser periodicamente avaliado, de acordo com as normas estabelecidas pela Associação Brasileira de Normas Técnicas - ABNT, por órgão ou entidade estadual competente, e será permitida para esse fim a aplicação de reajuste anual segundo o Índice Geral de Preços - Mercado - IGP-M ou outro que o substitua; e\nII - a importância da contraprestação mensal a ser adimplida pelo concessionário corresponderá a 0,3% (três décimos por cento) do valor da avaliação do imóvel.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DISPOSIÇÕES FINAIS\nArt. 16. Quando for necessário e durante a tramitação do processo de regularização fundiária, o georreferenciamento de imóveis rurais poderá ser realizado por terceiros devidamente habilitados se forem atendidas as normas técnicas e legais estabelecidas pelos órgãos competentes.\n§ 1º A validação do georreferenciamento realizado por terceiros ficará a cargo da equipe técnica da administração pública, que avaliará a conformidade do trabalho com os padrões exigidos.\n§ 2º A análise e a validação pela administração pública serão realizadas de acordo com a conveniência e a oportunidade, observados os prazos e os procedimentos definidos em regulamento.\n§ 3º Caberá à administração pública estabelecer os critérios e os requisitos técnicos para a habilitação de terceiros, garantidas a qualidade e a precisão dos trabalhos de georreferenciamento.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Caberão ao órgão estadual de administração patrimonial a regularização fundiária de terras rurais não devolutas de propriedade do Estado de Goiás e a manifestação sobre a conveniência e a oportunidade da regularização fundiária nas terras devolutas, com a oitiva da Procuradoria-Geral do Estado.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Serão isentos de custas e emolumentos, entre outros serviços cartorários, os seguintes atos:\nI - o registro do título de domínio que, expedido pelo Estado de Goiás e nos termos desta Lei, seja oriundo da regularização fundiária que tenha por objeto gleba pública de até dois módulos fiscais; e\nII - o fornecimento das certidões para os atos previstos nesta Lei.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os cartórios de registro de imóveis deverão fornecer qualquer informação e as certidões necessárias ao cumprimento do disposto nesta Lei requisitadas a eles pelo órgão responsável pelo patrimônio do Estado, sob pena de aplicação das sanções cabíveis.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. A Lei nº 20.229, de 18 de julho de 2018, passa a vigorar com a seguinte alteração:\n\"Art. 2º A regularização fundiária, em núcleos urbanos formais e informais, ocorrerá mediante o cumprimento dos seguintes requisitos:\n...............................................................\" (NR)\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. O Poder Executivo regulamentará esta Lei no que couber.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24230",
+   "short": "Lei 24230/2026",
+   "title": "Lei nº 24230, de 2026 (Institui o Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113805",
+   "first_law": "lei-2026-24230",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113805",
+     "sha256": "eea31f408eb1fc5974c3295d07cddd8ad4f8fea6bea636db1b97739f4e5c4be7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.230, DE 14 DE ABRIL DE 2026\nInstitui o Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência, a ser comemorado, anualmente, em 4 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual da Escuta Protegida tem por objetivos:\nI - conscientizar a sociedade sobre a importância da escuta protegida como instrumento de garantia dos direitos das crianças e adolescentes vítimas ou testemunhas de violência;\nII - promover debates, seminários, palestras e outras ações educativas e formativas sobre o tema;\nIII - estimular a implementação e o aperfeiçoamento de políticas públicas voltadas à proteção integral da criança e do adolescente;\nIV - fomentar a capacitação contínua de profissionais que atuam na rede de proteção e atendimento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Dia Estadual da Escuta Protegida, os órgãos e as entidades da administração pública estadual, em articulação com os municípios, sociedade civil e instituições do Sistema de Garantia de Direitos, poderão promover ações de sensibilização, mobilização e divulgação relacionadas ao tema.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução desta Lei correrão à conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Dia Estadual da Escuta Protegida de Crianças e Adolescentes Vítimas ou Testemunhas de Violência passa a integrar o Calendário Oficial de Eventos do Estado de Goiás.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24231",
+   "short": "Lei 24231/2026",
+   "title": "Lei nº 24231, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113806",
+   "first_law": "lei-2026-24231",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113806",
+     "sha256": "64669898d38c48b09116a99e504f5902577a7ff73725bc04915e996f52158130",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.231, DE 14 DE ABRIL DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DO AMOR PET, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 07.251.034/0001-06, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24232",
+   "short": "Lei 24232/2026",
+   "title": "Lei nº 24232, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113807",
+   "first_law": "lei-2026-24232",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-14",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113807",
+     "sha256": "a3b0fed733f05ddbf45175c751fd013ba0a2814c8d196bc73f02050efad3942d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.232, DE 14 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Folia de Reis, realizada, anualmente, entre os dias 25 de dezembro e 6 de janeiro, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 14 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24233",
+   "short": "Lei 24233/2026",
+   "title": "Lei nº 24233, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113811",
+   "first_law": "lei-2026-24233",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113811",
+     "sha256": "e7e3b1cfe0cdc04c3a813cf8d13816d2367f94cb5b67325a400e79bb0673e312",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.233, DE 15 DE ABRIL DE 2026\nAltera a Lei nº 18.052, de 24 de junho de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento à Mulher - DEAM, nas áreas de jurisdição das Delegacias Regionais de Polícia que menciona e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 18.052, de 24 de junho de 2013, passa a vigorar com a seguinte alteração:\n\"Art. 1º Ficam criadas, na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, vinte e duas Delegacias Especializadas no Atendimento à Mulher - DEAMs, conforme a especificação da seguinte tabela:\nNº DE ORDEM ÓRGÃO CRIADO SEDE ÁREA DE JURISDIÇÃO\n21 DELEGACIA ESPECIALIZADA NO ATENDIMENTO À MULHER - DEAM QUIRINÓPOLIS 8ª DELEGACIA REGIONAL DE POLÍCIA DE RIO VERDE\n22 DELEGACIA ESPECIALIZADA NO ATENDIMENTO À MULHER - DEAM JARAGUÁ 15ª DELEGACIA REGIONAL DE POLÍCIA DE GOIANÉSIA\n\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24234",
+   "short": "Lei 24234/2026",
+   "title": "Lei nº 24234, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113812",
+   "first_law": "lei-2026-24234",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113812",
+     "sha256": "f715c3b30c78c22685cf9ff9c9fd221e7c95f41503af5c74ffa8352362673766",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.234, DE 15 DE ABRIL DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ACADEMIA GOIANA MAÇÔNICA DE LETRAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 34.573.757/0001-96, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24235",
+   "short": "Lei 24235/2026",
+   "title": "Lei nº 24235, de 2026 (Institui o Dia Estadual do Estado Laico.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113813",
+   "first_law": "lei-2026-24235",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113813",
+     "sha256": "192416c1999a6aa5569ebc8bed321b68b85f2360f14b0bfcf812f696ee24fd5a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.235, DE 15 DE ABRIL DE 2026\nInstitui o Dia Estadual do Estado Laico.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Estado Laico, a ser comemorado, anualmente, no dia 5 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Estado Laico tem como objetivos:\nI - promover a defesa da laicidade estatal;\nII - valorizar a diversidade religiosa, assegurando o respeito às diferentes crenças, tradições e manifestações de fé;\nIII - incentivar o diálogo inter-religioso e o fortalecimento da convivência pacífica entre pessoas de distintas orientações religiosas;\nIV - combater a intolerância religiosa, o preconceito e a discriminação em razão de crença ou ausência dela; e\nV - estimular a reflexão, no âmbito educacional, institucional e comunitário, sobre a importância da liberdade de consciência e de crença.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As ações alusivas ao Dia do Estado Laico poderão ser promovidas em parceria com:\nI - instituições públicas estaduais e municipais;\nII - entidades representativas de religiões e comunidades tradicionais;\nIII - universidades, escolas e organizações da sociedade civil; e\nIV - órgãos de defesa dos direitos humanos e da cidadania.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual do Estado Laico fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 15 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24236",
+   "short": "Lei 24236/2026",
+   "title": "Lei nº 24236, de 2026 (Institui a Política Estadual de Prevenção ao Afogamento no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113862",
+   "first_law": "lei-2026-24236",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113862",
+     "sha256": "758fe1846e5f2dbc77194b8a523c16877588cec3222e558ebc4ffcfa422a32c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.236, DE 16 DE ABRIL DE 2026\nInstitui a Política Estadual de Prevenção ao Afogamento no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Prevenção ao Afogamento no Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A política pública instituída por esta Lei objetiva prevenir e reduzir os casos de afogamento no Estado de Goiás, especialmente entre crianças e adolescentes, por meio de ações educativas, preventivas e de fiscalização.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da política pública instituída por esta Lei, especialmente:\nI - promover a conscientização da população sobre os riscos e as medidas de prevenção ao afogamento, por meio de campanhas educativas e informativas;\nII - estimular a capacitação de profissionais das áreas de saúde, educação e segurança pública e de socorristas para atuarem na prevenção e no atendimento a casos de afogamento;\nIII - (VETADO);\nIV - estabelecer parcerias com órgãos públicos, organizações não governamentais e instituições privadas para implementação de ações preventivas e de capacitação;\nV - (VETADO);\nVI - estimular a instalação de sinalizações e dispositivos de segurança em áreas de recreação aquática, bem como a oferta de cursos de natação e salvamento aquático em comunidades vulneráveis;\nVII - fornecer instruções acerca das bandeiras de sinalização e como proceder em caso de algum incidente ou afogamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A política pública instituída por esta Lei será implementada, monitorada e avaliada com a colaboração e em articulação com os municípios, instituições de ensino, entidades da sociedade civil e outros setores interessados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24237",
+   "short": "Lei 24237/2026",
+   "title": "Lei nº 24237, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113942",
+   "first_law": "lei-2026-24237",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113942",
+     "sha256": "29f1b55795d8cb40ca804ca822b3db6ed8465c71c0619bbeb53e099433471eb7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.237, DE 22 DE ABRIL DE 2026.\nDispõe sobre a reestruturação dos Quadros de Pessoal dos servidores efetivos da Secretaria da Assembleia Legislativa do Estado de Goiás, altera a Lei nº 13.460, de 05 de maio de 1999, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DISPOSIÇÕES GERAIS\nArt. 1º Esta Lei dispõe sobre a reestruturação dos Quadros de Pessoal dos servidores efetivos da Secretaria da Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os cargos de provimento efetivo do Quadro Permanente, constituído de Agente Legislativo A, Agente Legislativo B, Assistente Legislativo, Policial Legislativo e Analista Legislativo, e os do Quadro Suplementar, constituído de Agente Legislativo-S, Assistente Legislativo-S e Analista Legislativo-S, passam a ser estruturados em graus e níveis, conforme as tabelas do Anexo I desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO DESENVOLVIMENTO\nArt. 3º O desenvolvimento dos servidores efetivos integrantes dos Quadros de Pessoal da Secretaria da Assembleia Legislativa do Estado de Goiás ocorrerá mediante progressão horizontal e vertical, observados os critérios desta Lei e os parâmetros estabelecidos em Resolução da Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A promoção funcional, independentemente da existência de vaga, ocorrerá por meio de progressão horizontal e vertical, através de mudança de grau e nível, na forma das tabelas do Anexo I desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção I\n## Da Progressão Horizontal\nArt. 5º A progressão horizontal consiste na passagem de um grau para outro imediatamente superior, dentro do mesmo nível, observado o interstício de 3 (três) anos de efetivo serviço no grau em que se encontra, a contar, conforme o caso, da data de início do exercício no cargo ou data da última progressão horizontal.\n§ 1º A progressão horizontal corresponderá a 3% (três por cento) de acréscimo sobre o vencimento do padrão anteriormente ocupado.\n§ 2º Cada cargo contará com 10 (dez) graus de progressão horizontal, na forma da tabela de vencimentos constante do Anexo I desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Fica assegurada a progressão horizontal nos casos em que o servidor estiver:\nI - cedido para órgão federal, estadual ou municipal;\nII - em exercício de mandato eletivo;\nIII - afastado para atendimento de convocação para serviço militar; ou\nIV - em licença ou afastamento remunerado, desde que mantido seu vínculo funcional com a Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica assegurada a progressão horizontal nos casos de afastamento para o exercício de cargo de provimento em comissão na administração direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "## Seção II\n## Da Progressão Vertical\nArt. 8º A progressão vertical consiste na passagem de um nível para outro imediatamente superior, mantido o grau, observados a qualificação, o desempenho e o interstício de 2 (dois) anos no nível em que se encontra.\n§ 1º O primeiro interstício, para os servidores ativos que estiverem em exercício na data da publicação desta Lei, terá início a partir de 1º de abril de 2026.\n§ 2º Para os servidores que ingressarem em cargo efetivo após o dia 1º de abril de 2026, a contagem do interstício iniciará a partir data de exercício.\n§ 3º A progressão vertical implicará acréscimo de 10% (dez por cento) sobre o vencimento correspondente ao nível anteriormente ocupado.\n§ 4º Cada cargo contará com 5 (cinco) níveis de progressão vertical, na forma da tabela de vencimentos constante do Anexo I desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Para fazer jus à progressão vertical, o servidor deverá cumprir os requisitos objetivos fixados em Resolução da Assembleia Legislativa do Estado de Goiás, especialmente os relativos à capacitação, à qualificação, à avaliação de desempenho funcional, ao tempo de serviço e aos demais critérios de desenvolvimento no cargo.\nParágrafo único. A Resolução de que trata este artigo disciplinará, no mínimo:\nI - os critérios de habilitação do servidor;\nII - os documentos comprobatórios exigidos;\nIII - os prazos e o procedimento administrativo;\nIV - os parâmetros de avaliação de desempenho;\nV - as hipóteses de impedimento ou suspensão da progressão;\nVI - as regras de transição e enquadramento, quando necessárias.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## Seção III\n## Da Suspensão do Interstício para a Progressão Horizontal e Vertical\nArt. 10. O interstício para a progressão horizontal e vertical será suspenso nas seguintes hipóteses:\nI - faltas não abonadas ou injustificadas;\nII - gozo de licença para tratar de interesses particulares;\nIII - licença para atividade política;\nIV - afastamento para exercício de mandato eletivo, exceto quando, havendo compatibilidade de horários, o servidor continuar a exercer as atribuições do cargo;\nV - afastamento para participar de curso de formação decorrente de aprovação em concurso para outro cargo na Administração Pública;\nVI - afastamento do cargo por decisão judicial ou proferida em processo administrativo disciplinar, bem como no caso de prisão não decorrente de decisão judicial definitiva;\nVII - outros afastamentos não remunerados; e\nVIII - outras hipóteses definidas em Resolução da Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO POSICIONAMENTO DOS ATUAIS SERVIDORES ATIVOS, APOSENTADOS E PENSIONISTAS COM DIREITO À PARIDADE\nArt. 11. Os atuais servidores ativos, aposentados e pensionistas com direito à paridade dos Quadros de Pessoal da Secretaria da Assembleia Legislativa do Estado de Goiás serão posicionados no nível A do respectivo cargo ocupado, sendo o grau fixado de acordo com o sistema de padrões que vigorou até a data de publicação desta Lei, na forma do Anexo II, assegurada a irredutibilidade dos vencimentos.\n§ 1º Os servidores que, na data da publicação desta Lei, já tiverem cumprido os requisitos para progressão no sistema de padrões que vigorou até a data de publicação desta Lei, ainda que não concedido administrativamente, farão jus ao enquadramento no grau resultante da implementação do respectivo padrão a que tenha completado o interstício necessário.\n§ 2º Para a definição do grau a ser ocupado pelos servidores ativos, aposentados e pensionistas com direito à paridade, será observada a Lei Complementar federal nº 226, de 12 de janeiro de 2026, especificamente na parte que revoga o inciso IX do caput do art. 8º da Lei Complementar federal nº 173, de 27 de maio de 2020, vedado o pagamento retroativo anterior a 13 de janeiro de 2026.\n§ 3º O posicionamento de que trata este artigo será feito por ato do Presidente do Poder Legislativo, publicado no Diário Oficial da Assembleia Legislativa do Estado de Goiás.\n§ 4º Caberá pedido de revisão de posicionamento no Quadro Permanente, no prazo de 60 (sessenta) dias, contado a partir do primeiro pagamento decorrente do ato de posicionamento, ao Presidente da Assembleia Legislativa do Estado de Goiás, em caso de patente prejuízo, objetivamente demonstrado na petição.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DISPOSIÇÕES FINAIS\nArt. 12. Aplica-se esta Lei, no que couber, aos servidores ativos, aposentados e pensionistas com direito à paridade, integrantes do Quadro Suplementar de Pessoal da Assembleia Legislativa do Estado de Goiás.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A Tabela IV do Anexo I da Lei nº 13.460, de 05 de maio de 1999, passa a vigorar com as alterações constantes do Anexo I desta Lei.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias da Assembleia Legislativa do Estado de Goiás consignadas no Orçamento-Geral do Estado de Goiás.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação, produzindo efeitos financeiros a partir de 1º de abril de 2026.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 22 de abril de 2026.\nDeputado BRUNO PEIXOTO\n- PRESIDENTE -\nANEXO I\n(Altera a Tabela IV do Anexo I da Lei nº 13.460, de 5 de maio de 1999)\n\"ANEXO I (...)\nTABELA IV - CARGOS DE PROVIMENTO EFETIVO\nAGENTE LEGISLATIVO A\nGRAUS\nNÍVEIS 1 2 3 4 5 6 7 8 9 10\nA R$ 3.947,32 R$ 4.065,69 R$ 4.187,64 R$ 4.313,28 R$ 4.442,73 R$ 4.576,02 R$ 4.713,25 R$ 4.854,64 R$ 5.000,29 R$ 5.150,28\nB R$ 4.342,05 R$ 4.472,25 R$ 4.606,40 R$ 4.744,60 R$ 4.887,00 R$ 5.033,62 R$ 5.184,57 R$ 5.340,10 R$ 5.500,31 R$ 5.665,30\nC R$ 4.776,25 R$ 4.919,48 R$ 5.067,04 R$ 5.219,06 R$ 5.375,70 R$ 5.536,98 R$ 5.703,03 R$ 5.874,11 R$ 6.050,35 R$ 6.231,83\nD R$ 5.253,88 R$ 5.411,43 R$ 5.573,74 R$ 5.740,97 R$ 5.913,27 R$ 6.090,68 R$ 6.273,33 R$ 6.461,52 R$ 6.655,38 R$ 6.855,02\nE R$ 5.779,27 R$ 5.952,57 R$ 6.131,12 R$ 6.315,07 R$ 6.504,60 R$ 6.699,75 R$ 6.900,66 R$ 7.107,67 R$ 7.320,92 R$ 7.540,52\nAGENTE LEGISLATIVO B\nGRAUS\nNÍVEIS 1 2 3 4 5 6 7 8 9 10\nA R$ 5.407,82 R$ 5.570,12 R$ 5.737,24 R$ 5.909,31 R$ 6.086,63 R$ 6.269,12 R$ 6.457,23 R$ 6.650,99 R$ 6.850,49 R$ 7.056,05\nB R$ 5.948,60 R$ 6.127,13 R$ 6.310,96 R$ 6.500,24 R$ 6.695,29 R$ 6.896,03 R$ 7.102,95 R$ 7.316,08 R$ 7.535,53 R$ 7.761,65\nC R$ 6.543,46 R$ 6.739,84 R$ 6.942,06 R$ 7.150,26 R$ 7.364,82 R$ 7.585,63 R$ 7.813,24 R$ 8.047,69 R$ 8.289,09 R$ 8.537,82\nD R$ 7.197,80 R$ 7.413,83 R$ 7.636,26 R$ 7.865,29 R$ 8.101,30 R$ 8.344,19 R$ 8.594,57 R$ 8.852,46 R$ 9.118,00 R$ 9.391,60\nE R$ 7.917,58 R$ 8.155,21 R$ 8.399,89 R$ 8.651,82 R$ 8.911,43 R$ 9.178,61 R$ 9.454,03 R$ 9.737,71 R$ 10.029,80 R$ 10.330,76\nASSISTENTE LEGISLATIVO\nNÍVEIS GRAUS\n1 2 3 4 5 6 7 8 9 10\nA R$ 7.408,90 R$ 7.631,17 R$ 7.860,12 R$ 8.095,90 R$ 8.338,80 R$ 8.588,92 R$ 8.846,64 R$ 9.112,05 R$ 9.385,39 R$ 9.666,95\nB R$ 8.149,79 R$ 8.394,28 R$ 8.646,13 R$ 8.905,49 R$ 9.172,68 R$ 9.447,81 R$ 9.731,30 R$ 10.023,25 R$ 10.323,92 R$ 10.633,64\nC R$ 8.964,76 R$ 9.233,71 R$ 9.510,74 R$ 9.796,03 R$10.089,94 R$ 10.392,59 R$ 10.704,43 R$ 11.025,58 R$ 11.356,32 R$ 11.697,01\nD R$ 9.861,24 R$ 10.157,08 R$ 10.461,82 R$ 10.775,64 R$ 11.098,94 R$ 11.431,85 R$ 11.774,87 R$ 12.128,13 R$ 12.491,95 R$ 12.866,71\nE R$ 10.847,37 R$ 11.172,79 R$ 11.508,00 R$ 11.853,20 R$ 12.208,83 R$ 12.575,03 R$ 12.952,36 R$ 13.340,95 R$ 13.741,14 R$ 14.153,38\nPOLICIAL LEGISLATIVO\nNÍVEIS GRAUS\n1 2 3 4 5 6 7 8 9 10\nA R$ 7.408,90 R$ 7.631,17 R$ 7.860,12 R$ 8.095,90 R$ 8.338,80 R$ 8.588,92 R$ 8.846,64 R$ 9.112,05 R$ 9.385,39 R$ 9.666,95\nB R$ 8.149,79 R$ 8.394,28 R$ 8.646,13 R$ 8.905,49 R$ 9.172,68 R$ 9.447,81 R$ 9.731,30 R$ 10.023,25 R$ 10.323,92 R$ 10.633,64\nC R$ 8.964,76 R$ 9.233,71 R$ 9.510,74 R$ 9.796,03 R$10.089,94 R$ 10.392,59 R$ 10.704,43 R$ 11.025,58 R$ 11.356,32 R$ 11.697,01\nD R$ 9.861,24 R$ 10.157,08 R$ 10.461,82 R$ 10.775,64 R$ 11.098,94 R$ 11.431,85 R$ 11.774,87 R$ 12.128,13 R$ 12.491,95 R$ 12.866,71\nE R$ 10.847,37 R$ 11.172,79 R$ 11.508,00 R$ 11.853,20 R$ 12.208,83 R$ 12.575,03 R$ 12.952,36 R$ 13.340,95 R$ 13.741,14 R$ 14.153,38\nANALISTA LEGISLATIVO\nNÍVEIS GRAUS\n1 2 3 4 5 6 7 8 9 10\nA R$ 10.150,33 R$ 10.454,82 R$ 10.768,51 R$ 11.091,52 R$ 11.424,31 R$ 11.766,98 R$ 12.120,07 R$ 12.483,43 R$ 12.858,12 R$ 13.243,89\nB R$ 11.165,36 R$ 11.500,30 R$ 11.845,36 R$ 12.200,67 R$ 12.566,74 R$ 12.943,67 R$ 13.332,07 R$ 13.731,77 R$ 14.143,93 R$ 14.568,27\nC R$ 12.281,89 R$ 12.650,33 R$ 13.029,89 R$ 13.420,73 R$ 13.823,41 R$ 14.238,04 R$ 14.665,28 R$ 15.104,95 R$ 15.558,32 R$ 16.025,10\nD R$ 13.510,08 R$ 13.915,36 R$ 14.332,88 R$ 14.762,81 R$ 15.205,75 R$ 15.661,85 R$ 16.131,81 R$ 16.615,44 R$ 17.114,15 R$ 17.627,61\nE R$ 14.861,09 R$ 15.306,90 R$ 15.766,17 R$ 16.239,09 R$ 16.726,33 R$ 17.228,03 R$ 17.744,99 R$ 18.276,99 R$ 18.825,57 R$ 19.390,37\n(NR)\"\nANEXO II\nPOSICIONAMENTO DOS ATUAIS SERVIDORES ATIVOS, APOSENTADOS E PENSIONISTAS COM DIREITO À PARIDADE NA TABELA IV DO ANEXO I DA LEI N° 13.460, DE 5 DE MAIO DE 1999\nTABELA I - AGENTE LEGISLATIVO\nATUAL NOVO POSICIONAMENTO\nAGENTE LEGISLATIVO AGENTE LEGISLATIVO A\nPADRÃO CLASSE NÍVEL GRAU\nAL-1 A A 1\nAL-2 A A 2\nAL-3 A A 3\nAL-4 A A 4\nAL-5 A A 5\nAL-6 A A 6\nAL-7 A A 7\nAL-8 A A 8\nAL-9 A A 9\nAL-10 A A 10\nATUAL NOVO POSICIONAMENTO\nAGENTE LEGISLATIVO AGENTE LEGISLATIVO B\nPADRÃO CLASSE NÍVEL GRAU\nAL-11 B A 1\nAL-12 B A 2\nAL-13 B A 3\nAL-14 B A 4\nAL-15 B A 5\nAL-16 B A 6\nAL-17 B A 7\nAL-18 B A 8\nAL-19 B A 9\nAL-20 B A 10\nTABELA II - ASSISTENTE LEGISLATIVO\nATUAL NOVO POSICIONAMENTO\nASSISTENTE LEGISLATIVO ASSISTENTE LEGISLATIVO\nPADRÃO CLASSE NÍVEL GRAU\nAL-21 SINGULAR A 1\nAL-22 SINGULAR A 2\nAL-23 SINGULAR A 3\nAL-24 SINGULAR A 4\nAL-25 SINGULAR A 5\nAL-26 SINGULAR A 6\nAL-27 SINGULAR A 7\nAL-28 SINGULAR A 8\nAL-29 SINGULAR A 9\nAL-30 SINGULAR A 10\nTABELA III - POLICIAL LEGISLATIVO\nATUAL ATUAL NOVO POSICIONAMENTO\nPOLICIAL LEGISLATIVO POLICIAL LEGISLATIVO\nPADRÃO CLASSE NÍVEL GRAU\nPL-21 - A 1\nPL-22 - A 2\nPL-23 - A 3\nPL-24 - A 4\nPL-25 - A 5\nPL-26 - A 6\nPL-27 - A 7\nPL-28 - A 8\nPL-29 - A 9\nPL-30 - A 10\nTABELA IV - ANALISTA LEGISLATIVO\nATUAL NOVO POSICIONAMENTO\nANALISTA LEGISLATIVO ANALISTA LEGISLATIVO\nPADRÃO CLASSE NÍVEL GRAU\nAL-31 SINGULAR A 1\nAL-32 SINGULAR A 2\nAL-33 SINGULAR A 3\nAL-34 SINGULAR A 4\nAL-35 SINGULAR A 5\nAL-36 SINGULAR A 6\nAL-37 SINGULAR A 7\nAL-38 SINGULAR A 8\nAL-39 SINGULAR A 9\nAL-40 SINGULAR A 10\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24238",
+   "short": "Lei 24238/2026",
+   "title": "Lei nº 24238, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113939",
+   "first_law": "lei-2026-24238",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113939",
+     "sha256": "09510922f72442a8fb2b09e0170a6ed9663da12bc171283056bd94758a519ebd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.238, DE 23 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VALDINEI VALÉRIO DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24239",
+   "short": "Lei 24239/2026",
+   "title": "Lei nº 24239, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113940",
+   "first_law": "lei-2026-24239",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113940",
+     "sha256": "15622742bdca7863ed7f8a6b115b554174d57af121ebdf0576e3005b967ab3cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.239, DE 23 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALEX ANTÔNIO VILELA FERNANDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCLÉCIO ALVES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24240",
+   "short": "Lei 24240/2026",
+   "title": "Lei nº 24240, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114122",
+   "first_law": "lei-2026-24240",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114122",
+     "sha256": "8f26093dfcb6e1ca271de898720524bc9f4d3585580621030fa233eae4168ee6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.240, DE 28 DE ABRIL DE 2026\nAltera as Leis nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás, e nº 20.787, de 03 de junho de 2020, que institui o programa PROGOIÁS, e revoga dispositivo da Lei nº 14.244, de 29 de julho de 2002, que institui o incentivo Apoio à Instalação e Expansão de Empresas Operadoras de Logística de Distribuição de Produtos no Estado de Goiás - LOGPRODUZIR.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, passa a vigorar com a seguinte alteração:\n\"Art. 96. ..........................................\nParágrafo único. São considerados proprietários:\nI - o devedor fiduciante, na alienação fiduciária em garantia; e\nII - o arrendatário, no arrendamento mercantil.\"(NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 20.787, de 03 de junho 2020, passa a vigorar com a seguinte alteração:\n\"Art. 10. ...........................................\n§ 4º .................................................\nI - deve ser corrigida no mês de fevereiro do ano civil seguinte ao de utilização do crédito outorgado, previsto no art. 5º desta Lei,pelo índice previsto no parágrafo único do art. 2º das Disposições Finais e Transitórias da Lei nº 11.651, de 26 de dezembro de 1991, de forma proporcional aos meses em que o estabelecimento tenha exercido sua atividade no ano civil; e\n........................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados:\nI - os seguintes dispositivos da Lei nº 11.651, de 1991:\na) o art. 97; e\nb) o inciso I do art. 99; e\nII - o art. 10-A da Lei nº 14.244, de 29 de julho de 2002.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação e produz efeitos retroativos a 8 de outubro de 2025:\nI - quanto ao art. 1º; e\nII - quanto às alíneas \"a\" e \"b\" do inciso I do art. 3º.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24242",
+   "short": "Lei 24242/2026",
+   "title": "Lei nº 24242, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Gastronômica, realizada no Município de Santo Antônio de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114123",
+   "first_law": "lei-2026-24242",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114123",
+     "sha256": "3554fd390524cd4b8b6bb99c3707197ddf2c6b99d827dfebff9cc00be8352574",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.242, DE 28 DE ABRIL DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Gastronômica, realizada no Município de Santo Antônio de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Gastronômica, realizada, anualmente, no mês de abril, no Município de Santo Antônio de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24243",
+   "short": "Lei 24243/2026",
+   "title": "Lei nº 24243, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114124",
+   "first_law": "lei-2026-24243",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114124",
+     "sha256": "d0786869b760a5713851b1cf51ee58fa74eaaae03f856cc76312be513250a768",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.243, DE 28 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Catedral do Senhor Bom Jesus da Lapa, situada no Município de Anápolis/GO, fica reconhecida como patrimônio histórico e cultural goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24244",
+   "short": "Lei 24244/2026",
+   "title": "Lei nº 24244, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114125",
+   "first_law": "lei-2026-24244",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114125",
+     "sha256": "874d17b1f90351b00c9283ea6f3e977ecaac74fabdbb71af49fd75bd45ab2fbb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.244, DE 28 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Paróquia de Sant'Ana, situada na Praça Santana, nº 110, Setor Central, Município de Inhumas/GO, fica reconhecida como patrimônio histórico e cultural goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24245",
+   "short": "Lei 24245/2026",
+   "title": "Lei nº 24245, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114126",
+   "first_law": "lei-2026-24245",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114126",
+     "sha256": "4c371b6554b9477ab396e352339db0d4e37b19b6024bc8d4bda537d8c7063273",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.245, DE 28 DE ABRIL DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO AMIGOS DOS ANIMAIS DE GAMELEIRA DE GOIÁS - AAGG, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 60.065.466/0001-05, com sede no Município de Gameleira de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24241",
+   "short": "Lei 24241/2026",
+   "title": "Lei nº 24241, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114128",
+   "first_law": "lei-2026-24241",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114128",
+     "sha256": "87354262b18b26d948f91359e9e5a5a2e5df40efcb17f4641d98c568104d5e2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.241, DE 28 DE ABRIL DE 2026\nAbre crédito especial à Diretoria-Geral de Polícia Penal, à Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária e à Indústria Química do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto, no corrente exercício, crédito especial à Diretoria-Geral de Polícia Penal, à Agência Goiana de Assistência Técnica, Extensão Rural e Pesquisa Agropecuária e à Indústria Química do Estado de Goiás no valor de R$ 65.000,00 (sessenta e cinco mil reais), conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial, conforme o art. 1º desta Lei, serão provenientes de anulação parcial de dotação orçamentária, no valor de R$ 65.000,00 (sessenta e cinco mil reais), em consonância com o inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, conforme Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO I\nABERTURA DE CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n2906 - DIRETORIA- GERAL DE POLÍCIA PENAL 09 - PREVI-DÊN-CIA SOCIAL 274 - PREVIDÊN-CIA ESPECIAL 0200 - ENCARGOS DOS BENEFÍCIOS PREVIDEN-CIÁRIOS E ESPECIAIS 7250 - PAGAMENTO DE PENSÕES ESPECIAIS 03 - OUTRAS DESPESAS CORREN-TES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA- ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 20.000,00\n3262 - AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPE-CUÁRIA - EMATER 09 - PREVI-DÊNCIA SOCIAL 274 - PREVIDÊN-CIA ESPECIAL 0200 - ENCARGOS DOS BENEFÍCIOS PREVIDEN-CIÁRIOS E ESPECIAIS 7250 - PAGAMENTO DE PENSÕES ESPECIAIS 03 - OUTRAS DESPESAS CORREN-TES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 10.000,00\n3190 - INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS - IQUEGO 10 - SAÚDE 303 - SUPORTE PROFILÁTI-CO E TERAPÊU-TICO 1043 - SAÚDE INTEGRAL 2631 - DISPONIBILI- ZAÇÃO DE INSUMOS ESTRATÉGI-COS DE SAÚDE PÚBLICA 03 - OUTRAS DESPESAS CORREN-TES 15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS 90 - APLICA- ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 35.000,00\nTOTAL 65.000,00\nANEXO II\nANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n2906 - DIRETORIA- GERAL DE POLÍCIA PENAL 14 - DIREI-TOS DA CIDA-DANIA 122 - ADMINIS-TRAÇÃO GERAL 4100 - ENCARGOS DA FOLHA DE PAGA-MENTO DOS SERVIDO-RES PÚBLICOS 4145 - FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS -BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZA-TÓRIO 03 - OUTRAS DESPESAS CORREN-TES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA- ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 20.000,00\n3262 - AGÊNCIA GOIANA DE ASSISTÊNCIA TÉCNICA, EXTENSÃO RURAL E PESQUISA AGROPECUÁ-RIA - EMATER 20 - AGRI-CULTU-RA 122 - ADMINIS-TRAÇÃO GERAL 4100 - ENCARGOS DA FOLHA DE PAGAMEN-TO DOS SERVIDO-RES PÚBLICOS 4145 - FOLHA DE PAGAMENTO DE SERVIDORES PÚBLICOS - BENEFÍCIOS, AUXÍLIOS E DESPESAS DE CARÁTER INDENIZA-TÓRIO 03 - OUTRAS DESPESAS CORREN-TES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA- ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 10.000,00\n3190 - INDÚSTRIA QUÍMICA DO ESTADO DE GOIÁS - IQUEGO 10 - SAÚDE 303 - SUPORTE PROFILÁ-TICO E TERAPÊU-TICO 1043 - SAÚDE INTEGRAL 2459 - DISPONIBILI-ZAÇÃO DE CANABIDIOL 03 - OUTRAS DESPESAS CORREN-TES 15010220 - OUTROS RECURSOS NÃO VINCULADOS - DIRETAMENTE ARRECADADOS PRÓPRIOS 90 - APLICA- ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DESPESAS GERAIS 35.000,00\nTOTAL 65.000,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24246",
+   "short": "Lei 24246/2026",
+   "title": "Lei nº 24246, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114151",
+   "first_law": "lei-2026-24246",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114151",
+     "sha256": "25041c407e7693ac556ec08f38d42b6631fb22ef09558d960a91aa6a42e34bdf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.246, DE 28 DE ABRIL DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HELENA DA COSTA BEZERRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24247",
+   "short": "Lei 24247/2026",
+   "title": "Lei nº 24247, de 2026 (Define deficiência auditiva e estabelece valor referencial da limitação auditiva no âmbito do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114153",
+   "first_law": "lei-2026-24247",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114153",
+     "sha256": "1af4e4e41675255fadc56a4485bfe3446f5de6f98239f380236004155a32e4c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.247, DE 29 DE ABRIL DE 2026\nDefine deficiência auditiva e estabelece valor referencial da limitação auditiva no âmbito do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Considera-se deficiência auditiva a limitação de longo prazo da audição, unilateral total ou bilateral parcial ou total, a qual, em interação com uma ou mais barreiras, obstrui a participação plena e efetiva da pessoa na sociedade, em igualdade de condições com as demais pessoas.\n§ 1º Para o cumprimento do disposto no caput deste artigo, adotar-se-á, como valor referencial da limitação auditiva, a média aritmética de 41 dB (quarenta e um decibéis) ou mais aferida por audiograma nas frequências de 500 Hz (quinhentos hertz), 1.000 Hz (mil hertz), 2.000 Hz (dois mil hertz) e 3.000 Hz (três mil hertz), nos moldes da Lei federal nº 14.768, de 22 de dezembro de 2023.\n§ 2º (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\nParágrafo único. (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24248",
+   "short": "Lei 24248/2026",
+   "title": "Lei nº 24248, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114154",
+   "first_law": "lei-2026-24248",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114154",
+     "sha256": "c7d46655acb3b7a5b38c602bf777747d9139cb158e36c51310b51f4a599a7277",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.248, DE 29 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Arraiá Assunção, realizado, anualmente, no mês de junho, no Município de Goiânia/GO:\nI - fica reconhecido como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24249",
+   "short": "Lei 24249/2026",
+   "title": "Lei nº 24249, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114155",
+   "first_law": "lei-2026-24249",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114155",
+     "sha256": "fa3856591ed5ebcbdde040bdcf63bab5490cd3cf26155c4b100cebb2c121c250",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.249, DE 29 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Paróquia Nossa Senhora da Piedade, situada na Rua José Téles, 1, Setor Central, Município de Bela Vista de Goiás/GO, fica reconhecida como patrimônio histórico e cultural goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24250",
+   "short": "Lei 24250/2026",
+   "title": "Lei nº 24250, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114156",
+   "first_law": "lei-2026-24250",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114156",
+     "sha256": "3fa0d05664eaa4a0c86fe1dd0c06f151b395926c1d83deff5f2d906b004d8290",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.250, DE 29 DE ABRIL DE 2026\nAltera a Lei nº 13.463, de 31 de maio de 1999, que dispõe sobre a Política Estadual da Pessoa Idosa e dá outras providências; e nº 18.338, de 30 de dezembro de 2013, que dispõe sobre a criação de Delegacias Especializadas no Atendimento ao Idoso - DEAI -, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 13.463, de 31 de maio de 1999, passa a vigorar com a seguinte redação:\n\"Dispõe sobre a Política Estadual de Atenção à Pessoa Idosa e dá outras providências.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 13.463, de 31 de maio de 1999, passa a vigorar com as seguintes alterações:\n\"Art. 1º A Política Estadual de Atenção à Pessoa Idosa tem por objetivo promover os direitos da pessoa idosa e sua cidadania, autonomia e efetiva integração e participação na sociedade.\" (NR)\n\"Art. 3º A Política reger-se-á pelos seguintes princípios:\n.......................................................\" (NR)\n\"Art. 4º Constituem diretrizes da Política:\nXXIV - fiscalização do cumprimento das diretrizes desta Política em todos os níveis, inclusive junto às clínicas e instituições geriátricas, conforme determinação legal;\nXXV - implantação de sistema integrado de informações de violência contra a pessoa idosa, de forma a permitir a elaboração de indicativos para a presente Política, inclusive de modo articulado com os municípios;\n...................................................\" (NR)\n\"Art. 5º Na implementação da Política, compete aos órgãos e entidades públicas:\nI - em matéria de cidadania e trabalho:\nc) participar, com os demais órgãos envolvidos, da normatização, do acompanhamento e da avaliação desta Política;\nII - em matéria de habitação:\nIII - em matéria de saúde:\nIV - em matéria de educação:\nV - em matéria de cultura:\nVI - em matéria de comunicação: divulgar os serviços e programas destinados à pessoa idosa bem como estimular junto à mídia toda e qualquer ação socioeducativa que vise à melhor qualidade de vida para este segmento populacional.\" (NR)\n\"Art. 6º Às Secretarias de Estado que atuam na área da presente Política compete:\nI - elaborar proposta orçamentária no âmbito de sua atuação, visando ao financiamento de programas compatíveis com a presente Política;\n...................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor 60 (sessenta) dias após a data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24251",
+   "short": "Lei 24251/2026",
+   "title": "Lei nº 24251, de 2026 (Estabelece regras para a confecção de carimbos de profissionais da área da saúde e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114157",
+   "first_law": "lei-2026-24251",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114157",
+     "sha256": "d0da121cb75bddf32bfca3bd734de92df83abbc222d0f84402dd78bc13a7905b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.251, DE 29 DE ABRIL DE 2026\nEstabelece regras para a confecção de carimbos de profissionais da área da saúde e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os estabelecimentos comerciais que confeccionam carimbos personalizados deverão exigir dos profissionais da área da saúde a comprovação de sua respectiva profissão ou especialidade antes da confecção do carimbo contendo os dados a elas relativos.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento desta Lei sujeitará o infrator à aplicação das seguintes penalidades pelo órgão competente:\nI - advertência;\nII - multa, em caso de reincidência, no valor de R$ 5.000,00 (cinco mil reais) a R$ 10.000,00 (dez mil reais), a ser graduada de acordo com a gravidade da conduta.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24252",
+   "short": "Lei 24252/2026",
+   "title": "Lei nº 24252, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114159",
+   "first_law": "lei-2026-24252",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114159",
+     "sha256": "e0996c7e859d180ce99eab69192167435e914489c75a06583e55e7dfd6ad63ee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.252, DE 29 DE ABRIL DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As Ruínas do Antigo Arraial de Ouro Fino, situadas no Município de Goiás/GO, ficam reconhecidas como patrimônio histórico e cultura goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam incluídas, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as comemorações populares e religiosas do Antigo Arraial de Ouro Fino, realizadas, anualmente, no primeiro domingo do mês de setembro, no Município de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24253",
+   "short": "Lei 24253/2026",
+   "title": "Lei nº 24253, de 2026 (Reconhece o bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114160",
+   "first_law": "lei-2026-24253",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114160",
+     "sha256": "fc4e2da496881dcd7350df9f53b60a4ad480b5b6ee675f29c1ea62b70d8ae4c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.253, DE 29 DE ABRIL DE 2026\nReconhece o bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Exposição Agropecuária de Goiânia, realizada, anualmente, no mês de maio, no Município de Goiânia/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24254",
+   "short": "Lei 24254/2026",
+   "title": "Lei nº 24254, de 2026 (Institui a Política Estadual de Incentivo à Música.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/114161",
+   "first_law": "lei-2026-24254",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/114161",
+     "sha256": "44d70c84089b85ecf1e0fa10b1cde11a00b83503f2424bf6e5d4198d13926d0f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.254, DE 29 DE ABRIL DE 2026\nInstitui a Política Estadual de Incentivo à Música.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Música, com a finalidade de promover o resgate cultural e estimular novas formas de pensar e fazer música em Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Constituem objetivos da Política Estadual de Incentivo à Música:\nI - valorizar a identidade, a diversidade e o pluralismo cultural da música goiana;\nII - universalizar o acesso à cultura;\nIII - valorizar os espaços destinados à prática musical;\nIV - fomentar a produção artístico-cultural relacionada à música goiana.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo poderá celebrar parcerias para implementar a Política Estadual de Incentivo à Música para o alcance dos objetivos estabelecidos nesta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para o monitoramento e a avaliação da Política Estadual de Incentivo à Música serão acompanhados anualmente:\nI - o número de artistas beneficiados;\nII - o número de produções musicais goianas beneficiadas;\nIII - os investimentos no cenário musical no âmbito do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
