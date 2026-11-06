@@ -2786,6 +2786,1350 @@
      "sha256": "278568b25d6b1cb43f159b2aa006956f70ccf181486c7c6a753800d931d43efe"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-24505",
+   "short": "Lei 24505/2026",
+   "title": "Lei nº 24505, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117191",
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117191",
+     "sha256": "2af52b9ee17e8830e82786fd091af941b77e9fb2726a553c3002b8fa7b100aac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24506",
+   "short": "Lei 24506/2026",
+   "title": "Lei nº 24506, de 2026 (Altera a Lei nº 21.469, de 23 de junho de 2022, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117253",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117253",
+     "sha256": "84a08ee6c152d127eadb49b0e56c7b1816db7a8e63666622ec9dc7ef953d16a0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24507",
+   "short": "Lei 24507/2026",
+   "title": "Lei nº 24507, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117254",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117254",
+     "sha256": "c86bfde338f8fd7ca2faeb5bee6f9a7d9c159a9e4381c7ba8db6f4406b93514a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24508",
+   "short": "Lei 24508/2026",
+   "title": "Lei nº 24508, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117255",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117255",
+     "sha256": "2a58bbb722ae938a2958d275d86bbec53ef9d54fb1aad88aac6ec1ba022799c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24509",
+   "short": "Lei 24509/2026",
+   "title": "Lei nº 24509, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117256",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117256",
+     "sha256": "53759c2bf2c27a618daff3a4818debc1ade314ac437684401f87f7136c8ac46f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24510",
+   "short": "Lei 24510/2026",
+   "title": "Lei nº 24510, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117257",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117257",
+     "sha256": "41da136757fcf24fb82f71364443feb2545d86cba1a2af069937e724774f8355"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24511",
+   "short": "Lei 24511/2026",
+   "title": "Lei nº 24511, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117258",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117258",
+     "sha256": "8d2d66e79bbf1c55990c40fee28950c3fa118f9e42ce8bbdb1198758ef3b027f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24512",
+   "short": "Lei 24512/2026",
+   "title": "Lei nº 24512, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117259",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117259",
+     "sha256": "914bdbffd82e5b9935d6805c2f69e36feeb0c9e08d3203be331ba97bee36af88"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24513",
+   "short": "Lei 24513/2026",
+   "title": "Lei nº 24513, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117260",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117260",
+     "sha256": "054a9e6a0fed3fa16f593896587023623c6a0246e8b089f93690fc4df925fa48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24514",
+   "short": "Lei 24514/2026",
+   "title": "Lei nº 24514, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117261",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117261",
+     "sha256": "6507ab86b0f1618346140ef9517bc5ec7ea687117a17575f417fee8c63ccfd72"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24515",
+   "short": "Lei 24515/2026",
+   "title": "Lei nº 24515, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117265",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117265",
+     "sha256": "a1a44336195af9cb1cde86bf20ac893be3f406c8c10ea295b0ae625302a75149"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24516",
+   "short": "Lei 24516/2026",
+   "title": "Lei nº 24516, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117266",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117266",
+     "sha256": "8b42b11f338399791be888f0f6ca997fd7d72383be963bf14a84a1cc11c91af7"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24517",
+   "short": "Lei 24517/2026",
+   "title": "Lei nº 24517, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117269",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117269",
+     "sha256": "d9cf648671c734477ed5a8cdc030a186ababf2988e076476f7258793d69debfe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24518",
+   "short": "Lei 24518/2026",
+   "title": "Lei nº 24518, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117270",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117270",
+     "sha256": "8e5598401d30c58679f83c311f9d8d1e5f9f208ef6f5566144d50bdccf891a48"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24519",
+   "short": "Lei 24519/2026",
+   "title": "Lei nº 24519, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117271",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117271",
+     "sha256": "3d2f71b0432703e8038ac94ca2b87992f0d014a41de2938079e2241496eda0fe"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24520",
+   "short": "Lei 24520/2026",
+   "title": "Lei nº 24520, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117272",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117272",
+     "sha256": "10ef9916b2dc748b1ab0aebd966695c02e7b79be862af1ac12fc009d341a931c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24521",
+   "short": "Lei 24521/2026",
+   "title": "Lei nº 24521, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117273",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117273",
+     "sha256": "0ff131f37adbcffc3fd728004d6cf04e22aaf400750cd9c6796e6fb3dd5a59ce"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24522",
+   "short": "Lei 24522/2026",
+   "title": "Lei nº 24522, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117274",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117274",
+     "sha256": "3673ad8193f87457e0e8c556a1f60b184fc9ebe196f1fd8623efdb3c74818fb1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24523",
+   "short": "Lei 24523/2026",
+   "title": "Lei nº 24523, de 2026 (Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117275",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117275",
+     "sha256": "791f396aa432e09d14ff57060980e6e5ac9a32d777dafe82fedf03934deab1b9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24524",
+   "short": "Lei 24524/2026",
+   "title": "Lei nº 24524, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117276",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117276",
+     "sha256": "0429db4f409fe45aa0502623468f0b4ceec54b6451960f499cbc7e0416f001f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24525",
+   "short": "Lei 24525/2026",
+   "title": "Lei nº 24525, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117277",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117277",
+     "sha256": "557414efe1c9357d80a6703e8b9f28f4f0e433e816c4615a323e918e7434042e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24526",
+   "short": "Lei 24526/2026",
+   "title": "Lei nº 24526, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117278",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117278",
+     "sha256": "3fed260acaebcadead3013c1761b54305dc73fbca1809ed1bf9f6c38b452393b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24527",
+   "short": "Lei 24527/2026",
+   "title": "Lei nº 24527, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117279",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117279",
+     "sha256": "e5c17545227b68fc173a1aec8e12514cb5a3a2631cf0d2683d703934bd46ba3e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24528",
+   "short": "Lei 24528/2026",
+   "title": "Lei nº 24528, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117281",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117281",
+     "sha256": "e395cec99974176458e3ae4ef280e93d8bbac6eac77f809c3edbca266b644b3d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24529",
+   "short": "Lei 24529/2026",
+   "title": "Lei nº 24529, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117282",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117282",
+     "sha256": "ccfa699e67a561f3fc76bfcf445f8fa7440099f48555a87e3af63d873c284054"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24530",
+   "short": "Lei 24530/2026",
+   "title": "Lei nº 24530, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117286",
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117286",
+     "sha256": "d141b0ee38bc3e5da812d60b7a9f494318ae791c9baa40cb124df94ad1e458d8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24531",
+   "short": "Lei 24531/2026",
+   "title": "Lei nº 24531, de 2026 (Altera a Lei nº 15.640, de 2 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117341",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117341",
+     "sha256": "de0b3fb06cd514252f73bb57316cd984a7028f9fbf3a6c25075644a4cd096a92"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24532",
+   "short": "Lei 24532/2026",
+   "title": "Lei nº 24532, de 2026 (Institui a Semana Estadual de Combate e Prevenção à Brucelose Bovina.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117342",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117342",
+     "sha256": "72fa4aa6559f99ca15b0fedd3e06b6b48767f00795c4ceff3c7c8845705ada0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24533",
+   "short": "Lei 24533/2026",
+   "title": "Lei nº 24533, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117343",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 9,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117343",
+     "sha256": "8e200b935cf76e73d1500872b19371a0e811168c6af569494681aca05d050f40"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24534",
+   "short": "Lei 24534/2026",
+   "title": "Lei nº 24534, de 2026 (Altera a Lei nº 21.268, de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117344",
+     "sha256": "8e2dd203db8a7c3a583f016958df676e919826e974f73ac74b9c380e79d14368"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24535",
+   "short": "Lei 24535/2026",
+   "title": "Lei nº 24535, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117345",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117345",
+     "sha256": "69380413adf2cb0cec90356173261dff340c19d3737c4cfba6a392bbf0e8cc80"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24536",
+   "short": "Lei 24536/2026",
+   "title": "Lei nº 24536, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117346",
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117346",
+     "sha256": "3f3ffcee150172d1ec8ad1ee0b34313e2e9f46f8b4a51e2dd60fea207c9d461a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24537",
+   "short": "Lei 24537/2026",
+   "title": "Lei nº 24537, de 2026 (Altera a Lei nº 23.524, de 23 de junho de 2025, que cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371",
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117371",
+     "sha256": "eda87f89e9e300634d0ab54ae55a11d81fe92681264b2574dba82bc20c838c0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24538",
+   "short": "Lei 24538/2026",
+   "title": "Lei nº 24538, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117398",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117398",
+     "sha256": "63b42269be7d48300c274d45f4a52868325b675ef62d1b935727014e2e6719ac"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24539",
+   "short": "Lei 24539/2026",
+   "title": "Lei nº 24539, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117403",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117403",
+     "sha256": "de7a6fc846ab554459f1fd124efc9c9f6d5795b99da7382c268562b57555954e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24540",
+   "short": "Lei 24540/2026",
+   "title": "Lei nº 24540, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117404",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117404",
+     "sha256": "a39747e0d7c5b07b9e445f8420cd98ff16f9630eaa3a2c8c34aa001f777c289c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24541",
+   "short": "Lei 24541/2026",
+   "title": "Lei nº 24541, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117405",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117405",
+     "sha256": "5d9cc68828a43c5ea22ee7fbaedf334676f10e7059e87bafbd48ae4ab04e321c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24542",
+   "short": "Lei 24542/2026",
+   "title": "Lei nº 24542, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117406",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117406",
+     "sha256": "8f5b41658cde73af2319f5df127eeaa0170ce023a8d109d2defc54462c7867f3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24543",
+   "short": "Lei 24543/2026",
+   "title": "Lei nº 24543, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117407",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117407",
+     "sha256": "2bc931484db560c06cb8295797056998a7683129f682d7c7ac5dbb855a221cd3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24544",
+   "short": "Lei 24544/2026",
+   "title": "Lei nº 24544, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117408",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117408",
+     "sha256": "0da89fada6b96d3ab3909f0072fb4188e733c4cdbe09d7119951e0364dda6abf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24545",
+   "short": "Lei 24545/2026",
+   "title": "Lei nº 24545, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117409",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117409",
+     "sha256": "044e90b5b2b3d60ce7d63bc54dca35d245a535a9c7f6649c0d89f72e69297a27"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24546",
+   "short": "Lei 24546/2026",
+   "title": "Lei nº 24546, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117410",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117410",
+     "sha256": "6a7dd2848b0682ac118592f14d44e36dbf98dc8cf137480a457f8ca810720016"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24547",
+   "short": "Lei 24547/2026",
+   "title": "Lei nº 24547, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117412",
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "units": 6,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117412",
+     "sha256": "e10d9639b29743a90a8628e2635609a6ec129748648fa6b4ba2164995a28c2c0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24548",
+   "short": "Lei 24548/2026",
+   "title": "Lei nº 24548, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117695",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117695",
+     "sha256": "627a8b8f9eb0c2d6845c20c7ff38bd4978d512071805986341cec99a3fdba8c3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24549",
+   "short": "Lei 24549/2026",
+   "title": "Lei nº 24549, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117696",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117696",
+     "sha256": "c1bffc92f534968a11fc21ced7d279547bccb335e58d03f10b755f14fc0c0ca0"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24550",
+   "short": "Lei 24550/2026",
+   "title": "Lei nº 24550, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117697",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117697",
+     "sha256": "727e569f5d20a6be78cd525753601e1a58e11803510fa95252ef9b32a3c57678"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24551",
+   "short": "Lei 24551/2026",
+   "title": "Lei nº 24551, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117698",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117698",
+     "sha256": "a9d80b8ed232d33a3ad083e107a3bc8e633104f0a48ed91223c38dd81e937158"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24552",
+   "short": "Lei 24552/2026",
+   "title": "Lei nº 24552, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117699",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117699",
+     "sha256": "22d53f21b404ae3e60adcdc1a0efb75eb78af0b06e2e0d2d9789a7b73d0e2e73"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24553",
+   "short": "Lei 24553/2026",
+   "title": "Lei nº 24553, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117700",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117700",
+     "sha256": "22be06b486cd3590a553a2a8fa41962a80a143c7c2ae0283ee4e9bfb7fb9e2b1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24554",
+   "short": "Lei 24554/2026",
+   "title": "Lei nº 24554, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117702",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117702",
+     "sha256": "6f63c2abcd18fdf00b7209cefdd5255e50a761cb00a7b21447a4df5d5006dca6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24555",
+   "short": "Lei 24555/2026",
+   "title": "Lei nº 24555, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117703",
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117703",
+     "sha256": "304cbd3b74e888d6f40672d5918d6474f8331c49a3f2d8edd266c29881619093"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24556",
+   "short": "Lei 24556/2026",
+   "title": "Lei nº 24556, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117822",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117822",
+     "sha256": "bdc51ea064d15f2aeb0643853850fe461c61d12b7e4dbb6dfcb4fe5717a40613"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24557",
+   "short": "Lei 24557/2026",
+   "title": "Lei nº 24557, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117823",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117823",
+     "sha256": "24c7e7d8694a3bd89cdc2a80ce7af7248d7eb5b97f483839fcb34af163056cdd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24558",
+   "short": "Lei 24558/2026",
+   "title": "Lei nº 24558, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117824",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117824",
+     "sha256": "df24e4c3360a2f0781e89c3a426bd03f72e4c8691173c51040d7d29e48a10f4f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24559",
+   "short": "Lei 24559/2026",
+   "title": "Lei nº 24559, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117825",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117825",
+     "sha256": "ec5d7e29df2cde39a69d83a3ab87f58adb53acf53baddad49184a9fe4038e2ab"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24560",
+   "short": "Lei 24560/2026",
+   "title": "Lei nº 24560, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117826",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117826",
+     "sha256": "195b474cbbc84b34f78353c5c8a2852b09c8918e56d05440515186549e45b5b5"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24561",
+   "short": "Lei 24561/2026",
+   "title": "Lei nº 24561, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117827",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117827",
+     "sha256": "97e86d5a633885cef6c0d2f0dcf1a0bee628212f97fad908a8dc9777f83c2229"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24562",
+   "short": "Lei 24562/2026",
+   "title": "Lei nº 24562, de 2026 (Autoriza a aquisição, por doação onerosa do Município de São Domingos/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117828",
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "units": 8,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117828",
+     "sha256": "28bc6ee8bd44d5024b126191860bd61a74cfd675a258aae18c1f4a0babdd84ba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24563",
+   "short": "Lei 24563/2026",
+   "title": "Lei nº 24563, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Canta Goiânia, realizado no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117985",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117985",
+     "sha256": "b7e3db1fe4948f52d8f68c495ae58d159799206bfb5aba27ab23ae31858e2872"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24564",
+   "short": "Lei 24564/2026",
+   "title": "Lei nº 24564, de 2026 (Altera a legislação que especifica para reconhecer os correspondentes bens imateriais como patrimônios gastronômicos goianos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117986",
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "units": 12,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117986",
+     "sha256": "20cfb679b85511827c5005e6cad4305a12a6b85c47eadcb66c889caab005c60e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24565",
+   "short": "Lei 24565/2026",
+   "title": "Lei nº 24565, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118269",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118269",
+     "sha256": "a2e1abbd2ac4b705b777f377b896d6d5287b9df67bd0eedaff772707dd90e105"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24566",
+   "short": "Lei 24566/2026",
+   "title": "Lei nº 24566, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118270",
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118270",
+     "sha256": "dc71171cd05dab1b5151d83620f87e7e102cda97dbbc700276372fdbae49813a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24567",
+   "short": "Lei 24567/2026",
+   "title": "Lei nº 24567, de 2026 (Confere ao Município de Crixás/GO o título de \"Capital Goiana do Pequi\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118442",
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118442",
+     "sha256": "c18a209493d15e8bc93d2fceaa03ef3a501e773203d6e85a0e8e03bd2e0b6043"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24568",
+   "short": "Lei 24568/2026",
+   "title": "Lei nº 24568, de 2026 (Abre crédito especial à Secretaria de Estado de Ciência, Tecnologia e Inovação.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118535",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 4,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118535",
+     "sha256": "9185acf44f1200fde89616eda016f86b6b6b14776c99c212e12dad9da65eae76"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24569",
+   "short": "Lei 24569/2026",
+   "title": "Lei nº 24569, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118536",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118536",
+     "sha256": "174833f3a08f370e6926655856744b32cbb2f3c738c700ed83c9fb596c2e76d2"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24570",
+   "short": "Lei 24570/2026",
+   "title": "Lei nº 24570, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118537",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118537",
+     "sha256": "73960adc4352c299fcd1bb491955592360ba7282b3512be8455b499b92a34475"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24571",
+   "short": "Lei 24571/2026",
+   "title": "Lei nº 24571, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118538",
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118538",
+     "sha256": "b030dab57bc13b4df9304fc86dc1493b5b2bce244436367a6f6d05b72936ecca"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24572",
+   "short": "Lei 24572/2026",
+   "title": "Lei nº 24572, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118684",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118684",
+     "sha256": "58de34a74efb04972eade790e7e553ad4b15ea923243f965b3f916ae5efce4f9"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24573",
+   "short": "Lei 24573/2026",
+   "title": "Lei nº 24573, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118689",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118689",
+     "sha256": "a71eb5c5e880788883bfa48881e8d70c723585cd6076ede32da09c150e3fdc52"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24574",
+   "short": "Lei 24574/2026",
+   "title": "Lei nº 24574, de 2026 (Confere ao Município de Senador Canedo/GO o título de \"Capital Nordestina de Goiás\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118690",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118690",
+     "sha256": "68930df90b00a0b3eb393bdc7ca600ff98e5479cc4dac6c0cf8b19a0cb154714"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24575",
+   "short": "Lei 24575/2026",
+   "title": "Lei nº 24575, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118691",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118691",
+     "sha256": "4deb411f81854b1c657d633291c4bab1dfaa61d559f94c66adfabc8e4a3f75d4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24576",
+   "short": "Lei 24576/2026",
+   "title": "Lei nº 24576, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118692",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118692",
+     "sha256": "bdde8275d9cbabed4fd53b97b32d3d8ce82cd50fb5a9f266d1caa6406673c28e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24577",
+   "short": "Lei 24577/2026",
+   "title": "Lei nº 24577, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118693",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118693",
+     "sha256": "72101ad02f5329e44530d86498f0de4ce415e00be7fe81a049d7dcaa3cdb52b3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24578",
+   "short": "Lei 24578/2026",
+   "title": "Lei nº 24578, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118694",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118694",
+     "sha256": "c1a6f0793111a50f688dd59d1619487ec5d13d942abdb5c2b708a56a15a8aeba"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24579",
+   "short": "Lei 24579/2026",
+   "title": "Lei nº 24579, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118695",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118695",
+     "sha256": "396cb1ca8cbee24e1aeb8caea56568c14738bb52421ad0767a26942934e0d969"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24580",
+   "short": "Lei 24580/2026",
+   "title": "Lei nº 24580, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Safras & Amigos, realizada no Município de Palmeiras de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118696",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118696",
+     "sha256": "b16ade95c817df025cd6c31ffc5f49cc7f7a409ccaa71946847e2dd43236668d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24581",
+   "short": "Lei 24581/2026",
+   "title": "Lei nº 24581, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118697",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118697",
+     "sha256": "1ee4bcfd0c7c98df9618b686e2ae45f47a5bb679a73b9abc4668e930033c27a1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24582",
+   "short": "Lei 24582/2026",
+   "title": "Lei nº 24582, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118698",
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118698",
+     "sha256": "8e5678c9a30b0643e8b16748b771198aa8b01f5ec712b5caf97c2e6dd000610c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24583",
+   "short": "Lei 24583/2026",
+   "title": "Lei nº 24583, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118699",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118699",
+     "sha256": "fe9d78c43ce36e48ba5057b7e00ed03244dba66c275166c9ad08d823c9d45f15"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24584",
+   "short": "Lei 24584/2026",
+   "title": "Lei nº 24584, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora da Conceição, realizada no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118700",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118700",
+     "sha256": "3cc71b9f95ed154b990273711f99874028707968415e9831bc53fa9bb3411c0e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24585",
+   "short": "Lei 24585/2026",
+   "title": "Lei nº 24585, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118701",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118701",
+     "sha256": "907a0573c0b5f1ba8716ad1e54c3202cf2326795b9ffface0f9bed932d3e69ff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24586",
+   "short": "Lei 24586/2026",
+   "title": "Lei nº 24586, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118702",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118702",
+     "sha256": "4e16bc5ae77650a8c7a758c2fa576d16978dede1457e686dcabcc4cf647ce17a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24587",
+   "short": "Lei 24587/2026",
+   "title": "Lei nº 24587, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118703",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118703",
+     "sha256": "622edb6e85354d227e30c18d89ad9ab33bdf27d607056e1ffb9efd405708dd11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24588",
+   "short": "Lei 24588/2026",
+   "title": "Lei nº 24588, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118704",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118704",
+     "sha256": "203c0a860357f3d02adbcb8f35baf67b70b2ba6fad7f360438c803ecf7b36d21"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24589",
+   "short": "Lei 24589/2026",
+   "title": "Lei nº 24589, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118705",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118705",
+     "sha256": "e368225ff2965f0657fba989064b5cdc07de38d85a6a0f312a0ec7b42e33490c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24590",
+   "short": "Lei 24590/2026",
+   "title": "Lei nº 24590, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118706",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118706",
+     "sha256": "99bf270d3af680463a7cfa0bb53e95c8bfb5dbc9def00bf1d2bde8fec3d015a3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24591",
+   "short": "Lei 24591/2026",
+   "title": "Lei nº 24591, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio imaterial histórico e cultural goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118707",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118707",
+     "sha256": "7821e0fb2007fb1975b1b0459c26125e2081458e11101c2a073a7ca1193b63aa"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24592",
+   "short": "Lei 24592/2026",
+   "title": "Lei nº 24592, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118708",
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118708",
+     "sha256": "e5e6e500299ec76a322ab19d4e0bb71f81497d621c33894f7f0806b3ae51a7a8"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24593",
+   "short": "Lei 24593/2026",
+   "title": "Lei nº 24593, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118717",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118717",
+     "sha256": "655a31842fd24e47a9c6a23befe5828b07851576e93601f32ddb56104b4146af"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24594",
+   "short": "Lei 24594/2026",
+   "title": "Lei nº 24594, de 2026 (Cria e denomina o estabelecimento de ensino que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118718",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118718",
+     "sha256": "6248958d84125fd229be9cf605947c46fc7f0c9a5824ef6f3c872f2ecb7527a4"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24595",
+   "short": "Lei 24595/2026",
+   "title": "Lei nº 24595, de 2026 (Altera a Lei nº 13.266, de 16 de abril de 1998, que institui a carreira do fisco da Secretaria da Fazenda do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118719",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118719",
+     "sha256": "aa83fef326173affe605666d158bf985edb4226dcdfd28e70ab1dd7efa527432"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24596",
+   "short": "Lei 24596/2026",
+   "title": "Lei nº 24596, de 2026 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118720",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118720",
+     "sha256": "8020b2d70ad6fb3e57c467007b1be17499be1ed5e3c687ff92b0595b50b3828f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24597",
+   "short": "Lei 24597/2026",
+   "title": "Lei nº 24597, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118721",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118721",
+     "sha256": "0be09b30c07c025e75065d67da0f2e51a7c897992714dffb30ba1b24a05a4deb"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24598",
+   "short": "Lei 24598/2026",
+   "title": "Lei nº 24598, de 2026 (Altera a Lei nº 20.917, de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118722",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 3,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118722",
+     "sha256": "275a4bb1a956bd2c97aaa76ab22adddf5aeb06539bf3a89e6d70466fdb43a2d6"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24599",
+   "short": "Lei 24599/2026",
+   "title": "Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118723",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 8,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118723",
+     "sha256": "33dad0e238421bf126298ab516ef01c24b0f15738c1785016c1ede789b08a78c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24600",
+   "short": "Lei 24600/2026",
+   "title": "Lei nº 24600, de 2026 (Institui os Meses Estaduais \"Outubro Rosa Pet\" e \"Novembro Azul Pet\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118724",
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "units": 5,
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118724",
+     "sha256": "09fd85c1fb1e9ecd351731d9aaee7b29870d14270ac4b4fd7c514ba84bfaa6ef"
+    }
+   ]
   }
  ]
 }
