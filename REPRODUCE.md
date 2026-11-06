@@ -16,6 +16,9 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -222,6 +225,156 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2022-171` | Lei Complementar nº 171, de 2022 | 1 | 2022-03-31 to 2022-03-31 |
 | `lc-2025-204` | Lei Complementar nº 204, de 2025 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2025-03-31 to 2025-03-31 |
 | `lc-2023-189` | Lei Complementar nº 189, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2026-24255` | Lei nº 24255, de 2026 (Institui, no Estado de Goiás, a Rota Gastronômica.) | 1 | 2026-04-29 to 2026-04-29 |
+| `lei-2026-24256` | Lei nº 24256, de 2026 | 1 | 2026-04-29 to 2026-04-29 |
+| `lei-2026-24257` | Lei nº 24257, de 2026 (Autoriza a doação de veículos automotores de propriedade do Estado de Goiás aos municípios goianos, que assumirão os devidos encargos.) | 1 | 2026-05-07 to 2026-05-07 |
+| `lei-2026-24258` | Lei nº 24258, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.) | 1 | 2026-05-07 to 2026-05-07 |
+| `lei-2026-24259` | Lei nº 24259, de 2026 (Institui a Política Estadual de Incentivo à Economia da Gamificação.) | 1 | 2026-05-07 to 2026-05-07 |
+| `lei-2026-24260` | Lei nº 24260, de 2026 | 1 | 2026-05-07 to 2026-05-07 |
+| `lei-2026-24261` | Lei nº 24261, de 2026 (Autoriza o Poder Executivo a transferir para a União o domínio dos trechos rodoviários que especifica.) | 1 | 2026-05-13 to 2026-05-13 |
+| `lei-2026-24262` | Lei nº 24262, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-13 to 2026-05-13 |
+| `lei-2026-24263` | Lei nº 24263, de 2026 (Institui o Dia Estadual do Desbravador da Igreja Adventista do Sétimo Dia.) | 1 | 2026-05-13 to 2026-05-13 |
+| `lei-2026-24264` | Lei nº 24264, de 2026 | 1 | 2026-05-13 to 2026-05-13 |
+| `lei-2026-24265` | Lei nº 24265, de 2026 | 1 | 2026-05-18 to 2026-05-18 |
+| `lei-2026-24266` | Lei nº 24266, de 2026 (Institui o selo de identificação de veículos que transportam pessoas com Transtorno do Espectro Autista - TEA, na forma que especifica.) | 1 | 2026-05-18 to 2026-05-18 |
+| `lei-2026-24267` | Lei nº 24267, de 2026 (Institui a Política Estadual de Prevenção e Combate às Doenças Associadas aos Distúrbios Alimentares.) | 1 | 2026-05-18 to 2026-05-18 |
+| `lei-2026-24268` | Lei nº 24268, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24269` | Lei nº 24269, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24270` | Lei nº 24270, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24271` | Lei nº 24271, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24272` | Lei nº 24272, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24273` | Lei nº 24273, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24274` | Lei nº 24274, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24275` | Lei nº 24275, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24276` | Lei nº 24276, de 2026 (Dá denominação ao próprio público que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24277` | Lei nº 24277, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24278` | Lei nº 24278, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24279` | Lei nº 24279, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24280` | Lei nº 24280, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24281` | Lei nº 24281, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24282` | Lei nº 24282, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24283` | Lei nº 24283, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24284` | Lei nº 24284, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24285` | Lei nº 24285, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24286` | Lei nº 24286, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24287` | Lei nº 24287, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24288` | Lei nº 24288, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24289` | Lei nº 24289, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24290` | Lei nº 24290, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24291` | Lei nº 24291, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24292` | Lei nº 24292, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24293` | Lei nº 24293, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24294` | Lei nº 24294, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24295` | Lei nº 24295, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Taça das Favelas, realizada no Município de Goiânia/GO.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24296` | Lei nº 24296, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24297` | Lei nº 24297, de 2026 (Altera a Lei nº 22.133, de 21 de julho de 2023, que institui o Dia Estadual do Sociólogo.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24298` | Lei nº 24298, de 2026 (Institui o Selo "Empresa Amiga da Saúde da Criança".) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24299` | Lei nº 24299, de 2026 (Assegura tratamento especializado e multidisciplinar à pessoa com fissura labiopalatina.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24300` | Lei nº 24300, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24301` | Lei nº 24301, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24302` | Lei nº 24302, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24303` | Lei nº 24303, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24305` | Lei nº 24305, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24304` | Lei nº 24304, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2026-24306` | Lei nº 24306, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-22 to 2026-05-22 |
+| `lei-2026-24307` | Lei nº 24307, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-22 to 2026-05-22 |
+| `lei-2026-24308` | Lei nº 24308, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-22 to 2026-05-22 |
+| `lei-2026-24309` | Lei nº 24309, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-22 to 2026-05-22 |
+| `lei-2026-24310` | Lei nº 24310, de 2026 (Determina a comunicação à Ordem dos Advogados do Brasil - Seção Goiás - OAB-GO dos casos de violência doméstica ou familiar que envolvam advogadas e advogados.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24311` | Lei nº 24311, de 2026 (Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24312` | Lei nº 24312, de 2026 (Altera a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24313` | Lei nº 24313, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24314` | Lei nº 24314, de 2026 | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24315` | Lei nº 24315, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24316` | Lei nº 24316, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24317` | Lei nº 24317, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24318` | Lei nº 24318, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24319` | Lei nº 24319, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24320` | Lei nº 24320, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24321` | Lei nº 24321, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24322` | Lei nº 24322, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24323` | Lei nº 24323, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24324` | Lei nº 24324, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-25 to 2026-05-25 |
+| `lei-2026-24325` | Lei nº 24325, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-05-28 to 2026-05-28 |
+| `lei-2026-24326` | Lei nº 24326, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-06-01 to 2026-06-01 |
+| `lei-2026-24327` | Lei nº 24327, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-06-01 to 2026-06-01 |
+| `lei-2026-24328` | Lei nº 24328, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-06-01 to 2026-06-01 |
+| `lei-2026-24329` | Lei nº 24329, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2026-06-01 to 2026-06-01 |
+| `lei-2026-24330` | Lei nº 24330, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-01 to 2026-06-01 |
+| `lei-2026-24331` | Lei nº 24331, de 2026 | 1 | 2026-06-03 to 2026-06-03 |
+| `lei-2026-24332` | Lei nº 24332, de 2026 | 1 | 2026-06-03 to 2026-06-03 |
+| `lei-2026-24333` | Lei nº 24333, de 2026 | 1 | 2026-06-08 to 2026-06-08 |
+| `lei-2026-24334` | Lei nº 24334, de 2026 (Institui o Programa de Empreendedorismo, Qualificação e Integração de Soluções Financeiras - Pequi Bank.) | 1 | 2026-06-08 to 2026-06-08 |
+| `lei-2026-24348` | Lei nº 24348, de 2026 | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24347` | Lei nº 24347, de 2026 (Institui a Política Estadual de Incentivo à Promoção da Sustentabilidade Ambiental.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24346` | Lei nº 24346, de 2026 (Institui a Política Estadual de Incentivo ao Esporte para Crianças e Adolescentes em Situação de Vulnerabilidade Social.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24345` | Lei nº 24345, de 2026 (Dá denominação ao próprio público que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24344` | Lei nº 24344, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24343` | Lei nº 24343, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24342` | Lei nº 24342, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24341` | Lei nº 24341, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24340` | Lei nº 24340, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24339` | Lei nº 24339, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24338` | Lei nº 24338, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24337` | Lei nº 24337, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24336` | Lei nº 24336, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24335` | Lei nº 24335, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-12 to 2026-06-12 |
+| `lei-2026-24349` | Lei nº 24349, de 2026 | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24351` | Lei nº 24351, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24350` | Lei nº 24350, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24352` | Lei nº 24352, de 2026 (Altera a Lei nº 20.097, de 28 de maio de 2018, que institui o "Selo Verde Ambiental" e o "Selo Investimento Verde".) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24353` | Lei nº 24353, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24354` | Lei nº 24354, de 2026 (Declara de utilidade pública a entidade que especifica.) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24355` | Lei nº 24355, de 2026 (Institui a Política Estadual de Incentivo ao Desenvolvimento de Tecnologias Sustentáveis na Mineração no âmbito do Estado de Goiás e dá outras providências.) | 1 | 2026-06-15 to 2026-06-15 |
+| `lei-2026-24356` | Lei nº 24356, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-18 to 2026-06-18 |
+| `lei-2026-24357` | Lei nº 24357, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-18 to 2026-06-18 |
+| `lei-2026-24358` | Lei nº 24358, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-18 to 2026-06-18 |
+| `lei-2026-24359` | Lei nº 24359, de 2026 (Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24360` | Lei nº 24360, de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24361` | Lei nº 24361, de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24362` | Lei nº 24362, de 2026 (Confere ao Município de Goiás/GO o título de "Capital Estadual da Reforma Agrária".) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24363` | Lei nº 24363, de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24364` | Lei nº 24364, de 2026 (Institui a Semana Estadual de Conscientização sobre a Síndrome de Rett.) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24365` | Lei nº 24365, de 2026 (Institui a Campanha Estadual "Saúde Renal para Todos".) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24366` | Lei nº 24366, de 2026 (Institui normas gerais para a criação do Memorial às Vítimas do Acidente Radiológico com Césio-137 e dá outras providências.) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24367` | Lei nº 24367, de 2026 | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2026-24368` | Lei nº 24368, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24369` | Lei nº 24369, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24370` | Lei nº 24370, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24371` | Lei nº 24371, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24372` | Lei nº 24372, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24373` | Lei nº 24373, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24374` | Lei nº 24374, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24375` | Lei nº 24375, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24376` | Lei nº 24376, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24377` | Lei nº 24377, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24378` | Lei nº 24378, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24379` | Lei nº 24379, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24380` | Lei nº 24380, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24381` | Lei nº 24381, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24382` | Lei nº 24382, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24383` | Lei nº 24383, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24384` | Lei nº 24384, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24385` | Lei nº 24385, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24386` | Lei nº 24386, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-24 to 2026-06-24 |
+| `lei-2026-24387` | Lei nº 24387, de 2026 (Autoriza o Estado de Goiás a alienar e transferir bens imóveis dominicais para a constituição de um ou mais Fundos de Investimento Imobiliário.) | 1 | 2026-06-26 to 2026-06-26 |
+| `lei-2026-24388` | Lei nº 24388, de 2026 (Concede o título de cidadania que especifica.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24389` | Lei nº 24389, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24390` | Lei nº 24390, de 2026 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24391` | Lei nº 24391, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24406` | Lei nº 24406, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24392` | Lei nº 24392, de 2026 (Altera a Lei nº 15.949, de 29 de dezembro de 2006, que dispõe sobre a ajuda de custo, no âmbito da Secretaria da Segurança Pública.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24393` | Lei nº 24393, de 2026 (Altera a Lei nº 16.897, de 26 de janeiro de 2010, para instituir a exigência de diploma do Ensino Superior para o ingresso nas carreiras que especifica.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24394` | Lei nº 24394, de 2026 (Altera a Lei nº 16.897, de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24395` | Lei nº 24395, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24396` | Lei nº 24396, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24397` | Lei nº 24397, de 2026 (Altera a Lei nº 15.147, de 11 de abril de 2005, que fixa a retribuição pecuniária pela participação em reuniões do Conselho Penitenciário do Estado de Goiás.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24398` | Lei nº 24398, de 2026 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24399` | Lei nº 24399, de 2026 (Institui a Política Estadual de Apoio às Trilhas e Rotas Ecológicas.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24400` | Lei nº 24400, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24401` | Lei nº 24401, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24405` | Lei nº 24405, de 2026 (Altera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás, e dá outras providências.) | 1 | 2026-06-29 to 2026-06-29 |
+| `lei-2026-24402` | Lei nº 24402, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
 | `lei-2026-24403` | Lei nº 24403, de 2026 | 1 | 2026-06-29 to 2026-06-29 |
 | `lei-2026-24404` | Lei nº 24404, de 2026 (Altera a Lei nº 17.866, de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar do Estado de Goiás e dá outras providências.) | 1 | 2026-06-29 to 2026-06-29 |
 | `lei-2026-24407` | Lei nº 24407, de 2026 | 1 | 2026-07-03 to 2026-07-03 |
@@ -419,19 +572,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-24599` | Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.) | 1 | 2026-11-04 to 2026-11-04 |
 | `lei-2026-24600` | Lei nº 24600, de 2026 (Institui os Meses Estaduais "Outubro Rosa Pet" e "Novembro Azul Pet".) | 1 | 2026-11-04 to 2026-11-04 |
 
-The build made 395 commits:
+The build made 545 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 395 | first version of an act |
+| 545 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 395 laws in the record.
-- 742 tags.
+- 545 laws in the record.
+- 1042 tags.
 
 ## Dates
 
@@ -443,7 +596,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `6e5023d5ff1b8e70b7e5caa85608741f17a82df2c089e85c6158aa6a9504c35b` (3634381 bytes).
+- Corpus: sha256 `c4fe514121c79298cd4e1a7026519a387465449bed3109cc0df05576f4d7e234` (4320881 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -495,6 +648,18 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
 - One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -505,6 +670,9 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
