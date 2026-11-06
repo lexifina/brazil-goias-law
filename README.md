@@ -1,5 +1,7 @@
 # Goiás: law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Goiás, Brazil, which global-law reads at `brazil/goias/acts/`.
+
 The law of the State of Goiás (Estado de Goiás) (Brazil) as a git history: one file per Artigo, one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is Portuguese, the only official language.
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
