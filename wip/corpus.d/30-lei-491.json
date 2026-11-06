@@ -1,0 +1,2272 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24505": {
+   "label": "Lei nº 24505, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-09-08",
+   "published": "2026-09-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117191",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24506": {
+   "label": "Lei nº 24506, de 2026",
+   "title": "Altera a Lei nº 21.469, de 23 de junho de 2022, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117253",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24507": {
+   "label": "Lei nº 24507, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117254",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24508": {
+   "label": "Lei nº 24508, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117255",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24509": {
+   "label": "Lei nº 24509, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117256",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24510": {
+   "label": "Lei nº 24510, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117257",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24511": {
+   "label": "Lei nº 24511, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117258",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24512": {
+   "label": "Lei nº 24512, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117259",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24513": {
+   "label": "Lei nº 24513, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117260",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24514": {
+   "label": "Lei nº 24514, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117261",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24515": {
+   "label": "Lei nº 24515, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117265",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24516": {
+   "label": "Lei nº 24516, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117266",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24517": {
+   "label": "Lei nº 24517, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117269",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24518": {
+   "label": "Lei nº 24518, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117270",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24519": {
+   "label": "Lei nº 24519, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117271",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24520": {
+   "label": "Lei nº 24520, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117272",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24521": {
+   "label": "Lei nº 24521, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117273",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24522": {
+   "label": "Lei nº 24522, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117274",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24523": {
+   "label": "Lei nº 24523, de 2026",
+   "title": "Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117275",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24524": {
+   "label": "Lei nº 24524, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117276",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24525": {
+   "label": "Lei nº 24525, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117277",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24526": {
+   "label": "Lei nº 24526, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117278",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24527": {
+   "label": "Lei nº 24527, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117279",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24528": {
+   "label": "Lei nº 24528, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117281",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24529": {
+   "label": "Lei nº 24529, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117282",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24530": {
+   "label": "Lei nº 24530, de 2026",
+   "title": "Assegura às pessoas com transtorno do espectro autista - TEA, deficiência intelectual ou deficiência cognitiva a permanência de acompanhante durante internação nos hospitais das redes pública estadual e privada de saúde.",
+   "kind": "law",
+   "enacted": "2026-09-09",
+   "published": "2026-09-09",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117286",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24531": {
+   "label": "Lei nº 24531, de 2026",
+   "title": "Altera a Lei nº 15.640, de 2 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117341",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24532": {
+   "label": "Lei nº 24532, de 2026",
+   "title": "Institui a Semana Estadual de Combate e Prevenção à Brucelose Bovina.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117342",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24533": {
+   "label": "Lei nº 24533, de 2026",
+   "title": "Dispõe sobre a convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal sem o cumprimento de condicionantes previstas na legislação tributária e a extinção de crédito tributário conexo.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117343",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24534": {
+   "label": "Lei nº 24534, de 2026",
+   "title": "Altera a Lei nº 21.268, de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24535": {
+   "label": "Lei nº 24535, de 2026",
+   "title": "Revoga dispositivo da Lei nº 12.986, de 31 de dezembro de 1996, e a Lei nº 20.673, de 20 de dezembro de 2019, para compatibilizar a legislação que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário - FUNDESP-PJ com o disposto no § 1º do art. 168 da Constituição Federal.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117345",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24536": {
+   "label": "Lei nº 24536, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117346",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24537": {
+   "label": "Lei nº 24537, de 2026",
+   "title": "Altera a Lei nº 23.524, de 23 de junho de 2025, que cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-10",
+   "published": "2026-09-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24538": {
+   "label": "Lei nº 24538, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117398",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24539": {
+   "label": "Lei nº 24539, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117403",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24540": {
+   "label": "Lei nº 24540, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117404",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24541": {
+   "label": "Lei nº 24541, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117405",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24542": {
+   "label": "Lei nº 24542, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117406",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24543": {
+   "label": "Lei nº 24543, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117407",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24544": {
+   "label": "Lei nº 24544, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117408",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24545": {
+   "label": "Lei nº 24545, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117409",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24546": {
+   "label": "Lei nº 24546, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117410",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24547": {
+   "label": "Lei nº 24547, de 2026",
+   "title": "Altera a localização do Agrocolégio Estadual Maguito Vilela para o Município de Goianésia/GO, altera a Lei nº 22.555, de 12 de março de 2024, e revoga o art. 11-C da Lei nº 19.651, de 12 de maio de 2017.",
+   "kind": "law",
+   "enacted": "2026-09-16",
+   "published": "2026-09-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117412",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24548": {
+   "label": "Lei nº 24548, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117695",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24549": {
+   "label": "Lei nº 24549, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117696",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24550": {
+   "label": "Lei nº 24550, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117697",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24551": {
+   "label": "Lei nº 24551, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117698",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24552": {
+   "label": "Lei nº 24552, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117699",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24553": {
+   "label": "Lei nº 24553, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117700",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24554": {
+   "label": "Lei nº 24554, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117702",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24505",
+   "short": "Lei 24505/2026",
+   "title": "Lei nº 24505, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117191",
+   "first_law": "lei-2026-24505",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117191",
+     "sha256": "2af52b9ee17e8830e82786fd091af941b77e9fb2726a553c3002b8fa7b100aac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.505, DE 8 DE SETEMBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa em Louvor a Nossa Senhora do Rosário e a São Benedito, realizada no Município de Itumbiara/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24506",
+   "short": "Lei 24506/2026",
+   "title": "Lei nº 24506, de 2026 (Altera a Lei nº 21.469, de 23 de junho de 2022, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117253",
+   "first_law": "lei-2026-24506",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117253",
+     "sha256": "84a08ee6c152d127eadb49b0e56c7b1816db7a8e63666622ec9dc7ef953d16a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.506, DE 9 DE SETEMBRO DE 2026\nAltera a Lei nº 21.469, de 23 de junho de 2022, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 21.469, de 23 de junho de 2022, passa a vigorar com a seguinte alteração:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônio cultural e imaterial goiano e dá outras providências.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 21.469, de 23 de junho de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 1º-A A Capina do Largo de Santa Efigênia, realizada, anualmente, na segunda quinzena de junho, no Município de Niquelândia/GO, fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\" (NR)\n\"Art. 1º-B O Festival Josephina's, realizado, anualmente, no Município de Niquelândia/GO, fica reconhecido como patrimônio cultural imaterial goiano.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24507",
+   "short": "Lei 24507/2026",
+   "title": "Lei nº 24507, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117254",
+   "first_law": "lei-2026-24507",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117254",
+     "sha256": "c86bfde338f8fd7ca2faeb5bee6f9a7d9c159a9e4381c7ba8db6f4406b93514a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.507, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ EVALDO BALDUINO LEITÃO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24508",
+   "short": "Lei 24508/2026",
+   "title": "Lei nº 24508, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117255",
+   "first_law": "lei-2026-24508",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117255",
+     "sha256": "2a58bbb722ae938a2958d275d86bbec53ef9d54fb1aad88aac6ec1ba022799c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.508, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a THALES PRESTRÊLO VALADARES LEÃO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24509",
+   "short": "Lei 24509/2026",
+   "title": "Lei nº 24509, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117256",
+   "first_law": "lei-2026-24509",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117256",
+     "sha256": "53759c2bf2c27a618daff3a4818debc1ade314ac437684401f87f7136c8ac46f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.509, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ELIZ CRISTINA JUNQUEIRA PEIXOTO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24510",
+   "short": "Lei 24510/2026",
+   "title": "Lei nº 24510, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117257",
+   "first_law": "lei-2026-24510",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117257",
+     "sha256": "41da136757fcf24fb82f71364443feb2545d86cba1a2af069937e724774f8355",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.510, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ DÁRIO DOS SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24511",
+   "short": "Lei 24511/2026",
+   "title": "Lei nº 24511, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117258",
+   "first_law": "lei-2026-24511",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117258",
+     "sha256": "8d2d66e79bbf1c55990c40fee28950c3fa118f9e42ce8bbdb1198758ef3b027f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.511 DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IRINEU VACCARI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24512",
+   "short": "Lei 24512/2026",
+   "title": "Lei nº 24512, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117259",
+   "first_law": "lei-2026-24512",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117259",
+     "sha256": "914bdbffd82e5b9935d6805c2f69e36feeb0c9e08d3203be331ba97bee36af88",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.512, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIS GUILHERME FÉLIX o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24513",
+   "short": "Lei 24513/2026",
+   "title": "Lei nº 24513, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117260",
+   "first_law": "lei-2026-24513",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117260",
+     "sha256": "054a9e6a0fed3fa16f593896587023623c6a0246e8b089f93690fc4df925fa48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.513, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JEFFERSON RODRIGUES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24514",
+   "short": "Lei 24514/2026",
+   "title": "Lei nº 24514, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117261",
+   "first_law": "lei-2026-24514",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117261",
+     "sha256": "6507ab86b0f1618346140ef9517bc5ec7ea687117a17575f417fee8c63ccfd72",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.514, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DALTON OLIVEIRA DE PAULA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24515",
+   "short": "Lei 24515/2026",
+   "title": "Lei nº 24515, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117265",
+   "first_law": "lei-2026-24515",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117265",
+     "sha256": "a1a44336195af9cb1cde86bf20ac893be3f406c8c10ea295b0ae625302a75149",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.515, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Frei ALEXANDRE AGOSTINI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24516",
+   "short": "Lei 24516/2026",
+   "title": "Lei nº 24516, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117266",
+   "first_law": "lei-2026-24516",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117266",
+     "sha256": "8b42b11f338399791be888f0f6ca997fd7d72383be963bf14a84a1cc11c91af7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.516, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SALMA BAHIA CARREIRO LEITE DA SILVEIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24517",
+   "short": "Lei 24517/2026",
+   "title": "Lei nº 24517, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117269",
+   "first_law": "lei-2026-24517",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117269",
+     "sha256": "d9cf648671c734477ed5a8cdc030a186ababf2988e076476f7258793d69debfe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.517, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTÔNIO AUGUSTO PASSOS DANIN o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24518",
+   "short": "Lei 24518/2026",
+   "title": "Lei nº 24518, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117270",
+   "first_law": "lei-2026-24518",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117270",
+     "sha256": "8e5598401d30c58679f83c311f9d8d1e5f9f208ef6f5566144d50bdccf891a48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.518, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a WILSON ANDREASSI FILHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24519",
+   "short": "Lei 24519/2026",
+   "title": "Lei nº 24519, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117271",
+   "first_law": "lei-2026-24519",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117271",
+     "sha256": "3d2f71b0432703e8038ac94ca2b87992f0d014a41de2938079e2241496eda0fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.519, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a REGINALDO ABDALA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24520",
+   "short": "Lei 24520/2026",
+   "title": "Lei nº 24520, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117272",
+   "first_law": "lei-2026-24520",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117272",
+     "sha256": "10ef9916b2dc748b1ab0aebd966695c02e7b79be862af1ac12fc009d341a931c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.520, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTONIO LACERDA SOUTO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24521",
+   "short": "Lei 24521/2026",
+   "title": "Lei nº 24521, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117273",
+   "first_law": "lei-2026-24521",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117273",
+     "sha256": "0ff131f37adbcffc3fd728004d6cf04e22aaf400750cd9c6796e6fb3dd5a59ce",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.521, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a EDILBERTO MAIA DA SILVEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24522",
+   "short": "Lei 24522/2026",
+   "title": "Lei nº 24522, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117274",
+   "first_law": "lei-2026-24522",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117274",
+     "sha256": "3673ad8193f87457e0e8c556a1f60b184fc9ebe196f1fd8623efdb3c74818fb1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.522, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SANDRA RODRIGUES DE CARVALHO RIBEIRO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24523",
+   "short": "Lei 24523/2026",
+   "title": "Lei nº 24523, de 2026 (Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117275",
+   "first_law": "lei-2026-24523",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117275",
+     "sha256": "791f396aa432e09d14ff57060980e6e5ac9a32d777dafe82fedf03934deab1b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.523, DE 9 DE SETEMBRO DE 2026\nAltera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.456, de 22 de abril de 2019, passa a vigorar com a seguinte alteração:\n\"Art. 2º ..........................................\nIV - .................................................\nb) a avaliação antropométrica anual nas escolas da rede pública estadual de educação, ou, no mínimo, a avaliação anual do Índice de Massa Corporal - IMC;\n............................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24524",
+   "short": "Lei 24524/2026",
+   "title": "Lei nº 24524, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117276",
+   "first_law": "lei-2026-24524",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117276",
+     "sha256": "0429db4f409fe45aa0502623468f0b4ceec54b6451960f499cbc7e0416f001f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.524, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JULIO CESAR MEIRELLES MENDONÇA RIBEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24525",
+   "short": "Lei 24525/2026",
+   "title": "Lei nº 24525, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117277",
+   "first_law": "lei-2026-24525",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117277",
+     "sha256": "557414efe1c9357d80a6703e8b9f28f4f0e433e816c4615a323e918e7434042e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.525, DE 9 DE setembro DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a TIAGO FURTADO BASTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24526",
+   "short": "Lei 24526/2026",
+   "title": "Lei nº 24526, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117278",
+   "first_law": "lei-2026-24526",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117278",
+     "sha256": "3fed260acaebcadead3013c1761b54305dc73fbca1809ed1bf9f6c38b452393b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.526, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SILVIA MARIA CHEMET KANSO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24527",
+   "short": "Lei 24527/2026",
+   "title": "Lei nº 24527, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117279",
+   "first_law": "lei-2026-24527",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117279",
+     "sha256": "e5c17545227b68fc173a1aec8e12514cb5a3a2631cf0d2683d703934bd46ba3e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.527, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CLÁUDIO DREWES JOSÉ DE SIQUEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24528",
+   "short": "Lei 24528/2026",
+   "title": "Lei nº 24528, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117281",
+   "first_law": "lei-2026-24528",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117281",
+     "sha256": "e395cec99974176458e3ae4ef280e93d8bbac6eac77f809c3edbca266b644b3d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.528, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ ANTÔNIO RIBEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24529",
+   "short": "Lei 24529/2026",
+   "title": "Lei nº 24529, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117282",
+   "first_law": "lei-2026-24529",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117282",
+     "sha256": "ccfa699e67a561f3fc76bfcf445f8fa7440099f48555a87e3af63d873c284054",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.529, DE 9 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JORGE ANTÔNIO SILVA PARGA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24530",
+   "short": "Lei 24530/2026",
+   "title": "Lei nº 24530, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117286",
+   "first_law": "lei-2026-24530",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-09",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117286",
+     "sha256": "d141b0ee38bc3e5da812d60b7a9f494318ae791c9baa40cb124df94ad1e458d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.530, DE 9 DE SETEMBRO DE 2026\nAssegura às pessoas com transtorno do espectro autista - TEA, deficiência intelectual ou deficiência cognitiva a permanência de acompanhante durante internação nos hospitais das redes pública estadual e privada de saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica assegurada às pessoas com transtorno do espectro autista - TEA, deficiência intelectual ou deficiência cognitiva a permanência de acompanhante durante internação nos hospitais das redes pública estadual e privada de saúde.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica o acompanhante obrigado a:\nI - estar sempre identificado mediante a apresentação de crachá;\nII - acatar as normas de segurança e de controle de infecções, determinadas pelos hospitais das redes pública e privada de saúde;\nIII - assinar termo de responsabilidade de que conste a informação das penalidades decorrentes de conduta que venha a obstruir procedimentos necessários ao tratamento.\nParágrafo único. Serão registradas a entrada e a saída dos acompanhantes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24531",
+   "short": "Lei 24531/2026",
+   "title": "Lei nº 24531, de 2026 (Altera a Lei nº 15.640, de 2 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117341",
+   "first_law": "lei-2026-24531",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117341",
+     "sha256": "de0b3fb06cd514252f73bb57316cd984a7028f9fbf3a6c25075644a4cd096a92",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.531, DE 10 DE SETEMBRO DE 2026\nAltera a Lei nº 15.640, de 2 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.640, de 2 de maio de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 1º ..................................................\nV - Fundo Rotativo do Centro de Instrução e Tiro da Polícia Militar - CIT, no valor de R$ 7.000,00 (sete mil reais);\nLX - Fundo Rotativo do 26º Batalhão de Polícia Militar - Batalhão de Policiamento Turístico - BPTUR, no valor de R$ 7.000,00 (sete mil reais);\nCXXI - Fundo Rotativo do Batalhão de Operações Ambientais - BPMOA, no valor de R$ 7.000,00 (sete mil reais);\nCXLII - Fundo Rotativo do Comando de Normatização, no valor de R$ 7.000,00 (sete mil reais);\nCXLIV - Fundo Rotativo do Comando de Planejamento Operacional, no valor de R$ 7.000,00 (sete mil reais);\nCXLV - Fundo Rotativo do Comando de Contratos e Convênios, no valor de R$ 7.000,00 (sete mil reais);\nCXLVI - Fundo Rotativo do Comando de Comunicação Estratégica, no valor de R$ 7.000,00 (sete mil reais);\nCXLVII - Fundo Rotativo do Comando de Planejamento e Execução Orçamentária, no valor de R$ 7.000,00 (sete mil reais);\nCXLVIII - Fundo Rotativo do Comando de Gestão Estratégica, Processos e Conformidade, no valor de R$ 7.000,00 (sete mil reais);\nCXLIX - Fundo Rotativo do Comando de Gestão de Projetos, no valor de R$ 7.000,00 (sete mil reais);\nCLXIV - Fundo Rotativo do Vigésimo Primeiro Comando Regional da Polícia Militar - 21º CRPM, no valor de R$ 10.000,00 (dez mil reais);\nCLXV - Fundo Rotativo do 2º Batalhão de Polícia Militar Rural - 2º BPMRURAL, no valor de R$ 7.000,00 (sete mil reais);\nCLXVI - Fundo Rotativo do 2º Batalhão de Polícia Militar Maria da Penha - 2º BPM MP, no valor de R$ 7.000,00 (sete mil reais);\nCLXVII - Fundo Rotativo do 3º Batalhão de Polícia Militar Maria da Penha - 3º BPM MP, no valor de R$ 7.000,00 (sete mil reais);\nCLXVIII - Fundo Rotativo do 4º Batalhão de Polícia Militar Maria da Penha - 4º BPM MP, no valor de R$ 7.000,00 (sete mil reais);\nCLXIX - Fundo Rotativo do 7º Batalhão de Polícia Militar Rodoviário - BPMRv/TOR, no valor de R$ 7.000,00 (sete mil reais);\nCLXX - Fundo Rotativo do 56º Batalhão de Polícia Militar - 56º BPM, no valor de R$ 7.000,00 (sete mil reais);\nCLXXI - Fundo Rotativo da Chefia de Procedimentos e Processos Disciplinares - CPPD, no valor de R$ 7.000,00 (sete mil reais);\nCLXXII - Fundo Rotativo da Comissão de Promoção de Oficiais - CPO, no valor de R$ 7.000,00 (sete mil reais);\nCLXXIII - Fundo Rotativo da Comissão de Promoção de Praças - CPP, no valor de R$ 7.000,00 (sete mil reais);\nCLXXIV - Fundo Rotativo da Comissão Permanente de Medalhas - CPM, no valor de R$ 7.000,00 (sete mil reais);\nCLXXV - Fundo Rotativo da Comissão Interna de Direitos Humanos - CIDH, no valor de R$ 7.000,00 (sete mil reais);\nCLXXVI - Fundo Rotativo da Divisão de Compras - DC, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXVII - Fundo Rotativo da Divisão de Material Bélico - DMB, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXVIII - Fundo Rotativo da Divisão de Motomecanização - DM, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXIX - Fundo Rotativo da Divisão de Patrimônio - DP, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXX - Fundo Rotativo da Divisão de Tecnologia da Informação e Comunicação - DTIC, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXXI - Fundo Rotativo da Divisão de Fardamento - DFE, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXXII - Fundo Rotativo da Divisão de Controle de Atividades Especiais - DCAE, do CALTI, no valor de R$ 5.000,00 (cinco mil reais);\nCLXXXIII - Fundo Rotativo do Vigésimo Segundo Comando Regional da Polícia Militar - 22º CRPM, no valor de R$ 10.000,00 (dez mil reais);\nCLXXXIV - Fundo Rotativo do Comando de Inteligência - COINT, no valor de R$ 10.000,00 (dez mil reais); e\nCLXXXV - Fundo Rotativo do Comando de Valorização do Militar Veterano - CVMV, no valor de R$ 10.000,00 (dez mil reais).\n................................................................ \" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A integralização dos fundos rotativos a que se refere esta Lei se dará à conta de dotações da Polícia Militar, consignadas na Unidade Orçamentária 2954 - Fundo de Reaparelhamento e Aperfeiçoamento da Polícia Militar do Estado de Goiás, Classificação Orçamentária 2026.2954.06.122.4200.4243.05.17530161.90.0000.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24532",
+   "short": "Lei 24532/2026",
+   "title": "Lei nº 24532, de 2026 (Institui a Semana Estadual de Combate e Prevenção à Brucelose Bovina.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117342",
+   "first_law": "lei-2026-24532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117342",
+     "sha256": "72fa4aa6559f99ca15b0fedd3e06b6b48767f00795c4ceff3c7c8845705ada0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.532, DE 10 DE SETEMBRO DE 2026\nInstitui a Semana Estadual de Combate e Prevenção à Brucelose Bovina.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Combate e Prevenção à Brucelose Bovina, a ser realizada anualmente na última semana do mês de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Na Semana Estadual de Combate e Prevenção à Brucelose Bovina, poderão ser promovidas ações educativas, sanitárias e informativas, com os seguintes objetivos:\nI - orientar produtores rurais, profissionais da área e a população em geral sobre os riscos sanitários, econômicos e de saúde pública relacionados à brucelose bovina;\nII - incentivar a adesão às medidas de controle e erradicação da doença, conforme as normas do Programa Estadual de Controle e Erradicação da Brucelose e Tuberculose Animal - PECEBT, da Agência Goiana de Defesa Agropecuária - AGRODEFESA;\nIII - promover a educação sanitária e a divulgação de boas práticas de manejo, vacinação e controle da doença;\nIV - estimular a certificação de propriedades livres de brucelose bovina;\nV - realizar campanhas ou dias específicos de vacinação contra a brucelose bovina, nos termos da legislação sanitária vigente; e\nVI - estimular a integração entre órgãos públicos, instituições de ensino, entidades de classe e o setor produtivo para o fortalecimento das ações de defesa agropecuária.\nParágrafo único. As ações mencionadas neste artigo serão estendidas aos animais da espécie bubalina.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os órgãos da administração pública estadual poderão apoiar e promover as ações previstas nesta Lei, em articulação com entidades públicas e privadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24533",
+   "short": "Lei 24533/2026",
+   "title": "Lei nº 24533, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117343",
+   "first_law": "lei-2026-24533",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117343",
+     "sha256": "8e200b935cf76e73d1500872b19371a0e811168c6af569494681aca05d050f40",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.533, DE 10 DE SETEMBRO DE 2026\nDispõe sobre a convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal sem o cumprimento de condicionantes previstas na legislação tributária e a extinção de crédito tributário conexo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica convalidada a utilização de incentivo e benefício fiscal ou financeiro-fiscal previstos na legislação tributária estadual, relacionados ao Imposto sobre Operações Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS, sem o cumprimento das seguintes condições:\nI - pagamento da contribuição para o Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, instituído pela Lei nº 14.469, de 16 de julho de 2003;\nII - adimplência com o ICMS relativo às obrigações tributárias vencidas, próprias e aquelas em que for responsável ou substituto tributário; ou\nIII - inexistência de crédito tributário inscrito em dívida ativa.\n§ 1º A convalidação referida neste artigo:\nI - somente abrange crédito tributário constituído, inscrito ou não em dívida ativa, ainda que esteja ajuizado, cujo fato gerador tenha ocorrido até 31 de dezembro de 2023;\nII - fica sujeita a que o contribuinte:\na) implemente a condição descumprida por meio do pagamento dos débitos correspondentes; e\nb) protocolize requerimento de convalidação na Secretaria de Estado da Economia - ECONOMIA; e\nIII - extingue o crédito tributário conexo, sob condição resolutória da homologação pela ECONOMIA, por meio dos Superintendentes de Controle e Auditoria ou de Fiscalização Regionalizada, conforme o caso.\n§ 2º A obrigatoriedade de pagamento do crédito tributário inscrito em dívida ativa não abrange o que for constituído em razão da utilização do benefício sem o cumprimento das condicionantes mencionadas nos incisos do caput deste artigo, desde que o contribuinte implemente integralmente, nos termos desta Lei, a condição inicialmente descumprida.\n§ 3º A adimplência referida no inciso II do caput deste artigo alcança a parcela não incentivada pelo Fundo de Participação e Fomento à Industrialização do Estado de Goiás - FOMENTAR, pelo Programa de Desenvolvimento Industrial de Goiás - PRODUZIR e seus subprogramas.\n§ 4º O pagamento parcial dos débitos gera:\nI - a convalidação e a extinção do crédito tributário conexo proporcionalmente ao pagamento realizado, quanto a débitos relacionados às condições previstas nos incisos I ou II do caput deste artigo; e\nII - a perda integral do direito à convalidação e à extinção do crédito tributário conexo, para os débitos relacionados à condição prevista no inciso III do caput deste artigo.\n§ 5º A convalidação de que trata esta Lei alcança o crédito tributário constituído em decorrência de Termo de Acordo de Regime Especial - TARE suspenso, desde que o motivo da suspensão decorra da existência de crédito tributário inscrito em dívida ativa e o contribuinte implemente a condição descumprida nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica permitido o pagamento parcelado dos débitos relativos à implementação das condições descumpridas previstas nos incisos do caput do art. 1º desta Lei, com a aplicação das regras de parcelamento previstas na legislação, hipótese em que fica suspensa, até a quitação ou a extinção do parcelamento, a exigibilidade do crédito correspondente à utilização de incentivo e benefício fiscal ou financeiro-fiscal de que trata esta Lei.\n§ 1º No caso dos débitos do PROTEGE GOIÁS, o parcelamento pode ser concedido em até sessenta parcelas mensais e sucessivas, desde que o valor de cada parcela não seja inferior a R$ 200,00 (duzentos reais).\n§ 2º Em caso de denúncia do parcelamento, nos termos previstos na legislação tributária, a convalidação e a extinção do crédito tributário devem seguir o disposto no § 4º do art. 1º desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Aplicam-se os benefícios da Lei nº 23.983, de 23 de dezembro de 2025, à implementação das condições descumpridas referidas nos incisos II ou III do caput do art. 1º desta Lei, desde que o período seja abrangido pelo programa definido na Lei nº 23.983, de 2025, e o pagamento seja feito conforme as demais regras estabelecidas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O contribuinte, para usufruir da convalidação da utilização de incentivo e benefício fiscal ou financeiro-fiscal e da extinção de crédito tributário conexo, deve fazer sua adesão até 3 de novembro de 2026.\n§ 1º Considera-se formalizada a adesão com o pagamento da condição descumprida à vista ou, se ele for parcelado, de sua primeira parcela.\n§ 2º Findo o prazo previsto no caput deste artigo, o interessado não mais terá direito de requerer a convalidação e a extinção do crédito tributário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A convalidação de que trata esta Lei abrange a situação em que o contribuinte, na data da publicação desta Lei, já tenha adimplido, conforme o caso, as condicionantes de que trata o art. 1º desta Lei, observado também o disposto na alínea \"b\" do inciso II do § 1º do mesmo artigo.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O disposto nesta Lei não implica restituição de valores eventualmente pagos pelo contribuinte ou pelo substituto tributário, de acordo com a legislação tributária vigente à época da ocorrência do fato gerador.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O titular da ECONOMIA fica autorizado a expedir os atos necessários à implementação do disposto nesta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24534",
+   "short": "Lei 24534/2026",
+   "title": "Lei nº 24534, de 2026 (Altera a Lei nº 21.268, de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117344",
+   "first_law": "lei-2026-24534",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117344",
+     "sha256": "8e2dd203db8a7c3a583f016958df676e919826e974f73ac74b9c380e79d14368",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.534, DE 10 DE SETEMBRO DE 2026\nAltera a Lei nº 21.268, de 5 de abril de 2022, que dispõe sobre o Código de Organização Judiciária do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.268, de 5 de abril de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 28. ..........................................\nIV - fazer o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências, ressalvada a hipótese prevista no inciso VI do art. 29-A desta Lei.\n............................................................\" (NR)\n\"Art. 29-A. ...................................\nVI - quando designado pelo Presidente do Tribunal de Justiça, fazer, nas matérias criminais, o juízo de admissibilidade dos recursos interpostos para o Supremo Tribunal Federal e o Superior Tribunal de Justiça e resolver as questões que forem suscitadas naquelas insurgências.\n.................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogado o inciso II do art. 29-A da Lei nº 21.268, de 5 de abril de 2022.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24535",
+   "short": "Lei 24535/2026",
+   "title": "Lei nº 24535, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117345",
+   "first_law": "lei-2026-24535",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117345",
+     "sha256": "69380413adf2cb0cec90356173261dff340c19d3737c4cfba6a392bbf0e8cc80",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.535, DE 10 DE SETEMBRO DE 2026\nRevoga dispositivo da Lei nº 12.986, de 31 de dezembro de 1996, e a Lei nº 20.673, de 20 de dezembro de 2019, para compatibilizar a legislação que institui o Fundo Especial de Reaparelhamento e Modernização do Poder Judiciário - FUNDESP-PJ com o disposto no § 1º do art. 168 da Constituição Federal.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam revogados:\nI - o inciso XII do art. 3º da Lei nº 12.986, de 31 de dezembro de 1996; e\nII - a Lei nº 20.673, de 20 de dezembro de 2019.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24536",
+   "short": "Lei 24536/2026",
+   "title": "Lei nº 24536, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117346",
+   "first_law": "lei-2026-24536",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117346",
+     "sha256": "3f3ffcee150172d1ec8ad1ee0b34313e2e9f46f8b4a51e2dd60fea207c9d461a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.536, DE 10 DE SETEMBRO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada OLADIR BAIÃO DE SÁ a Rodovia GO-050, no trecho que liga os Municípios de Palminópolis/GO e São João da Paraúna/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24537",
+   "short": "Lei 24537/2026",
+   "title": "Lei nº 24537, de 2026 (Altera a Lei nº 23.524, de 23 de junho de 2025, que cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117371",
+   "first_law": "lei-2026-24537",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117371",
+     "sha256": "eda87f89e9e300634d0ab54ae55a11d81fe92681264b2574dba82bc20c838c0b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.537, DE 10 DE SETEMBRO DE 2026\nAltera a Lei nº 23.524, de 23 de junho de 2025, que cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 23.524, de 23 de junho de 2025, passa a vigorar com as seguintes alterações:\n\"Art. 4º …………………………………………….\n§ 1º .....................................................\n§ 2º A comprovação da deficiência da pessoa de até 18 anos de idade incompletos será realizada com base na apresentação do laudo médico com a indicação do código da Classificação Internacional de Doenças - CID, quando for aplicável.\n§ 3º A seleção das famílias observará a ordem crescente da menor para a maior renda familiar per capita, até o limite da disponibilidade orçamentária e financeira.\n§ 4º As famílias já beneficiárias terão até doze meses da convocação pela Secretaria de Estado de Desenvolvimento Social - SEDS para apresentar o laudo médico previsto no § 2º.\n§ 5º O prazo previsto no § 4º não afasta a continuidade do benefício às famílias já atendidas, desde que sejam mantidos os demais requisitos previstos nesta Lei.\n§ 6º Compete à SEDS analisar a documentação apresentada para a habilitação e a permanência no Programa Goiás + Inclusivo.\n§ 7º A concessão do benefício observará a disponibilidade orçamentária e financeira e o cronograma definido pela SEDS.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O parágrafo único do art. 4º da Lei nº 23.524, de 2025, fica transformado em § 1º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24538",
+   "short": "Lei 24538/2026",
+   "title": "Lei nº 24538, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117398",
+   "first_law": "lei-2026-24538",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117398",
+     "sha256": "63b42269be7d48300c274d45f4a52868325b675ef62d1b935727014e2e6719ac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.538, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO VISÃO DE ÁGUIA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.957.222/0001-68, com sede no Município de Planaltina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24539",
+   "short": "Lei 24539/2026",
+   "title": "Lei nº 24539, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117403",
+   "first_law": "lei-2026-24539",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117403",
+     "sha256": "de7a6fc846ab554459f1fd124efc9c9f6d5795b99da7382c268562b57555954e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.539, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE APOIO AO PROGRAMA EDUCACIONAL BOMBEIRO MIRIM E DEMAIS PROJETOS SOCIAIS DO CORPO DE BOMBEIROS MILITAR EM CALDAS NOVAS - ASBOM, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 50.625.820/0001-47, com sede no Município de Caldas Novas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24540",
+   "short": "Lei 24540/2026",
+   "title": "Lei nº 24540, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117404",
+   "first_law": "lei-2026-24540",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117404",
+     "sha256": "a39747e0d7c5b07b9e445f8420cd98ff16f9630eaa3a2c8c34aa001f777c289c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.540, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS MORADORES DO SETOR JARDIM AMÉRICA E VILA NOVA DE MORRINHOS - GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 11.176.372/0001-90, com sede no Município de Morrinhos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24541",
+   "short": "Lei 24541/2026",
+   "title": "Lei nº 24541, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117405",
+   "first_law": "lei-2026-24541",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117405",
+     "sha256": "5d9cc68828a43c5ea22ee7fbaedf334676f10e7059e87bafbd48ae4ab04e321c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.541, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO AMIGOS DA ISAURA - IADI, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 09.018.654/0001-17, com sede no Município de Planaltina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24542",
+   "short": "Lei 24542/2026",
+   "title": "Lei nº 24542, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117406",
+   "first_law": "lei-2026-24542",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117406",
+     "sha256": "8f5b41658cde73af2319f5df127eeaa0170ce023a8d109d2defc54462c7867f3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.542, DE 16 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HUMBERTO CASAGRANDE NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24543",
+   "short": "Lei 24543/2026",
+   "title": "Lei nº 24543, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117407",
+   "first_law": "lei-2026-24543",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117407",
+     "sha256": "2bc931484db560c06cb8295797056998a7683129f682d7c7ac5dbb855a221cd3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.543, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o PROJETO EDUCAR E APRENDER BRINCANDO - PEAB, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.293.228/0001-29, com sede no Município de Silvânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24544",
+   "short": "Lei 24544/2026",
+   "title": "Lei nº 24544, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117408",
+   "first_law": "lei-2026-24544",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117408",
+     "sha256": "0da89fada6b96d3ab3909f0072fb4188e733c4cdbe09d7119951e0364dda6abf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.544, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE CRISTO DE GOIATUBA - ACG, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 60.017.263/0001-35, com sede no Município de Goiatuba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24545",
+   "short": "Lei 24545/2026",
+   "title": "Lei nº 24545, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117409",
+   "first_law": "lei-2026-24545",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117409",
+     "sha256": "044e90b5b2b3d60ce7d63bc54dca35d245a535a9c7f6649c0d89f72e69297a27",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.545, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO AMIGOS DAS ARTES - AMDAR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 18.020.906/0001-33, com sede no Município de Inhumas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLUCAS CALIL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24546",
+   "short": "Lei 24546/2026",
+   "title": "Lei nº 24546, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117410",
+   "first_law": "lei-2026-24546",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117410",
+     "sha256": "6a7dd2848b0682ac118592f14d44e36dbf98dc8cf137480a457f8ca810720016",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.546, DE 16 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o SINDICATO DOS SERVIDORES PÚBLICOS MUNICIPAIS DE BELA VISTA DE GOIÁS - SINDIVISTA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 06.959.352/0001-55, com sede no Município de Bela Vista de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCRISTÓVÃO TORMIN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24547",
+   "short": "Lei 24547/2026",
+   "title": "Lei nº 24547, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117412",
+   "first_law": "lei-2026-24547",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117412",
+     "sha256": "e10d9639b29743a90a8628e2635609a6ec129748648fa6b4ba2164995a28c2c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.547, DE 16 DE SETEMBRO DE 2026\nAltera a localização do Agrocolégio Estadual Maguito Vilela para o Município de Goianésia/GO, altera a Lei nº 22.555, de 12 de março de 2024, e revoga o art. 11-C da Lei nº 19.651, de 12 de maio de 2017.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica alterada a localização do Agrocolégio Estadual Maguito Vilela, criado e denominado pela Lei nº 22.555, de 12 de março de 2024, do Município de Goiânia/GO para o Município de Goianésia/GO.\n§ 1º A alteração de que trata o caput deste artigo não implica a extinção da unidade escolar, mantidas sua denominação e sua continuidade administrativa e pedagógica.\n§ 2º O Agrocolégio Estadual Maguito Vilela permaneceu em funcionamento no Município de Goiânia/GO no período de 1º de janeiro de 2024 a 31 de dezembro de 2025 e passou a ser localizado oficialmente no Município de Goianésia/GO a partir de 1º de janeiro de 2026.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam reconhecidos como válidos os atos administrativos, pedagógicos e escolares praticados pela unidade escolar no período de funcionamento no Município de Goiânia/GO, observada a legislação vigente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Em decorrência do disposto no art. 1º, a Lei nº 22.555, de 12 de março de 2024, passa a vigorar com a seguinte redação:\n\"Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação, o AGROCOLÉGIO ESTADUAL MAGUITO VILELA, situado no Município de Goianésia/GO.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica revogado o art. 11-C, com seus parágrafos, da Lei nº 19.651, de 12 de maio de 2017, acrescido pela Lei nº 20.110, de 30 de maio de 2018.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24548",
+   "short": "Lei 24548/2026",
+   "title": "Lei nº 24548, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117695",
+   "first_law": "lei-2026-24548",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117695",
+     "sha256": "627a8b8f9eb0c2d6845c20c7ff38bd4978d512071805986341cec99a3fdba8c3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.548, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARIA LUIZA GASPAR o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24549",
+   "short": "Lei 24549/2026",
+   "title": "Lei nº 24549, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117696",
+   "first_law": "lei-2026-24549",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117696",
+     "sha256": "c1bffc92f534968a11fc21ced7d279547bccb335e58d03f10b755f14fc0c0ca0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.549, DE 28 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VIVA GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 14.944.286/0001-78, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24550",
+   "short": "Lei 24550/2026",
+   "title": "Lei nº 24550, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117697",
+   "first_law": "lei-2026-24550",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117697",
+     "sha256": "727e569f5d20a6be78cd525753601e1a58e11803510fa95252ef9b32a3c57678",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.550, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VALQUÍRIA FERNANDES DE DEUS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24551",
+   "short": "Lei 24551/2026",
+   "title": "Lei nº 24551, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117698",
+   "first_law": "lei-2026-24551",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117698",
+     "sha256": "a9d80b8ed232d33a3ad083e107a3bc8e633104f0a48ed91223c38dd81e937158",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.551, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANDERSON LUIZ DE ABREU GOUVÊA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24552",
+   "short": "Lei 24552/2026",
+   "title": "Lei nº 24552, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117699",
+   "first_law": "lei-2026-24552",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117699",
+     "sha256": "22d53f21b404ae3e60adcdc1a0efb75eb78af0b06e2e0d2d9789a7b73d0e2e73",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.552, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CRISTIANA MARIA FORTINI PINTO E SILVA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24553",
+   "short": "Lei 24553/2026",
+   "title": "Lei nº 24553, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117700",
+   "first_law": "lei-2026-24553",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117700",
+     "sha256": "22be06b486cd3590a553a2a8fa41962a80a143c7c2ae0283ee4e9bfb7fb9e2b1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.553, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DIOGO LUIZ BARREIRA GOMES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24554",
+   "short": "Lei 24554/2026",
+   "title": "Lei nº 24554, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117702",
+   "first_law": "lei-2026-24554",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117702",
+     "sha256": "6f63c2abcd18fdf00b7209cefdd5255e50a761cb00a7b21447a4df5d5006dca6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.554, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JULIANO RICARDO FUGANTI MENDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

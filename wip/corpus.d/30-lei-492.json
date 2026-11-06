@@ -1,0 +1,2140 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "46 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24555": {
+   "label": "Lei nº 24555, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-28",
+   "published": "2026-09-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117703",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24556": {
+   "label": "Lei nº 24556, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117822",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24557": {
+   "label": "Lei nº 24557, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117823",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24558": {
+   "label": "Lei nº 24558, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117824",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24559": {
+   "label": "Lei nº 24559, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117825",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24560": {
+   "label": "Lei nº 24560, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117826",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24561": {
+   "label": "Lei nº 24561, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117827",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24562": {
+   "label": "Lei nº 24562, de 2026",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de São Domingos/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2026-09-30",
+   "published": "2026-09-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117828",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24563": {
+   "label": "Lei nº 24563, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Canta Goiânia, realizado no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-10-08",
+   "published": "2026-10-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117985",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24564": {
+   "label": "Lei nº 24564, de 2026",
+   "title": "Altera a legislação que especifica para reconhecer os correspondentes bens imateriais como patrimônios gastronômicos goianos.",
+   "kind": "law",
+   "enacted": "2026-10-08",
+   "published": "2026-10-08",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117986",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24565": {
+   "label": "Lei nº 24565, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-15",
+   "published": "2026-10-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118269",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24566": {
+   "label": "Lei nº 24566, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-15",
+   "published": "2026-10-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118270",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24567": {
+   "label": "Lei nº 24567, de 2026",
+   "title": "Confere ao Município de Crixás/GO o título de \"Capital Goiana do Pequi\".",
+   "kind": "law",
+   "enacted": "2026-10-21",
+   "published": "2026-10-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118442",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24568": {
+   "label": "Lei nº 24568, de 2026",
+   "title": "Abre crédito especial à Secretaria de Estado de Ciência, Tecnologia e Inovação.",
+   "kind": "law",
+   "enacted": "2026-10-23",
+   "published": "2026-10-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118535",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24569": {
+   "label": "Lei nº 24569, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-23",
+   "published": "2026-10-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118536",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24570": {
+   "label": "Lei nº 24570, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-23",
+   "published": "2026-10-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118537",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24571": {
+   "label": "Lei nº 24571, de 2026",
+   "title": "Altera a Lei nº 23.983, de 23 de dezembro de 2025, que institui medidas facilitadoras para o contribuinte negociar seus débitos relacionados aos impostos estaduais.",
+   "kind": "law",
+   "enacted": "2026-10-23",
+   "published": "2026-10-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118538",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24572": {
+   "label": "Lei nº 24572, de 2026",
+   "title": "Reconhece a raça crioula de porcos Piau, criada em sistema tradicional ao ar livre e vinculada ao bioma Cerrado, como patrimônio histórico, cultural e genético e os produtos artesanais de charcutaria dela derivados como patrimônio histórico e cultural do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118684",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24573": {
+   "label": "Lei nº 24573, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118689",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24574": {
+   "label": "Lei nº 24574, de 2026",
+   "title": "Confere ao Município de Senador Canedo/GO o título de \"Capital Nordestina de Goiás\".",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118690",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24575": {
+   "label": "Lei nº 24575, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118691",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24576": {
+   "label": "Lei nº 24576, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118692",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24577": {
+   "label": "Lei nº 24577, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118693",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24578": {
+   "label": "Lei nº 24578, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118694",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24579": {
+   "label": "Lei nº 24579, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118695",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24580": {
+   "label": "Lei nº 24580, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Safras & Amigos, realizada no Município de Palmeiras de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118696",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24581": {
+   "label": "Lei nº 24581, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118697",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24582": {
+   "label": "Lei nº 24582, de 2026",
+   "title": "Altera a Lei nº 15.941, de 29 de dezembro de 2006, que institui o selo \"Empresa Inclusiva\", de reconhecimento às iniciativas empresariais que favoreçam a integração das pessoas portadoras de necessidades especiais.",
+   "kind": "law",
+   "enacted": "2026-10-29",
+   "published": "2026-10-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118698",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24583": {
+   "label": "Lei nº 24583, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora do Perpétuo Socorro, realizada no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118699",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24584": {
+   "label": "Lei nº 24584, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora da Conceição, realizada no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118700",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24585": {
+   "label": "Lei nº 24585, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118701",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24586": {
+   "label": "Lei nº 24586, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118702",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24587": {
+   "label": "Lei nº 24587, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118703",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24588": {
+   "label": "Lei nº 24588, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118704",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24589": {
+   "label": "Lei nº 24589, de 2026",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118705",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24590": {
+   "label": "Lei nº 24590, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118706",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24591": {
+   "label": "Lei nº 24591, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio imaterial histórico e cultural goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118707",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24592": {
+   "label": "Lei nº 24592, de 2026",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118708",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24593": {
+   "label": "Lei nº 24593, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-03",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118717",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24594": {
+   "label": "Lei nº 24594, de 2026",
+   "title": "Cria e denomina o estabelecimento de ensino que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118718",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24595": {
+   "label": "Lei nº 24595, de 2026",
+   "title": "Altera a Lei nº 13.266, de 16 de abril de 1998, que institui a carreira do fisco da Secretaria da Fazenda do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118719",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24596": {
+   "label": "Lei nº 24596, de 2026",
+   "title": "Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118720",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24597": {
+   "label": "Lei nº 24597, de 2026",
+   "title": "Altera a Lei nº 24.411, de 3 de julho de 2026, que dispõe sobre a organização dos Quadros de Oficiais Especialistas - QOEs da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás, altera a Lei nº 17.866, de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar, e a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar, e revoga a Lei nº 19.452, de 14 de setembro de 2016, que reorganiza os Quadros de Oficiais Auxiliares e Oficiais Músicos da Polícia Militar.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118721",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24598": {
+   "label": "Lei nº 24598, de 2026",
+   "title": "Altera a Lei nº 20.917, de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118722",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24599": {
+   "label": "Lei nº 24599, de 2026",
+   "title": "Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118723",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24600": {
+   "label": "Lei nº 24600, de 2026",
+   "title": "Institui os Meses Estaduais \"Outubro Rosa Pet\" e \"Novembro Azul Pet\".",
+   "kind": "law",
+   "enacted": "2026-11-04",
+   "published": "2026-11-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118724",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24555",
+   "short": "Lei 24555/2026",
+   "title": "Lei nº 24555, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117703",
+   "first_law": "lei-2026-24555",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117703",
+     "sha256": "304cbd3b74e888d6f40672d5918d6474f8331c49a3f2d8edd266c29881619093",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.555, DE 28 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a BRENO BOSS CACHAPUZ CAIADO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24556",
+   "short": "Lei 24556/2026",
+   "title": "Lei nº 24556, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117822",
+   "first_law": "lei-2026-24556",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117822",
+     "sha256": "bdc51ea064d15f2aeb0643853850fe461c61d12b7e4dbb6dfcb4fe5717a40613",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.556, DE 30 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO CUIDADO E AMOR - ICA, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 62.204.387/0001-55, com sede no Município de Goiatuba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24557",
+   "short": "Lei 24557/2026",
+   "title": "Lei nº 24557, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117823",
+   "first_law": "lei-2026-24557",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117823",
+     "sha256": "24c7e7d8694a3bd89cdc2a80ce7af7248d7eb5b97f483839fcb34af163056cdd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.557, DE 30 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a NEILON CARLOS SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24558",
+   "short": "Lei 24558/2026",
+   "title": "Lei nº 24558, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117824",
+   "first_law": "lei-2026-24558",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117824",
+     "sha256": "df24e4c3360a2f0781e89c3a426bd03f72e4c8691173c51040d7d29e48a10f4f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.558, DE 30 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CRESCER ATIVIDADES EQUESTRES URUAÇU GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 51.767.342/0001-72, com sede no Município de Uruaçu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24559",
+   "short": "Lei 24559/2026",
+   "title": "Lei nº 24559, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117825",
+   "first_law": "lei-2026-24559",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117825",
+     "sha256": "ec5d7e29df2cde39a69d83a3ab87f58adb53acf53baddad49184a9fe4038e2ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.559, DE 30 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS PRODUTORES RURAIS DE CAMPINORTE - GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.165.817/0001-03, com sede no Município de Campinorte/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24560",
+   "short": "Lei 24560/2026",
+   "title": "Lei nº 24560, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117826",
+   "first_law": "lei-2026-24560",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117826",
+     "sha256": "195b474cbbc84b34f78353c5c8a2852b09c8918e56d05440515186549e45b5b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.560, DE 30 DE SETEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a LOJA MAÇÔNICA TEMPLÁRIOS DO ORIENTE Nº 3799, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.558.748/0001-68, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24561",
+   "short": "Lei 24561/2026",
+   "title": "Lei nº 24561, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117827",
+   "first_law": "lei-2026-24561",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117827",
+     "sha256": "97e86d5a633885cef6c0d2f0dcf1a0bee628212f97fad908a8dc9777f83c2229",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.561, DE 30 DE SETEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a WALTER MENDES FERREIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24562",
+   "short": "Lei 24562/2026",
+   "title": "Lei nº 24562, de 2026 (Autoriza a aquisição, por doação onerosa do Município de São Domingos/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117828",
+   "first_law": "lei-2026-24562",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-09-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117828",
+     "sha256": "28bc6ee8bd44d5024b126191860bd61a74cfd675a258aae18c1f4a0babdd84ba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.562, DE 30 DE SETEMBRO DE 2026\nAutoriza a aquisição, por doação onerosa do Município de São Domingos/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de São Domingos/GO, CNPJ nº 01.068.014/0001-00, possibilitada pela Lei municipal nº 267, de 15 de dezembro de 2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel da doação autorizada no art. 1º está avaliado em R$ 41.898,88 (quarenta e um mil, oitocentos e noventa e oito reais e oitenta e oito centavos), conforme o Laudo de Avaliação para Doação nº 136/2026, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei destina-se à construção e à instalação da sede própria da Delegacia de Polícia Civil no município, vedada a alteração dessa finalidade.\nParágrafo único. A unidade de Delegacia de Polícia será efetivamente construída e instalada no prazo de dois anos a partir da assinatura da escritura pública de doação, prorrogável por igual período, conforme o § 2º do art. 2º da Lei municipal nº 267, de 2025.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel e das benfeitorias porventura existentes ao patrimônio do doador em caso de descumprimento do disposto no art. 3º desta Lei, sem direito à indenização.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 4 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a formalização da doação de que trata esta Lei, deverá ser observada a vedação temporal indicada na alínea \"a\" do inciso VI do art. 73 da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de setembro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO MUNICÍPIO DE SÃO DOMINGOS/GO, PARA A CONSTRUÇÃO E A INSTALAÇÃO DA SEDE PRÓPRIA DA DELEGACIA DE POLÍCIA CIVIL DO MUNICÍPIO, CONFORME A LEI MUNICIPAL Nº 267, DE 15 DE DEZEMBRO DE 2025\nDENOMINAÇÃO Terreno Urbano\nLOCALIZAÇÃO Rua 3, Lote 1-A, Quadra APM-04, Setor Jardim Primavera, São Domingos/GO\nÁREA 899,86 m²\nMATRÍCULA nº 6.072, Cartório de Registro de Imóveis, Títulos e Documentos, Civil de Pessoas Jurídicas e Naturais de São Domingos/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"limites e confrontantes: para quem olha o terreno de frente tem as seguintes confrontações e medidas, (sic) Pela frente com a Rua 3, medindo 24,00m; Pelo lado direito com o lote 1, medindo 37,50m; Pelo fundos (sic) com o lote 1 medindo 24,00m e pelo lado esquerdo com a avenida minas gerais (sic) medindo 37,50m, onde teve início essa descrição\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24563",
+   "short": "Lei 24563/2026",
+   "title": "Lei nº 24563, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Canta Goiânia, realizado no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117985",
+   "first_law": "lei-2026-24563",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117985",
+     "sha256": "b7e3db1fe4948f52d8f68c495ae58d159799206bfb5aba27ab23ae31858e2872",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.563, DE 8 DE OUTUBRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Canta Goiânia, realizado no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Canta Goiânia, realizado, anualmente, na primeira quinzena do mês de março, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24564",
+   "short": "Lei 24564/2026",
+   "title": "Lei nº 24564, de 2026 (Altera a legislação que especifica para reconhecer os correspondentes bens imateriais como patrimônios gastronômicos goianos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/117986",
+   "first_law": "lei-2026-24564",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/117986",
+     "sha256": "20cfb679b85511827c5005e6cad4305a12a6b85c47eadcb66c889caab005c60e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.564, DE 8 DE OUTUBRO DE 2026\nAltera a legislação que especifica para reconhecer os correspondentes bens imateriais como patrimônios gastronômicos goianos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa e o art. 1º da Lei nº 22.203, de 10 de agosto de 2023, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura dos doces produzidos no Município de Nerópolis ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A ementa e o art. 1º da Lei nº 22.120, de 21 de julho de 2023, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura do Empadão Goiano produzido na região do Município de Goiás ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A ementa e o art. 1º da Lei nº 22.117, de 21 de julho de 2023, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura do Pastelinho de Goiás produzido na região do Município de Goiás ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A ementa e o art. 1º da Lei nº 21.753, de 29 de dezembro de 2022, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura do doce Alfenim produzido na região do Município de Goiás ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A ementa e o art. 1º da Lei nº 21.729, de 20 de dezembro de 2022, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura da pamonha goiana ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A ementa e o art. 1º da Lei nº 21.307, de 12 de abril de 2022, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura da Chica Doida ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A ementa e o art. 1º da Lei nº 21.278, de 5 de abril de 2022, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura da Marmelada de Santa Luzia ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A ementa e o art. 1º da Lei nº 21.934, de 17 de maio de 2023, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura do Pequi ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A ementa e o art. 1º da Lei nº 20.963, de 13 de janeiro de 2021, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura do Queijo Cabacinha produzido no Município de Santa Rita do Araguaia ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A ementa e o art. 1º da Lei nº 20.872, de 8 de outubro de 2020, passam a vigorar, respectivamente, com as seguintes alterações:\n\"Dispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n\"Art. 1º A gastronomia e a cultura dos \"Pit Dogs\" ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\" (NR)\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 8 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24565",
+   "short": "Lei 24565/2026",
+   "title": "Lei nº 24565, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118269",
+   "first_law": "lei-2026-24565",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118269",
+     "sha256": "a2e1abbd2ac4b705b777f377b896d6d5287b9df67bd0eedaff772707dd90e105",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.565, DE 15 DE OUTUBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RICARDO ALBERTO CORRÊA VIANA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 15 de outubro de 2026.\nDeputado BRUNO PEIXOTO\n- PRESIDENTE -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24566",
+   "short": "Lei 24566/2026",
+   "title": "Lei nº 24566, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118270",
+   "first_law": "lei-2026-24566",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118270",
+     "sha256": "dc71171cd05dab1b5151d83620f87e7e102cda97dbbc700276372fdbae49813a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.566, DE 15 DE OUTUBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ERICK TAPAJÓS PEREIRA BRITO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 15 de outubro de 2026.\nDeputado BRUNO PEIXOTO\n- PRESIDENTE -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24567",
+   "short": "Lei 24567/2026",
+   "title": "Lei nº 24567, de 2026 (Confere ao Município de Crixás/GO o título de \"Capital Goiana do Pequi\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118442",
+   "first_law": "lei-2026-24567",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118442",
+     "sha256": "c18a209493d15e8bc93d2fceaa03ef3a501e773203d6e85a0e8e03bd2e0b6043",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.567, DE 21 DE OUTUBRO DE 2026\nConfere ao Município de Crixás/GO o título de \"Capital Goiana do Pequi\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Crixás/GO o título de \"Capital Goiana do Pequi\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24568",
+   "short": "Lei 24568/2026",
+   "title": "Lei nº 24568, de 2026 (Abre crédito especial à Secretaria de Estado de Ciência, Tecnologia e Inovação.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118535",
+   "first_law": "lei-2026-24568",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118535",
+     "sha256": "9185acf44f1200fde89616eda016f86b6b6b14776c99c212e12dad9da65eae76",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.568, DE 23 DE OUTUBRO DE 2026\nAbre crédito especial à Secretaria de Estado de Ciência, Tecnologia e Inovação.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto, no corrente exercício, crédito especial à Secretaria de Estado de Ciência, Tecnologia e Inovação - SECTI no valor de R$ 9.649.400,00 (nove milhões, seiscentos e quarenta e nove mil e quatrocentos reais), conforme o Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial, conforme o art. 1º desta Lei, serão provenientes de superávit financeiro apurado em balanço patrimonial do exercício anterior, em consonância com o inciso I do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nANEXO ÚNICO\nABERTURA DE CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n3101 - GAB. SEC. DE CIÊNCIA, TECNOLOGIA E INOV. 23 - COMÉR-CIO E SERVI-ÇOS 691 - PROMO-ÇÃO COMER-CIAL 1054 - GOIÁS DO CRESCI-MENTO E DO EMPREEN-DEDORIS-MO 3378 - IMPLANTA-ÇÃO DA AGÊNCIA GOIANA DE PROMOÇÃO DE INVESTI-MENTOS, COMPETITI-VIDADE E INOVAÇÃO - INVEST GO 03 - OUTRAS DESPESAS CORREN-TES 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTI-FICA-ÇÃO DE DESPE-SAS GERAIS 3.428.000,00\n3101 - GAB. SEC. DE CIÊNCIA, TECNOLOGIA E INOV. 23 - COMÉR-CIO E SERVI-ÇOS 691 - PROMO-ÇÃO COMER-CIAL 1054 - GOIÁS DO CRESCI-MENTO E DO EMPREEN-DEDORIS-MO 3378 - IMPLANTA-ÇÃO DA AGÊNCIA GOIANA DE PROMOÇÃO DE INVESTI-MENTOS, COMPETITI-VIDADE E INOVAÇÃO - INVEST GO 04 - INVESTI-MENTOS 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTI-FICA-ÇÃO DE DESPE-SAS GERAIS 421.400,00\n3101 - GAB. SEC. DE CIÊNCIA, TECNOLOGIA E INOV. 12 - EDUCA-ÇÃO 363 - ENSINO PROFISSI-ONAL 1054 - GOIÁS DO CRESCI-MENTO E DO EMPREEN-DEDORIS-MO 3379 - IMPLANTA-ÇÃO DO CENTRO PROFISSIO-NALIZANTE PAULO VARGAS (SSA) 03 - OUTRAS DESPESAS CORREN-TES 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTI-FICA-ÇÃO DE DESPE-SAS GERAIS 4.600.000,00\n3101 - GAB. SEC. DE CIÊNCIA, TECNOLOGIA E INOV. 12 - EDUCA-ÇÃO 363 - ENSINO PROFISSI-ONAL 1054 - GOIÁS DO CRESCI-MENTO E DO EMPREEN-DEDORIS-MO 3379 - IMPLANTA-ÇÃO DO CENTRO PROFISSIO-NALIZANTE PAULO VARGAS (SSA) 04 - INVESTI-MENTOS 25000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS - EXERCÍCIOS ANTERIORES 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTI-FICA-ÇÃO DE DESPE-SAS GERAIS 1.200.000,00\nTOTAL 9.649.400,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24569",
+   "short": "Lei 24569/2026",
+   "title": "Lei nº 24569, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118536",
+   "first_law": "lei-2026-24569",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118536",
+     "sha256": "174833f3a08f370e6926655856744b32cbb2f3c738c700ed83c9fb596c2e76d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.569, DE 23 DE OUTUBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GUERINO ANIZELLI NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24570",
+   "short": "Lei 24570/2026",
+   "title": "Lei nº 24570, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118537",
+   "first_law": "lei-2026-24570",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118537",
+     "sha256": "73960adc4352c299fcd1bb491955592360ba7282b3512be8455b499b92a34475",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.570, DE 23 DE OUTUBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a FEDERAÇÃO DE KARATÊ SEMI-CONTATO DO ESTADO DE GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 01.399.075/0001-50, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24571",
+   "short": "Lei 24571/2026",
+   "title": "Lei nº 24571, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118538",
+   "first_law": "lei-2026-24571",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118538",
+     "sha256": "b030dab57bc13b4df9304fc86dc1493b5b2bce244436367a6f6d05b72936ecca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.571, DE 23 DE OUTUBRO DE 2026\nAltera a Lei nº 23.983, de 23 de dezembro de 2025, que institui medidas facilitadoras para o contribuinte negociar seus débitos relacionados aos impostos estaduais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 23.983, de 23 de dezembro de 2025, passa a vigorar com a seguinte alteração:\n\"Art. 2º As medidas facilitadoras instituídas por esta Lei abrangem créditos tributários cujos fatos geradores ou a prática de infração tenham ocorrido até 30 de abril de 2026.\n.............................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de outubro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24572",
+   "short": "Lei 24572/2026",
+   "title": "Lei nº 24572, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118684",
+   "first_law": "lei-2026-24572",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118684",
+     "sha256": "58de34a74efb04972eade790e7e553ad4b15ea923243f965b3f916ae5efce4f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.572, DE 29 DE OUTUBRO DE 2026\nReconhece a raça crioula de porcos Piau, criada em sistema tradicional ao ar livre e vinculada ao bioma Cerrado, como patrimônio histórico, cultural e genético e os produtos artesanais de charcutaria dela derivados como patrimônio histórico e cultural do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica reconhecida como patrimônio histórico, cultural e genético do Estado de Goiás a raça crioula de porcos Piau, criada em sistema tradicional ao ar livre, presente em diversas regiões do Estado e vinculada à valorização do bioma Cerrado e da agricultura familiar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam reconhecidos como patrimônio histórico e cultural do Estado de Goiás os produtos artesanais de charcutaria derivados da raça crioula de porcos Piau, especialmente a carne na lata, a linguiça caipira, a paçoca de pilão, a banha artesanal, o presunto cru, o toucinho salgado, o torresmo e a pele à pururuca.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os reconhecimentos previstos nesta Lei têm por finalidade valorizar, preservar e difundir as práticas tradicionais relacionadas à criação da raça crioula de porcos Piau, em razão de sua relevância histórica, social, econômica, cultural e ambiental para o Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24573",
+   "short": "Lei 24573/2026",
+   "title": "Lei nº 24573, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118689",
+   "first_law": "lei-2026-24573",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118689",
+     "sha256": "a71eb5c5e880788883bfa48881e8d70c723585cd6076ede32da09c150e3fdc52",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.573, DE 29 DE OUTUBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS PRODUTORES RURAIS DO ASSENTAMENTO GAMELEIRA - APRAG, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 04.395.347/0001-31, com sede no Município de Flores de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24574",
+   "short": "Lei 24574/2026",
+   "title": "Lei nº 24574, de 2026 (Confere ao Município de Senador Canedo/GO o título de \"Capital Nordestina de Goiás\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118690",
+   "first_law": "lei-2026-24574",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118690",
+     "sha256": "68930df90b00a0b3eb393bdc7ca600ff98e5479cc4dac6c0cf8b19a0cb154714",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.574, DE 29 DE OUTUBRO DE 2026\nConfere ao Município de Senador Canedo/GO o título de \"Capital Nordestina de Goiás\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Senador Canedo/GO o título de \"Capital Nordestina de Goiás\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24575",
+   "short": "Lei 24575/2026",
+   "title": "Lei nº 24575, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118691",
+   "first_law": "lei-2026-24575",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118691",
+     "sha256": "4deb411f81854b1c657d633291c4bab1dfaa61d559f94c66adfabc8e4a3f75d4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.575, DE 29 DE OUTUBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Pirão de Galinha Caipira, produzido no Município de Guarani de Goiás/GO, fica reconhecido como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24576",
+   "short": "Lei 24576/2026",
+   "title": "Lei nº 24576, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118692",
+   "first_law": "lei-2026-24576",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118692",
+     "sha256": "bdde8275d9cbabed4fd53b97b32d3d8ce82cd50fb5a9f266d1caa6406673c28e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.576, DE 29 DE OUTUBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ORQUIDÓFILA REGIONAL DE CATALÃO - AORC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.694.376/0001-55, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24577",
+   "short": "Lei 24577/2026",
+   "title": "Lei nº 24577, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118693",
+   "first_law": "lei-2026-24577",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118693",
+     "sha256": "72101ad02f5329e44530d86498f0de4ce415e00be7fe81a049d7dcaa3cdb52b3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.577, DE 29 DE OUTUBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Desfile de Carros de Boi, realizado, anualmente, no mês de janeiro, no Município de Nazário/GO, fica reconhecido como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24578",
+   "short": "Lei 24578/2026",
+   "title": "Lei nº 24578, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118694",
+   "first_law": "lei-2026-24578",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118694",
+     "sha256": "c1a6f0793111a50f688dd59d1619487ec5d13d942abdb5c2b708a56a15a8aeba",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.578, DE 29 DE OUTUBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CÍCERO RODRIGUES DOS SANTOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24579",
+   "short": "Lei 24579/2026",
+   "title": "Lei nº 24579, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118695",
+   "first_law": "lei-2026-24579",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118695",
+     "sha256": "396cb1ca8cbee24e1aeb8caea56568c14738bb52421ad0767a26942934e0d969",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.579, DE 29 DE OUTUBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCIENE SCORSOLINO TAVARES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24580",
+   "short": "Lei 24580/2026",
+   "title": "Lei nº 24580, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Safras & Amigos, realizada no Município de Palmeiras de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118696",
+   "first_law": "lei-2026-24580",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118696",
+     "sha256": "b16ade95c817df025cd6c31ffc5f49cc7f7a409ccaa71946847e2dd43236668d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.580, DE 29 DE OUTUBRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Safras & Amigos, realizada no Município de Palmeiras de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira Safras & Amigos, realizada, anualmente, no mês de março, no Município de Palmeiras de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24581",
+   "short": "Lei 24581/2026",
+   "title": "Lei nº 24581, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118697",
+   "first_law": "lei-2026-24581",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118697",
+     "sha256": "1ee4bcfd0c7c98df9618b686e2ae45f47a5bb679a73b9abc4668e930033c27a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.581, DE 29 DE OUTUBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO SIBASOLLY DE ARTE E CULTURA - ASAC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.121.737/0001-56, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24582",
+   "short": "Lei 24582/2026",
+   "title": "Lei nº 24582, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118698",
+   "first_law": "lei-2026-24582",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-10-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118698",
+     "sha256": "8e5678c9a30b0643e8b16748b771198aa8b01f5ec712b5caf97c2e6dd000610c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.582, DE 29 DE OUTUBRO DE 2026\nAltera a Lei nº 15.941, de 29 de dezembro de 2006, que institui o selo \"Empresa Inclusiva\", de reconhecimento às iniciativas empresariais que favoreçam a integração das pessoas portadoras de necessidades especiais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 15.941, de 29 de dezembro de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 1º ...............................................\nParágrafo único. Para os efeitos desta Lei, considera-se pessoa com deficiência aquela assim definida nos termos do art. 2º da Lei federal nº 13.146, de 6 de julho de 2015, e respectiva regulamentação, inclusive aquela com transtorno do espectro autista, de acordo com o art. 1º, § 2º, da Lei federal nº 12.764, de 27 de dezembro de 2012.\" (NR)\n\"Art. 2º Serão consideradas iniciativas empresariais favoráveis à inclusão das pessoas de que trata o art. 1º, dentre outras:\nI - a reserva de percentual mínimo de postos de trabalho específicos para contratação de pessoas com deficiência;\nII - a capacitação que vise ao desenvolvimento profissional de pessoas com deficiência, inclusive para o exercício de funções de maior remuneração;\nIII - a adoção de soluções arquitetônicas que favoreçam a acessibilidade, tanto para empregados, como para o público em geral;\nIV - a promoção ou o patrocínio de eventos culturais ou desportivos dirigidos a esses segmentos;\nV - a realização ou participação de campanhas de sensibilização e conscientização sobre a inclusão de pessoas com deficiência. ..............................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de outubro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24583",
+   "short": "Lei 24583/2026",
+   "title": "Lei nº 24583, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118699",
+   "first_law": "lei-2026-24583",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118699",
+     "sha256": "fe9d78c43ce36e48ba5057b7e00ed03244dba66c275166c9ad08d823c9d45f15",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.583, DE 3 DE NOVEMBRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora do Perpétuo Socorro, realizada no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora do Perpétuo Socorro, realizada, anualmente, no dia 27 de junho, no Santuário Basílica Nossa Senhora do Perpétuo Socorro, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24584",
+   "short": "Lei 24584/2026",
+   "title": "Lei nº 24584, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora da Conceição, realizada no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118700",
+   "first_law": "lei-2026-24584",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118700",
+     "sha256": "3cc71b9f95ed154b990273711f99874028707968415e9831bc53fa9bb3411c0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.584, DE 3 DE NOVEMBRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora da Conceição, realizada no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Nossa Senhora da Conceição, realizada, anualmente, no mês de setembro, na Paróquia Nossa Senhora da Conceição - Matriz de Campinas, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24585",
+   "short": "Lei 24585/2026",
+   "title": "Lei nº 24585, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118701",
+   "first_law": "lei-2026-24585",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118701",
+     "sha256": "907a0573c0b5f1ba8716ad1e54c3202cf2326795b9ffface0f9bed932d3e69ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.585, DE 3 DE NOVEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MAKS WILSON LOUZADA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24586",
+   "short": "Lei 24586/2026",
+   "title": "Lei nº 24586, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118702",
+   "first_law": "lei-2026-24586",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118702",
+     "sha256": "4e16bc5ae77650a8c7a758c2fa576d16978dede1457e686dcabcc4cf647ce17a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.586, DE 3 DE NOVEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a THAYA BUENO LEAL ANTUNES FERREIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24587",
+   "short": "Lei 24587/2026",
+   "title": "Lei nº 24587, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118703",
+   "first_law": "lei-2026-24587",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118703",
+     "sha256": "622edb6e85354d227e30c18d89ad9ab33bdf27d607056e1ffb9efd405708dd11",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.587, DE 3 DE NOVEMBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa Junina de Buritinópolis, realizada anualmente na segunda quinzena de junho, no Município de Buritinópolis/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24588",
+   "short": "Lei 24588/2026",
+   "title": "Lei nº 24588, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118704",
+   "first_law": "lei-2026-24588",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118704",
+     "sha256": "203c0a860357f3d02adbcb8f35baf67b70b2ba6fad7f360438c803ecf7b36d21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.588, DE 3 DE NOVEMBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa do Divino Espírito Santo, realizada, anualmente, na semana do Domingo de Pentecostes, no Município de Mambaí/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24589",
+   "short": "Lei 24589/2026",
+   "title": "Lei nº 24589, de 2026 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118705",
+   "first_law": "lei-2026-24589",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118705",
+     "sha256": "e368225ff2965f0657fba989064b5cdc07de38d85a6a0f312a0ec7b42e33490c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.589, DE 3 DE NOVEMBRO DE 2026\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO SINGULARMENTE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 04.758.455/0001-21, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24590",
+   "short": "Lei 24590/2026",
+   "title": "Lei nº 24590, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118706",
+   "first_law": "lei-2026-24590",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118706",
+     "sha256": "99bf270d3af680463a7cfa0bb53e95c8bfb5dbc9def00bf1d2bde8fec3d015a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.590, DE 3 DE NOVEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a PAULO CÉSAR PEIXOTO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nTHIAGO ALBERNAZ\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24591",
+   "short": "Lei 24591/2026",
+   "title": "Lei nº 24591, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio imaterial histórico e cultural goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118707",
+   "first_law": "lei-2026-24591",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118707",
+     "sha256": "7821e0fb2007fb1975b1b0459c26125e2081458e11101c2a073a7ca1193b63aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.591, DE 3 DE NOVEMBRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio imaterial histórico e cultural goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Procissão dos Penitentes, realizada anualmente na Quinta-Feira Santa, no Município de Goiás/GO:\nI - fica reconhecida como patrimônio imaterial histórico e cultural goiano; e\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24592",
+   "short": "Lei 24592/2026",
+   "title": "Lei nº 24592, de 2026 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118708",
+   "first_law": "lei-2026-24592",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118708",
+     "sha256": "e5e6e500299ec76a322ab19d4e0bb71f81497d621c33894f7f0806b3ae51a7a8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.592, DE 3 DE NOVEMBRO DE 2026\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ BENJAMÍN PÉREZ MATOS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nRUBENS MARQUES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24593",
+   "short": "Lei 24593/2026",
+   "title": "Lei nº 24593, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118717",
+   "first_law": "lei-2026-24593",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118717",
+     "sha256": "655a31842fd24e47a9c6a23befe5828b07851576e93601f32ddb56104b4146af",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.593, DE 3 DE NOVEMBRO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado DEPUTADO AMILTON FILHO o Colégio Estadual Padrão Século XXI, situado no Setor Sigma, Município de Cristalina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de novembro de 2026; 138º da República.\nBRUNO PEIXOTO\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24594",
+   "short": "Lei 24594/2026",
+   "title": "Lei nº 24594, de 2026 (Cria e denomina o estabelecimento de ensino que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118718",
+   "first_law": "lei-2026-24594",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118718",
+     "sha256": "6248958d84125fd229be9cf605947c46fc7f0c9a5824ef6f3c872f2ecb7527a4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.594, DE 4 DE NOVEMBRO DE 2026\nCria e denomina o estabelecimento de ensino que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado e denominado, na Secretaria de Estado da Educação - SEDUC, o Colégio Estadual Luiz Dias Paes Leme, situado no Município de Aragarças/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação e seus efeitos retroagem a 1º de janeiro de 1989.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24595",
+   "short": "Lei 24595/2026",
+   "title": "Lei nº 24595, de 2026 (Altera a Lei nº 13.266, de 16 de abril de 1998, que institui a carreira do fisco da Secretaria da Fazenda do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118719",
+   "first_law": "lei-2026-24595",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118719",
+     "sha256": "aa83fef326173affe605666d158bf985edb4226dcdfd28e70ab1dd7efa527432",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# lei Nº 24.595, DE 4 DE NOVEMBRO DE 2026\nAltera a Lei nº 13.266, de 16 de abril de 1998, que institui a carreira do fisco da Secretaria da Fazenda do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 13.266, de 16 de abril de 1998, passa a vigorar com as seguintes alterações:\n\"Art. 1º ........................................\n§ 2º ..........................................\nIII - atuará de forma integrada com o Comitê Gestor do Imposto sobre Bens e Serviços - CGIBS e com as administrações tributárias da União, dos demais estados, do Distrito Federal e dos municípios, inclusive com o compartilhamento de cadastros e de informações fiscais, na forma da lei ou convênio.\" (NR)\n\"Art. 20. ........................................\nParágrafo único. .............................\nIV - em que estiver no desempenho de:\na) cargo de direção ou assessoramento superior de provimento em comissão nos Poderes Executivo ou Legislativo do Estado de Goiás; e\nb) cargo ou função técnica ou de representação no CGIBS.\" (NR)\n\"Art. 21-A. ......................................\nParágrafo único. A vedação prevista neste artigo não se aplica à cessão de Auditor Fiscal da Receita Estadual ao CGIBS.\" (NR)\n\"Art. 21-B. A cessão de servidor da carreira do Fisco estadual ao CGIBS é onerosa para o Comitê Gestor e ocorre mediante ressarcimento ao Estado de Goiás, na condição de ente cedente, nos termos do § 6º do art. 2º da Lei Complementar federal nº 227, de 13 de janeiro de 2026, e dos arts. 71 e 72 da Lei nº 20.756, de 28 de janeiro de 2020.\" (NR)\n\"Art. 24. ...........................................\n§ 4º .................................................\nVII - exercício efetivo de cargo ou função técnica ou de representação no CGIBS.\n§ 5º O disposto no inciso I do § 4º deste artigo não se aplica ao funcionário fiscal cedido ao CGIBS.\" (NR)\n\"Art. 25. ..........................................\nI - estiver em efetivo exercício funcional na Secretaria de Estado da Economia ou cedido ao CGIBS;\n...............................................................\" (NR)\n\"Art. 30. ..........................................\nX - parcelas de natureza indenizatória dentre as quais se inclui a destinada ao ressarcimento de despesas com transporte, alimentação e hospedagem, cujo valor mensal não excederá a R$ 3.600,00 (três mil e seiscentos reais), devidas ao Auditor Fiscal em efetivo exercício na pasta fazendária ou no CGIBS e na forma dos incisos VI, IX, XX e XXI do art. 30 da Lei nº 20.756, de 2020, conforme dispuser o Governador do Estado em regulamento, vedada, em qualquer hipótese, a sua percepção cumulativa com verba da mesma natureza paga diretamente pelo CGIBS, facultado ao servidor optar pela mais vantajosa. .............................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24596",
+   "short": "Lei 24596/2026",
+   "title": "Lei nº 24596, de 2026 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118720",
+   "first_law": "lei-2026-24596",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118720",
+     "sha256": "8020b2d70ad6fb3e57c467007b1be17499be1ed5e3c687ff92b0595b50b3828f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.596, DE 4 DE NOVEMBRO DE 2026\nAltera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A tabela da alínea \"b\" do Anexo III da Lei nº 21.792, de 16 de fevereiro de 2023, passa a vigorar com as alterações especificadas no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\nANEXO ÚNICO\n(Alteração da Lei nº 21.792, de 16 de fevereiro de 2023)\n\"ANEXO III\nFUNÇÕES COMISSIONADAS\nb) ................................................................\nTIPO SÍMBOLO VALOR\n............................................... .............................................. R$ 2.500,00\nAssessor Contábil 3 FCAC-3 R$ 2.000,00\n..........................................................................................................................\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24597",
+   "short": "Lei 24597/2026",
+   "title": "Lei nº 24597, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118721",
+   "first_law": "lei-2026-24597",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118721",
+     "sha256": "0be09b30c07c025e75065d67da0f2e51a7c897992714dffb30ba1b24a05a4deb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.597, DE 4 DE NOVEMBRO DE 2026\nAltera a Lei nº 24.411, de 3 de julho de 2026, que dispõe sobre a organização dos Quadros de Oficiais Especialistas - QOEs da Polícia Militar e do Corpo de Bombeiros Militar do Estado de Goiás, altera a Lei nº 17.866, de 19 de dezembro de 2012, que fixa o efetivo da Polícia Militar, e a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar, e revoga a Lei nº 19.452, de 14 de setembro de 2016, que reorganiza os Quadros de Oficiais Auxiliares e Oficiais Músicos da Polícia Militar.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 24.411, de 3 de julho de 2026, passa a vigorar com as seguintes alterações:\n\"Art. 6º-A O ingresso no CHOE ocorrerá mediante aprovação em processo seletivo, com vagas definidas e distribuídas entre os critérios de antiguidade e merecimento, à proporção de uma vaga por antiguidade para cada três vagas por merecimento.\" (NR)\n\"Art. 7º .....................................\n§ 6º O preenchimento de vagas no CHOE obedecerá rigorosamente à proporção estabelecida no art. 6º-A desta Lei, observado o seguinte:\n.............................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24598",
+   "short": "Lei 24598/2026",
+   "title": "Lei nº 24598, de 2026 (Altera a Lei nº 20.917, de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118722",
+   "first_law": "lei-2026-24598",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118722",
+     "sha256": "275a4bb1a956bd2c97aaa76ab22adddf5aeb06539bf3a89e6d70466fdb43a2d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.598, DE 4 DE NOVEMBRO DE 2026\nAltera a Lei nº 20.917, de 21 de dezembro de 2020, que institui o Programa Educação Plena e Integral e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Anexo I da Lei nº 20.917, de 21 de dezembro de 2020, passa a vigorar com a alteração especificada no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\nANEXO ÚNICO\n(Alteração da Lei nº 20.917, de 21 de dezembro de 2020)\n\"ANEXO I\nSeq. Município Unidade Escolar Nova Denominação\n56 .................................. ......................................... Colégio Estadual em Período Integral Dom Velloso\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24599",
+   "short": "Lei 24599/2026",
+   "title": "Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118723",
+   "first_law": "lei-2026-24599",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118723",
+     "sha256": "33dad0e238421bf126298ab516ef01c24b0f15738c1785016c1ede789b08a78c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.599, DE 4 DE NOVEMBRO DE 2026\nAutoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir os dois imóveis especificados no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Santa Rita do Novo Destino/GO, CNPJ nº 01.612.756/0001-54, permitida pela Lei municipal nº 513, de 13 de abril de 2022.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A doação de que trata o art. 1º desta Lei se destina à construção pelo Estado de Goiás da sede do Batalhão de Polícia Militar Rural - BPMRural, da Polícia Militar - PM, no Município de Santa Rita do Novo Destino/GO, nos termos da Lei nº 513, de 2022, com o máximo de três anos para a conclusão das obras, contados da data da assinatura da escritura de doação.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Cada um dos imóveis caracterizados no Anexo Único desta Lei está avaliado em R$ 10.000,00 (dez mil reais), conforme os Laudos de Avaliação para Doação nº 204/2026 e nº 205/2026, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição será realizada com a cláusula de inalienabilidade, impermutabilidade e de reversão dos imóveis e das benfeitorias porventura existentes ao doador no caso de descumprimento do disposto no art. 2º desta Lei, conforme estabelecem os arts. 5º e 6º da Lei nº 513, de 2022.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de notificação ou de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária, conforme o § 1º do art. 4º da Lei nº 513, de 2022, com a redação alterada pela Lei municipal nº 548, de 3 de julho de 2023.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 4 de julho de 2006, a apreciação da minuta da escritura pública de doação dos imóveis de que trata o art. 1º desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Para a formalização da doação de que trata esta Lei, deverá ser observada a vedação temporal indicada na alínea \"a\" do inciso VI do art. 73 da Lei federal nº 9.504, de 30 de setembro de 1997.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\nANEXO ÚNICO\nIMÓVEIS AUTORIZADOS A SEREM RECEBIDOS PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA POR PARTE DO MUNICÍPIO DE SANTA RITA DO NOVO DESTINO/GO\nIMÓVEL 1\nDENOMINAÇÃO Lote 5\nÁREA 407,75 m²\nLOCALIZAÇÃO Rua Aroeira, Quadra 1, Lote 5, Setor Elza Bueno, 76395-000, Santa Rita do Novo Destino/GO\nPROPRIETÁRIO Município de Santa Rita do Novo Destino/GO\nMATRÍCULA Nº 1.404, do Cartório Tabelionato de Notas, de Protesto de Títulos, Tabelionato e Oficialato de Registro de Contratos Marítimos, Registro de Imóveis, Registro de Títulos e Documentos, Civil das Pessoas Jurídicas e Civil das Pessoas Naturais e de Interdições e Tutelas do Distrito Judiciário de Santa Rita do Novo Destino/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"17,09 metros de frente para a Rua Aroeira e 15,28 metros de fundo para a Rua Ipê, possuindo laterais com 32,74 metros e 21,63 metros, fazendo divisa com lotes 04 e 06\"\nIMÓVEL 2\nDENOMINAÇÃO Lote 6\nÁREA 256,67 m²\nLOCALIZAÇÃO Rua Aroeira, Quadra 1, Lote 6, Setor Elza Bueno, 76395-000, Santa Rita do Novo Destino/GO\nPROPRIETÁRIO Município de Santa Rita do Novo Destino/GO\nMATRÍCULA Nº 1.405, do Cartório Tabelionato de Notas, de Protesto de Títulos, Tabelionato e Oficialato de Registro de Contratos Marítimos, Registro de Imóveis, Registro de Títulos e Documentos, Civil das Pessoas Jurídicas e Civil das Pessoas Naturais e de Interdições e Tutelas do Distrito Judiciário de Santa Rita do Novo Destino/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"17,01 metros de frente para a Rua Aroeira e 17,83 metros de fundo para a Rua Ipê, possuindo laterais com 21,63 metros e 9,94 metros, fazendo divisa com lote 05\"\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24600",
+   "short": "Lei 24600/2026",
+   "title": "Lei nº 24600, de 2026 (Institui os Meses Estaduais \"Outubro Rosa Pet\" e \"Novembro Azul Pet\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/118724",
+   "first_law": "lei-2026-24600",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-11-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/118724",
+     "sha256": "09fd85c1fb1e9ecd351731d9aaee7b29870d14270ac4b4fd7c514ba84bfaa6ef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.600, DE 4 DE NOVEMBRO DE 2026\nInstitui os Meses Estaduais \"Outubro Rosa Pet\" e \"Novembro Azul Pet\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam instituídos:\nI - o Mês Estadual \"Outubro Rosa Pet\", dedicado à conscientização, prevenção e combate ao câncer de mama em animais;\nII - o Mês Estadual \"Novembro Azul Pet\", destinado à conscientização, prevenção e combate ao câncer de próstata em animais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os Meses Estaduais instituídos por esta Lei atenderão, especialmente, às seguintes diretrizes:\nI - estimular a realização de ações educativas e informativas para a população sobre a importância da prevenção, diagnóstico precoce e tratamento do câncer em animais;\nII - estimular a realização de palestras, seminários e eventos com profissionais da área veterinária que tratem da prevenção, diagnóstico precoce e tratamento do câncer em animais;\nIII - incentivar a realização de exames preventivos gratuitos ou a baixo custo em clínicas veterinárias e instituições parceiras;\nIV - estimular a celebração de parcerias ou convênios com a organização da sociedade civil, universidades, clínicas veterinárias e entidades protetoras dos animais que visem à adoção de medidas integradas para a prevenção e combate ao câncer em animais;\nV - conscientizar a população sobre a importância da cirurgia de castração para prevenção do câncer de mama e do câncer de próstata em animais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os Meses Estaduais instituídos por esta Lei ficam incluídos no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de novembro de 2026; 138º da República.\nLEANDRO CRISPIM\nGovernador do Estado em exercício\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
