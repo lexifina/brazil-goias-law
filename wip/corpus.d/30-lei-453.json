@@ -1,0 +1,2597 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-22601": {
+   "label": "Lei nº 22601, de 2024",
+   "title": "Altera a Lei nº 14.586, de 17 de novembro de 2003, que cria fundos rotativos na Secretaria de Estado da Saúde e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108660",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22602": {
+   "label": "Lei nº 22602, de 2024",
+   "title": "Dispõe sobre a obrigatoriedade de identificação de crianças e adolescentes em estabelecimentos de hotelaria e hospitalidade e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108661",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22603": {
+   "label": "Lei nº 22603, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108662",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22604": {
+   "label": "Lei nº 22604, de 2024",
+   "title": "Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108663",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22605": {
+   "label": "Lei nº 22605, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108664",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22606": {
+   "label": "Lei nº 22606, de 2024",
+   "title": "Altera a Lei nº 19.037, de 08 de outubro de 2015, que institui a Política Estadual de Aleitamento Materno.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108666",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22607": {
+   "label": "Lei nº 22607, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-09",
+   "published": "2024-04-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108667",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22608": {
+   "label": "Lei nº 22608, de 2024",
+   "title": "Altera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108669",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22609": {
+   "label": "Lei nº 22609, de 2024",
+   "title": "Altera a Lei nº 21.518, de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108670",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22610": {
+   "label": "Lei nº 22610, de 2024",
+   "title": "Autoriza a cessão de uso dos ginásios e praças esportivas estaduais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108671",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22611": {
+   "label": "Lei nº 22611, de 2024",
+   "title": "Institui o selo \"Cidade Amiga do Autista\".",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108672",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22612": {
+   "label": "Lei nº 22612, de 2024",
+   "title": "Dispõe sobre a Declaração Estadual de Direitos de Liberdade Econômica e sobre a atuação do Estado como agente normativo regulador, bem como suplementa, na administração pública direta, autárquica e fundacional do Estado de Goiás, a Lei federal nº 13.874, de 20 de setembro de 2019, para ampliar o alcance das garantias fundamentais à livre iniciativa, ao livre exercício de atividade econômica e à proteção dos valores sociais do trabalho.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108673",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22613": {
+   "label": "Lei nº 22613, de 2024",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jataí/GO.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108674",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22614": {
+   "label": "Lei nº 22614, de 2024",
+   "title": "Altera dispositivos da Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22615": {
+   "label": "Lei nº 22615, de 2024",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-04-11",
+   "published": "2024-04-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108676",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22618": {
+   "label": "Lei nº 22618, de 2024",
+   "title": "Altera a Lei nº 15.941, de 29 de dezembro de 2006, que institui o selo \"Empresa Inclusiva\", de reconhecimento às iniciativas empresariais que favoreçam a integração das pessoas portadoras de necessidades especiais.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108682",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22619": {
+   "label": "Lei nº 22619, de 2024",
+   "title": "Dispõe sobre as penalidades administrativas aplicáveis em razão de atos discriminatórios ou ofensivos contra a mulher, praticados em estádios de futebol, ginásios e demais locais onde são realizados eventos esportivos no âmbito do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108683",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22616": {
+   "label": "Lei nº 22616, de 2024",
+   "title": "Proíbe o ingresso de representantes de agências de modelos no ambiente escolar, na forma que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108684",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22617": {
+   "label": "Lei nº 22617, de 2024",
+   "title": "Institui a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-16",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108685",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22620": {
+   "label": "Lei nº 22620, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108686",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22621": {
+   "label": "Lei nº 22621, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108687",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22622": {
+   "label": "Lei nº 22622, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-16",
+   "published": "2024-04-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108688",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22623": {
+   "label": "Lei nº 22623, de 2024",
+   "title": "Altera a Lei nº 20.707, de 14 de janeiro de 2020, que dispõe sobre a realização do exame de detecção de mutação genética que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-17",
+   "published": "2024-04-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108689",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22624": {
+   "label": "Lei nº 22624, de 2024",
+   "title": "Proíbe a participação de crianças e adolescentes nos eventos que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-18",
+   "published": "2024-04-18",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108691",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22625": {
+   "label": "Lei nº 22625, de 2024",
+   "title": "Altera a Lei nº 16.898, de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo Estadual.",
+   "kind": "law",
+   "enacted": "2024-04-25",
+   "published": "2024-04-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108711",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22628": {
+   "label": "Lei nº 22628, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108713",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22629": {
+   "label": "Lei nº 22629, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108714",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22630": {
+   "label": "Lei nº 22630, de 2024",
+   "title": "Dispõe sobre a afixação da placa informativa que especifica nos órgãos da administração pública estadual.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108715",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22631": {
+   "label": "Lei nº 22631, de 2024",
+   "title": "Institui o Dia Estadual de Conscientização do Câncer de Pele.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108716",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22634": {
+   "label": "Lei nº 22634, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108717",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22632": {
+   "label": "Lei nº 22632, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108718",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22633": {
+   "label": "Lei nº 22633, de 2024",
+   "title": "Altera a Lei nº 20.097, de 28 de maio de 2018, que institui o \"Selo Verde Ambiental\" e o \"Selo Investimento Verde\".",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108719",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22635": {
+   "label": "Lei nº 22635, de 2024",
+   "title": "Altera a Lei nº 20.854, de 29 de setembro de 2020, que institui o selo \"Empresa Amiga da Mulher\" no âmbito do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108720",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22636": {
+   "label": "Lei nº 22636, de 2024",
+   "title": "Altera a Lei nº 19.767, de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108721",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22627": {
+   "label": "Lei nº 22627, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108722",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22626": {
+   "label": "Lei nº 22626, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2024-04-26",
+   "published": "2024-04-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108723",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22637": {
+   "label": "Lei nº 22637, de 2024",
+   "title": "Altera a Lei nº 21.525, de 26 de julho de 2022, que dispõe sobre a destinação, às mulheres vítimas de violência doméstica, de 5% (cinco por cento) das unidades de programas de loteamentos sociais e de habitação popular.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108724",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22638": {
+   "label": "Lei nº 22638, de 2024",
+   "title": "Dispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a Lei estadual nº 22.490, de 22 de dezembro de 2023.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108725",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22639": {
+   "label": "Lei nº 22639, de 2024",
+   "title": "Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108726",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22641": {
+   "label": "Lei nº 22641, de 2024",
+   "title": "Altera a Lei nº 18.052, de 24 de junho de 2013, para criar, na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, a Delegacia Especializada no Atendimento à Mulher - DEAM de São Luís de Montes Belos/GO, e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108728",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22642": {
+   "label": "Lei nº 22642, de 2024",
+   "title": "Altera a Lei nº 21.835, de 27 de março de 2023, que institui a Política Estadual de Incentivo à Agroindústria e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108729",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22643": {
+   "label": "Lei nº 22643, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108730",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22644": {
+   "label": "Lei nº 22644, de 2024",
+   "title": "Autoriza o Poder Executivo a celebrar contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos no Estado de Goiás ( Naming Rights).",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108731",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22645": {
+   "label": "Lei nº 22645, de 2024",
+   "title": "Institui a Política Estadual do Emprego Apoiado no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108732",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22646": {
+   "label": "Lei nº 22646, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108733",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22647": {
+   "label": "Lei nº 22647, de 2024",
+   "title": "Altera a Lei nº 20.629, de 08 de novembro de 2019, que define e pune atos de crueldade e maus-tratos contra animais, e a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22648": {
+   "label": "Lei nº 22648, de 2024",
+   "title": "Dispõe sobre o monitoramento permanente e a transparência do Poder Público estadual acerca das condições de trafegabilidade de rodovias estaduais.",
+   "kind": "law",
+   "enacted": "2024-04-29",
+   "published": "2024-04-29",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108735",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22649": {
+   "label": "Lei nº 22649, de 2024",
+   "title": "Autoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2024.",
+   "kind": "law",
+   "enacted": "2024-04-30",
+   "published": "2024-04-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108736",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22650": {
+   "label": "Lei nº 22650, de 2024",
+   "title": "Institui o Circuito do Encontro das Coroas do Divino Espírito Santo e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-04-30",
+   "published": "2024-04-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108737",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22651": {
+   "label": "Lei nº 22651, de 2024",
+   "title": "Confere ao Município de Jaraguá o título de \"Capital Estadual do Voo Livre\".",
+   "kind": "law",
+   "enacted": "2024-04-30",
+   "published": "2024-04-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108738",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-22601",
+   "short": "Lei 22601/2024",
+   "title": "Lei nº 22601, de 2024 (Altera a Lei nº 14.586, de 17 de novembro de 2003, que cria fundos rotativos na Secretaria de Estado da Saúde e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108660",
+   "first_law": "lei-2024-22601",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108660",
+     "sha256": "f8db4ddd13b06e96d1e2cb7434e58591173181f4b78435f361431b83c873ffcf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.601, DE 9 DE ABRIL DE 2024\nAltera a Lei nº 14.586, de 17 de novembro de 2003, que cria fundos rotativos na Secretaria de Estado da Saúde e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 14.586, de 17 de novembro de 2003, passa a vigorar com a seguinte alteração:\n\"Art 1º ..............................................................................................\nXXXIV - Fundo Rotativo do Centro Estadual de Odontologia Sebastião Alves Ribeiro - COEG, no valor de R$ 20.000,00 (vinte mil reais).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22602",
+   "short": "Lei 22602/2024",
+   "title": "Lei nº 22602, de 2024 (Dispõe sobre a obrigatoriedade de identificação de crianças e adolescentes em estabelecimentos de hotelaria e hospitalidade e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108661",
+   "first_law": "lei-2024-22602",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108661",
+     "sha256": "d438b7df13d9f05a74d53b2c11d8c9779e23858e3bb50054e5fc74512aa9a868",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.602, DE 9 DE ABRIL DE 2024\nDispõe sobre a obrigatoriedade de identificação de crianças e adolescentes em estabelecimentos de hotelaria e hospitalidade e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os estabelecimentos de hotelaria e hospitalidade, inclusive motéis, pensões, pousadas, albergues e congêneres, ficam obrigados a identificar as crianças e os adolescentes hospedados.\nParágrafo único. As crianças e os adolescentes deverão ser identificados nos termos deste artigo, ainda que estejam acompanhados dos pais ou dos responsáveis legais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º É proibida a hospedagem de crianças ou adolescentes desacompanhados dos pais ou responsáveis, ou sem autorização escrita deles ou da autoridade judiciária, nos estabelecimentos mencionados no caput do art. 1º .\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A identificação de que trata esta Lei deverá ser preenchida pelo estabelecimento de hotelaria e hospitalidade com base em documento oficial de cada criança ou adolescente e dos pais ou responsáveis e conterá, no mínimo, as seguintes informações:\nI - relativas à criança e ao adolescente:\na) nome completo;\nb) data de nascimento;\nc) naturalidade;\nd) endereço residencial;\nII - relativas aos pais ou responsáveis:\na) nome completo;\nb) data de nascimento;\nc) naturalidade;\nd) endereço residencial;\nIII - endereço residencial, contato telefônico e endereço eletrônico do pai ou da mãe que não acompanhe a criança ou o adolescente no momento da hospedagem, em caso de casal separado;\nIV - datas de entrada e de saída do estabelecimento;\nV - origem, na chegada ao estabelecimento, e destino previsto, na saída do estabelecimento.\n§ 1º Deverá ser anexada, na ficha de identificação, cópia da carteira de identidade ou certidão de nascimento da criança ou do adolescente.\n§ 2º No caso da inexistência de documento de identificação da criança ou do adolescente, o responsável pelo preenchimento deverá:\nI - anotar na ficha de identificação as informações disponíveis que ele tiver;\nII - anexar fotocópia da identificação dos pais ou dos responsáveis;\nIII - proceder à comunicação imediata do Conselho Tutelar.\n§ 3º A ficha de identificação deverá ficar armazenada em meio físico ou digital em poder do estabelecimento pelo prazo mínimo de 10 (dez) anos, resguardado o sigilo das informações, nos termos da Lei federal nº 13.709 (Lei Geral de Proteção de Dados Pessoais - LGPD), de 14 de agosto de 2018.\n§ 4º A ficha de identificação e os dados dela constantes somente serão fornecidos mediante a requisição de autoridade policial, do Ministério Público, do Poder Judiciário ou de quaisquer outras entidades legalmente autorizadas a requisitar informações.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os estabelecimentos indicados no caput do art. 1º deverão informar a obrigatoriedade de preenchimento da ficha de identificação e apresentação da documentação oficial das crianças ou dos adolescentes, no ato da contratação de hospedagem.\n§ 1º Os estabelecimentos citados no caput do art. 1º deverão incluir nos impressos distribuídos ou nos meios de divulgação utilizados a obrigação disposta no caput do art. 1º, bem como deverão manter, em lugar visível de suas dependências, cartaz informando sobre a obrigatoriedade do preenchimento da ficha de identificação das crianças ou dos adolescentes.\n§ 2º O cartaz referido no § 1º deste artigo deverá conter os seguintes dizeres: \"É proibida a hospedagem de criança ou adolescente em hotéis, motéis, pensões, pousadas ou estabelecimentos congêneres, salvo se autorizado ou acompanhado pelos pais ou responsável - art. 82 do Estatuto da Criança e do Adolescente (Lei federal nº 8.069, de 13 de julho de 1990). É obrigatório o preenchimento da ficha de identificação da criança ou do adolescente para a hospedagem. Em caso de suspeita de descumprimento da lei, denuncie discando 190\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O descumprimento desta Lei sujeitará o infrator, pessoa física ou jurídica, às penas previstas no art. 250 da Lei federal nº 8.069, de 13 de julho de 1990.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O Poder Executivo regulamentará esta Lei, no que couber.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica revogada a Lei nº 16.298, de 02 de julho de 2008.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Esta Lei entra em vigor após decorridos 90 (noventa) dias de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDRA. ZELI\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22603",
+   "short": "Lei 22603/2024",
+   "title": "Lei nº 22603, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108662",
+   "first_law": "lei-2024-22603",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108662",
+     "sha256": "cb9c0c74fbd05eaf20ee2bd99b4ffbb5ebd774eda9be54886eaf4b0949bb2947",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.603, DE 9 DE ABRIL DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO PROTETORA DOS ANIMAIS DE CATALÃO - ASPAC, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 08.323.233/0001-37, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22604",
+   "short": "Lei 22604/2024",
+   "title": "Lei nº 22604, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108663",
+   "first_law": "lei-2024-22604",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108663",
+     "sha256": "944905838097d48efa521e693a1c402f3b993091bff22c8583d4bde061e0277a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.604, DE 9 DE ABRIL DE 2024\nAltera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 15 da Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal, passa a vigorar com o seguinte acréscimo:\n\"Art 15 ..............................................................................................\nV - ter atendimento preferencial, em estabelecimentos públicos ou privados, em casos de emergência de primeiros socorros, avaliação clínica, vacinação antirrábica e esterilização dos animais.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22605",
+   "short": "Lei 22605/2024",
+   "title": "Lei nº 22605, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108664",
+   "first_law": "lei-2024-22605",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108664",
+     "sha256": "43a2c964d358efbd616ef16d16bed0e71152d28938a7bb03de6d9748e9a6e0a3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.605, DE 9 DE ABRIL DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BURITI DOAÇÕES - ABD, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 47.768.883/0001-48, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22606",
+   "short": "Lei 22606/2024",
+   "title": "Lei nº 22606, de 2024 (Altera a Lei nº 19.037, de 08 de outubro de 2015, que institui a Política Estadual de Aleitamento Materno.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108666",
+   "first_law": "lei-2024-22606",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108666",
+     "sha256": "6940c7651d6f634e8cced9595a658ede502be6e00e1b8f8e4eb9c11f799db0b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.606, DE 9 DE ABRIL DE 2024\nAltera a Lei nº 19.037, de 08 de outubro de 2015, que institui a Política Estadual de Aleitamento Materno.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 19.037, de 08 de outubro de 2015, passa a vigorar acrescido do seguinte inciso VIII:\n\"Art 2º ..............................................................................................\nVIII - estimular o aleitamento materno nas instituições de ensino, especialmente por meio da disponibilização de ambiente adequado à amamentação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22607",
+   "short": "Lei 22607/2024",
+   "title": "Lei nº 22607, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108667",
+   "first_law": "lei-2024-22607",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108667",
+     "sha256": "11412bd1666faf32e33b8fa1a63cd9e5a141ec6723fdaa49f76241e070c12c2c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.607, DE 9 DE ABRIL DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada JOSÉ MAGNO PATO a Rodovia GO-180, no trecho que liga a Rodovia BR-364 à Rodovia GO-467.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 9 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22608",
+   "short": "Lei 22608/2024",
+   "title": "Lei nº 22608, de 2024 (Altera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108669",
+   "first_law": "lei-2024-22608",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108669",
+     "sha256": "fdeccbe3cc7c59c75c77e1c65805bee3789e0a14f43b21deb46ca01e67e37db5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.608, DE 11 DE ABRIL DE 2024\nAltera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 7.371, de 20 de agosto de 1971, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\n§ 1º ........................................................................................................\n§ 2º A entidade declarada de utilidade pública fará jus ao certificado correspondente.\n§ 3º Fica facultado ao Deputado autor da lei que declarar a entidade de utilidade pública entregar o certificado de que trata o § 2º deste artigo em sessão solene, realizada na Assembleia Legislativa do Estado de Goiás, mediante prévio requerimento.\n§ 4º (VETADO).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O parágrafo único do art. 2º da Lei nº 7.371, de 20 de agosto de 1971, fica renumerado para § 1º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22609",
+   "short": "Lei 22609/2024",
+   "title": "Lei nº 22609, de 2024 (Altera a Lei nº 21.518, de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108670",
+   "first_law": "lei-2024-22609",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108670",
+     "sha256": "ecc8d30d664e8be37a7fb95f16f567f23afa6496f111aca1253cea03f9e9b8a2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.609, DE 11 DE ABRIL DE 2024\nAltera a Lei nº 21.518, de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.518, de 26 de julho de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 4º-A A Política Estadual ora instituída atenderá, ainda, às seguintes diretrizes:\nI - estimular a obtenção de dados informativos sobre perdas e desperdício de alimentos em cada elo da cadeia produtiva;\nII - incentivar a implantação de sistemas alimentares urbanos circulares;\nIII - estimular a celebração de parcerias ou convênios com as entidades da sociedade civil organizada, com os setores da indústria e comércio de alimentos e entre órgãos estaduais para fomentar a cooperação e formar uma rede de compartilhamento de alimentos;\nIV - incentivar a educação e conscientização da população sobre a importância do consumo responsável e do aproveitamento integral dos alimentos;\nV - incentivar a realização de campanhas educativas e de comunicação sobre a correta interpretação e aplicação do conceito best before;\nVI - estimular a capacitação de profissionais que atuam na produção, distribuição, comercialização e fiscalização de alimentos;\nVII - estimular a concessão de incentivos fiscais e creditícios para empresas que adotem práticas sustentáveis e tecnologias voltadas à redução do desperdício de alimentos;\nVIII - estimular a realização de trabalhos de enfrentamento a perdas e desperdício de alimentos como estratégia determinante para o combate à insegurança alimentar;\nIX - estimular a implementação de sistemas de coleta e redistribuição de alimentos excedentes e/ou próximos ao vencimento da data best before, em parceria com entidades assistenciais e beneficentes.\" (NR)\n\"Art. 4º-B As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente, conforme estabelecido no art. 3º da Lei Complementar nº 112, de 18 de setembro de 2014.\" (NR)\n\"Art. 4º-C Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e a avaliação da Política Pública ora instituída.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22610",
+   "short": "Lei 22610/2024",
+   "title": "Lei nº 22610, de 2024 (Autoriza a cessão de uso dos ginásios e praças esportivas estaduais e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108671",
+   "first_law": "lei-2024-22610",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108671",
+     "sha256": "cd6071c17e942c59c8e96572346f6b7c08e6ea38681703ae39ff5f7710b15677",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.610, DE 11 DE ABRIL DE 2024\nAutoriza a cessão de uso dos ginásios e praças esportivas estaduais e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizada a transferência, por meio de termo de cessão de uso, dos prédios públicos estaduais destinados às práticas esportivas, tais como ginásios, estádios e demais dependências, para os municípios onde se situam.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A cessão de uso é o ato bilateral, em processo específico, no qual o cedente permite ao cessionário utilizar o imóvel, a título precário e gratuito, por prazo indeterminado, ou ainda, pelo prazo mínimo de 20 (vinte) anos, podendo, a qualquer tempo, ser revogada pelo cedente, cabendo a este gerir e utilizar a edificação para sua finalidade, sendo vedada sua alteração, em qualquer hipótese.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O processo de cessão de uso iniciar-se-á por requerimento do município interessado, mediante apresentação da documentação constante do Anexo Único, junto à Secretaria de Estado de Esporte e Lazer, que formalizará o respectivo termo, a ser assinado por seu secretário, a quem compete a gestão dos imóveis públicos esportivos do Estado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica o Poder Executivo autorizado a alienar, mediante doação onerosa, aos municípios onde se encontram edificados os ginásios de esporte de propriedade do Estado de Goiás, observadas as normas aplicadas à espécie.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica o Poder Executivo autorizado a formalizar Acordo de Cooperação dos ginásios de esporte de propriedade do Estado de Goiás com entidades privadas.\nParágrafo único. O Acordo de Cooperação de que trata o caput será formalizado em processo específico, a título precário e gratuito, por prazo determinado, a fim de executar plano de trabalho, objetivando o interesse público e atendendo à devida finalidade dos ginásios, observadas as normas aplicadas à espécie.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O processo de acordo de cooperação iniciar-se-á por requerimento do interessado, mediante apresentação da documentação pertinente, junto à Secretaria de Estado de Esporte e Lazer, que formalizará o respectivo acordo, a ser assinado por seu secretário, a quem compete a gestão dos imóveis públicos esportivos do Estado.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º A cessão de uso, a alienação mediante doação onerosa e o acordo de cooperação serão fiscalizados pela Secretaria de Estado de Esporte e Lazer.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Nos casos em que houver formalização do termo de cessão de uso, alienação mediante doação onerosa ou acordo de cooperação entre municípios ou entidades privadas sem fins lucrativos e de interesse social, a que se refere esta Lei, poderá ser emitido pela Agência Goiana de Habitação S/A - AGEHAB ao cessionário/donatário/partícipe o subsídio para construção, reforma, ampliação ou melhoria de equipamentos, previstos no art. 1º, § 1º, II e art. 2º, § 1º, II, alínea \"c\", da Lei nº 14.542, de 30 de setembro de 2003, nos valores por ela estabelecidos, mediante procedimento administrativo.\n§ 1º A concessão do subsídio, nos termos previstos neste artigo, seguirá a regulamentação disposta na Lei nº 14.542, de 2003.\n§ 2º A prestação de contas do subsídio deverá ser realizada perante a Agência Goiana de Habitação S/A - AGEHAB, no prazo estabelecido pela Lei nº 14.542, de 2003.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Fica revogada a Lei nº 18.602, de 03 de julho de 2014.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\nVIRMONDES CRUVINEL\nDeputado Estadual\nANEXO ÚNICO\nChecklist\n1. SECRETARIA DE ESTADO DE ESPORTE E LAZER Verificação\n1.1 Instauração do processo mediante solicitação e apresentação de documentos pelo cessionário\n1.2 Documentação do Cessionário/Solicitante:\n1.2.1\nSolicitação do cessionário com justificativa para recebimento da cessão (atendimento ao interesse público)\n- Lei nº 17.928/2012, art. 35, caput.\n1.2.2 CNPJ do Cessionário\n1.2.3 Comprovante de representação (por exemplo, Diploma do Prefeito e termo de posse)\n1.2.4 Documentos pessoais do representante\n1.2.4.1 Carteira de identidade, CPF, Comprovante de endereço\n1.3 Declaração do Titular da Pasta de conveniência e oportunidade em ceder o imóvel e estabelecimento de encargos se onerosa\n1.4 Documentos do imóvel\n1.4.1 Certidão de registro imobiliário atualizada\n1.4.2 Planta do imóvel\n1.4.3 Memorial descritivo\n1.4.4 Vistoria\nOBS: Não são necessárias as certidões negativas de débitos do cessionário, caso este seja pessoa jurídica de direito público (aplicação, por analogia, do Despacho AG nº 2770/2015)\n2. PROCURADORIA SETORIAL (SEEL)\n2.1 Parecer (art. 47, § 2º, da LC 58/2006 e Despacho nº 1838/2019 - GAB (SEI nº 000010291068)\n3. SECRETARIA DE ESTADO DA ADMINISTRAÇÃO E SECRETARIA DE ESTADO DE ESPORTE E LAZER\n3.1 Efetivar o Cadastro da Gerência de Patrimônio Imobiliário da SEAD para registro do termo\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22611",
+   "short": "Lei 22611/2024",
+   "title": "Lei nº 22611, de 2024 (Institui o selo \"Cidade Amiga do Autista\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108672",
+   "first_law": "lei-2024-22611",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108672",
+     "sha256": "abe2341118081e4c1fa8330adfb2bf218126b258e642158fadad609fd5fae5b6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.611, DE 11 DE ABRIL DE 2024\nInstitui o selo \"Cidade Amiga do Autista\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o selo \"Cidade Amiga do Autista\" com a finalidade de estimular os municípios a adotarem medidas que incentivem a proteção e o respeito aos direitos das pessoas com Transtorno do Espectro Autista (TEA) e seus familiares.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para aderir ao selo instituído por esta Lei, o município deve dispor de Conselho Municipal das Pessoas com Transtorno do Espectro Autista (TEA) em funcionamento, além de apresentar plano de trabalho, definindo metas, prazos e ações que contemplem melhor qualidade de vida para as pessoas com Transtorno do Espectro Autista (TEA).\nParágrafo único. O plano de trabalho deverá contemplar os princípios e diretrizes previstas na Lei nº 20.638, de 14 de novembro de 2019.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\nParágrafo único. É prerrogativa do município que atender aos requisitos previstos nesta Lei fazer uso publicitário do selo \"Cidade Amiga do Autista\".\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22612",
+   "short": "Lei 22612/2024",
+   "title": "Lei nº 22612, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108673",
+   "first_law": "lei-2024-22612",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108673",
+     "sha256": "4cb29a260a2bd616799e256e0573b1ef192bdbdac4c44a7e756dcfe70017e641",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.612, DE 11 DE ABRIL DE 2024\nDispõe sobre a Declaração Estadual de Direitos de Liberdade Econômica e sobre a atuação do Estado como agente normativo regulador, bem como suplementa, na administração pública direta, autárquica e fundacional do Estado de Goiás, a Lei federal nº 13.874, de 20 de setembro de 2019, para ampliar o alcance das garantias fundamentais à livre iniciativa, ao livre exercício de atividade econômica e à proteção dos valores sociais do trabalho.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DO OBJETO E DO ÂMBITO DE APLICAÇÃO\nArt. 1º Esta Lei dispõe sobre a Declaração Estadual de Direitos de Liberdade Econômica e sobre a atuação do Estado como agente normativo regulador, bem como suplementa, na administração pública direta, autárquica e fundacional do Estado de Goiás, a Lei federal nº 13.874, de 20 de setembro de 2019, para ampliar o alcance das garantias fundamentais à livre iniciativa, ao livre exercício de atividade econômica e à proteção dos valores sociais do trabalho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DA DECLARAÇÃO ESTADUAL DE DIREITOS DE LIBERDADE ECONÔMICA\nArt. 2º São princípios que norteiam o disposto nesta Lei:\nI - a liberdade como uma garantia no exercício de atividades econômicas;\nII - a presunção de boa-fé do particular;\nIII - a intervenção subsidiária, mínima e excepcional do Estado sobre o exercício de atividades econômicas;e\nIV - o reconhecimento da vulnerabilidade do particular perante o Estado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins do disposto nesta Lei, consideram-se atos públicos de liberação de atividade econômica a licença, a autorização, a inscrição, o registro, o alvará e os demais atos exigidos com qualquer denominação, inclusive nos âmbitos ambiental, sanitário e de edificação, por órgão ou entidade da administração pública na aplicação de legislação, também como condição prévia para o exercício de atividade econômica, inclusive o início, a instalação, a operação, a produção, o funcionamento, o uso, o exercício ou a realização, nos âmbitos público ou privado, de atividade, serviço, estabelecimento, profissão, instalação, operação, produto, equipamento, veículo, edificação e outros.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º São direitos de toda pessoa, natural ou jurídica, de direito público ou privado, de fato ou de direito, essenciais para o desenvolvimento e o crescimento econômico do Estado, observado o disposto no parágrafo único do art. 170 da Constituição Federal:\nI - desenvolver atividade econômica de baixo risco, para a qual se valha exclusivamente de propriedade privada própria ou de terceiros consensuais, sem a necessidade de quaisquer atos públicos de liberação da atividade econômica, ressalvada a obrigatoriedade de inscrição cadastral;\nII - desenvolver atividade econômica em qualquer horário ou dia da semana, inclusive feriados, sem que para isso esteja sujeito a cobranças adicionais de tributos, tarifas ou encargos pelo Estado, observadas:\na) as normas de proteção à saúde e ao meio ambiente, incluídas as de combate à poluição sonora e à perturbação do sossego público;\nb) as restrições advindas de contrato, de regulamento condominial ou de outro negócio jurídico, bem como as decorrentes das normas de direito real, incluídas as de direito de vizinhança;\nc) a legislação trabalhista; e\nd) as disposições de órgãos reguladores de funcionamento e horários especiais para determinadas atividades econômicas;\nIII - receber tratamento isonômico de órgãos e de entidades da administração pública ou de quem em nome dela agir, quanto ao exercício de atos de liberação da atividade econômica, hipótese em que o ato de liberação estará vinculado aos mesmos critérios de interpretação adotados em decisões administrativas análogas anteriores, observado o disposto em regulamento;\nIV - gozar de presunção de boa-fé nos atos praticados no exercício da atividade econômica, para os quais as dúvidas de interpretação dos direitos civil, empresarial, econômico e urbanístico serão resolvidas de forma a preservar a autonomia privada, exceto se houver expressa disposição legal em contrário;\nV - ter acesso público, amplo e simplificado aos processos e aos atos de liberação de atividade econômica, observadas as disposições da Lei federal nº 13.709 (Lei Geral de Proteção de Dados Pessoais - LGPD), de 14 de agosto de 2018;\nVI - ter a garantia de que, nas solicitações de atos públicos de liberação da atividade econômica que se sujeitam ao disposto nesta Lei, apresentados todos os elementos necessários à instrução do processo, o particular será cientificado expressa e imediatamente do prazo máximo estipulado para a análise de seu pedido e de que, transcorrido o prazo fixado, o silêncio da autoridade competente importará aprovação tácita para todos os efeitos, ressalvadas as hipóteses expressamente vedadas em lei ou decreto; e\nVII - arquivar qualquer documento por meio de microfilme ou por meio digital, conforme técnica e requisitos estabelecidos em regulamento, hipótese em que se equiparará a documento físico para todos os efeitos legais e para a comprovação de qualquer ato de direito público.\n§ 1º Excetuam-se do disposto nesta Lei as autorizações a título precário de uso de área pública, e é obrigatório em tais casos o cumprimento das normas de localização e observância dos produtos ou das mercadorias que poderão ser comercializados no local, conforme a legislação estadual em vigor.\n§ 2º Os atos e as decisões administrativas referentes a atos de liberação da atividade econômica deverão permanecer disponíveis para acesso na página eletrônica do respectivo órgão ou entidade, para a garantia da transparência, da publicidade e da segurança administrativa, conforme o inciso IV do art. 3º da Lei federal nº 13.874, de 2019.\n§ 3º Ficam dispensados o reconhecimento de firma e a autenticação de cópia dos documentos expedidos no país que sejam destinados a fazer prova em órgãos e entidades da administração estadual direta e indireta, salvo dúvida fundada acerca da autenticidade do documento.\n§ 4º A aprovação tácita prevista no inciso VI do caput deste artigo não se aplica quando a titularidade da solicitação for de agente público ou de seu cônjuge, companheiro ou parente em linha reta ou colateral, por consanguinidade ou afinidade, até o 3º (terceiro) grau, dirigida à autoridade administrativa ou política do próprio órgão ou entidade da administração pública em que desenvolver suas atividades funcionais.\n§ 5º Os prazos a que se refere o inciso VI do caput deste artigo serão definidos individualmente pelo órgão ou pela entidade da administração pública solicitados no momento do pedido, observados os parâmetros uniformes do próprio órgão ou da entidade, e não ultrapassarão 60 (sessenta) dias para atos relacionados a atividade de médio risco e 120 (cento e vinte) dias para atos relacionados a atividade de alto risco, salvo na hipótese de legislação que preveja prazos administrativos superiores, ocasião em que a administração observará a normatização específica incidente.\n§ 6º Na contagem dos prazos previstos no § 5º deste artigo, não se computará o tempo em que a administração necessitar diligenciar, perante o particular, a complementação da instrução do processo ou existirem obstáculos que, excepcional e motivadamente, dificultarem ou impedirem a análise do pedido formulado.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Serão consideradas atividades econômicas de baixo risco as assim regulamentadas por decreto estadual.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As atividades econômicas de baixo risco serão fiscalizadas em momento posterior, de ofício ou em razão de denúncia, a fim de averiguar se o estabelecimento está em conformidade com as normas pertinentes ao ramo da atividade econômica.\n§ 1º O primeiro ato de fiscalização da atividade será orientador e assinalará, por meio de notificação, prazo para a adequação de eventuais inconformidades constatadas, exceto na ocorrência de risco iminente à saúde pública, reincidência, fraude, resistência ou embaraço à fiscalização e outra condição relevante de risco constatada pelo agente público, caso em que caberá à administração pública o ônus de demonstrar, de forma expressa e excepcional, a imperiosidade da eventual restrição.\n§ 2º O critério da dupla visita deve ser observado para a lavratura de autos de infração e a aplicação de penalidades decorrentes do exercício de atividade considerada de baixo risco, exceto na ocorrência de risco iminente à saúde pública, reincidência, fraude, resistência ou embaraço à fiscalização e outra condição relevante de risco constatada pelo agente público.\n§ 3º Considera-se observado o critério da dupla visita quando, no ato da fiscalização, houver auto de infração ou notificação preexistente, emitido pelo Estado ou outra autoridade competente que aponte expressamente a irregularidade encontrada.\n§ 4º O critério da dupla visita não afasta o dever de adequação à legislação vigente.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O particular que, por si ou por seu representante, fizer declarações falsas ou omitir dolosamente circunstâncias relevantes na autodeclaração estará sujeito à aplicação de multa pelo órgão responsável pelo licenciamento, sem prejuízo a outras sanções previstas em lei.\n§ 1º A multa será graduada de acordo com a gravidade da infração, a vantagem auferida, a condição econômica do declarante, a reincidência do infrator e/ou as circunstâncias agravantes ou atenuantes e será aplicada mediante procedimento administrativo, conforme disposto em decreto.\n§ 2º O valor da multa não será inferior a 0,1% (um décimo por cento) nem superior a 10% (dez por cento) do faturamento bruto dos exercícios financeiros a partir de quando a infração houver sido praticada.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DAS GARANTIAS DE LIVRE INICIATIVA\nArt. 8º É dever da administração pública e das demais entidades que se vinculam a esta Lei, no exercício de regulamentação de norma pública pertencente à legislação sobre a qual versa, exceto se em estrito cumprimento à previsão explícita em lei, evitar o abuso do poder regulatório de maneira a, indevidamente:\nI - criar reserva de mercado ao favorecer, na regulação, grupo econômico ou profissional, em prejuízo aos demais concorrentes;\nII - redigir enunciados que impeçam a entrada de novos competidores nacionais ou estrangeiros no mercado;\nIII - exigir especificação técnica que não seja necessária para atingir o fim desejado;\nIV - redigir enunciados que impeçam ou retardem a inovação e a adoção de novas tecnologias, processos ou modelos de negócios, ressalvadas as situações consideradas em regulamento como de alto risco;\nV - aumentar os custos de transação sem demonstração de benefícios;\nVI - criar demanda artificial ou compulsória de produto, serviço ou atividade profissional, inclusive de uso de cartórios, registros ou cadastros;\nVII - introduzir limites à livre formação de sociedades empresariais ou de atividades econômicas; e\nVIII - restringir o uso e o exercício da publicidade e da propaganda sobre um setor econômico, ressalvadas as hipóteses expressamente vedadas em lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DA ANÁLISE DE IMPACTO REGULATÓRIO\nArt. 9º As propostas de edição e de alteração de atos normativos de interesse geral de agentes econômicos ou de usuários dos serviços prestados editadas por órgão ou entidade da administração pública estadual, incluídas as autarquias e as fundações públicas, serão precedidas, sempre que for possível, da realização de análise de impacto regulatório, que conterá informações e dados sobre os possíveis efeitos do ato normativo, para verificar a razoabilidade do seu impacto econômico.\n§ 1º O Poder Executivo poderá editar regulamento sobre o conteúdo e a metodologia da análise de impacto regulatório, sobre os quesitos mínimos a serem objeto de exame e sobre as hipóteses em que a referida análise poderá ser dispensada.\n§ 2º A análise de impacto regulatório de que trata o caput deste artigo será disponibilizada no sítio eletrônico oficial do órgão ou da entidade por ela responsável, em local de fácil acesso, também com a informação sobre as fontes de dados utilizadas para a análise, preferencialmente em formato de planilha de dados, sem prejuízo à divulgação em outros locais ou formatos de dados.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DO CONSELHO CONSULTIVO DE LIBERDADE ECONÔMICA - CCLE\nArt. 10. Fica instituído o Conselho Consultivo de Liberdade Econômica - CCLE, órgão técnico de caráter não vinculativo, que tem por atribuição, entre outras, apoiar o Poder Executivo na definição das atividades de baixo risco, conforme o inciso I do art. 4º e o art. 5º desta Lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Compete ao CCLE:\nI - apoiar o Poder Executivo na definição e/ou na alteração das atividades de baixo risco;\nII - colaborar na elaboração de normas complementares para o cumprimento do disposto nesta Lei;\nIII - apresentar ao Poder Executivo e ao Poder Legislativo as propostas de melhoria da legislação estadual referente à liberdade econômica;\nIV - identificar as dificuldades burocráticas enfrentadas pelas atividades econômicas e produtivas e formular estratégias para simplificar, desburocratizar e reduzir o tempo e o custo regulatório dessas atividades, para fortalecer o empreendedorismo em todas as esferas de governo;\nV - elaborar e encaminhar ao Chefe do Poder Executivo relatório com a avaliação do tempo médio e do custo econômico regulatório por atividade, bem como o mapeamento métrico com os indicadores e as indicações para que sejam adotadas as medidas corretivas ou de aperfeiçoamento necessárias;\nVI - desenvolver métricas e indicadores para a elaboração do relatório tratado no inciso V do caput deste artigo;\nVII - realizar e coordenar estudos técnicos, oficinas e encontros para a discussão de temas relacionados à liberdade econômica;\nVIII - emitir parecer opinativo, mediante solicitação do Chefe do Poder Executivo, acerca de temas relacionados à liberdade econômica;\nIX - manter ouvidoria destinada ao recebimento de reclamações e de denúncias sobre a inobservância, por parte das autoridades estaduais ou municipais, das normas relacionadas à liberdade econômica;\nX - analisar o impacto regulatório dos projetos normativos de que trata o inciso II do caput deste artigo;\nXI - elaborar o seu regimento interno e as suas normas de atuação; e\nXII - encarregar-se de outras competências relacionadas à execução desta Lei.\n§ 1º O CCLE será composto pelos seguintes membros:\nI - 1 (um) representante da Secretaria-Geral de Governo - SGG;\nII - 1 (um) representante da Diretoria-Executiva do Instituto Mauro Borges - IMB, da SGG;\nIII - 1 (um) representante da Assembleia Legislativa do Estado de Goiás;\nIV - 2 (dois) representantes do Fórum das Entidades Empresariais de Goiás - Fórum Empresarial;\nV - 1 (um) representante da Ordem dos Advogados do Brasil; e\nVI - 1 (um) representante do Sistema S.\n§ 2º A participação no CCLE é considerada atividade relevante e não remunerada.\n§ 3º O CCLE terá a direção alternada entre as cadeiras dos membros indicados anualmente, e não haverá cumulação ou reeleição até que todas as cadeiras indicadas passem pela direção.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DAS DISPOSIÇÕES FINAIS\nArt. 12. Os direitos tratados nesta Lei devem ser compatibilizados com as normas de segurança nacional, de segurança pública, ambientais, sanitárias ou de saúde pública.\nParágrafo único. As normas específicas, federais ou estaduais, que tratem de atos públicos de liberação ambiental, sanitária, de saúde pública ou de proteção contra incêndio deverão prevalecer em caso de conflito com o disposto nesta Lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Os direitos de que trata esta Lei não se aplicam às normas de direito tributário e não prejudicam a incidência dos tributos estaduais e as regras estabelecidas na legislação tributária estadual.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O disposto nesta Lei não se aplica ao direito tributário, ao direito financeiro, bem como aos serviços públicos previstos na Constituição do Estado de Goiás e já regulados por lei específica.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. O Poder Executivo regulamentará esta Lei no prazo de 90 (noventa) dias do início de sua vigência.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta Lei entra em vigor 45 (quarenta e cinco) dias após a sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22613",
+   "short": "Lei 22613/2024",
+   "title": "Lei nº 22613, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jataí/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108674",
+   "first_law": "lei-2024-22613",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108674",
+     "sha256": "b9b157e4bd07434bc61616016138e4cf62fa14c469a9c65d53961431f2d2902c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.613, DE 11 DE ABRIL DE 2024\nAutoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jataí/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Chefe do Poder Executivo autorizado a alienar, mediante doação onerosa ao Município de Jataí/GO, CNPJ nº 01.165.729/0001-80, o imóvel com 25.950,74 m² (vinte e cinco mil, novecentos e cinquenta metros quadrados e setenta e quatro decímetros quadrados) especificado no Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel descrito e caracterizado no Anexo Único desta Lei está avaliado em R$ 905.940,33 (novecentos e cinco mil, novecentos e quarenta reais e trinta e três centavos), conforme o Laudo de Avaliação para Doação nº 52/2023, da Gerência de Gestão de Informações Imobiliárias, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata o art. 1º desta Lei destina-se à construção de 1 (uma) unidade de atenção especializada em saúde, no prazo de 3 (três) anos, prorrogável por igual período, vedadas a locação, a sublocação, a transferência, a cessão ou a utilização do bem para finalidade diversa.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes em favor do doador, caso haja o descumprimento do disposto no art. 3º desta Lei, sem direito à indenização.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel ao Município de Jataí/GO.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nESPECIFICAÇÃO DO IMÓVEL A SER DOADO\nIMÓVEL OBJETO DE DOAÇÃO ONEROSA AO MUNICÍPIO DE JATAÍ/GO, DESTINADO À CONSTRUÇÃO DE UNIDADE DE ATENÇÃO ESPECIALIZADA EM SAÚDE\nDENOMINAÇÃO ÁREA URBANA\nÁREA 25.950,74 m²\nLOCALIZAÇÃO AVENIDA JOÃO OTONI DE CARVALHO, ÁREA 2, BAIRRO JACUTINGA, 75807-652, JATAÍ/GO\nPROPRIETÁRIO ESTADO DE GOIÁS\nMATRÍCULA Nº 54.418 - CARTÓRIO DE REGISTRO DE IMÓVEIS, PESSOAS JURÍDICAS, TÍTULOS, DOCUMENTOS E TABELIONATO DE PROTESTO DA COMARCA DE JATAÍ\nMEMORIAL DESCRITIVO ASSIM SE DESCREVE: \"UMA ÁREA URBANA DESIGNADA DE ÁREA 02, COM FRENTE PARA ÁREA DE AMPLIAÇÃO DA AVENIDA JOÃO OTONI DE CARVALHO, MEDINDO 402,27 METROS DE FRENTE; 259,51 METROS DE FUNDO, POR 103,80 METROS DE CADA LADO, COM ÁREA TOTAL DE 25.950,74M², LIMITA A DIREITA COM O REMANESCENTE DA ÁREA, À ESQUERDA COM A ÁREA 03 (VIA PÚBLICA), E AO FUNDO COM O REMANESCENTE DA ÁREA\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22614",
+   "short": "Lei 22614/2024",
+   "title": "Lei nº 22614, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108675",
+   "first_law": "lei-2024-22614",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108675",
+     "sha256": "6ed8ad911ce40e1dd3983dfef8e0a075ea29242b110afec6380316c0ee417514",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.614, DE 11 DE ABRIL DE 2024\nAltera dispositivos da Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.880, de 20 de abril de 2023, que institui o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás, passa a vigorar com as seguintes alterações:\n\"Art. 1º Fica instituído o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde, pessoa jurídica de direito privado, sem fins lucrativos, na modalidade de autogestão multipatrocinada, com o objetivo de prestar assistência à saúde, de caráter suplementar, inclusive com a manutenção, a criação, a administração e a operação de planos privados de assistência à saúde.\nParágrafo único. O Ipasgo Saúde goza, nos termos das alíneas \"a\" e \"c\" do inciso VI do art. 150 da Constituição federal, de imunidade em relação aos impostos federais e municipais, bem como é beneficiário de isenção dos tributos estaduais e isenção de custas, emolumentos e demais taxas judiciárias estaduais.\" (NR)\n\"Art. 1º-A. Poderão ser inscritos como beneficiários do Ipasgo Saúde:\nI - servidores e empregados públicos e militares, ativos, inativos, ex-servidores e pensionistas dos Poderes do Estado de Goiás, dos municípios e da União, desde que estejam estabelecidos no território estadual;\nII - servidores e empregados públicos de outros entes da Federação que estiverem cedidos ao Estado, com ônus para o órgão requisitante;\nIII - pessoal de que trata a Lei estadual nº 8.974, de 5 de janeiro de 1981, ativo e inativo;\nIV - pensionistas de ex-detentores de emprego público estadual, desde que o benefício tenha sido concedido pelo Regime Geral de Previdência devido ao vínculo com a administração pública estadual;\nV - serventuários da Justiça, titulares cartorários e dobristas, ativos e inativos, inscritos na vigência da Lei estadual nº 10.150, de 29 de novembro de 1986;\nVI - detentores de mandato eletivo do Executivo e do Legislativo estadual ou municipal, durante o seu exercício;\nVII - empregados, aposentados e administradores do próprio Ipasgo Saúde; e\nVIII - grupos familiares dos beneficiários indicados nos incisos I a VII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.\" (NR)\n\"Art 2º ..............................................................................................\nIII - receitas decorrentes de convênios, contratos e outras formas, inclusive da exploração dos recursos de propriedade ou de uso do Ipasgo Saúde;\nIV - doações, legados, subvenções, repasses, ressarcimentos, compensações, programas de apoio custeados por entes públicos e outras rendas eventuais, inclusive as contribuições dos patrocinadores;\n..........................................................................................................................\" (NR)\n\"Art. 4º Ao beneficiário, optante do padrão de conforto básico ou especial, cadastrado até a data de vigência desta Lei, ficam assegurados os percentuais de desconto e o sistema assistencial da extinta autarquia, e ele poderá, por sua livre iniciativa, aderir a outras modalidades de planos assistenciais que possam ser criadas pelo Ipasgo Saúde.\" (NR)\n\"Art 5º ..............................................................................................\nII - Diretoria- Executiva, integrada pelo Presidente e pelos Diretores; e\n..........................................................................................................................\" (NR)\n\"Art 6º ..............................................................................................\nI - por 4 (quatro) representantes e seus respectivos suplentes indicados pelo Governador do Estado, e o Estado de Goiás serão principal patrocinador;\nIII - por 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde;\nIV - por 1 (um) representante e seu respectivo suplente dos servidores vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e\nV - pelo Presidente do Ipasgo Saúde e seu suplente, com direito a voz e voto, nos casos em que não se evidencie conflito de interesses.\n..........................................................................................................................\" (NR)\n\"Art 7º ..............................................................................................\nI - 2 (dois) representantes e seus respectivos suplentes indicados pelo Governador do Estado;\nII - 1 (um) representante dos servidores públicos do Estado de Goiás e seu respectivo suplente;\nIII - 1 (um) representante e seu respectivo suplente indicados pelo segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde; e\nIV - 1 (um) representante dos servidores e seu respectivo suplente vinculados ao segundo maior patrocinador em número de usuários, de acordo com os convênios firmados com Ipasgo Saúde.\n..........................................................................................................................\" (NR)\n\"Art. 9º A Diretoria-Executiva será indicada pelo Governador do Estado de Goiás, com a seguinte composição:\nI - Presidente; e\nII - Diretores.\" (NR)\n\"Art. 11. O Presidente, os Diretores e os Conselheiros serão pessoalmente responsáveis pelos atos lesivos que praticarem com dolo, culpa, desídia ou fraude e pelas infrações às legislações federal e estadual pertinentes e ao Estatuto do Ipasgo Saúde, assegurados o contraditório e a ampla defesa, com a observância do devido processo legal.\" (NR)\n\"Art. 14. Para o alcance de sua finalidade, o Ipasgo Saúde celebrará convênio com cada patrocinador, observado o disposto nesta Lei, no Estatuto do Ipasgo Saúde e nas normas da Agência Nacional de Saúde Suplementar - ANS.\n§ 1º Considera-se patrocinadora a instituição pública ou privada que participa, total ou parcialmente, do custeio do plano privado de assistência à saúde ou de outras despesas relativas à sua execução e administração, na forma definida no convênio celebrado com o Ipasgo Saúde.\n§ 2º Poderão ser patrocinadores dos planos de saúde operados pelo Ipasgo Saúde:\nI - órgãos, autarquias e fundações públicas de qualquer dos Poderes do Estado de Goiás e de seus municípios;\nII - órgãos, autarquias e fundações públicas da União estabelecidos no território estadual;\nIII - entidades representativas dos respectivos beneficiários relacionados no inciso I do art. 1º- A; e\nIV - o Ipasgo Saúde, na condição de patrocinador dos planos de assistência à saúde concedidos aos seus empregados e administradores.\n§ 3º O convênio deverá conter, no mínimo, as seguintes informações:\nI - a participação financeira dos beneficiários no custeio do plano;\nII - a participação financeira do patrocinador no custeio do plano, quando for o caso;\nIII - as condições de ingresso e de exclusão de beneficiários;\nIV - a forma de cálculo da revisão das contraprestações pecuniárias;\nV - as coberturas e exclusões assistenciais;\nVI - as carências;\nVII - os mecanismos de regulação ou fatores moderadores utilizados no plano; e\nVIII - as demais condições exigidas pela Lei federal nº 9.656, de 3 de junho 1998.\" (NR)\n\"Art. 19. A normatização do sistema de assistência à saúde ocorrerá na forma de regulamento próprio para cada plano de saúde, com a aprovação do Conselho de Administração e registro na Agência Nacional de Saúde Suplementar - ANS. \" (NR)\n\"Art. 23. No caso de desvio de finalidade do Ipasgo Saúde ou de sua extinção, ocorrerá a reversão integral do patrimônio aportado pelo respectivo patrocinador.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os seguintes dispositivos da Lei nº 21.880, de 20 de abril de 2023:\nI - o parágrafo único do art. 14, com seus incisos; e\nII - o parágrafo único do art. 19, com seus incisos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22615",
+   "short": "Lei 22615/2024",
+   "title": "Lei nº 22615, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108676",
+   "first_law": "lei-2024-22615",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108676",
+     "sha256": "8faa3553f9b6347a772e465a7a9ca208b4bdf40fb19f9cc96297167e2e71f89d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.615, DE 11 DE ABRIL DE 2024\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, passa a vigorar com as seguintes alterações:\n\"Art 114 ............................................................................................\n§ 12. Nas ações ajuizadas ou nos recursos em que figura como requerente ou recorrente advogado(a) ou sociedade de advogados com inscrição regular na Ordem dos Advogados do Brasil - Seção Goiás, perante o Poder Judiciário estadual, visando ao recebimento ou ao arbitramento de honorários advocatícios, a taxa judiciária, as custas processuais e o preparo recursal serão recolhidos apenas ao final, pela parte vencida.\n§ 13. O disposto no § 12 deste artigo não se aplica às despesas com atos de comunicação processual, de constrição de bens, de avaliação e com realização de perícia.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As disposições desta Lei aplicam-se às ações e aos recursos em tramitação, nos quais não tenham sido recolhidos a taxa judiciária, as custas processuais e o preparo recursal, ainda que já tenha sido deferido o seu parcelamento.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22618",
+   "short": "Lei 22618/2024",
+   "title": "Lei nº 22618, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108682",
+   "first_law": "lei-2024-22618",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108682",
+     "sha256": "0feb7d68b83c6e83f36ff8e806399e2ad0160cee683ec77d1352413ca34c27f9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.618, DE 16 DE ABRIL DE 2024\nAltera a Lei nº 15.941, de 29 de dezembro de 2006, que institui o selo \"Empresa Inclusiva\", de reconhecimento às iniciativas empresariais que favoreçam a integração das pessoas portadoras de necessidades especiais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 15.941, de 29 de dezembro de 2006, passa a vigorar com as seguintes alterações:\n\"Art. 1º Fica instituído o selo \"Empresa Inclusiva\", de reconhecimento ao mérito das iniciativas empresariais que favoreçam a integração e/ou a melhoria da qualidade de vida das pessoas idosas, daquelas com deficiência e das pessoas com Transtorno do Déficit de Atenção com Hiperatividade - TDAH.\nParágrafo único. Para os efeitos desta Lei, considera-se pessoa com deficiência aquela com Transtorno do Espectro Autista - TEA, conforme art. 1º, § 2º, da Lei federal nº 12.764, de 27 de dezembro de 2012, que institui a Política Nacional de Proteção dos Direitos da Pessoa com Transtorno do Espectro Autista; e altera o § 3º do art. 98 da Lei nº 8.112, de 11 de dezembro de 1990.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22619",
+   "short": "Lei 22619/2024",
+   "title": "Lei nº 22619, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108683",
+   "first_law": "lei-2024-22619",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108683",
+     "sha256": "b396db9e5fcb147f5d5faa314c93ac2f8827b6c3fabe576a30b9385f3bdf1f44",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.619, DE 16 DE ABRIL DE 2024\nDispõe sobre as penalidades administrativas aplicáveis em razão de atos discriminatórios ou ofensivos contra a mulher, praticados em estádios de futebol, ginásios e demais locais onde são realizados eventos esportivos no âmbito do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A prática de atos de importunação sexual ou de atos discriminatórios ou ofensivos contra a mulher em estádios de futebol, ginásios e demais locais onde são realizados eventos esportivos no Estado de Goiás constitui infração administrativa sujeita às penalidades previstas nesta Lei.\nParágrafo único. Para os fins desta Lei, consideram-se atos discriminatórios ou ofensivos contra a mulher qualquer tipo de manifestação ou ação violenta, constrangedora, intimidatória ou depreciativa, resultante de preconceito de gênero ou da condição feminina, tais como:\nI - incitar ou praticar qualquer forma de violência sexual contra as mulheres;\nII - portar ou ostentar cartazes, bandeiras, símbolos ou outros sinais com mensagens de caráter vexatório, agressivo ou discriminatório;\nIII - entoar cânticos insultuosos ou vexatórios às mulheres, ainda que não sejam dirigidos a pessoa ou grupo determinado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os meios de comunicação, as organizações não governamentais e os clubes esportivos, bem como as entidades comunitárias e associações, serão estimulados a colaborar com a implantação e o cumprimento da Política Estadual de Combate aos atos discriminatórios contra as mulheres no Esporte.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A multa será fixada no valor de R$ 1.100,00 (mil e cem reais) até R$ 5.500,00 (cinco mil e quinhentos reais), de acordo com a gravidade do ato e as circunstâncias da infração.\nParágrafo único. Em caso de reincidência, o valor da multa será aplicado em dobro.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Cabe ao Chefe do Poder Executivo regulamentar esta Lei para sua fiel execução.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22616",
+   "short": "Lei 22616/2024",
+   "title": "Lei nº 22616, de 2024 (Proíbe o ingresso de representantes de agências de modelos no ambiente escolar, na forma que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108684",
+   "first_law": "lei-2024-22616",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108684",
+     "sha256": "03428f04605f837d6ba2ce613e468ca98bbd5de1124db3728921c2d5a003ece7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.616, DE 16 DE ABRIL DE 2024\nProíbe o ingresso de representantes de agências de modelos no ambiente escolar, na forma que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibido o ingresso de representantes de agências de modelos no ambiente das escolas públicas estaduais e privadas, visando ao cadastramento e ao recrutamento de possíveis clientes de seus serviços.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22617",
+   "short": "Lei 22617/2024",
+   "title": "Lei nº 22617, de 2024 (Institui a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108685",
+   "first_law": "lei-2024-22617",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-16",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108685",
+     "sha256": "ec4146e32195e390e7f7fe662cdfdb50eea2e28838b1869bacc124289d7574c2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.617, DE 16 DE ABRIL DE 2024\nInstitui a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Pública instituída por esta Lei objetiva, especialmente, promover a saúde, o bem-estar, a qualidade de vida e a inclusão social das pessoas com albinismo, garantindo-lhes o acesso integral aos serviços de saúde, prevenção e tratamento de quadros relacionados a essa condição genética.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São diretrizes da Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo, especialmente:\nI - promover o acesso aos serviços públicos de saúde, em especial para a realização periódica de exames oftalmológicos e dermatológicos para o monitoramento dos riscos de cegueira e de câncer de pele;\nII - fornecer, preferencialmente aos comprovadamente carentes, equipamentos necessários à proteção dos olhos e da pele, inclusive protetor e bloqueador solar que permitam a melhoria funcional e a autonomia pessoal das pessoas com albinismo;\nIII - desenvolver programas e ações especiais de prevenção de acidentes;\nIV - promover ações de conscientização e de educação sobre o albinismo;\nV - combater a discriminação e o estigma social associados ao albinismo, promovendo a inclusão e a igualdade de oportunidades;\nVI - implementar programas e ações de triagem oftalmológica regulares para detecção precoce de problemas de visão e acesso a dispositivos de auxílio visual, quando necessário;\nVII - promover serviços de habilitação e de reabilitação profissional das pessoas com albinismo, objetivando capacitá- las para o mercado de trabalho;\nVIII - divulgar informações relativas ao albinismo e suas implicações;\nIX - garantir o atendimento prioritário na marcação de consultas dermatológicas e oftalmológicas com observância da classificação de risco;\nX - realizar, periodicamente, censo para coleta e divulgação de informações sobre população com albinismo;\nXI - estimular a inovação e o desenvolvimento de pesquisas científicas sobre o albinismo, objetivando, especialmente, a promoção de tratamentos mais eficazes, contribuindo para a melhoria da qualidade de vida dessas pessoas;\nXII - estimular a ampliação dos atendimentos médicos e de novas modalidades de exames, como exame genético e laboratorial (vitamina D);\nXIII - promover a orientação e a oferta de práticas de atividades físicas seguras e adequadas;\nXIV - promover a segurança alimentar e nutricional das pessoas com albinismo, preferencialmente aos comprovadamente carentes, em virtude de seu estado ou condição de saúde, com base em recomendações médicas e nutricionais.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público estadual fixará formas de monitoramento e de avaliação da Política Pública instituída por esta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A execução da Política Pública prevista nesta Lei será financiada com recursos oriundos do orçamento estadual, da iniciativa privada e de convênios e parcerias com órgãos e instituições nacionais e internacionais.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22620",
+   "short": "Lei 22620/2024",
+   "title": "Lei nº 22620, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108686",
+   "first_law": "lei-2024-22620",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108686",
+     "sha256": "454802eec9ae9ef073c8517f5d109d5d9e6e5b43598825b883f5d6e9d16b31b8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.620, DE 16 DE ABRIL DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARCIO DA SILVA ARRUDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22621",
+   "short": "Lei 22621/2024",
+   "title": "Lei nº 22621, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108687",
+   "first_law": "lei-2024-22621",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108687",
+     "sha256": "93caeedf2781949bc6ac827b40b51cf959535d4e950b139e5d99afb9499e6780",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.621, DE 16 DE ABRIL DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANDRELÚCIO RICARDO COUTO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22622",
+   "short": "Lei 22622/2024",
+   "title": "Lei nº 22622, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108688",
+   "first_law": "lei-2024-22622",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108688",
+     "sha256": "93c81fdac2b1400b9a0b40fad01c5b398812bd96d8f8485ae25a13f411f5b1a1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.622, DE 16 DE ABRIL DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ ORLANDO RIBEIRO CARDOSO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22623",
+   "short": "Lei 22623/2024",
+   "title": "Lei nº 22623, de 2024 (Altera a Lei nº 20.707, de 14 de janeiro de 2020, que dispõe sobre a realização do exame de detecção de mutação genética que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108689",
+   "first_law": "lei-2024-22623",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108689",
+     "sha256": "b593c37c8ec22ec52c7217a8229a89be03ae2396abb42067eb8b41378940cb47",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.623, DE 17 DE ABRIL DE 2024\nAltera a Lei nº 20.707, de 14 de janeiro de 2020, que dispõe sobre a realização do exame de detecção de mutação genética que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.707, de 14 de janeiro de 2020, fica acrescida do seguinte art. 3º-A:\n\"Art. 3º-A Detectada a mutação genética por meio do exame de que trata esta Lei, a paciente:\nI - terá assegurado, desde o diagnóstico, o acompanhamento psicológico e multidisciplinar especializado;\nII - no caso de risco de câncer de mama, poderá optar pela realização de mastectomia profilática e de reconstrução da mama, pelo Sistema Único de Saúde - SUS, nos termos da Lei federal nº 9.797, de 6 de maio de 1999.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22624",
+   "short": "Lei 22624/2024",
+   "title": "Lei nº 22624, de 2024 (Proíbe a participação de crianças e adolescentes nos eventos que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108691",
+   "first_law": "lei-2024-22624",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108691",
+     "sha256": "53971caa002603fdac2de899fe0f84e4188fa93d3efb8ebc193760cc4e233dd4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.624, DE 18 DE ABRIL DE 2024\nProíbe a participação de crianças e adolescentes nos eventos que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica proibida a participação de crianças e adolescentes em eventos que contenham cenas de sexualização explícita ou qualquer tipo de influência sexual.\nParágrafo único. Para os efeitos desta Lei, considera-se cena de sexualização explícita aquela que provoca comportamentos de sensualidade e de virilidade nas crianças e nos adolescentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento desta Lei acarretará a aplicação das seguintes penalidades:\nI - advertência, por escrito;\nII - multa, em caso de reincidência, no valor de até R$ 10.000,00 (dez mil reais).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22625",
+   "short": "Lei 22625/2024",
+   "title": "Lei nº 22625, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108711",
+   "first_law": "lei-2024-22625",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108711",
+     "sha256": "877cac090b615a378814828d1703dece3aad4755350041f3ca625e654bd61aac",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.625, DE 25 DE ABRIL DE 2024\nAltera a Lei nº 16.898, de 26 de janeiro de 2010, que dispõe sobre as consignações em folha de pagamento dos servidores e militares, ativos e inativos, e pensionistas do Poder Executivo Estadual.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.898, de 26 de janeiro de 2010, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\n§ 2º As pessoas jurídicas relacionadas nos incisos III, IV, VI, VII e VIII do § 1º deste artigo devem cadastrar-se previamente na unidade central responsável pela gestão das consignações do Poder Executivo do Estado de Goiás.\n..........................................................................................................................\" (NR)\n\"Art 13 ..............................................................................................\n§ 1º A inclusão de consignações facultativas cujas beneficiárias sejam as instituições mencionadas no § 2º do art. 2º desta Lei somente se dará mediante prova de regularidade na unidade central responsável pela gestão das consignações do Poder Executivo do Estado de Goiás.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22628",
+   "short": "Lei 22628/2024",
+   "title": "Lei nº 22628, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108713",
+   "first_law": "lei-2024-22628",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108713",
+     "sha256": "e1862c26450701691f3214d739957abfa108faa1e56b8577d80996855a18ce4c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.628, DE 26 DE ABRIL DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS DEFICIENTES DO ESTADO DE GOIÁS - ADEGO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 05.968.079/0001-62, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22629",
+   "short": "Lei 22629/2024",
+   "title": "Lei nº 22629, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108714",
+   "first_law": "lei-2024-22629",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108714",
+     "sha256": "0413f79d8440503d6c888aff3c4d9192b5c906e3f8f8d91beea158eea7e71128",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.629, DE 26 DE ABRIL DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada OLÍMPIO JAYME a Rodovia GO-230 no trecho que liga o Município de Vila Propício à Rodovia BR-414.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22630",
+   "short": "Lei 22630/2024",
+   "title": "Lei nº 22630, de 2024 (Dispõe sobre a afixação da placa informativa que especifica nos órgãos da administração pública estadual.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108715",
+   "first_law": "lei-2024-22630",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108715",
+     "sha256": "07521cff8610280f7eed75432a99f73d7b7f8857a49d91e26e7ebedc11fe306d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.630, DE 26 DE ABRIL DE 2024\nDispõe sobre a afixação da placa informativa que especifica nos órgãos da administração pública estadual.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os órgãos da administração pública estadual direta e indireta afixarão em suas dependências, em local de fácil visibilidade, placas que informem, nos termos do art. 3º-A da Lei nº 13.800, de 18 de janeiro de 2001, a prioridade na tramitação de processos administrativos em que figure como parte ou interessado:\nI - pessoa com idade igual ou superior a 60 (sessenta) anos;\nII - pessoa com deficiência;\nIII - pessoa portadora de moléstia grave.\nParágrafo único. As placas de que trata o caput terão dimensão mínima de 29x21 cm e apresentarão texto com legibilidade adequada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22631",
+   "short": "Lei 22631/2024",
+   "title": "Lei nº 22631, de 2024 (Institui o Dia Estadual de Conscientização do Câncer de Pele.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108716",
+   "first_law": "lei-2024-22631",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108716",
+     "sha256": "238e484b0f89446dd8a1ec66d0559bc6c2e1ccc91aa2a59116364a38a50138fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.631, DE 26 DE ABRIL DE 2024\nInstitui o Dia Estadual de Conscientização do Câncer de Pele.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual de Conscientização do Câncer de Pele, a ser realizado, anualmente, no dia 1º de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual de Conscientização do Câncer de Pele incluirá, sobretudo, ações voltadas para:\nI - o impulsionamento de ações educativas relacionadas à doença;\nII - a realização de debates e de palestras sobre as políticas públicas de atenção integral aos portadores da doença;\nIII - o apoio às atividades organizadas e desenvolvidas pela comunidade civil, em prol dos enfermos;\nIV - a atenção às alterações na pele:\na) rósea avermelhada ou escura;\nb) ferida que não cicatriza;\nc) pintas que crescem devagar, mas que coçam, sangram ou apresentam alterações de cor, consistência e tamanho.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22634",
+   "short": "Lei 22634/2024",
+   "title": "Lei nº 22634, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108717",
+   "first_law": "lei-2024-22634",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108717",
+     "sha256": "8f19ab915d58f80e3a549ac828604d05499c0553ce4fa6a7826fdfbdac096ba3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.634, DE 26 DE ABRIL DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO VIVA O CERRADO GOIANO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 32.648.551/0001-52, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22632",
+   "short": "Lei 22632/2024",
+   "title": "Lei nº 22632, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108718",
+   "first_law": "lei-2024-22632",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108718",
+     "sha256": "5557f1b614459fa40dfcce2d6237ab310c3c7cc8bf07011d37758872732d5f4f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.632, DE 26 DE ABRIL DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada DOUTOR ZECA a Rodovia GO-220, no trecho que liga os Municípios de Perolândia/GO e Portelândia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nROSÂNGELA REZENDE\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22633",
+   "short": "Lei 22633/2024",
+   "title": "Lei nº 22633, de 2024 (Altera a Lei nº 20.097, de 28 de maio de 2018, que institui o \"Selo Verde Ambiental\" e o \"Selo Investimento Verde\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108719",
+   "first_law": "lei-2024-22633",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108719",
+     "sha256": "5db98fe05355c488c88cda0b6d3d9418c2a45a55794edd05312229be586ac027",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.633, DE 26 DE ABRIL DE 2024\nAltera a Lei nº 20.097, de 28 de maio de 2018, que institui o \"Selo Verde Ambiental\" e o \"Selo Investimento Verde\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.097, de 28 de maio de 2018, passa a vigorar com as seguintes alterações:\n\"Art. 1º É instituído, no âmbito do Estado de Goiás, o certificado de qualidade ambiental denominado \"Selo Verde Ambiental\" a ser outorgado a entes e instituições públicas e privadas que adotem medidas de preservação, proteção e recuperação do meio ambiente em suas atividades, bem como pratiquem ações que tenham por objetivo o desenvolvimento sustentável do Estado e a consequente melhoria da qualidade de vida da população.\nParágrafo único. Os entes ou instituições que receberem a certificação de que trata este artigo poderão utilizar o símbolo do selo constante no anexo desta Lei em seus produtos e em sua publicidade.\" (NR)\n\"Art. 2º Para a obtenção do \"Selo Verde Ambiental\", deverá ser comprovado o cumprimento de, pelo menos, 3 (três) dos seguintes requisitos:\nI - criação de comissão gestora ambiental no âmbito do ente ou instituição;\nII - ....................................................................................................\nf) utilização de recursos alternativos e mais sustentáveis de produção de energia;\ng) medidas de compensação do impacto ambiental gerado pela atividade do ente ou instituição;\nh) adoção de políticas voltadas para o baixo consumo de água e energia e medidas de reaproveitamento em seus processos produtivos;\nIII - ..................................................................................................\nb) definição de metas e distribuição de responsabilidades dentro da estrutura do ente ou instituição;\n§ 2º O certificado de qualidade ambiental \"Selo Verde Ambiental\" terá validade de 2 (dois) anos, podendo ser renovado pela comprovação do atendimento dos requisitos deste artigo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22635",
+   "short": "Lei 22635/2024",
+   "title": "Lei nº 22635, de 2024 (Altera a Lei nº 20.854, de 29 de setembro de 2020, que institui o selo \"Empresa Amiga da Mulher\" no âmbito do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108720",
+   "first_law": "lei-2024-22635",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108720",
+     "sha256": "80dd4c97831896c129fe8aabb5e44461c8a7ebdceb286cfffc955e80d6e51e62",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.635, DE 26 DE ABRIL DE 2024\nAltera a Lei nº 20.854, de 29 de setembro de 2020, que institui o selo \"Empresa Amiga da Mulher\" no âmbito do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.854, de 29 de setembro de 2020, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\nVII - a promoção de campanhas, projetos e programas de promoção e prevenção da saúde da mulher e de incentivo à amamentação;\nVIII - cumprimento da legislação que estabelece os direitos da empregada lactante.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22636",
+   "short": "Lei 22636/2024",
+   "title": "Lei nº 22636, de 2024 (Altera a Lei nº 19.767, de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108721",
+   "first_law": "lei-2024-22636",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108721",
+     "sha256": "37e3693e72775a6bb8e922e30b1869b707f57cb05b4fd02d6393ea3e85ca8c0e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.636, DE 26 DE ABRIL DE 2024\nAltera a Lei nº 19.767, de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.767, de 18 de julho de 2017, passa a vigorar com as seguintes alterações:\n\"Art 4º ..............................................................................................\n§ 3º (VETADO).\" (NR)\n\"Art. 6º-A Com o objetivo de promover a inclusão social e econômica dos agricultores familiares e de prevenir as situações previstas no art. 6º, a Política Estadual de que trata esta Lei poderá atender, especialmente, às seguintes diretrizes:\nI - estimular a disponibilização de programas de capacitação em gestão agrícola, emissão de documentos fiscais e cumprimento de normas fitossanitárias;\nII - estimular a implantação de sistema de alerta agrícola para fornecer informações sobre clima, pragas e doenças agrícolas;\nIII - estimular a disponibilização de linhas de crédito para custear perdas de produção resultantes de acidentes naturais ou pragas;\nIV - estimular o oferecimento de acompanhamento técnico contínuo por extensionistas rurais, para apoiar os agricultores familiares na implementação de práticas que garantam o fornecimento regular e constante de sua produção;\nV - estimular a adoção de medidas que visem simplificar os procedimentos para emissão de documentos fiscais e cumprimento das normas fitossanitárias, tornando- os mais acessíveis e compreensíveis para os agricultores familiares;\nVI - estimular a implantação de sistema de monitoramento e avaliação para acompanhar a eficácia das medidas implementadas, com relatórios regulares sobre o progresso e ajustes necessários;\nVII - estimular a disponibilização de subsídios financeiros e técnicos para a diversificação das culturas agrícolas, de forma a se reduzir a dependência de uma única produção e mitigar os riscos de perda;\nVIII - estimular a criação de campanhas de conscientização e incentivo à adoção de boas práticas agrícolas pelos agricultores familiares, promovendo métodos de cultivo sustentáveis e resilientes;\nIX - estimular a criação de programas de incentivo específicos para jovens interessados em ingressar na agricultura familiar, assegurando a continuidade das atividades agrícolas por meio da sucessão geracional.\" (NR)\n\"Art. 8º-A (VETADO).\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22627",
+   "short": "Lei 22627/2024",
+   "title": "Lei nº 22627, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108722",
+   "first_law": "lei-2024-22627",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108722",
+     "sha256": "520524053557217d7e28d9235f20d83ae09a695509418e03b5010425818a2cae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.627, DE 26 DE ABRIL DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado, anualmente, na segunda quinzena de novembro, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22626",
+   "short": "Lei 22626/2024",
+   "title": "Lei nº 22626, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108723",
+   "first_law": "lei-2024-22626",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108723",
+     "sha256": "4273397cdd483976b3883b6fb2021469cc7a5f62a91fa9df48c16283fc706706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.626, DE 26 DE ABRIL DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Novena em Louvor a Nossa Senhora da Assunção, realizada, anualmente, no mês de agosto, no Município de Goiânia/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Novena em Louvor a Nossa Senhora da Assunção, realizada, anualmente, no mês de agosto, no Município de Goiânia/GO.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22637",
+   "short": "Lei 22637/2024",
+   "title": "Lei nº 22637, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108724",
+   "first_law": "lei-2024-22637",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108724",
+     "sha256": "2f5d78fd5c7f410058d8b132039362b36c2e397834e42cd0bd6180bb415c6a9f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.637, DE 29 DE ABRIL DE 2024\nAltera a Lei nº 21.525, de 26 de julho de 2022, que dispõe sobre a destinação, às mulheres vítimas de violência doméstica, de 5% (cinco por cento) das unidades de programas de loteamentos sociais e de habitação popular.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 21.525, de 26 de julho de 2022, passa a vigorar com a seguinte alteração:\n\"Dispõe sobre a destinação às mulheres em situação de violência doméstica de 5% (cinco por cento) das unidades de programas de loteamentos sociais e de habitação popular.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 21.525, de 2022, passa a vigorar com as seguintes alterações:\n\"Art. 1º Todos os programas de loteamentos sociais e de habitação popular do Estado de Goiás deverão destinar 5% (cinco por cento) de suas unidades às mulheres em situação de violência doméstica que preencham os demais requisitos estabelecidos para a concessão pelos órgãos competentes.\nParágrafo único. Para os efeitos desta Lei, serão consideradas mulheres em situação de violência doméstica as que se enquadrarem nas hipóteses elencadas na Lei federal nº 11.340, de 7 de agosto de 2006.\" (NR)\n\"Art 2º ..............................................................................................\n§ 1º Caso a ação penal tenha sido proposta, mas ainda não haja sentença condenatória emitida pelo Poder Judiciário, a situação de violência doméstica poderá ser comprovada com a apresentação dos documentos indicados nos incisos I e III do caput deste artigo.\n§ 2º Os documentos exigidos por este artigo deverão ser entregues pela mulher em situação de violência doméstica no momento em que o respectivo programa de loteamento social e/ou de habitação popular requerer a sua apresentação.\" (NR)\n\"Art. 2º-A A comprovação de domicílio ou de vínculo com o município exigida pelos programas habitacionais do Estado de Goiás não se aplicará à mulher em situação de violência doméstica, pois a ela bastará comprovar que está domiciliada no Estado pelo período ininterrupto mínimo de 3 (três) anos.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogado o parágrafo único do art. 2º da Lei nº 21.525, de 2022.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22638",
+   "short": "Lei 22638/2024",
+   "title": "Lei nº 22638, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108725",
+   "first_law": "lei-2024-22638",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108725",
+     "sha256": "02665cbec49f1cbaa018e0de3baff5b48366d157a4950e02b8e920de389ec9e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.638, DE 29 DE ABRIL DE 2024\nDispõe sobre a adesão complementar do Estado de Goiás ao benefício fiscal previsto na legislação do Estado de Mato Grosso do Sul, nos termos da Lei Complementar federal nº 160, de 7 de agosto de 2017, e do Convênio ICMS nº 190, de 15 de dezembro de 2017, bem como altera a Lei estadual nº 22.490, de 22 de dezembro de 2023.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 10 da Constituição do Estado de Goiás, do disposto nas Leis Complementares federais nº 24, de 7 de janeiro de 1975, e nº 160, de 7 de agosto de 2017, também do Convênio ICMS nº 190, de 15 de dezembro de 2017, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei, por considerar a relevância da produção de etanol hidratado combustível para a geração de emprego e renda e para a arrecadação de impostos no território goiano, promove a adesão do Estado de Goiás ao disposto no art. 34 da Lei Complementar nº 93, de 5 de novembro de 2001, e no art. 3º da Lei nº 4.049, de 30 de junho de 2011, ambas do Estado de Mato Grosso do Sul, conforme autoriza o § 8º do art. 3º da Lei Complementar federal nº 160, de 7 de agosto de 2017, e a cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017, para permitir a concessão de benefício fiscal ao estabelecimento industrializador de etanol hidratado combustível.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei estadual nº 22.490, de 22 de dezembro de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 1º Esta Lei, por considerar a relevância da produção de etanol hidratado combustível para a geração de emprego e renda e para a arrecadação de impostos no território goiano, promove a adesão do Estado de Goiás ao disposto no art. 34 da Lei Complementar nº 93, de 5 de novembro de 2001, e no art. 3º da Lei nº 4.049, de 30 de junho de 2011, ambas do Estado de Mato Grosso do Sul, conforme autoriza o § 8º do art. 3º da Lei Complementar federal nº 160, de 7 de agosto de 2017, e a cláusula décima terceira do Convênio ICMS nº 190, de 15 de dezembro de 2017, para permitir a concessão de benefício fiscal ao estabelecimento industrializador de etanol hidratado combustível.\" (NR)\n\"Art. 2º Fica o Chefe do Poder Executivo autorizado a conceder, na forma, nos limites e nas condições que instituir, crédito outorgado do Imposto sobre Operações relativas à Circulação de Mercadorias e sobre Prestações de Serviços de Transporte Interestadual e Intermunicipal e de Comunicação - ICMS ao estabelecimento industrializador de etanol hidratado combustível, equivalente à aplicação do percentual até 9,8% (nove inteiros e oito décimos por cento) sobre o valor da operação interestadual com esse produto, em substituição à apropriação de quaisquer créditos relativos ao ICMS correspondentes à entrada das mercadorias ou bens e ao serviço utilizado.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22639",
+   "short": "Lei 22639/2024",
+   "title": "Lei nº 22639, de 2024 (Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108726",
+   "first_law": "lei-2024-22639",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108726",
+     "sha256": "638a7f76d8810a61a92289cd4429719c79331b7e52e7f7645769edcf84611565",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.639, DE 29 DE ABRIL DE 2024\nAltera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.899, de 26 de janeiro de 2010, passa a vigorar com a seguinte alteração:\n\"Art. 1º O efetivo do Corpo de Bombeiros Militar do Estado de Goiás, órgão autônomo integrante da estrutura básica da Secretaria de Estado da Segurança Pública, fica fixado em 6.143 (seis mil e cento e quarenta e três) bombeiros militares, distribuídos por postos e graduações nos quantitativos especificados nos Anexos I a IV desta Lei.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As promoções decorrentes do quantitativo de cargos estabelecido na Lei nº 16.899, de 26 de janeiro de 2010, ocorrerão mediante proposta do Comandante-Geral do Corpo de Bombeiros Militar e autorização do Chefe do Poder Executivo, conforme programação orçamentária anual, no tocante ao quantitativo a ser apreciado por certame, observado o disposto no art. 60 da Lei nº 11.416, de 05 de fevereiro de 1991.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Os Anexos I a IV da Lei nº 16.899, de 2010, passam a vigorar com as alterações constantes do Anexo Único desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\n(Lei nº 16.899, de 26 de janeiro de 2010)\n\"ANEXO I\nQUADRO DE OFICIAIS DE COMANDO - QOC\nPOSTO QUANTITATIVO\nCapitão BM 109\n\" (NR)\n\"ANEXO II\nQUADRO DE OFICIAIS DE SAÚDE - QOS\nPOSTO QUANTITATIVO\na) OFICIAIS MÉDICOS:\nTenente-Coronel BM 5\n\" (NR)\n\"ANEXO III\nQUADRO DE OFICIAIS AUXILIARES - QOA\nPOSTO QUANTITATIVO\na) OFICIAIS ADMINISTRATIVOS:\nCapitão BM 34\n1º Tenente BM 73\nb) OFICIAIS MÚSICOS:\n1º Tenente BM 8\n2º Tenente BM 12\n\" (NR)\n\"ANEXO IV\nQUADRO DE PRAÇAS - QP\nGRADUAÇÃO QUANTITATIVO\na) PRAÇAS COMBATENTES:\nSubtenente BM 245\n1º Sargento BM 405\n2º Sargento BM 637\n3º Sargento BM 805\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22641",
+   "short": "Lei 22641/2024",
+   "title": "Lei nº 22641, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108728",
+   "first_law": "lei-2024-22641",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108728",
+     "sha256": "40eb1826c9f2b3f987ee007c358653935c0af0f0f8c52be5da593ed54f43801b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.641, DE 29 DE ABRIL DE 2024\nAltera a Lei nº 18.052, de 24 de junho de 2013, para criar, na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, a Delegacia Especializada no Atendimento à Mulher - DEAM de São Luís de Montes Belos/GO, e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 18.052, de 24 junho de 2013, passa a vigorar com as seguintes alterações:\n\"Art. 1º Ficam criadas, na Delegacia-Geral da Polícia Civil, da Secretaria de Estado da Segurança Pública, 20 (vinte) Delegacias Especializadas no Atendimento à Mulher - DEAMs, conforme a especificação da seguinte tabela:\nNº DE ORDEM ÓRGÃO CRIADO SEDE ÁREA DE JURISDIÇÃO\n20 DELEGACIA ESPECIALIZADA NO ATENDIMENTO À MULHER - DEAM SÃO LUÍS DE MONTES BELOS 7ª DELEGACIA REGIONAL DE POLÍCIA DE SÃO LUÍS DE MONTES BELOS\n\" (NR)\n\"Art 2º ..............................................................................................\nI - investigar, concorrentemente com as Delegacias de Polícia Distritais, Municipais e Especializadas, infrações penais que configurem violência doméstica e familiar contra a mulher e os crimes contra a dignidade sexual dela;\n§ 1º A atribuição da apuração do crime de feminicídio na modalidade consumada poderá ser repassada às unidades policiais municipais, distritais ou especializadas por portaria expedida pelo Delegado-Geral, em atendimento ao princípio da eficiência.\n§ 2º A atribuição da apuração das infrações penais que configurem violência doméstica e familiar contra a mulher e dos crimes contra a dignidade sexual dela, quando a vítima for criança ou adolescente, será repassada às Delegacias de Proteção à Criança e ao Adolescente - DPCAs, se existirem na circunscrição.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCHARLES BENTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22642",
+   "short": "Lei 22642/2024",
+   "title": "Lei nº 22642, de 2024 (Altera a Lei nº 21.835, de 27 de março de 2023, que institui a Política Estadual de Incentivo à Agroindústria e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108729",
+   "first_law": "lei-2024-22642",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108729",
+     "sha256": "729e566828f2f984e87326e22ee0633e9dcd90951089e28eda2fbcf99baba333",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.642, DE 29 DE ABRIL DE 2024\nAltera a Lei nº 21.835, de 27 de março de 2023, que institui a Política Estadual de Incentivo à Agroindústria e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.835, de 27 de março de 2023, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\nXI - fomento à pesquisa e ao desenvolvimento tecnológico dos bioprodutos;\nXII - incentivo à produção sustentável e à utilização de insumos locais;\nXIII - fortalecimento das cadeias produtivas relacionadas aos bioprodutos.\" (NR)\n\"Art 3º ..............................................................................................\nX - estimular a realização de feiras, seminários e workshops, bem como a divulgação comercial da agroindústria e a promoção e comercialização de bioprodutos;\nXIII - estimular a aplicação da tecnologia da informação e comunicação para divulgação de avanços e inovações da agroindústria e dos bioprodutos;\nXVII - estimular a celebração de convênios e/ou parcerias com a sociedade civil organizada, ou com outros entes federativos, visando atender às diretrizes desta Lei e alcançar seus objetivos;\nXVIII - ampliar a participação dos bioprodutos na matriz produtiva estadual;\nXIX - contribuir para a sustentabilidade ambiental e econômica do Estado de Goiás;\nXX - estimular a diversificação de receitas para os produtores rurais;\nXXI - incentivar a criação de centros de pesquisa e desenvolvimento, visando à inovação e à produção de bioprodutos;\nXXII - estimular a integração entre universidades, institutos de pesquisa e setor produtivo para a realização de pesquisas voltadas aos bioprodutos;\nXXIII - incentivar as iniciativas de incubadoras e aceleradoras de startups voltadas à inovação em bioprodutos;\nXXIV - estimular a disponibilização de cursos de formação técnica e profissionalizantes na área de bioprodutos;\nXXV - estimular a celebração de parcerias com entidades nacionais e internacionais, visando ao intercâmbio de conhecimentos e práticas sobre bioprodutos;\nXXVI - estimular a implantação de sistema de informação sobre a agroindústria e bioprodutos com o objetivo de coletar, processar, analisar e disseminar dados e informações sobre o setor;\nXXVII - incentivar o uso de práticas regenerativas e orgânicas, bem como o manejo sustentável dos recursos naturais no processo de produção de matéria- prima para os bioprodutos;\nXXVIII - estimular a criação de canais de distribuição e comercialização específicos para bioprodutos, facilitando o acesso ao mercado interno e externo;\nXXIX - incentivar a criação de selos e certificações para bioprodutos produzidos no Estado de Goiás, visando garantir sua qualidade e procedência;\nXXX - incentivar o apoio às micro, pequenas e médias empresas que atuam na cadeia produtiva de bioprodutos, incluindo acesso facilitado a créditos e capacitação técnica;\nXXXI - estimular a disponibilização de cursos de capacitação em gestão para empreendedores do setor de bioprodutos;\nXXXII - estimular a formação de cooperativas e associações de produtores de bioprodutos, de forma a se fortalecer a cadeia produtiva e garantir melhores condições de negociação e venda.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22643",
+   "short": "Lei 22643/2024",
+   "title": "Lei nº 22643, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108730",
+   "first_law": "lei-2024-22643",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108730",
+     "sha256": "511a3516e404766e6ae0009b67b98ade3aa3cad3a6bd896d27ad83163ef8e010",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.643, DE 29 DE ABRIL DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOÃO BATISTA GOMES MOREIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22644",
+   "short": "Lei 22644/2024",
+   "title": "Lei nº 22644, de 2024 (Autoriza o Poder Executivo a celebrar contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos no Estado de Goiás ( Naming Rights).)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108731",
+   "first_law": "lei-2024-22644",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108731",
+     "sha256": "44d791d8886202eeaa6fe1f10264c2b86d98d0523bec3c00cb92a39a7d1ea386",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.644, DE 29 DE ABRIL DE 2024\nAutoriza o Poder Executivo a celebrar contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos no Estado de Goiás (Naming Rights).\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS , nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Poder Executivo autorizado a celebrar contratos de cessão onerosa de direito com a iniciativa privada à nomeação de eventos e equipamentos públicos estaduais que desempenhem atividades dirigidas a saúde, cultura, esportes, educação, assistência social, lazer e recreação, meio ambiente, mobilidade urbana e promoção de investimentos, competitividade e desenvolvimento, atendidos os requisitos previstos nesta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O contrato de cessão onerosa de direito à nomeação será precedido de procedimento licitatório e edital para seleção dos interessados, mediante critérios previamente estabelecidos pelo Poder Executivo estadual, observadas as normativas estaduais e federais que versem sobre contratações públicas.\n§ 1º Poderão participar do procedimento licitatório empresas, isoladamente ou em consórcio.\n§ 2º As cessões onerosas de direito à nomeação terão obrigatoriamente prazo determinado de duração a ser definido em edital.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O contrato deverá prever contrapartida pela associação de nome ou marca na forma de pagamento anual em pecúnia ao Estado.\nParágrafo único. Desde que previstos em edital, a realização de benfeitorias, a promoção de atividades de interesse coletivo, incentivos da ação e dos participantes pertencentes ao equipamento parceiro, bem como outras ações de interesse público poderão ensejar desconto no valor anualmente devido pela cessionária.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A cessionária poderá incluir na placa de anúncio indicativo nome fantasia e marca antes, mantendo o nome oficial do equipamento como subtítulo.\n§ 1º Para a inclusão da marca nas placas de anúncio indicativo do imóvel, a cessionária deverá cumprir as regras presentes no manual de comunicação do Estado de Goiás, bem como garantir a manutenção das placas durante a vigência contratual.\n§ 2º A responsabilidade pelos custos relacionados à troca das placas de anúncio indicativo será sempre da cessionária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22645",
+   "short": "Lei 22645/2024",
+   "title": "Lei nº 22645, de 2024 (Institui a Política Estadual do Emprego Apoiado no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108732",
+   "first_law": "lei-2024-22645",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108732",
+     "sha256": "8c361506f428c81d3d0151d48a1096ac75f19939cfb6006686491b2588b4e747",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.645, DE 29 DE ABRIL DE 2024\nInstitui a Política Estadual do Emprego Apoiado no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual do Emprego Apoiado no Estado de Goiás, com o objetivo de promover a inclusão no mercado de trabalho de pessoas com deficiência, dificuldades socioeconômicas e outras vulnerabilidades, por meio de apoio técnico, acompanhamento especializado e estímulo ao desenvolvimento de habilidades profissionais e sociais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual do Emprego Apoiado será regida pelos seguintes princípios e diretrizes:\nI - igualdade de oportunidades e respeito à diversidade;\nII - valorização do trabalho e da pessoa com deficiência ou em situação de vulnerabilidade;\nIII - cooperação entre os setores público, privado e terceiro setor;\nIV - fomento à formação e capacitação profissional;\nV - promoção da inclusão social e econômica;\nVI - incentivo à autonomia e ao desenvolvimento pessoal e profissional.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São instrumentos da Política Estadual do Emprego Apoiado:\nI - ações de sensibilização e capacitação de empregadores e profissionais envolvidos no processo de inclusão laboral;\nII - programas de apoio ao empreendedorismo e à geração de emprego e renda;\nIII - (VETADO);\nIV - parcerias com instituições públicas e privadas para a realização de cursos e programas de capacitação e formação profissional;\nV - acompanhamento e monitoramento do desempenho das pessoas inseridas no mercado de trabalho por meio do emprego apoiado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º (VETADO).\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º São beneficiários da Política Estadual do Emprego Apoiado:\nI - pessoas com deficiência, conforme a legislação vigente;\nII - pessoas em situação de vulnerabilidade social e econômica, incluindo, mas não se limitando a beneficiários de programas sociais estaduais e federais, egressos do sistema prisional e jovens em cumprimento de medidas socioeducativas;\nIII - outras populações em situação de vulnerabilidade, a serem identificadas e definidas em regulamentação específica.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Política Estadual do Emprego Apoiado contemplará, entre outras, as seguintes formas de apoio e serviços aos beneficiários:\nI - atendimento individualizado e personalizado, com foco nas necessidades e potencialidades de cada beneficiário;\nII - elaboração de planos de desenvolvimento profissional e pessoal;\nIII - apoio na busca por oportunidades de emprego compatíveis com o perfil e as habilidades do beneficiário;\nIV - orientação e acompanhamento no processo de contratação e adaptação ao ambiente de trabalho;\nV - suporte e capacitação para empregadores e colegas de trabalho no processo de inclusão laboral do beneficiário;\nVI - acompanhamento contínuo do desenvolvimento do beneficiário no ambiente de trabalho, com avaliações periódicas e ajustes nos planos de desenvolvimento, conforme necessário.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Poder Executivo promoverá, de acordo com a conveniência e oportunidade, ações de divulgação e conscientização sobre a Política Estadual do Emprego Apoiado junto à sociedade, aos empregadores, aos sindicatos e às associações profissionais e à comunidade em geral.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As despesas decorrentes da execução desta Lei correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22646",
+   "short": "Lei 22646/2024",
+   "title": "Lei nº 22646, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108733",
+   "first_law": "lei-2024-22646",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108733",
+     "sha256": "9d47e4b3ddc9a76e146187c2e6f011e5c8c507cb0b399cfe0aa9bedbb5326e8c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.646, DE 29 DE ABRIL DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO, comemorado, anualmente, no dia 29 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22647",
+   "short": "Lei 22647/2024",
+   "title": "Lei nº 22647, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108734",
+   "first_law": "lei-2024-22647",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108734",
+     "sha256": "b67c1942d59e5440befb3ccf20d62ae5f6e7869ae8603c227b4c800e9c6fab04",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.647, DE 29 DE ABRIL DE 2024\nAltera a Lei nº 20.629, de 08 de novembro de 2019, que define e pune atos de crueldade e maus-tratos contra animais, e a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.629, de 08 de novembro de 2019, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\nI - animais aqueles assim definidos nos termos dos incisos III a X e XII do art. 5º da Lei nº 21.104, de 23 de setembro de 2021;\nII - atos de maus- tratos, abuso e crueldade contra animais as situações previstas no inciso II do art. 5º e no art. 6º da Lei nº 21.104, de 2021.\" (NR)\n\"Art. 4º O descumprimento desta Lei sujeitará seus infratores às seguintes penalidades administrativas, sem prejuízo de outras previstas em lei:\nII - proibição de ter animais em sua posse, pelo período de 1 (um) a 5 (cinco) anos;\nV - para pessoas jurídicas:\na) suspensão parcial ou total de atividades;\nb) interdição temporária de estabelecimento;\nc) (VETADO) .\n§ 1º Na aplicação das penalidades previstas neste artigo, observar-se-á o seguinte:\nI - o agente autuante, no uso do poder de polícia, apreenderá o animal agredido ou ameaçado e o recolherá a local adequado, para posterior doação, venda ou liberação em seu habitat natural, sempre que verificar ofensa à incolumidade física e/ou psíquica do animal, sem prejuízo da aplicação ou revisão dessa medida no curso do processo administrativo por decisão motivada da autoridade competente;\nII - a penalidade prevista no inciso II do caput poderá ser aplicada e revista por decisão motivada da autoridade competente no curso do processo administrativo;\nIII - as penalidades previstas nos incisos II e III do caput serão aplicadas até o triplo do período máximo e/ou o triplo do valor máximo da multa cominados, no caso de morte do animal;\nIV - deverá ser aplicada, no mínimo, a penalidade prevista no inciso III do caput;\nV - as penalidades previstas no caput poderão ser aplicadas isolada ou conjuntamente, na forma da Lei nº 18.102, de 18 de julho de 2013;\nVI - (VETADO);\nVII - aplica- se, subsidiariamente, o disposto na Lei nº 18.102, de 18 de julho de 2013, e na legislação federal de proteção ao meio ambiente.\n§ 5º Para a responsabilização da pessoa jurídica, será desnecessária a aferição de dolo ou culpa.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 21.104, de 23 de setembro de 2021, passa a vigorar com as seguintes alterações:\n\"Art. 6º Para os efeitos desta Lei, entende-se como maus-tratos, abuso ou crueldade praticados contra animais:\nXIV - deixar o animal em confinamento, acorrentamento ou alojamento inadequado, por meio das seguintes práticas, dentre outras:\na) restringir a liberdade de locomoção dos animais, por meio de aprisionamento permanente ou rotineiro do animal a um objeto estacionário por períodos contínuos;\nb) colocar os animais em alojamentos ou locais que não respeitem as condições adequadas a seu bem-estar, observando-se:\n1. dimensões apropriadas à espécie, necessidade e tamanho do animal;\n2. espaço suficiente para ampla movimentação;\n3. incidência de sol, luz, sombra e ventilação;\n4. fornecimento de alimento e água limpos e adequados à espécie, além de contínuo atendimento das suas necessidades, incluindo atendimento veterinário;\n5. asseio e conservação de higiene do alojamento e do próprio animal; e\n6. restrição de contato com outros animais que os aterrorizem, provoquem lutas entre si ou os molestem, sejam eles da mesma espécie ou de espécies diferentes, ou ainda com animais portadores de doenças.\n§ 1º ....................................................................................................\n§ 2º O disposto neste artigo não exclui outros atos de maus-tratos, abuso e crueldade contra animais previstos na legislação.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Ficam revogados:\nI - da Lei nº 20.629, de 2019:\na) as alíneas \"a\" e \"b\" do inciso I do art. 2º;\nb) as alíneas \"a\", \"b\", \"c\", \"d\" e \"e\" do inciso II do art. 2º;\nc) os §§ 1º, 2º e 3º do art. 2º;\nd) o inciso I do caput do art. 4º;\ne) as alíneas \"a\", \"b\" e \"c\" do § 1º do art. 4º;\nII - os incisos II e VI do art. 6º da Lei nº 21.104, de 2021.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22648",
+   "short": "Lei 22648/2024",
+   "title": "Lei nº 22648, de 2024 (Dispõe sobre o monitoramento permanente e a transparência do Poder Público estadual acerca das condições de trafegabilidade de rodovias estaduais.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108735",
+   "first_law": "lei-2024-22648",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-29",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108735",
+     "sha256": "2a8a8c82ce0c268140584df148e69cf9ee9709d86ac77272f88e80191f3e020f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.648, DE 29 DE abril DE 2024\nDispõe sobre o monitoramento permanente e a transparência do Poder Público estadual acerca das condições de trafegabilidade de rodovias estaduais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Esta Lei dispõe sobre o monitoramento permanente e a transparência do Poder Público estadual acerca das condições de trafegabilidade de rodovias estaduais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Qualquer pessoa pode apresentar reclamação por escrito sobre as condições de trafegabilidade das rodovias estaduais, com vistas à identificação de buracos e demais problemas de infraestrutura, pelos seguintes meios:\nI - portal de ouvidoria do Estado de Goiás, nos termos da Lei nº 18.025, de 22 de maio de 2013, e atos infralegais correspondentes;\nII - (VETADO);\nIII - outros canais disponibilizados pelo Poder Público estadual.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor 60 (sessenta) dias após a data de sua publicação.\nGoiânia, 29 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22649",
+   "short": "Lei 22649/2024",
+   "title": "Lei nº 22649, de 2024 (Autoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2024.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108736",
+   "first_law": "lei-2024-22649",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108736",
+     "sha256": "c056a87abe91f61976d9604ceff470e59fa48ac9c7f2f146d270086eca838cd9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.649, DE 30 DE ABRIL DE 2024\nAutoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2024.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Chefe do Poder Executivo autorizado a instituir o Bônus por Resultado, com natureza remuneratória, aos servidores em efetivo exercício na Secretaria de Estado da Educação - SEDUC, para estimular sua contribuição na formação intelectual dos alunos e na obtenção de bons resultados nas avaliações estaduais e nacionais.\n§ 1º O pagamento do Bônus por Resultado autorizado por esta Lei poderá ser realizado até dezembro de 2024, com critérios definidos pelo Chefe do Poder Executivo em regulamento específico.\n§ 2º O fato gerador para a apuração dos valores a serem pagos a título de Bônus por Resultado terá março de 2024 como referência.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O valor empenhado e liquidado será definido pelo Chefe do Poder Executivo e não poderá exceder R$ 200.000.000,00 (duzentos milhões de reais).\n§ 1º O pagamento do Bônus por Resultado corresponderá aos vencimentos do servidor beneficiário, nos termos dos incisos I e II do art. 88 da Lei nº 20.756, de 28 de janeiro de 2020, cuja porcentagem será definida pelo Chefe do Poder Executivo em regulamento específico.\n§ 2º Serão beneficiários do Bônus por Resultado:\nI - os profissionais da Educação Básica em efetivo exercício na SEDUC, nos termos do art. 26 da Lei federal nº 14.113, de 25 de dezembro de 2020, e do inciso XI do art. 212-A da Constituição Federal;\nII - os profissionais efetivos da área administrativa em efetivo exercício na SEDUC; e\nIII - os servidores comissionados, os empregados públicos e os contratados temporariamente em efetivo exercício na SEDUC.\n§ 3º Os profissionais efetivos, os servidores comissionados, os empregados públicos e os contratados temporariamente em efetivo exercício na SEDUC mencionados nos incisos II e III do § 2º deste artigo que não se enquadrarem nos termos do art. 26 da Lei federal nº 14.113, de 2020, e do inciso XI do art. 212-A da Constituição Federal serão pagos com recursos do Orçamento-Geral do Tesouro Estadual.\n§ 4º Não perceberão o benefício o Secretário de Estado da Educação e os servidores públicos organizados em carreira e remunerados por subsídio, de acordo com os §§ 4º e 8º do art. 39 da Constituição Federal.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica vedado o pagamento do Bônus por Resultado aos docentes e aos demais trabalhadores da educação que estiverem:\nI - em desvio de função ou em atividade alheia à manutenção e ao desenvolvimento do ensino, conforme o inciso VI do art. 71 da Lei federal nº 9.394, de 20 de dezembro de 1996;\nII - cedidos, colocados à disposição de outro órgão ou mesmo requisitados por órgãos municipais, estaduais ou federais; ou\nIII - afastados para o desempenho de mandato classista.\nParágrafo único. Excetuam-se da vedação deste artigo os servidores requisitados pela Justiça Eleitoral, nos termos da Lei federal nº 6.999, de 7 de junho de 1982.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O desempenho da atividade funcional em março de 2024 garante ao servidor o Bônus por Resultado, cujo pagamento poderá ser realizado até dezembro de 2024, nos termos do § 1º do art. 1º desta Lei, conforme dispuser o Chefe do Poder Executivo em regulamento específico.\n§ 1º Para o pagamento da respectiva vantagem, será observado o disposto no § 2º do art. 1º desta Lei.\n§ 2º O cálculo do valor do Bônus por Resultado abrangerá proporcionalmente os meses de efetivo exercício do servidor na SEDUC em 2024.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para o pagamento do Bônus por Resultado, considera-se como efetivo exercício o desempenho de atividades laborais presenciais ou remotas nas unidades administrativas e escolares da SEDUC que sejam inerentes à função do servidor efetivo, do servidor comissionado ou do contratado temporariamente, bem como os afastamentos decorrentes de:\nI - licença-maternidade;\nII - licença para tratamento de saúde; e\nIII - licença-paternidade.\nParágrafo único. O servidor deverá comprovar o desempenho da sua atividade laboral conforme os critérios definidos pelo Chefe do Poder Executivo em regulamento específico.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O valor do Bônus por Resultado não será incorporado ao vencimento ou ao subsídio para nenhum efeito e não será considerado para o cálculo de quaisquer vantagens pecuniárias.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Fica o Chefe do Poder Executivo autorizado a implantar um adicional ao valor constante do art. 2º desta Lei, exclusivamente na parcela de que trata o inciso I de seu § 2º, para o cumprimento do disposto no inciso XI do art. 212-A da Constituição Federal.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O Chefe do Poder Executivo em regulamento específico tratará dos demais casos não previstos nesta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22650",
+   "short": "Lei 22650/2024",
+   "title": "Lei nº 22650, de 2024 (Institui o Circuito do Encontro das Coroas do Divino Espírito Santo e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108737",
+   "first_law": "lei-2024-22650",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108737",
+     "sha256": "2658946b5d11e26baa3d6a27f46b7246811c70a0f08aa1046505cb3ddaf10e6f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.650, DE 30 DE ABRIL DE 2024\nInstitui o Circuito do Encontro das Coroas do Divino Espírito Santo e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Circuito do Encontro das Coroas do Divino Espírito Santo, realizado 19 (dezenove) dias antes do Pentecostes, e tem como objetivos:\nI - promover a cultura, a fé e as tradições religiosas vinculadas à celebração do Divino Espírito Santo;\nII - contribuir para o fortalecimento da identidade cultural goiana;\nIII - incentivar o turismo religioso e cultural.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Integram o Circuito do Encontro das Coroas do Divino Espírito Santo os eventos anuais, a serem realizados em diferentes municípios goianos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A seleção dos municípios participantes do Circuito, em cada ano, e a organização dos eventos serão responsabilidade da Associação do Encontro das Coroas do Divino Espírito Santo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O planejamento do Circuito do Encontro das Coroas do Divino Espírito Santo poderá ser realizado em parceria entre o Poder Público estadual, prefeituras municipais e demais segmentos interessados.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Circuito do Encontro das Coroas do Divino Espírito Santo fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22651",
+   "short": "Lei 22651/2024",
+   "title": "Lei nº 22651, de 2024 (Confere ao Município de Jaraguá o título de \"Capital Estadual do Voo Livre\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108738",
+   "first_law": "lei-2024-22651",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-04-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108738",
+     "sha256": "b325311a57043bafa6b429cd742a21de4f86bf66c7544a40eb375b9cabc563d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.651, DE 30 DE ABRIL DE 2024\nConfere ao Município de Jaraguá o título de \"Capital Estadual do Voo Livre\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Jaraguá o título de \"Capital Estadual do Voo Livre\" no Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de abril de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

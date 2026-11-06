@@ -1,0 +1,2296 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2023-22099": {
+   "label": "Lei nº 22099, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107475",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22100": {
+   "label": "Lei nº 22100, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107476",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22101": {
+   "label": "Lei nº 22101, de 2023",
+   "title": "Institui a Campanha de Conscientização sobre a Castração de Cães e Gatos.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107477",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22102": {
+   "label": "Lei nº 22102, de 2023",
+   "title": "Concede título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107478",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22103": {
+   "label": "Lei nº 22103, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107479",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22104": {
+   "label": "Lei nº 22104, de 2023",
+   "title": "Altera a Lei nº 16.209, de 17 de março de 2008, que dispõe sobre a instalação de sistemas de captação, conservação e uso racional da água nos edifícios públicos estaduais.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107480",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22105": {
+   "label": "Lei nº 22105, de 2023",
+   "title": "Altera a Lei nº 16.986, de 28 de abril de 2010, que dispõe sobre a disponibilização de banheiro químico acessível às pessoas portadoras de deficiência nos locais que especifica, e a Lei nº 20.638, de 14 de novembro de 2019, que institui o Estatuto da Inclusão Social e Econômica das Pessoas com Deficiência no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107481",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22106": {
+   "label": "Lei nº 22106, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107482",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22107": {
+   "label": "Lei nº 22107, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107483",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22108": {
+   "label": "Lei nº 22108, de 2023",
+   "title": "Institui a Política Estadual de Atenção à Saúde das Vítimas e dos Familiares das Vítimas da COVID-19, institui a Semana Estadual de Apoio e Defesa dos Direitos das Vítimas da COVID-19 e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107484",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22109": {
+   "label": "Lei nº 22109, de 2023",
+   "title": "Institui a Política Estadual de Fortalecimento de Vínculos Familiares e Garantia de Convivência Familiar e dá outras providências.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107485",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22110": {
+   "label": "Lei nº 22110, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107486",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22111": {
+   "label": "Lei nº 22111, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107487",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22112": {
+   "label": "Lei nº 22112, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107488",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22113": {
+   "label": "Lei nº 22113, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107489",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22114": {
+   "label": "Lei nº 22114, de 2023",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-12",
+   "published": "2023-07-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107490",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22115": {
+   "label": "Lei nº 22115, de 2023",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Gastronômico do Cerrado e a Festa do Milho, realizados no Município de Santo Antônio de Goiás.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107494",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22116": {
+   "label": "Lei nº 22116, de 2023",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval dos Amigos de Goiânia.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107495",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22117": {
+   "label": "Lei nº 22117, de 2023",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107496",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22118": {
+   "label": "Lei nº 22118, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107497",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22119": {
+   "label": "Lei nº 22119, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107498",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22120": {
+   "label": "Lei nº 22120, de 2023",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107499",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22122": {
+   "label": "Lei nº 22122, de 2023",
+   "title": "Confere ao Município de Itaguari/GO o título de \"Capital Goiana da Folia de Reis\".",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107500",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22123": {
+   "label": "Lei nº 22123, de 2023",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107501",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22124": {
+   "label": "Lei nº 22124, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107502",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22121": {
+   "label": "Lei nº 22121, de 2023",
+   "title": "Confere ao Município de Divinópolis de Goiás o título de Capital Goiana da Cultura Desportiva da Vaquejada.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107503",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22125": {
+   "label": "Lei nº 22125, de 2023",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107504",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22126": {
+   "label": "Lei nº 22126, de 2023",
+   "title": "Confere ao Município de Iporá/GO o título de \"Capital Estadual do Muladeiro\".",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107505",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22127": {
+   "label": "Lei nº 22127, de 2023",
+   "title": "Altera a Lei nº 21.012, de 25 de maio de 2021, para dispor sobre a sinalização para estrangeiros e pessoas com deficiência.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107506",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22128": {
+   "label": "Lei nº 22128, de 2023",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107507",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22129": {
+   "label": "Lei nº 22129, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107508",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22130": {
+   "label": "Lei nº 22130, de 2023",
+   "title": "Institui o Dia Estadual de Conscientização da Apraxia de Fala na Infância - AFI.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107509",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22131": {
+   "label": "Lei nº 22131, de 2023",
+   "title": "Altera a Lei nº 9.644, de 17 de dezembro de 1984, que declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107510",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22133": {
+   "label": "Lei nº 22133, de 2023",
+   "title": "Institui o Dia Estadual do Sociólogo.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107512",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22132": {
+   "label": "Lei nº 22132, de 2023",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-21",
+   "published": "2023-07-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107513",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22134": {
+   "label": "Lei nº 22134, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107516",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22135": {
+   "label": "Lei nº 22135, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107517",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22136": {
+   "label": "Lei nº 22136, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107518",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22137": {
+   "label": "Lei nº 22137, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107519",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22138": {
+   "label": "Lei nº 22138, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107520",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22139": {
+   "label": "Lei nº 22139, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107521",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22140": {
+   "label": "Lei nº 22140, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107522",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22141": {
+   "label": "Lei nº 22141, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107523",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22142": {
+   "label": "Lei nº 22142, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107524",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22143": {
+   "label": "Lei nº 22143, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107525",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22144": {
+   "label": "Lei nº 22144, de 2023",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107526",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22145": {
+   "label": "Lei nº 22145, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107527",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22146": {
+   "label": "Lei nº 22146, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107528",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22147": {
+   "label": "Lei nº 22147, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107529",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2023-22148": {
+   "label": "Lei nº 22148, de 2023",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2023-07-25",
+   "published": "2023-07-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107530",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2023-22099",
+   "short": "Lei 22099/2023",
+   "title": "Lei nº 22099, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107475",
+   "first_law": "lei-2023-22099",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107475",
+     "sha256": "4e6105964e47b6796e68626b7538791adbfbd08436caa1c0ce96fd5c0aacba3d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.099, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RICARDO JOSÉ SOAVINSKI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22100",
+   "short": "Lei 22100/2023",
+   "title": "Lei nº 22100, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107476",
+   "first_law": "lei-2023-22100",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107476",
+     "sha256": "4f66cac0193224ae78d977d0afa03383afaeef3b8492949f8a848b4a13621854",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.100, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a BRUNO ROMERO PEDROSA MONTEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22101",
+   "short": "Lei 22101/2023",
+   "title": "Lei nº 22101, de 2023 (Institui a Campanha de Conscientização sobre a Castração de Cães e Gatos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107477",
+   "first_law": "lei-2023-22101",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107477",
+     "sha256": "112fb159f4e2ae752de828d4db1bfab8cc849f2b2821ac801cbaffcb7e907d0f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.101, DE 12 DE JULHO DE 2023\nInstitui a Campanha de Conscientização sobre a Castração de Cães e Gatos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha de Conscientização sobre a Castração de Cães e Gatos no Estado de Goiás.\nParágrafo único. A Campanha prevista neste artigo visa à promoção de ações educativas para a conscientização da população sobre a importância e os benefícios da castração para a saúde dos animais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Na Campanha prevista no caput do art. 1º poderão ser promovidas as seguintes atividades:\nI - ampla divulgação dos benefícios da castração para conscientizar os tutores dos animais sobre a necessidade desse ato para a saúde dos animais, principalmente por evitar diversos tipos de câncer;\nII - facilitação do acesso à castração de animais domésticos, especialmente por meio da celebração de parcerias com municípios, instituições de ensino e organizações da sociedade civil;\nIII - divulgação por meio de informativos impressos ou digitais referentes à conscientização sobre a castração de cães e gatos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos da Campanha de Conscientização sobre a Castração de Cães e Gatos:\nI - combater doenças como o câncer;\nII - controlar de forma consciente a proliferação das espécies;\nIII - manter, de forma constante e ativa, as ações de conscientização sobre a castração;\nIV - ampliar a informação e o conhecimento sobre os benefícios da castração.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas decorrentes da execução da presente Lei correrão à conta das dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O Poder Executivo regulamentará as normas complementares necessárias à plena execução desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22102",
+   "short": "Lei 22102/2023",
+   "title": "Lei nº 22102, de 2023 (Concede título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107478",
+   "first_law": "lei-2023-22102",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107478",
+     "sha256": "408047431952c87c05774bda68cd93d927dc7c9b0806d45c5ec1ab027c7fbaca",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.102, DE 12 DE JULHO DE 2023\nConcede título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FERNANDA DA SILVA RODRIGUES FERNANDES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22103",
+   "short": "Lei 22103/2023",
+   "title": "Lei nº 22103, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107479",
+   "first_law": "lei-2023-22103",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107479",
+     "sha256": "80a2fd28baaeff6a5600a602b58cf2d504637a776c1598228e663906a2c552fc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.103, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANIEL DE SOUSA LIMA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22104",
+   "short": "Lei 22104/2023",
+   "title": "Lei nº 22104, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107480",
+   "first_law": "lei-2023-22104",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107480",
+     "sha256": "aae52b878c09fee732567af843a3b89fb45780e1d319c8076925bb14d9ce9bdd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.104, DE 12 DE JULHO DE 2023\nAltera a Lei nº 16.209, de 17 de março de 2008, que dispõe sobre a instalação de sistemas de captação, conservação e uso racional da água nos edifícios públicos estaduais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.209, de 17 de março de 2008, passa a vigorar com as seguintes alterações:\n\"Art. 1º As novas edificações acima de 300 m² (trezentos metros quadrados) construídas pelo Poder Público estadual, por meio de execução direta ou indireta, ficam obrigadas a incluir, no projeto técnico da obra, item referente a sistema de captação e aproveitamento de água de chuva ou de reúso não potável da água.\n§ 4º As especificações do coletor de água pluvial, além de atenderem à demanda da obra, devem observar os critérios técnicos e de sustentabilidade na sua fabricação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22105",
+   "short": "Lei 22105/2023",
+   "title": "Lei nº 22105, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107481",
+   "first_law": "lei-2023-22105",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107481",
+     "sha256": "df1b2155ebaea245f4abc3629aa3ce56d0c7b998c30bd26319bbdde6a3d2dd79",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.105, DE 12 DE JULHO DE 2023\nAltera a Lei nº 16.986, de 28 de abril de 2010, que dispõe sobre a disponibilização de banheiro químico acessível às pessoas portadoras de deficiência nos locais que especifica, e a Lei nº 20.638, de 14 de novembro de 2019, que institui o Estatuto da Inclusão Social e Econômica das Pessoas com Deficiência no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 16.986, de 28 de abril de 2010, passa a vigorar com as seguintes alterações:\n\"Art 1º ..............................................................................................\nParágrafo único. O banheiro químico acessível previsto no caput deste artigo deve conter, no mínimo, 1 (um) dispositivo de alarme de emergência, instalado de acordo com as vigentes normas técnicas de acessibilidade da Associação Brasileira de Normas Técnicas (ABNT).\" (NR)\n\"Art. 3º A quantidade mínima de banheiro químico acessível por evento corresponderá ao previsto no § 2º do art. 6º da Lei federal nº 10.098, de 19 de dezembro de 2000.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22106",
+   "short": "Lei 22106/2023",
+   "title": "Lei nº 22106, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107482",
+   "first_law": "lei-2023-22106",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107482",
+     "sha256": "c66e69740db79874265e561363aea27a498ac9c28a4bb51402b43465279a5697",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.106, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALEXANDRE ALENCASTRO VEIGA HSIUNG o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22107",
+   "short": "Lei 22107/2023",
+   "title": "Lei nº 22107, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107483",
+   "first_law": "lei-2023-22107",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107483",
+     "sha256": "3d78234c178c4fc4dc6c96833c12732bb8149ff1533ba568a821aa4fcb6e8844",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.107, DE 12 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO CARAVANA AU MÓVEL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 47.120.311/0001-58, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22108",
+   "short": "Lei 22108/2023",
+   "title": "Lei nº 22108, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107484",
+   "first_law": "lei-2023-22108",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107484",
+     "sha256": "661488c52fdcbbd773b0a2a4599095aab8b057859f67d2619d07c89a32c29820",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.108, DE 12 DE JULHO DE 2023\nInstitui a Política Estadual de Atenção à Saúde das Vítimas e dos Familiares das Vítimas da COVID-19, institui a Semana Estadual de Apoio e Defesa dos Direitos das Vítimas da COVID-19 e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Atenção à Saúde das Vítimas e dos Familiares das Vítimas de COVID-19.\nParágrafo único. Para os efeitos desta Lei, consideram-se vítimas da COVID-19 as pessoas que tiveram a doença e manifestaram alguma sequela física ou mental, devidamente atestada por médico especializado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída tem por objetivos:\nI - conscientizar as vítimas e os familiares das vítimas da COVID- 19 das questões referentes às sequelas de ordem física e mental dessa doença e dos tratamentos disponíveis, inclusive de reabilitação;\nII - incentivar a adoção dos tratamentos disponíveis para as sequelas advindas da COVID- 19;\nIII - incentivar a adoção de medidas de reabilitação pós- COVID- 19.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual ora instituída atenderá prioritariamente às seguintes diretrizes:\nI - estimular a formação de equipes multidisciplinares para atenderem às vítimas e aos familiares das vítimas da COVID- 19, compreendendo fisioterapia, terapia ocupacional, pneumologia, psicologia, psiquiatria, fonoaudiologia, reumatologia, clínica médica geral e assistência social;\nII - estimular o atendimento às vítimas e aos familiares das vítimas da COVID- 19 de forma virtual ou presencial;\nIII - estimular a capacitação das equipes multidisciplinares a partir de estratégias embasadas em evidências científicas;\nIV - possibilitar a orientação das vítimas e dos familiares das vítimas da COVID- 19 sobre as medidas de enfrentamento do medo, estresse, desalento, bem como sobre estratégias de cuidado da saúde mental;\nV - estimular a formalização de parcerias ou convênios com entidades públicas ou privadas, bem como com a sociedade civil organizada, visando à implementação dos objetivos da Política instituída por esta Lei;\nVI - possibilitar o atendimento de terapia intensiva;\nVII - incentivar que as vítimas e os familiares das vítimas da COVID- 19 adotem procedimentos terapêuticos que podem ser realizados na residência, direta ou indiretamente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica instituída a Semana Estadual de Apoio e Defesa dos Direitos das Vítimas da COVID-19, a ser realizada, anualmente, na semana que compreende o dia 17 de outubro.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A Semana Estadual ora instituída tem por objetivos:\nI - estimular a realização de atividades pertinentes às políticas públicas necessárias à promoção dos direitos das vítimas da COVID- 19;\nII - estimular a educação sanitária para atender à necessidade e às diretrizes da imunização da população contra a COVID- 19.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º (VETADO).\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º (VETADO).\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º (VETADO).\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\nMAYCLLYN CARREIRO\nDeputado Estadual\nDELEGADA ADRIANA ACCORSI\nDeputada Estadual\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22109",
+   "short": "Lei 22109/2023",
+   "title": "Lei nº 22109, de 2023 (Institui a Política Estadual de Fortalecimento de Vínculos Familiares e Garantia de Convivência Familiar e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107485",
+   "first_law": "lei-2023-22109",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107485",
+     "sha256": "6c353741f674d538f26c25b732ac0682f4048e2833d8ded3cbd9d92099f84cf3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.109, DE 12 DE JULHO DE 2023\nInstitui a Política Estadual de Fortalecimento de Vínculos Familiares e Garantia de Convivência Familiar e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Fortalecimento de Vínculos Familiares e Garantia de Convivência Familiar.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída atenderá aos seguintes princípios:\nI - respeito à dignidade da pessoa humana;\nII - reconhecimento da família como base da sociedade e merecedora de especial proteção do Estado, nos termos do art. 226 da Constituição Federal;\nIII - garantia do direito à convivência familiar e comunitária.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos da Política Estadual ora instituída:\nI - apoiar, fortalecer e articular as iniciativas existentes nas diversas áreas de atuação governamental para fortalecimento dos vínculos familiares, assim como incentivar a adoção de ações e aprimoramentos baseados em evidências e melhores práticas;\nII - incentivar a adoção de estratégias integradas que possam potencializar a articulação intersetorial, qualificar a atenção aos vínculos familiares no escopo das políticas públicas e potencializar os resultados;\nIII - promover a avaliação do impacto familiar das políticas, dos programas e das ações em elaboração ou implementados pelo Poder Público, visando à adoção de medidas, inclusive legislativas, que aprimorem a atenção às famílias no âmbito das políticas públicas;\nIV - fomentar a pesquisa, a produção e a divulgação de conhecimento acerca da realidade das famílias goianas e da relação entre os vínculos familiares e o bem- estar da população;\nV - articular os esforços entre o Poder Público e a sociedade civil em prol da valorização do apoio e do fortalecimento dos vínculos familiares.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Política Estadual ora instituída atenderá às seguintes diretrizes, especialmente:\nI - a valorização das funções sociais da família, baseada em relações de reciprocidade, responsabilidade e solidariedade entre os seus membros;\nII - o reconhecimento e o apoio às funções desempenhadas pela família:\na) na formação, no cuidado e na proteção de crianças, adolescentes e jovens; e\nb) no cuidado e na proteção de pessoas idosas e de pessoas com deficiência;\nIII - o fortalecimento do valor da maternidade e da paternidade responsáveis, do cuidado e da convivência familiar e comunitária;\nIV - a promoção do equilíbrio entre o trabalho e a família;\nV - o esforço para que as ações governamentais respeitem o projeto familiar no que se refere ao acesso ao trabalho, ao planejamento familiar, à maternidade e à paternidade, inclusive por adoção, à parentalidade e à proteção de pessoas idosas e de pessoas com deficiência;\nVI - a promoção de uma cultura de valorização da infância e da adolescência como fases peculiares do desenvolvimento, de reconhecimento e de apoio ao papel dos pais ou responsáveis em relação às necessidades e aos direitos da criança e do adolescente, a fim de fortalecer o papel parental e a centralidade da família;\nVII - o reconhecimento do valor social do trabalho doméstico e do cuidado como essenciais para o desenvolvimento da família e da sociedade;\nVIII - o fortalecimento das redes de apoio às famílias e dos vínculos comunitários e a valorização das iniciativas da sociedade civil na promoção da qualidade dos vínculos familiares e comunitários;\nIX - a disseminação de informações e a capacitação dos agentes públicos acerca da formulação e da avaliação de políticas públicas na perspectiva do fortalecimento dos vínculos familiares;\nX - a valorização da unidade familiar como espaço primordial de construção da identidade social;\nXI - o estímulo à solidariedade familiar, nas perspectivas material, afetiva e psicológica.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º (VETADO).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As despesas porventura decorrentes da execução desta Lei correrão à conta de dotações orçamentárias próprias consignadas no orçamento vigente, conforme estabelecido no art. 3º da Lei Complementar nº 112, de 18 de setembro de 2014.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22110",
+   "short": "Lei 22110/2023",
+   "title": "Lei nº 22110, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107486",
+   "first_law": "lei-2023-22110",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107486",
+     "sha256": "76127123bf0242a6ce84757b61be18d87cbb69754681add16fa45c489a5bb0ea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.110, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FLAVIO FAEDO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22111",
+   "short": "Lei 22111/2023",
+   "title": "Lei nº 22111, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107487",
+   "first_law": "lei-2023-22111",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107487",
+     "sha256": "f4d8314da7af8dd6d2e5b10d53eec9324f3f14ddf6810f53580b90dade447c22",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.111, DE 12 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ESPAÇO CULTURAL VILA ESPERANÇA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 26.868.182/0001-00, com sede no Município de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22112",
+   "short": "Lei 22112/2023",
+   "title": "Lei nº 22112, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107488",
+   "first_law": "lei-2023-22112",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107488",
+     "sha256": "d2b5b26caa7b7fce1d2308373743aa1fcfd6dfcda325662230127ffb1a1efaee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.112, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANDRÉ RODRIGUES NACAGAMI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22113",
+   "short": "Lei 22113/2023",
+   "title": "Lei nº 22113, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107489",
+   "first_law": "lei-2023-22113",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107489",
+     "sha256": "63780928f9e8da512c6e84af24a4cdba881666c076e4176c9bcfedf3e01c1a9c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.113, DE 12 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARDER BEZERRA NUNES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22114",
+   "short": "Lei 22114/2023",
+   "title": "Lei nº 22114, de 2023 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107490",
+   "first_law": "lei-2023-22114",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107490",
+     "sha256": "53538ddbba923efe9f41aa660bcb661620b6c93ea5edfd3f76a2932cb835546a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.114, DE 12 DE JULHO DE 2023\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado MARIA JOSÉ NASSER o Centro Estadual de Atenção ao Diabetes, localizado no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22115",
+   "short": "Lei 22115/2023",
+   "title": "Lei nº 22115, de 2023",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107494",
+   "first_law": "lei-2023-22115",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107494",
+     "sha256": "7b046d0fe892a1510f62fa17992d585f624c06f13c12785780c1d17ed799b616",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.115, DE 21 DE JULHO DE 2023\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Gastronômico do Cerrado e a Festa do Milho, realizados no Município de Santo Antônio de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam incluídos, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Gastronômico do Cerrado e a Festa do Milho, realizados, anualmente, no mês de maio, no Município de Santo Antônio de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22116",
+   "short": "Lei 22116/2023",
+   "title": "Lei nº 22116, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval dos Amigos de Goiânia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107495",
+   "first_law": "lei-2023-22116",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107495",
+     "sha256": "53c1b41083c5ced3db1ed860f2d896eeaf8c5348a1b1f02a98108374896f7dee",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.116, DE 21 DE JULHO DE 2023\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval dos Amigos de Goiânia.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval dos Amigos, realizado, anualmente, no sábado que antecede a semana do carnaval no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22117",
+   "short": "Lei 22117/2023",
+   "title": "Lei nº 22117, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107496",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2023-22117"
+   ],
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107496",
+     "sha256": "08b369b8ca9d24f3da2884e2c6b37b3ee61d8d8908ada387ace53580d7f9e890",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.117, DE 21 DE JULHO DE 2023\nDispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A gastronomia e a cultura do Pastelinho de Goiás produzido na região do Município de Goiás ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 22117, de 2023 was altered on 1 date(s) its notes cite, the latest 2026-10-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22118",
+   "short": "Lei 22118/2023",
+   "title": "Lei nº 22118, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107497",
+   "first_law": "lei-2023-22118",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107497",
+     "sha256": "a8969ffde81dbedabffd29983344112284130f984c91c63313701ea8984a70c9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.118, DE 21 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GUSTAVO MACÊDO FREGONEZI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22119",
+   "short": "Lei 22119/2023",
+   "title": "Lei nº 22119, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107498",
+   "first_law": "lei-2023-22119",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107498",
+     "sha256": "4800f9c6820ff59dd84b1bc3aae1d50dff96480d9167e5cef6073ddede44b2c0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.119, DE 21 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a REGINA CELIS SÔNEGO SALES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22120",
+   "short": "Lei 22120/2023",
+   "title": "Lei nº 22120, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107499",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2023-22120"
+   ],
+   "versions": [
+    {
+     "from": "2026-10-08",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107499",
+     "sha256": "0dba047a2b34e7788d6a8573d3b7229bf64dfde87803c6fb2966d5c6399d4e21",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.120, DE 21 DE JULHO DE 2023\nDispõe sobre o reconhecimento dos bens que especifica como patrimônios gastronômicos e culturais imateriais goianos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A gastronomia e a cultura do Empadão Goiano produzido na região do Município de Goiás ficam reconhecidas como patrimônios gastronômicos e culturais imateriais goianos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 22120, de 2023 was altered on 1 date(s) its notes cite, the latest 2026-10-08."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22122",
+   "short": "Lei 22122/2023",
+   "title": "Lei nº 22122, de 2023 (Confere ao Município de Itaguari/GO o título de \"Capital Goiana da Folia de Reis\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107500",
+   "first_law": "lei-2023-22122",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107500",
+     "sha256": "3e29bab7c09e84330453be6f9b424b9a494671972dd4abadace5f1bf45d72654",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.122, DE 21 DE JULHO DE 2023\nConfere ao Município de Itaguari/GO o título de \"Capital Goiana da Folia de Reis\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Itaguari/GO o título de \"Capital Goiana da Folia de Reis\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22123",
+   "short": "Lei 22123/2023",
+   "title": "Lei nº 22123, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107501",
+   "first_law": "lei-2023-22123",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107501",
+     "sha256": "f8e024fcee74bb1467ebac08482c404e9f440f1e24fa552d82e09e957cc09de0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.123, DE 21 DE JULHO DE 2023\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica revogado o § 8º do art. 64 da Lei nº 11.651, de 26 de dezembro de 1991.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22124",
+   "short": "Lei 22124/2023",
+   "title": "Lei nº 22124, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107502",
+   "first_law": "lei-2023-22124",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107502",
+     "sha256": "398e9137a1872540cf27cdb7af203b858a375b70641d962cf201e6cbf11e0cec",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.124, DE 21 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BENEFICENTE - CT COMUNIDADE TERAPÊUTICA PROJETO CAFÉ COM CRISTO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.425.586/0001-90, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22121",
+   "short": "Lei 22121/2023",
+   "title": "Lei nº 22121, de 2023 (Confere ao Município de Divinópolis de Goiás o título de Capital Goiana da Cultura Desportiva da Vaquejada.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107503",
+   "first_law": "lei-2023-22121",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107503",
+     "sha256": "01c3efcf984837b463d915097d6292d461e2e4a23b7e288ecf9035fe8b82fccf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.121, DE 21 DE JULHO DE 2023\nConfere ao Município de Divinópolis de Goiás o título de Capital Goiana da Cultura Desportiva da Vaquejada.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Divinópolis de Goiás o título de Capital Goiana da Cultura Desportiva da Vaquejada.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22125",
+   "short": "Lei 22125/2023",
+   "title": "Lei nº 22125, de 2023 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107504",
+   "first_law": "lei-2023-22125",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107504",
+     "sha256": "031826c21461c560851fee2d7f9c29521090e70e4743269a7f7ab1e3a92a8f54",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.125, DE 21 DE JULHO DE 2023\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada MARISA DOS SANTOS PEREIRA a Ala Pediátrica do Hospital Centro-Norte Goiano, localizado no Município de Uruaçu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22126",
+   "short": "Lei 22126/2023",
+   "title": "Lei nº 22126, de 2023 (Confere ao Município de Iporá/GO o título de \"Capital Estadual do Muladeiro\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107505",
+   "first_law": "lei-2023-22126",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107505",
+     "sha256": "ebebb77478476f5ec124225c4df1f5bb0b82b877d99f0969e11ed9eb351a566c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.126, DE 21 DE JULHO DE 2023\nConfere ao Município de Iporá/GO o título de \"Capital Estadual do Muladeiro\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Iporá/GO o título de \"Capital Estadual do Muladeiro\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nHENRIQUE CÉSAR\nDeputado Estadual\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22127",
+   "short": "Lei 22127/2023",
+   "title": "Lei nº 22127, de 2023 (Altera a Lei nº 21.012, de 25 de maio de 2021, para dispor sobre a sinalização para estrangeiros e pessoas com deficiência.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107506",
+   "first_law": "lei-2023-22127",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107506",
+     "sha256": "ecadcc3e74a7758bde94315aec5172811840ee964a58883fa8dd6edaf4a1773d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.127, DE 21 DE JULHO DE 2023\nAltera a Lei nº 21.012, de 25 de maio de 2021, para dispor sobre a sinalização para estrangeiros e pessoas com deficiência.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 21.012, de 25 de maio de 2021, passa a vigorar com a seguinte redação:\n\"Art. 2º A sinalização indicativa em locais turísticos deverá ser grafada em idioma inglês ou espanhol e estar disponível em braile.\n§ 1º A sinalização, na forma definida no caput:\nI - deverá informar também as entradas e saídas dos estabelecimentos públicos e privados, bem como o início e final das faixas de pedestres, faixas de pisos táteis, a localização dos terminais de transportes rodoviários e aéreos, as portas de acesso aos banheiros, além de órgãos públicos, restaurantes e instituições bancárias;\nII - nos órgãos públicos, restaurantes e instituições bancárias em que houver:\na) escadas, será instalada por meio de placas no início e no final do acesso ou corrimão, informando o pavimento;\nb) elevadores, será instalada na lateral externa do elevador, informando o pavimento.\n§ 2º Os locais em que os atendimentos públicos e privados utilizem senha e/ou painel eletrônico deverão emitir sinal sonoro quando de sua emissão e disponibilizar a opção de utilização do idioma inglês ou espanhol.\n§ 3º Os semáforos de pedestres nos locais turísticos de grande fluxo de pessoas deverão emitir sinal sonoro indicativo de permissão ou não de acesso.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor após decorridos 180 (cento e oitenta) dias da data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nHENRIQUE CÉSAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22128",
+   "short": "Lei 22128/2023",
+   "title": "Lei nº 22128, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107507",
+   "first_law": "lei-2023-22128",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107507",
+     "sha256": "b39466c310a62ca5e6c785499738258d7a78e89188ff91bfcaf1a0e19a51aaed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.128, DE 21 DE JULHO DE 2023\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O bordado em roupas de algodão rústico, realizado pela Cabocla Milena Curado, fica reconhecido como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22129",
+   "short": "Lei 22129/2023",
+   "title": "Lei nº 22129, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107508",
+   "first_law": "lei-2023-22129",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107508",
+     "sha256": "c4df72956633ff1d95c8f116b3dd554a3c679a43782df8f3de15f514ed929e40",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.129, DE 21 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CLÁUDIO JOÃO GORGEN o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22130",
+   "short": "Lei 22130/2023",
+   "title": "Lei nº 22130, de 2023 (Institui o Dia Estadual de Conscientização da Apraxia de Fala na Infância - AFI.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107509",
+   "first_law": "lei-2023-22130",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107509",
+     "sha256": "12d18c181df9e55ac0f6b27d200edda35440bd90ca7d934c00d6cbf95d61e3b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.130, DE 21 DE JULHO DE 2023\nInstitui o Dia Estadual de Conscientização da Apraxia de Fala na Infância - AFI.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual de Conscientização da Apraxia de Fala na Infância - AFI, a ser realizado, anualmente, no dia 14 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22131",
+   "short": "Lei 22131/2023",
+   "title": "Lei nº 22131, de 2023 (Altera a Lei nº 9.644, de 17 de dezembro de 1984, que declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107510",
+   "first_law": "lei-2023-22131",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107510",
+     "sha256": "0988f6d5c0aac2dd0fa7e7b4ddadfce681abb739f0987b37411cc9ca588118c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.131, DE 21 DE JULHO DE 2023\nAltera a Lei nº 9.644, de 17 de dezembro de 1984, que declara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 1º da Lei nº 9.644, de 17 de dezembro de 1984, passa a vigorar com a seguinte alteração:\n\"Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO RENASCER, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 00.145.904/0001-05, com sede no Município de Niquelândia/GO.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22133",
+   "short": "Lei 22133/2023",
+   "title": "Lei nº 22133, de 2023 (Institui o Dia Estadual do Sociólogo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107512",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2023-22133"
+   ],
+   "versions": [
+    {
+     "from": "2026-05-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107512",
+     "sha256": "8262ea249825dcf2ea3654fe7b85600072bf5c661207087ca2dd4db276218f58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.133, DE 21 DE JULHO DE 2023\nInstitui o Dia Estadual do Sociólogo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Sociólogo, a ser comemorado, anualmente, no dia 10 de dezembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Sociólogo fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 22133, de 2023 was altered on 1 date(s) its notes cite, the latest 2026-05-21."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22132",
+   "short": "Lei 22132/2023",
+   "title": "Lei nº 22132, de 2023 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107513",
+   "first_law": "lei-2023-22132",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107513",
+     "sha256": "567d20a1e639ba1dbb14f811c22551a0811d87b0a526cf05381c735a91bb7a65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.132, DE 21 DE JULHO DE 2023\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado GOVERNADOR OTÁVIO LAGE a Rodovia GO-080, no trecho que liga os Municípios de Goianésia/GO e Barro Alto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22134",
+   "short": "Lei 22134/2023",
+   "title": "Lei nº 22134, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107516",
+   "first_law": "lei-2023-22134",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107516",
+     "sha256": "491a377edd48ec5d92a46ea1f05e1e1c6c43271eccb524e1429d75f34e6e89e7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.134, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a SOCIEDADE INSTITUTO CURADOS PARA CURAR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.004.545/0001-37, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22135",
+   "short": "Lei 22135/2023",
+   "title": "Lei nº 22135, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107517",
+   "first_law": "lei-2023-22135",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107517",
+     "sha256": "c628f5bf8669baf4b79de73057ddfc3f28f9b4d9135477b0532d6969c0185d45",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.135, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARIA ROSELENE DEUSDARÁ CRUVINEL o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22136",
+   "short": "Lei 22136/2023",
+   "title": "Lei nº 22136, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107518",
+   "first_law": "lei-2023-22136",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107518",
+     "sha256": "adc8bd547ebd10f81203fc1528d326f27ff951b03bb7f207fdb240519148f24f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.136, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTÔNIO CARLOS DE SOUZA LIMA NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22137",
+   "short": "Lei 22137/2023",
+   "title": "Lei nº 22137, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107519",
+   "first_law": "lei-2023-22137",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107519",
+     "sha256": "5630e59b191c0573cb4ad0e2e3190882e61fbb99bf6ef181e37e69ac1e634e5c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.137, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS MORADORES E COMERCIANTES DO JARDIM AMÉRICA - A.M.C. JARDIM AMÉRICA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 02.167.849/0001-80, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22138",
+   "short": "Lei 22138/2023",
+   "title": "Lei nº 22138, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107520",
+   "first_law": "lei-2023-22138",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107520",
+     "sha256": "dddac587a20c396444abbb4e331640dcd4fab7e636e294784f9cb898856f65df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.138, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANIELLE ANDRADE ROSA MARTINS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22139",
+   "short": "Lei 22139/2023",
+   "title": "Lei nº 22139, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107521",
+   "first_law": "lei-2023-22139",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107521",
+     "sha256": "0bd1711df82ba9a6a0d8d40819407a832c3da6b60eac2a8599e33eae6d75550f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.139, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GELSON GARCIA OZORIO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22140",
+   "short": "Lei 22140/2023",
+   "title": "Lei nº 22140, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107522",
+   "first_law": "lei-2023-22140",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107522",
+     "sha256": "b4604b76091d3269932eec8e289fbfb71f7ffcaeb86cffe4ffbbf6bef1a52ef0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.140, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANIEL BOAVENTURA FRANÇA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22141",
+   "short": "Lei 22141/2023",
+   "title": "Lei nº 22141, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107523",
+   "first_law": "lei-2023-22141",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107523",
+     "sha256": "99ed414697530efe584e30208da1ced5b5de64372cdaff48ff1c3d536d3e5485",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.141, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE AMIGOS DO BEM DO MUNICÍPIO DE ITAPURANGA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 33.550.079/0001-83, com sede no Município de Itapuranga/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22142",
+   "short": "Lei 22142/2023",
+   "title": "Lei nº 22142, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107524",
+   "first_law": "lei-2023-22142",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107524",
+     "sha256": "151fb2b9b08dc57cc943d052d1cd6326e61700c09f04121e341237c9cae7e832",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.142, DE 25 DE julho DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE PEQUENOS PRODUTORES RURAIS DA FAZENDA RIACHÃO - APPR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 00.310.608/0001-12, com sede no Município de Sítio D'Abadia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22143",
+   "short": "Lei 22143/2023",
+   "title": "Lei nº 22143, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107525",
+   "first_law": "lei-2023-22143",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107525",
+     "sha256": "6b9be19ff4f4ee6c65cdc49e53d54d0a1436e861aa23265e85a7668661c5710a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.143, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VIDA COM CRISTO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 13.149.849/0001-73, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data da sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22144",
+   "short": "Lei 22144/2023",
+   "title": "Lei nº 22144, de 2023 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107526",
+   "first_law": "lei-2023-22144",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107526",
+     "sha256": "aceae49fb1ce81ea4676bba58eb474660dfc65aa89622ddd088f1a656c96f6e0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.144, DE 25 DE JULHO DE 2023\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTONIO RICARDO TORRES DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22145",
+   "short": "Lei 22145/2023",
+   "title": "Lei nº 22145, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107527",
+   "first_law": "lei-2023-22145",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107527",
+     "sha256": "d90135a5e91fbebbeba3756f4f1e5c0be2aa2a2eb41067c614fb7b9116a68545",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.145, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO PARALÍMPICA DO ESTADO DE GOIÁS - ASPAEGO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 34.741.187/0001-04, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22146",
+   "short": "Lei 22146/2023",
+   "title": "Lei nº 22146, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107528",
+   "first_law": "lei-2023-22146",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107528",
+     "sha256": "c0297d9f429784cf7c222e1f7e4876114adc0be0b83adefa22a7de4f537c75bc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.146, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ARCA AMIGOS DOS ANIMAIS DE GOIÁS - AAAAG, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 41.695.664/0001-08, com sede no Município de Jataí-GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nHENRIQUE CÉSAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22147",
+   "short": "Lei 22147/2023",
+   "title": "Lei nº 22147, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107529",
+   "first_law": "lei-2023-22147",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107529",
+     "sha256": "83362d52b5072cca20557da089470d71e8b64d57ec546bc816790b07642d31e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.147, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO SOCIAL PROJETO EDIFICAÇÃO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 28.754.468/0001-90, com sede no Município de Goianésia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-22148",
+   "short": "Lei 22148/2023",
+   "title": "Lei nº 22148, de 2023 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/107530",
+   "first_law": "lei-2023-22148",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2023-07-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/107530",
+     "sha256": "314057f95d8a82eb6d11115fc125efb7cba10f4f65c048c52c2d1924469b8188",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.148, DE 25 DE JULHO DE 2023\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO RENASCENTE DE ITAGUARI - GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 14.687.540/0001-08, com sede no Município de Itaguari/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de julho de 2023; 135º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

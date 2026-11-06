@@ -1,0 +1,2437 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-22752": {
+   "label": "Lei nº 22752, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108913",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22753": {
+   "label": "Lei nº 22753, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108914",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22754": {
+   "label": "Lei nº 22754, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108915",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22755": {
+   "label": "Lei nº 22755, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108916",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22756": {
+   "label": "Lei nº 22756, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108917",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22757": {
+   "label": "Lei nº 22757, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-06",
+   "published": "2024-06-06",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108918",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22758": {
+   "label": "Lei nº 22758, de 2024",
+   "title": "Institui a Política Estadual de Conscientização sobre o Puerpério.",
+   "kind": "law",
+   "enacted": "2024-06-07",
+   "published": "2024-06-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108920",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22759": {
+   "label": "Lei nº 22759, de 2024",
+   "title": "Institui o Dia Estadual da Agricultura Irrigada.",
+   "kind": "law",
+   "enacted": "2024-06-07",
+   "published": "2024-06-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108922",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22760": {
+   "label": "Lei nº 22760, de 2024",
+   "title": "Regulamenta o Programa de Apoio Social - PAS, destinado aos servidores, aos militares, ativos e inativos, aos pensionistas e aos empregados públicos do Estado de Goiás, bem como aos seus dependentes, nos termos do inciso II do art. 27 da Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108990",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22771": {
+   "label": "Lei nº 22771, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108992",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22772": {
+   "label": "Lei nº 22772, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108993",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22773": {
+   "label": "Lei nº 22773, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108994",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22774": {
+   "label": "Lei nº 22774, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108995",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22775": {
+   "label": "Lei nº 22775, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22776": {
+   "label": "Lei nº 22776, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22777": {
+   "label": "Lei nº 22777, de 2024",
+   "title": "Institui o Dia Estadual do Técnico e Auxiliar em Saúde Bucal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22778": {
+   "label": "Lei nº 22778, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22779": {
+   "label": "Lei nº 22779, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22761": {
+   "label": "Lei nº 22761, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109001",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22762": {
+   "label": "Lei nº 22762, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109002",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22763": {
+   "label": "Lei nº 22763, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109003",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22764": {
+   "label": "Lei nº 22764, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-07",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22765": {
+   "label": "Lei nº 22765, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22766": {
+   "label": "Lei nº 22766, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22767": {
+   "label": "Lei nº 22767, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22768": {
+   "label": "Lei nº 22768, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22769": {
+   "label": "Lei nº 22769, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22770": {
+   "label": "Lei nº 22770, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-10",
+   "published": "2024-06-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22780": {
+   "label": "Lei nº 22780, de 2024",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Caldas Novas/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-11",
+   "published": "2024-06-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22781": {
+   "label": "Lei nº 22781, de 2024",
+   "title": "Autoriza a execução e a conclusão do objeto de emendas parlamentares.",
+   "kind": "law",
+   "enacted": "2024-06-13",
+   "published": "2024-06-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109012",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22782": {
+   "label": "Lei nº 22782, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-13",
+   "published": "2024-06-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22783": {
+   "label": "Lei nº 22783, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-13",
+   "published": "2024-06-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22784": {
+   "label": "Lei nº 22784, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-13",
+   "published": "2024-06-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22785": {
+   "label": "Lei nº 22785, de 2024",
+   "title": "Abre crédito adicional especial à Secretaria de Estado da Infraestrutura - SEINFRA e cria produtos no PPA 2024/2027.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22786": {
+   "label": "Lei nº 22786, de 2024",
+   "title": "Institui o Plano Estadual de Cultura de Goiás - PECGO para o decênio 2024-2033.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109020",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22787": {
+   "label": "Lei nº 22787, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109021",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22788": {
+   "label": "Lei nº 22788, de 2024",
+   "title": "Confere ao Município de Goianápolis/GO o título de Capital Estadual do Tomate.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109022",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22791": {
+   "label": "Lei nº 22791, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109023",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22793": {
+   "label": "Lei nº 22793, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, os Festejos do Mês de Agosto, realizados no Município de São Domingos/GO.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109024",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22795": {
+   "label": "Lei nº 22795, de 2024",
+   "title": "Altera a Lei nº 20.194, de 05 de julho de 2018, que institui a Política Estadual para o Sistema Integrado de Informações de Violência Contra a Mulher, denominado Observatório Estadual da Violência Contra a Mulher.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22796": {
+   "label": "Lei nº 22796, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22789": {
+   "label": "Lei nº 22789, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109027",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22790": {
+   "label": "Lei nº 22790, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109028",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22792": {
+   "label": "Lei nº 22792, de 2024",
+   "title": "Institui a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109029",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22794": {
+   "label": "Lei nº 22794, de 2024",
+   "title": "Institui o Dia Estadual da Música Gospel.",
+   "kind": "law",
+   "enacted": "2024-06-17",
+   "published": "2024-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109030",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22797": {
+   "label": "Lei nº 22797, de 2024",
+   "title": "Altera a Lei nº 14.711, de 30 de janeiro de 2004, que institui, no Gabinete Militar da Governadoria, a Medalha do Guardião.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109032",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22798": {
+   "label": "Lei nº 22798, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada no Município de Goianápolis/GO.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109033",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22799": {
+   "label": "Lei nº 22799, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109034",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22800": {
+   "label": "Lei nº 22800, de 2024",
+   "title": "Confere ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-21",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109035",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22801": {
+   "label": "Lei nº 22801, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada no Município de Santa Helena de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109036",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-22752",
+   "short": "Lei 22752/2024",
+   "title": "Lei nº 22752, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108913",
+   "first_law": "lei-2024-22752",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108913",
+     "sha256": "6153809145e09ba8eaf12365ed40291106763d317a7bff04c86eb8fdd94d366b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.752, DE 6 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO DO CONHECIMENTO E CIDADANIA - ICC, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 02.942.407/0001-63, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22753",
+   "short": "Lei 22753/2024",
+   "title": "Lei nº 22753, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108914",
+   "first_law": "lei-2024-22753",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108914",
+     "sha256": "37f126e37d7533da447a920ac5906d748b98055a1ec0031bea75f391b04d22ae",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.753, DE 6 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a POLIANA BERGAMO LOMAZ o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22754",
+   "short": "Lei 22754/2024",
+   "title": "Lei nº 22754, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108915",
+   "first_law": "lei-2024-22754",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108915",
+     "sha256": "30f7b69a3277a9362950eaa56713b5e5f933e409b85da7b5a8926503885bf8c6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.754, DE 6 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOEL RAGAGNIN o Titulo Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22755",
+   "short": "Lei 22755/2024",
+   "title": "Lei nº 22755, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108916",
+   "first_law": "lei-2024-22755",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108916",
+     "sha256": "5113e5c81561ac8734fe0592e6fd8ea07446aa48b6cf7f4d99bb70d8ab616879",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.755, DE 6 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ENOQUES MARTINS DA ROCHA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22756",
+   "short": "Lei 22756/2024",
+   "title": "Lei nº 22756, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108917",
+   "first_law": "lei-2024-22756",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108917",
+     "sha256": "6b0b71cbb8778fa8152906d223b6b94e3b053a59b9d8d1b62ff9a92c1ff4e90c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.756, DE 6 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MAXSUELL MIRANDA DAS NEVES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22757",
+   "short": "Lei 22757/2024",
+   "title": "Lei nº 22757, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108918",
+   "first_law": "lei-2024-22757",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-06",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108918",
+     "sha256": "c321cc572695253fa587a60fba740c1cdab2946819a9f9d9e3c86228958d35c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.757, DE 6 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o CONSELHO COMUNITÁRIO DE SEGURANÇA E DESENVOLVIMENTO DE HIDROLÂNDIA - GOIÁS - HIDROLÂNDIA EM AÇÃO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 32.551.263/0001-85, com sede no Município de Hidrolândia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 6 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22758",
+   "short": "Lei 22758/2024",
+   "title": "Lei nº 22758, de 2024 (Institui a Política Estadual de Conscientização sobre o Puerpério.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108920",
+   "first_law": "lei-2024-22758",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108920",
+     "sha256": "101b957038d24ea9f3ae0c87e4eb5aa9f5d3d110f0220b75981fb38503b1b460",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.758, DE 7 DE JUNHO DE 2024\nInstitui a Política Estadual de Conscientização sobre o Puerpério.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Conscientização sobre o Puerpério.\nParágrafo único. Para os fins desta Lei, entende-se por puerpério o período após o parto até que o organismo da mulher volte às condições normais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída tem por objetivos:\nI - sensibilizar a sociedade para a relevância do acompanhamento e apoio à mulher no período puerperal;\nII - reconhecer o puerpério como período fundamental para a saúde e bem- estar da mãe e do bebê.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - estimular a integração de órgãos e entidades públicas e privadas na elaboração e implementação de medidas direcionadas ao puerpério;\nII - estimular a capacitação de profissionais da saúde, educação e assistência social sobre o puerpério;\nIII - fomentar a pesquisa e a coleta de dados estatísticos relacionados ao puerpério, visando à melhoria das políticas públicas;\nIV - possibilitar a assistência integral à saúde da mulher no puerpério, incluindo aspectos físicos, emocionais e psicológicos;\nV - valorizar o papel da família e da comunidade no apoio à mulher no período puerperal;\nVI - estimular a inclusão de conteúdos relacionados ao puerpério em programas de educação em saúde;\nVII - estimular a criação de grupos de trabalho, destinados a acompanhar, avaliar e propor medidas para a implementação da Política instituída por esta Lei;\nVIII - estimular a realização de campanhas anuais de conscientização sobre o puerpério.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei poderá ser regulamentada pelo Poder Executivo, que na ocasião estabelecerá a forma de monitoramento e avaliação da Política Pública ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22759",
+   "short": "Lei 22759/2024",
+   "title": "Lei nº 22759, de 2024 (Institui o Dia Estadual da Agricultura Irrigada.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108922",
+   "first_law": "lei-2024-22759",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108922",
+     "sha256": "a6d42a913c817a5ddec256d75cce67e133f6658a740f6d7dcb36a86c666088fc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.759, DE 7 DE JUNHO DE 2024\nInstitui o Dia Estadual da Agricultura Irrigada.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Agricultura Irrigada, a ser comemorado, anualmente, no dia 15 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual instituído por esta Lei contará com a realização de seminários, palestras, debates, concursos culturais, exposições e outros eventos relacionados ao tema, visando à conscientização da população sobre a importância da agricultura irrigada para o desenvolvimento sustentável do Estado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 7 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22760",
+   "short": "Lei 22760/2024",
+   "title": "Lei nº 22760, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108990",
+   "first_law": "lei-2024-22760",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108990",
+     "sha256": "6648ce66af86df1b89757de9ea33c4f08974c7948ff6a49d42b6a330457fce72",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.760, DE 10 DE JUNHO DE 2024\nRegulamenta o Programa de Apoio Social - PAS, destinado aos servidores, aos militares, ativos e inativos, aos pensionistas e aos empregados públicos do Estado de Goiás, bem como aos seus dependentes, nos termos do inciso II do art. 27 da Lei nº 21.880, de 20 de abril de 2023, que autoriza o Poder Executivo a instituir o Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - Ipasgo Saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Programa de Apoio Social - PAS, instituído pelo Estado de Goiás, destina-se exclusivamente aos servidores públicos, aos militares, ativos e inativos, aos pensionistas e aos empregados públicos do Estado de Goiás, bem como aos seus dependentes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O PAS consiste na redução do valor da coparticipação devida pelos usuários do Serviço Social Autônomo de Assistência à Saúde dos Servidores Públicos e Militares do Estado de Goiás - IPASGO Saúde, exclusivamente para:\nI - a realização de exames e procedimentos de alto custo nos casos de tratamentos crônicos e/ou onerosos relacionados às doenças elencadas no art. 4º desta Lei; e\nII - a utilização de medicamentos de alto custo e uso contínuo para as doenças discriminadas no Anexo Único desta Lei.\n§ 1º A inscrição no PAS não exime o usuário ou o dependente do cumprimento do prazo de carência para doenças ou lesões, congênitas ou preexistentes, na forma prevista na legislação aplicável, para a liberação dos procedimentos e dos exames relativos às patologias enumeradas no art. 4º desta Lei, bem como de medicamentos de alto custo e uso contínuo para as doenças discriminadas no Anexo Único, também desta Lei.\n§ 2º A redução do valor da coparticipação destinada exclusivamente para os casos discriminados no caput deste artigo somente será autorizada mediante prévia e obrigatória avaliação socioeconômica, conforme o procedimento administrativo realizado pelo Ipasgo Saúde e validado pela Secretaria de Estado da Administração - SEAD.\n§ 3º A avaliação socioeconômica será processada caso a caso, considerado o valor das receitas e das despesas do núcleo familiar do usuário do PAS para a determinação do percentual de redução do fator moderador, nos termos desta Lei.\n§ 4º O atual cadastro ativo dos beneficiários do PAS também deverá ser validado pela SEAD para a continuidade da percepção do benefício.\n§ 5º O PAS é um benefício de natureza patronal e não integra o rol de serviços assistenciais que compõem a cobertura estabelecida nas tabelas próprias do Ipasgo Saúde.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para os fins desta Lei, serão adotadas as definições da legislação pertinente, às quais se acrescentam as seguintes:\nI - núcleo familiar: constituído por todas as pessoas residentes na casa em que o usuário requerente do PAS residir, independentemente de laços sanguíneos;\nII - receita líquida do núcleo familiar: o total da renda bruta deduzida de contribuições para o imposto de renda, o Ipasgo Saúde ou outro plano de saúde com desconto em folha de pagamento e a previdência, bem como de pensão alimentícia determinada em decisão judicial (obrigatória); e\nIII - resultado da renda familiar do usuário: a receita líquida do núcleo familiar deduzida do valor total das despesas avaliadas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A concessão da redução do valor da coparticipação somente será permitida para a realização de exames e procedimentos de alto custo relativos às seguintes doenças:\nI - neoplasias malignas;\nII - insuficiência renal crônica em diálise ou hemodiálise; e\nIII - síndrome da imunodeficiência adquirida e congênita.\nParágrafo único. O tratamento clínico radioterápico e quimioterápico e os exames de imagem serão realizados em unidades definidas pelo Ipasgo Saúde, conforme regulamento específico.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica estabelecido que a redução de coparticipação pertinente à medicação de alto custo e de uso contínuo será concedida exclusivamente quando for utilizada nos tratamentos das doenças previstas no Anexo Único desta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A inscrição no PAS será realizada via cadastro no Ipasgo Saúde, considerada a avaliação socioeconômica, conforme a determinação do § 2º do art. 2º desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Serão estabelecidos em instrução normativa a ser editada pela SEAD o procedimento e os documentos necessários à realização do cadastro e do recadastramento de usuários do PAS, incluída a forma da avaliação da renda familiar do usuário, bem como o acompanhamento dos tratamentos.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Observado o resultado da avaliação da renda familiar do usuário, o valor da coparticipação será reduzido em:\nI - 100% (cem por cento), para renda familiar limitada a 4 (quatro) salários mínimos;\nII - 80% (oitenta por cento), para renda familiar superior a 4 (quatro) e limitada a 7 (sete) salários mínimos;\nIII - 60% (sessenta por cento), para renda familiar superior a 7 (sete) e limitada a 10 (dez) salários mínimos;\nIV - 40% (quarenta por cento), para renda familiar superior a 10 (dez) e limitada a 13 (treze) salários mínimos; e\nV - 20% (vinte por cento), para renda familiar superior a 13 (treze) e limitada a 15 (quinze) salários mínimos.\nParágrafo único. Não haverá a redução do valor de coparticipação para renda familiar superior a 15 (quinze) salários mínimos.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A permanência do usuário no PAS demanda o respectivo recadastramento socioeconômico, realizado obrigatoriamente a cada 12 (doze) meses.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O usuário que não realizar o recadastramento nas datas previstas ou não apresentar relatórios médicos, quando forem exigidos no regulamento, terá o acesso e a utilização do benefício do PAS suspensos.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A exclusão do PAS ocorrerá:\nI - pela solicitação do usuário ou do responsável;\nII - pela alta médica atestada no formulário de relatório médico;\nIII - por morte; ou\nIV - pela exclusão do Ipasgo Saúde.\nParágrafo único. O Ipasgo Saúde comunicará à unidade competente pelo PAS a ocorrência de alta médica ou exclusão desse plano de saúde.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A continuidade do usuário inscrito no PAS após a perda ou a alteração de vínculo com o Estado de Goiás ocorrerá conforme a categoria do titular e o grau de parentesco autorizados em lei, condicionada à sua regularização no Ipasgo Saúde e a que o procedimento solicitado seja relacionado à continuidade do tratamento da patologia que originou a inscrição para a concessão do benefício ao usuário ou seu dependente no programa de redução de coparticipação.\nParágrafo único. A regularização do usuário inscrito no PAS ocorrerá mediante a apresentação da documentação que comprove a ocorrência dos eventos descritos no caput deste artigo e o pagamento da contribuição específica.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. No caso de dependente que esteja em tratamento da doença que originou o benefício, mas que tenha sido excluído do núcleo familiar de usuário inscrito no PAS, seja por advento de maioridade, emancipação do filho, separação do cônjuge ou companheiro(a) ou outro motivo previsto na legislação, é permitida a continuidade no programa até o final do tratamento para o qual foi cadastrado, desde que realize o pagamento da respectiva mensalidade, conforme os valores da tabela de cálculo atuarial.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O Tesouro Estadual é responsável pela compensação financeira mensal decorrente dos custos com o PAS ao Ipasgo Saúde.\n§ 1º Cada Poder e órgão constitucionalmente autônomo ficará responsável pelos valores referentes aos usuários beneficiários do PAS subordinados a eles.\n§ 2º As estatais deverão compensar o Estado de Goiás quando o benefício for concedido a seus empregados públicos.\n§ 3º O repasse mensal relativo aos custos com o PAS deverá ser feito até o 5º (quinto) dia útil de cada mês subsequente à solicitação do ressarcimento com as despesas do PAS pelo Ipasgo Saúde.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Por ser um benefício patronal destinado aos servidores públicos, militares, pensionistas e empregados públicos do Estado de Goiás, o PAS não se estende às entidades conveniadas ao Ipasgo Saúde.\nParágrafo único. Caso as entidades conveniadas queiram instituir algum programa de benefício a seus funcionários, ele deverá constar expressamente do termo do convênio ou do contrato firmado com o Ipasgo Saúde, com o dever de fazer a compensação dos valores diretamente ao convenente.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. O Ipasgo Saúde deverá normatizar os procedimentos para o cadastramento, o recadastramento, o acompanhamento de tratamento, o encaminhamento à especialidade de tratamento, o bloqueio, a continuidade e a exclusão do PAS, de acordo com a instrução normativa estabelecida pela SEAD.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O art. 1º-A da Lei nº 21.880. de 20 de abril de 2023, passa a vigorar com a seguinte redação:\n\"Art 1º-A ..........................................................................................\nVIII - conselheiros tutelares.\nParágrafo único. Poderão ser inscritos como beneficiários do Ipasgo Saúde os grupos familiares dos beneficiários indicados nos incisos I a VIII deste artigo, com limitação ao terceiro grau de parentesco consanguíneo e até o segundo grau de parentesco por afinidade, menor sob guarda ou tutela e o curatelado.\" (NR)\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nAs doenças com cobertura autorizada pelo PAS somente para medicamento de alto custo e de uso contínuo são as seguintes:\n1 anemia hemolítica autoimune\n2 artrite reumatóide\n3 doença antimembrana basal glomerular\n4 doença de Addison\n5 doença de Crohn\n6 doença de Paget em estados avançados\n7 síndrome de Reiter\n8 doença do enxerto contra o hospedeiro\n9 doença de Graves\n10 espondiloartrose anquilosante\n11 febre familiar do Mediterrâneo\n12 glomerulonefrite membranoproliferativa\n13 glomerulonefrite membranosa\n14 glomerulonefrite por igA\n15 hepatite autoimune\n16 incompatibilidade de grupos sanguíneos +\n17 oftalmia simpática\n18 pênfigo +\n19 penfigoide bolhoso\n20 poliendocrinopatias autoimunes\n21 púrpura trombocitopênica idiopática\n22 síndrome antifosfolipídica\n23 síndrome de Goodpasture\n24 síndrome miastênica de Lambert-Eaton\n25 síndromes de deficiência imunológica +\n26 tireoidite autoimune\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22771",
+   "short": "Lei 22771/2024",
+   "title": "Lei nº 22771, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108992",
+   "first_law": "lei-2024-22771",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108992",
+     "sha256": "b8da291f9c47943fcfb5b7fda77f001d0a18a827740d52fb4a2de6fe69a7e132",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.771, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARIA EMMILY AMARAL DUARTE o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22772",
+   "short": "Lei 22772/2024",
+   "title": "Lei nº 22772, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108993",
+   "first_law": "lei-2024-22772",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108993",
+     "sha256": "bd1b02af29897954af65228a2e19842cd179993f23f0c508a8ee148f1c03faa1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.772, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a WANDERLEY HENRIQUE BATISTA FILHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22773",
+   "short": "Lei 22773/2024",
+   "title": "Lei nº 22773, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108994",
+   "first_law": "lei-2024-22773",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108994",
+     "sha256": "9c25e3b9e54329bc7fa3f5afc13ba1868b8518170ac571725253d1b96deaf5e8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.773, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DIEGO HENRIQUE DA SILVEIRA MARTINS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22774",
+   "short": "Lei 22774/2024",
+   "title": "Lei nº 22774, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108995",
+   "first_law": "lei-2024-22774",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108995",
+     "sha256": "8d06cbe7a0e19083c28b1e07388f9d0b53dbfbaeb0914832ddae091379af7e70",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.774, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LEANDRO VALLE DE MELLO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22775",
+   "short": "Lei 22775/2024",
+   "title": "Lei nº 22775, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108996",
+   "first_law": "lei-2024-22775",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108996",
+     "sha256": "c5f7fd8d89a9ff2a17b9c3fe200adc23afa155e3060e2688012e353921404c5b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.775, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LARA MENEZES DA SILVA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22776",
+   "short": "Lei 22776/2024",
+   "title": "Lei nº 22776, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108997",
+   "first_law": "lei-2024-22776",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108997",
+     "sha256": "53599b125a23794fa0c6ff6b9557841cde0ddeb38ce18e25555e1d6b57b84bd5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.776, DE 10 DE JUNHO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado ARMANDO TOMAZINI o contorno viário que se encontra em construção no Município de Pires do Rio/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCAIRO SALIM\nDeputado Estadual\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22777",
+   "short": "Lei 22777/2024",
+   "title": "Lei nº 22777, de 2024 (Institui o Dia Estadual do Técnico e Auxiliar em Saúde Bucal e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108998",
+   "first_law": "lei-2024-22777",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108998",
+     "sha256": "1c1c14f15620fe326db0a97ce39bf460fcc35ab44658a446835357f064877e3b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.777, DE 10 DE JUNHO DE 2024\nInstitui o Dia Estadual do Técnico e Auxiliar em Saúde Bucal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Técnico e Auxiliar em Saúde Bucal, a ser comemorado, anualmente, no dia 8 de dezembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia instituído por esta Lei tem como objetivo reconhecer e valorizar a contribuição desses profissionais para a promoção da saúde bucal da população goiana.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º No Dia Estadual instituído por esta Lei, serão realizadas atividades comemorativas, incluindo eventos, palestras, cursos, campanhas educativas, entre outras ações que visem à valorização e ao aprimoramento profissional dos Técnicos e Auxiliares em Saúde Bucal.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual do Técnico e Auxiliar em Saúde Bucal fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22778",
+   "short": "Lei 22778/2024",
+   "title": "Lei nº 22778, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/108999",
+   "first_law": "lei-2024-22778",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/108999",
+     "sha256": "f0d422207a87645377deacb80185a0b88fabac26b8d7122f3fc7add4d6f187fe",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.778, DE 10 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VIDA ABUNDANTE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 10.568.237/0001-27, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22779",
+   "short": "Lei 22779/2024",
+   "title": "Lei nº 22779, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109000",
+   "first_law": "lei-2024-22779",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109000",
+     "sha256": "c7e87670dce288fb28b6636cb560c2a7c4ed8f162e0731f19cd333ca1375e025",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.779, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CARLOS ROBERTO SIQUEIRA DE BARROS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22761",
+   "short": "Lei 22761/2024",
+   "title": "Lei nº 22761, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109001",
+   "first_law": "lei-2024-22761",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109001",
+     "sha256": "88bb3a6de0bbd7c8d77c07f192546d7d2644552b2bd84e1de0b715f4b503cd26",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.761, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RICARDO GALVÃO DE SOUSA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22762",
+   "short": "Lei 22762/2024",
+   "title": "Lei nº 22762, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109002",
+   "first_law": "lei-2024-22762",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109002",
+     "sha256": "7083ac6d2ca9fcf4a0eace74087e4a0249600170a05ed76df67bbc522d0cdc7f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.762, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ROBERTO CORRÊA DE MELLO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22763",
+   "short": "Lei 22763/2024",
+   "title": "Lei nº 22763, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109003",
+   "first_law": "lei-2024-22763",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109003",
+     "sha256": "ce544a734329e0c3e9d6697110ad7f521a374c8cb3cf0ff16d37b33513abf271",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.763, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIS TIBÉ o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22764",
+   "short": "Lei 22764/2024",
+   "title": "Lei nº 22764, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109004",
+   "first_law": "lei-2024-22764",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-07",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109004",
+     "sha256": "8727012ff7d2ce957da2566ffe73e3a6a539f424ec88e732ee3edbbe55fa4e96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.764, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTÔNIO APARECIDO PEPATO JÚNIOR o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22765",
+   "short": "Lei 22765/2024",
+   "title": "Lei nº 22765, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109005",
+   "first_law": "lei-2024-22765",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109005",
+     "sha256": "84a3a6a4880c99492412f5afa00c93dc3f7a38b0eeb23fff3e955c028b59a796",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.765, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ MARCELO DE MELO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22766",
+   "short": "Lei 22766/2024",
+   "title": "Lei nº 22766, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109006",
+   "first_law": "lei-2024-22766",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109006",
+     "sha256": "783de7c039a85eb3226451432e1181afc6739fe1194a5901c26d546dbba1bd6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.766, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DIEGO OLIVEIRA DAMASCENO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22767",
+   "short": "Lei 22767/2024",
+   "title": "Lei nº 22767, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109007",
+   "first_law": "lei-2024-22767",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109007",
+     "sha256": "51efb21767c051a36f041742e9ffa2d1ef350e50b3e6fff85844347983c497b6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.767, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FRANCISCO BENÍCIO DE SÁ NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22768",
+   "short": "Lei 22768/2024",
+   "title": "Lei nº 22768, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109008",
+   "first_law": "lei-2024-22768",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109008",
+     "sha256": "bf5134162e503b51d6e3541ef9a118c3e96c29ae1cd0554c91d8128f7e6ad086",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.768, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VIVIANE NABARRETE DE ABREU o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22769",
+   "short": "Lei 22769/2024",
+   "title": "Lei nº 22769, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109009",
+   "first_law": "lei-2024-22769",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109009",
+     "sha256": "cdb9edf5e5d180b1c119d3f0235670d6cbc3d094b97ec336a0d610f6394ede56",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.769, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ISAIAS GOMES DA SILVA JUNIOR o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22770",
+   "short": "Lei 22770/2024",
+   "title": "Lei nº 22770, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109010",
+   "first_law": "lei-2024-22770",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109010",
+     "sha256": "e7d8a53b036bfa8b5bafccd47fc0648d0904f8a444851e0f876c4fd3dbef44e1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.770, DE 10 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JÉSSYCA TOMAZ DANIEL o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22780",
+   "short": "Lei 22780/2024",
+   "title": "Lei nº 22780, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Caldas Novas/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109011",
+   "first_law": "lei-2024-22780",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109011",
+     "sha256": "8e5469b6a4dd0862dcb401b0b9038bffc08500af0a608a8d8293dce9d7e348c5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.780, DE 11 DE JUNHO DE 2024\nAutoriza a aquisição, por doação onerosa do Município de Caldas Novas/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica o Chefe do Poder Executivo autorizado a adquirir para o Estado de Goiás, por doação onerosa possibilitada pela Lei municipal nº 3.308, de 20 de abril de 2022, do Município de Caldas Novas/GO, inscrito no Cadastro Nacional da Pessoa Jurídica - CNPJ nº 01.787.506/0001-55, o imóvel especificado no Anexo Único desta Lei, com a área total de 4.569,40 m² (quatro mil, quinhentos e sessenta e nove metros quadrados e quarenta decímetros quadrados).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel descrito no Anexo Único desta Lei está avaliado em R$ 66.178,30 (sessenta e seis mil, cento e setenta e oito reais e trinta centavos), conforme o Laudo de Avaliação para Doação nº 13/2024, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração - SEAD.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Consoante os arts. 3º e 4º da Lei nº 3.308, de 2022, do Município de Caldas Novas/GO, é encargo do donatário a instalação de unidade regional da Polícia Civil no imóvel doado, com o prazo de 3 (três) anos da lavratura da escritura pública de doação para a realização da obra, que poderá ser renovado por igual período.\n§ 1º As despesas referentes à escritura pública de doação são encargos do Estado de Goiás.\n§ 2º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel ao doador no caso de descumprimento do disposto no caput deste artigo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar estadual nº 58, de 4 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 11 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS POR DOAÇÃO ONEROSA DO\nMUNICÍPIO DE CALDAS NOVAS/GO, PARA A INSTALAÇÃO DE UNIDADE REGIONAL DA POLÍCIA CIVIL\nLEI MUNICIPAL Nº 3.308, DE 20 DE ABRIL DE 2022\nDENOMINAÇÃO Sistema de Recreio 23\nLOCALIZAÇÃO Loteamento Estância Itanhangá, Caldas Novas/GO\nÁREA 4.569,40 m²\nMATRÍCULA Nº 134.075, Cartório de Registro de Imóveis de Caldas Novas/GO\nDISCRIMINAÇÃO DO IMÓVEL Referências Metros Confrontação\nFrente 131,15 Rua D-15\nFundo 124,4 Rua D-12\nCurva de Concordância 19,97 Rua D-12\nLado esquerdo 32,76 Rua D-9\nCurva de Concordância 14,14 Rua D-9\nCurva de Concordância 16,73 Rua D-15\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22781",
+   "short": "Lei 22781/2024",
+   "title": "Lei nº 22781, de 2024 (Autoriza a execução e a conclusão do objeto de emendas parlamentares.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109012",
+   "first_law": "lei-2024-22781",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109012",
+     "sha256": "179288323f0fe944a5d08587d975c48e1a2ec267d079401a7b253496da106706",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.781, DE 13 DE JUNHO DE 2024\nAutoriza a execução e a conclusão do objeto de emendas parlamentares.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica automaticamente prorrogado, por 24 (vinte e quatro) meses a contar do seu final, o prazo de execução pelos Municípios do objeto das emendas individuais impositivas constantes da Lei nº 21.760, de 29 de dezembro de 2022, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2023, cujo plano de trabalho foi homologado por Portaria do Secretário de Estado da Saúde e cujos recursos já foram transferidos ao respectivo Fundo Municipal de Saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação, retroagindo seus efeitos a 1º de dezembro de 2023.\nGoiânia, 13 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22782",
+   "short": "Lei 22782/2024",
+   "title": "Lei nº 22782, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109014",
+   "first_law": "lei-2024-22782",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109014",
+     "sha256": "7eeb85b470bc047fdcdb74372e39cf3f671fd52d42fa5d47c6a971b1b2b08a0a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.782, DE 13 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Bispo ALESSANDRO PASCHOALL o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22783",
+   "short": "Lei 22783/2024",
+   "title": "Lei nº 22783, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109016",
+   "first_law": "lei-2024-22783",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109016",
+     "sha256": "bfa176947d50c11104c7d8030b80fa7016bbff9fdd638dc708379d434efbe2a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.783, DE 13 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANDRÉ FIRMINO DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22784",
+   "short": "Lei 22784/2024",
+   "title": "Lei nº 22784, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109017",
+   "first_law": "lei-2024-22784",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109017",
+     "sha256": "a7d8249f95b2ec8f0ab0ff09fef697850d73d56284e20a4b6b45e87fc5cefedc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.784, DE 13 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE MORADORES E PRODUTORES RURAIS DE SANTO ANTÔNIO DO DESCOBERTO E ADJACÊNCIAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 45.118.455/0001-44, com sede no Município de Santo Antônio do Descoberto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22785",
+   "short": "Lei 22785/2024",
+   "title": "Lei nº 22785, de 2024 (Abre crédito adicional especial à Secretaria de Estado da Infraestrutura - SEINFRA e cria produtos no PPA 2024/2027.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109019",
+   "first_law": "lei-2024-22785",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109019",
+     "sha256": "653286dbb2e087136d0595d09d1eec480f6783424e892551187bb74cd54f74aa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.785, DE 17 DE JUNHO DE 2024\nAbre crédito adicional especial à Secretaria de Estado da Infraestrutura - SEINFRA e cria produtos no PPA 2024/2027.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto no corrente exercício crédito especial à Secretaria de Estado da Infraestrutura - SEINFRA no valor de R$ 1.598.801,02 (um milhão, quinhentos e noventa e oito mil, oitocentos e um reais e dois centavos), conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários para a abertura do crédito especial de que trata o art. 1º desta Lei serão provenientes de superávit financeiro do Tesouro Estadual, em conformidade com o disposto no art. 43, § 1º, inciso I, da Lei federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica criado, na Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, o Produto 19902 - Equipamentos comunitários para o acolhimento de pessoas em situação de vulnerabilidade construídos/implementados, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica criada a iniciativa 10269 - Promover o acesso à educação com equidade, qualidade e padronização dos uniformes de colégios militares, na Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, conforme Anexo III desta Lei, visando compatibilidade com o crédito especial autorizado no art. 7º da Lei nº 22.560, de 14 de março de 2024.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica criado o produto 19922 - Aluno beneficiado com bolsa uniforme, na Lei nº 22.317, de 18 de outubro de 2023, que dispõe sobre o Plano Plurianual do Estado de Goiás para o quadriênio 2024-2027, conforme Anexo III desta Lei, visando compatibilidade com o crédito especial autorizado no art. 7º da Lei nº 22.560, de 14 de março de 2024.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\nCRÉDITO ADICIONAL\nExercício 2024\nUnidade Orçamentária\n4301 - GABINETE DA SECRETARIA DE ESTADO DA INFRAESTRUTURA\nFunção 16 - HABITAÇÃO\nSubfunção 244 - ASSISTÊNCIA COMUNITÁRIA\nPrograma 1032 - MORADIA COMO BASE DA CIDADANIA\nAção 3343 - CONSTRUÇÃO DE EQUIPAMENTOS COMUNITÁRIOS PARA O ACOLHIMENTO DE PESSOAS EM SITUAÇÃO DE VULNERABILIDADE\nGrupo de Despesa 04 - INVESTIMENTOS\nFonte 27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor: R$ 1.598.801,02\nANEXO II\nPRODUTO A SER CRIADO NO PLANO PLURIANUAL 2024-2027\nJUSTIFICATIVA PARA A CRIAÇÃO DO PRODUTO A construção de equipamentos comunitários para o acolhimento de pessoas em situação de vulnerabilidade representará um importante marco na construção de ambientes seguros e propícios à reconstrução da cidadania. O espaço se destina a oferecer assistência integral, proteção e apoio às vítimas de violência, com a disponibilização de suporte psicológico, jurídico e social, bem como a viabilização da oferta de programas de capacitação profissional e educacional para a superação dos traumas vivenciados.\nPROGRAMA 1032 - Moradia Como Base da Cidadania\nNOME DA INICIATIVA Implementar políticas públicas voltadas para grupos vulneráveis.\nNOME DA ENTREGA 19902 - Equipamentos comunitários para o acolhimento de pessoas em situação de vulnerabilidade construídos/implementados\nUNIDADE DE MEDIDA Unidade\nMETA ACUMULATIVA (S/N) Sim\nDESCRIÇÃO DO PRODUTO Construção e aparelhagem de edifício comunitário destinado a conceder moradia digna e proteção para a população de baixa renda vítima de violência doméstica, psicológica e patrimonial.\nMÉTODO DE COMPROVAÇÃO Edifício construído e aparelhado\nCOMPROMISSOS PARA O PLANO DE GOVERNO Não informado\nMETAS DO DESENVOLVIMENTO SUSTENTÁVEL Não informado\nTIPO DE LOCALIDADE DE PLANEJAMENTO (ESTADO/ MUNICÍPIO) Estado\nNOME DA LOCALIDADE META FÍSICA 2024 CUSTO ESTIMADO 2024 META FÍSICA 2025 CUSTO ESTIMADO 2025 META FÍSICA 2026 CUSTO ESTIMADO 2026 META FÍSICA 2027 CUSTO ESTIMADO 2027\nESTADO DE GOIÁS 2 R$ 4.000.000 3 R$ 6.300.000 4 R$ 8.400.000 4 R$ 8.800.000\nANEXO III\nJUSTIFICATIVA PARA A CRIAÇÃO DO PRODUTO\nA solicitação pretendida visa a abertura de crédito especial, autorizado no art. 7º da Lei nº 22.560, de 14 de março de 2024, com indicação de recurso no valor total de R$ 75.050.840,00 (setenta e cinco milhões, cinquenta mil e oitocentos e quarenta reais).\nO produto a ser criado faz-se necessário considerada a Lei nº 22.560, de 14 de março de 2024, que institui o Programa Bolsa-Uniforme na Polícia Militar do Estado de Goiás, com destaque para os arts. 1º, 5º e 7º.\nPROGRAMA 1008 - EDUCAÇÃO QUE QUEREMOS\nNOME DA INICIATIVA 10269 - Promover o acesso à educação com equidade, qualidade e padronização dos uniformes de colégios militares\nNOME DA ENTREGA 19922 - Aluno beneficiado com bolsa uniforme\nUNIDADE DE MEDIDA NÚMERO\nMETA ACUMULATIVA (S/N) N\nDESCRIÇÃO DO PRODUTO Bolsa-Uniforme entregue aos alunos dos Colégios Estaduais da Polícia Militar de Goiás - CEPMGs.\nMÉTODO DE COMPROVAÇÃO Não informado\nTIPO DE LOCALIDADE DE PLANEJAMENTO (ESTADO / MUNICÍPIO) ESTADO\nNOME DA LOCALIDADE META FÍSICA 2024 CUSTO ESTIMADO 2024 META FÍSICA 2025 CUSTO ESTIMADO 2025 META FÍSICA 2026 CUSTO ESTIMADO 2026 META FÍSICA 2027 CUSTO ESTIMADO 2027\nESTADO DE GOIÁS 77372 R$ 75.050.840,00 77372 R$ 78.518.188,81 77372 R$ 82.145.729,13 77372 R$ 85.940.861,82\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22786",
+   "short": "Lei 22786/2024",
+   "title": "Lei nº 22786, de 2024 (Institui o Plano Estadual de Cultura de Goiás - PECGO para o decênio 2024-2033.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109020",
+   "first_law": "lei-2024-22786",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109020",
+     "sha256": "8d825ebe8b47c97b436ce4de8c104ed465b00dfc27dad312671940ce21837d7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.786, DE 17 DE JUNHO DE 2024\nInstitui o Plano Estadual de Cultura de Goiás - PECGO para o decênio 2024-2033.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DA DEFINIÇÃO, DOS OBJETIVOS, DA COORDENAÇÃO E DA IMPLEMENTAÇÃO\nArt. 1º Fica aprovado o Plano Estadual de Cultura de Goiás - PECGO, na forma do Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O PECGO é um conjunto de diretrizes, estratégias, ações e metas para programas, projetos e atividades que valorizem, reconheçam, promovam e preservem a identidade do Estado de Goiás, além de assegurar sistema de gestão, proteção e promoção do patrimônio e da diversidade cultural, com acesso à produção e à fruição da cultura, e a inserção dela em modelos sustentáveis de desenvolvimento socioeconômico.\nParágrafo único. Para a elaboração do PECGO, além dos aspectos institucionais que regem a aplicação das políticas culturais, foram considerados estudos realizados pelo Governo de Goiás, inclusive pelo Conselho Estadual de Cultura, e os anseios e os desejos da sociedade e dos agentes culturais não governamentais, a partir de informações obtidas nos processos participativos, alinhadas à atual caracterização da cultura e adotadas como objetivos para a aplicação da política cultural.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º São objetivos do PECGO, além daqueles discriminados no Anexo Único desta Lei:\nI - planejar, criar e implementar programas e ações voltados à valorização, ao fortalecimento e à promoção da cultura no Estado;\nII - reconhecer a diversidade cultural e os direitos de seus detentores, com a valorização das vertentes tanto tradicionais quanto dos imigrantes relacionadas à história do Estado;\nIII - proteger e promover o patrimônio cultural, material e imaterial, com a valorização dos lugares de memória;\nIV - valorizar e difundir as criações artísticas e os bens culturais; e\nV - universalizar o acesso à arte e à cultura.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O PECGO será coordenado pela Secretaria de Estado da Cultura - SECULT.\nParágrafo único. A SECULT exercerá a coordenação executiva do PECGO, como dispõe esta Lei, e será responsável pela organização de suas instâncias, pelos termos de adesão, pelo estabelecimento de metas, pelos regimentos e pelas demais especificações necessárias à sua implantação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A implementação do PECGO será feita em regime de cooperação entre o Governo e os municípios do Estado de Goiás, em parceria com a União e em consonância com o Plano Nacional de Cultura, instituído pela Lei federal nº 12.343, de 2 de dezembro de 2010.\nParágrafo único. A implementação dos programas, dos projetos, das ações e das metas instituídos pelo PECGO poderá ser realizada com a participação de instituições públicas ou privadas, mediante a celebração de instrumentos previstos em lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DAS ATRIBUIÇÕES DO PODER PÚBLICO\nArt. 6º Compete ao Poder Público, nos termos desta Lei:\nI - formular políticas públicas e programas que conduzam à efetivação dos objetivos, dos eixos estratégicos, das diretrizes, das metas e das ações do PECGO;\nII - garantir a avaliação e a mensuração do desempenho do PECGO e assegurar sua efetivação pelos órgãos responsáveis;\nIII - fomentar a cultura de forma ampla, com a promoção e a difusão dela, a realização de editais e seleções públicas para o estímulo a projetos e processos culturais, a concessão de apoio financeiro e fiscal aos agentes culturais, a adoção de subsídios econômicos, a implantação regulada de fundos públicos e privados, entre outros incentivos, nos termos da lei;\nIV - proteger e promover a diversidade cultural, a criação artística e suas manifestações, as expressões culturais, individuais ou coletivas, de todos os grupos étnicos e suas derivações sociais, com o reconhecimento da abrangência da noção de cultura em todo o território goiano e a garantia da multiplicidade de seus valores e suas formações;\nV - promover e estimular o acesso à produção e ao empreendimento cultural, a circulação e o intercâmbio de bens, serviços e conteúdos culturais, também o contato e a fruição do público com a arte e a cultura de forma universal;\nVI - garantir a preservação do patrimônio cultural estadual, com a proteção dos bens de natureza material e imaterial, dos documentos históricos, dos acervos e das coleções, das formações urbanas e rurais, das línguas e das cosmologias indígenas, dos sítios arqueológicos pré- históricos e das obras de arte, tomados individualmente ou em conjunto, referentes aos valores, às identidades, às ações e às memórias dos diferentes grupos formadores da sociedade goiana;\nVII - articular as políticas públicas de cultura e promover a organização de redes e consórcios para a sua implantação, de forma integrada com as políticas públicas de educação, comunicação, ciência e tecnologia, direitos humanos, meio ambiente, turismo, planejamento urbano e cidades, desenvolvimento econômico e social, indústria e comércio, relações exteriores, entre outras;\nVIII - dinamizar as políticas de intercâmbio e a difusão da cultura goiana no exterior, com a promoção dos bens culturais e das criações artísticas goianas no ambiente internacional, e dar suporte à presença desses produtos nos mercados de interesse econômico e geopolítico do país;\nIX - organizar instâncias consultivas e de participação da sociedade para contribuir na formulação das políticas públicas de cultura e debater estratégias para a execução delas;\nX - regular o mercado interno, com estímulo aos produtos culturais goianos para reduzir as desigualdades sociais e regionais, profissionalizar os agentes culturais, formalizar o mercado e qualificar as relações de trabalho na cultura, consolidar e ampliar os níveis de emprego e renda, fortalecer redes de colaboração e valorizar empreendimentos de economia solidária;\nXI - coordenar o processo de elaboração de planos setoriais para as diferentes áreas artísticas, com respeito a seus desdobramentos e suas segmentações, também para os demais campos de manifestação simbólica identificados entre as diversas expressões culturais e que reivindiquem a sua estruturação regional; e\nXII - incentivar a adesão de organizações e instituições do setor privado e de entidades da sociedade civil às diretrizes e às metas do PECGO por meio de ações próprias, parcerias e participação em programas.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO FINANCIAMENTO\nArt. 7º Os Planos Plurianuais, as Leis de Diretrizes Orçamentárias e as Leis Orçamentárias Anuais do Estado disporão sobre os recursos a serem destinados à execução das ações indicadas nesta Lei.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A SECULT, como coordenadora executiva do PECGO, deverá estimular a diversificação dos mecanismos de financiamento à cultura e elevar o montante dos recursos destinados ao setor, para atender aos objetivos desta Lei e para garantir o seu cumprimento.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DO SISTEMA DE MONITORAMENTO E AVALIAÇÃO\nArt. 9º Compete à SECULT monitorar e avaliar periodicamente o alcance das diretrizes e a eficácia das metas do PECGO com base em indicadores regionais e locais que quantifiquem a oferta e a demanda por bens, serviços e conteúdos, também os níveis de trabalho, renda e acesso à cultura, de institucionalização e gestão cultural, de desenvolvimento econômico-cultural e de implantação sustentável de equipamentos culturais.\nParágrafo único. Os processos de monitoramento e avaliação do PECGO contarão com a participação do Conselho Estadual de Cultura e serão apoiados por especialistas, técnicos e agentes culturais, institutos de pesquisa, universidades, instituições culturais, organizações e redes socioculturais, bem como outros órgãos colegiados de caráter consultivo, mediante regulamentação.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DOS EIXOS ESTRATÉGICOS, DAS DIRETRIZES, DAS METAS E DAS AÇÕES\nArt. 10. O PECGO, construído pela SECULT, com a participação do Conselho Estadual de Cultura, de agentes culturais, de gestores e da sociedade civil por meio de debates e proposições sobre o desenvolvimento do setor cultural neste Estado, contém:\nI - 12 (doze) eixos estratégicos;\nII - 15 (quinze) diretrizes;\nIII - 47 (quarenta e sete) metas; e\nIV - 196 (cento e noventa e seis) ações.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DOS PLANOS SETORIAIS\nArt. 11. Considera-se Plano Setorial de Cultura o planejamento estratégico específico que deverá orientar a elaboração e a implementação de políticas públicas para os segmentos e territórios culturais.\nParágrafo único. Na elaboração do Plano Setorial de Cultura previsto no caput deste artigo e na fiscalização de sua implementação, a SECULT e o Conselho Estadual de Cultura garantirão:\nI - a promoção de audiências públicas e debates com a participação da população e de instituições representativas dos vários segmentos da comunidade;\nII - a publicidade dos documentos e das informações produzidos; e\nIII - o acesso de qualquer interessado aos documentos e às informações produzidos.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Plano Setorial de Cultura será incorporado às políticas públicas para a cultura no prazo máximo de 36 (trinta e seis) meses após a publicação do PECGO.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DAS DISPOSIÇÕES FINAIS\nArt. 13. O PECGO terá a vigência de 10 (dez) anos e será revisto periodicamente para a atualização e o aperfeiçoamento de seus eixos estratégicos, diretrizes, metas e ações.\nParágrafo único. A primeira revisão do PECGO será realizada 4 (quatro) anos após a promulgação desta Lei, assegurada a participação do Conselho Estadual de Cultura e da sociedade civil.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. O processo de revisão dos eixos estratégicos, das diretrizes, das metas e das ações estabelecidos no PECGO será realizado pelo Comitê Executivo do Plano Estadual de Cultura, designado por ato do Secretário de Estado da Cultura.\n§ 1º O Comitê Executivo será composto por membros indicados pela SECULT, com a participação de representantes do Conselho Estadual de Cultura e do setor cultural.\n§ 2º As metas de desenvolvimento institucional e cultural do PECGO serão fixadas por sua coordenação executiva e serão publicadas 180 (cento e oitenta) dias após a entrada em vigor desta Lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. O Estado e os municípios que aderirem ao PECGO deverão dar ampla publicidade e transparência ao seu conteúdo, como estímulo ao controle social em sua implementação.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nPLANO ESTADUAL DE CULTURA DE GOIÁS - PECGO 2024-2033\n1 Introdução\nO Plano Estadual de Cultura de Goiás - PECGO é um conjunto de diretrizes, estratégias, ações e metas para programas, projetos e atividades que valorizem, reconheçam, promovam e preservem a identidade do Estado de Goiás, além de assegurar sistema de gestão, proteção e promoção do patrimônio e da diversidade cultural, com acesso à produção e à fruição da cultura, e a inserção dela em modelos sustentáveis de desenvolvimento socioeconômico.\nPara a elaboração do PECGO, além dos aspectos institucionais que regem a aplicação das políticas culturais, foram considerados estudos realizados pelo Governo de Goiás, inclusive pelo Conselho Estadual de Cultura, e os anseios e os desejos da sociedade e dos agentes culturais não governamentais. Também se atentou às informações obtidas nos processos participativos, alinhadas à atual caracterização da cultura, traduzidas como objetivos para a aplicação da política cultural.\n2 Objetivos\nSão objetivos do PECGO:\na) planejar, criar e implementar programas e ações voltados à valorização, ao fortalecimento e à promoção da cultura no Estado;\nb) reconhecer a diversidade cultural e os direitos de seus detentores, com a valorização das vertentes tanto tradicionais quanto dos imigrantes relacionadas à história do Estado;\nc) proteger e promover o patrimônio cultural, material e imaterial, com a valorização dos lugares de memória;\nd) valorizar e difundir os bens culturais;\ne) universalizar o acesso à arte e à cultura;\nf) estimular a presença da arte e da cultura no ambiente educacional;\ng) estimular o pensamento crítico e reflexivo a respeito das questões culturais, além da sustentabilidade socioeconômica e ambiental;\nh) promover o desenvolvimento sustentável da economia da cultura, do mercado interno e digital, do consumo cultural e da exportação dos bens, dos serviços e dos conteúdos culturais goianos;\ni) oferecer qualificação na gestão cultural aos setores público e privado;\nj) profissionalizar e especializar os agentes e os gestores culturais;\nk) descentralizar a implementação das políticas públicas de cultura;\nl) consolidar processos de consulta e participação da sociedade na formulação das políticas culturais;\nm) ampliar a presença e o intercâmbio da cultura goiana nos níveis nacional e internacional;\nn) ampliar as possibilidades de participação da sociedade civil e dos setores culturais na gestão das políticas públicas para a cultura;\no) buscar mecanismos de articulação e integração de sistemas de gestão cultural;\np) estabelecer competências e parcerias entre os diferentes agentes das áreas de gestão e promoção da cultura no Estado;\nq) fomentar políticas públicas que afirmem a centralidade da cultura no fortalecimento das entidades culturais, no desenvolvimento econômico e na transformação social;\nr) assegurar processo democrático de participação na gestão das políticas e dos investimentos públicos na área cultural;\ns) ampliar os recursos financeiros à gestão cultural no Estado;\nt) incentivar os processos de inovação cultural; e\nu) promover a arte e a cultura como fatores de inserção social, inclusive dos povos originários, das comunidades negras, das pessoas com deficiência e das comunidades historicamente marginalizadas.\n3 Sistematização do Plano Estadual de Cultura de Goiás\nO PECGO, formulado com eixos estratégicos, diretrizes, metas e ações, foi idealizado com a participação do Conselho Estadual de Cultura - CEC, de agentes culturais, de gestores e da sociedade civil, com debates e proposições sobre o desenvolvimento do setor cultural no Estado. Com base nos resultados das conferências e dos fóruns realizados, acrescidos das sugestões do CEC, foi realizada a sistematização do conjunto de informações, reivindicações e demandas referentes à cultura. Definiram-se: 12 (doze) eixos estratégicos, 15 (quinze) diretrizes, 47 (quarenta e sete) metas e 196 (cento e noventa e seis) ações.\n3.1 Eixos estratégicos:\na) ampliação, manutenção e qualificação dos espaços e dos equipamentos culturais;\nb) criação, difusão, acesso e manutenção das atividades culturais;\nc) formação e produção do conhecimento;\nd) reconhecimento e promoção da diversidade cultural;\ne) participação social;\nf) fortalecimento de parcerias institucionais;\ng) mecanismos de incentivo, fomento e financiamento;\nh) desenvolvimento sustentável da cultura;\ni) territorialidade;\nj) preservação e difusão dos patrimônios culturais materiais e imateriais;\nk) reestruturação continuada da SECULT; e\nl) orçamento e recursos financeiros.\n3.2 Diretrizes\nCom base nos objetivos e nos eixos estratégicos, estabelecem-se estas 15 (quinze) diretrizes para o PECGO:\na) promover a criação, a difusão e o acesso à arte e à cultura, também ampliar e qualificar os espaços públicos e virtuais para assegurar o funcionamento e o uso deles pela sociedade;\nb) fortalecer e expandir a ação do Estado no planejamento e na execução das políticas culturais, com respeito às vocações e às iniciativas de cada território;\nc) ampliar os mecanismos de fomento e financiamento para consolidar a execução das políticas públicas da cultura;\nd) promover e difundir, nos âmbitos estadual, nacional e internacional, a cultura produzida em Goiás para ela ter maior visibilidade;\ne) reconhecer e valorizar a diversidade cultural;\nf) proteger e promover as artes, as expressões culturais e o patrimônio cultural material e imaterial;\ng) descentralizar os instrumentos e as políticas para os territórios culturais;\nh) estimular a formação de redes de territórios culturais;\ni) sistematizar e fomentar a interlocução e o intercâmbio entre Goiás e as demais unidades federativas;\nj) incluir a cultura dos povos do Cerrado, tradicional no Estado de Goiás, como mecanismo de desenvolvimento dos territórios culturais;\nk) ampliar a participação da cultura no desenvolvimento socioeconômico sustentável e promover as condições necessárias à consolidação da economia criativa e da inovação;\nl) estimular a sustentabilidade nos processos culturais;\nm) fomentar e fortalecer ações de formação, produção e difusão do conhecimento cultural;\nn) estimular a organização da gestão cultural no Estado, em suas regiões e seus municípios, com a criação de redes em instâncias determinadas, inclusive com o incentivo à criação de conselhos municipais de cultura e fóruns regionais, para a ampliação da participação cultural; e\no) ampliar e mobilizar a rede de pontos de cultura de Goiás.\n3.3 Metas\nSão metas do PECGO para o decênio 2024-2033:\na) implantar e implementar o sistema estadual de cultura de Goiás;\nb) capacitar 2.000 (dois mil) agentes culturais pelo ensino à distância;\nc) dotar todos os equipamentos e os espaços públicos culturais estaduais com plano de gestão;\nd) implantar cinema ou cineclube no mínimo de 50% (cinquenta por cento) dos municípios goianos;\ne) revitalizar e adequar às normas de acessibilidade todos os equipamentos e os espaços públicos culturais existentes, para o cumprimento de sua função social;\nf) criar e apresentar plano para que no mínimo 50% (cinquenta por cento) dos municípios goianos tenham condições de, em parceria com o Estado, implementar, ao menos, um equipamento cultural (museu, galeria, biblioteca, casa de espetáculo, cinema, cineclube, casa de cultura, entre outros) , com o referencial quantitativo proporcional ao número de habitantes, assim discriminado:\n1. até 10.000 (dez mil) habitantes: pelo menos um espaço cultural;\n2. de 10.000 (dez mil) a 50.000 (cinquenta mil) habitantes: pelo menos dois espaços culturais;\n3. de 50.000 (cinquenta mil) a 100.000 (cem mil) habitantes: pelo menos três espaços culturais; e\n4. mais de 100.000 (cem mil) habitantes: quatro ou mais espaços culturais.\ng) fomentar com recursos públicos a produção e a circulação de trabalhos artísticos e culturais no mínimo de 30% (trinta por cento) dos municípios de cada macrorregião do Estado;\nh) atender com editais o mínimo de 80% (oitenta por cento) dos projetos e das demandas das áreas setoriais para criação, produção e realização de eventos;\ni) elaborar planos de ocupação e difusão para todos os equipamentos e os espaços públicos culturais;\nj) buscar parcerias com a SECULT para implantar e implementar programas permanentes de atividades de arte e cultura no mínimo de 50% (cinquenta por cento) das escolas públicas estaduais;\nk) aumentar as atividades de difusão cultural de Goiás em intercâmbio nacional e internacional, com o envolvimento mínimo de 15% (quinze por cento) dos municípios goianos;\nl) oferecer ações de capacitação, difusão e intercâmbio com a cultura goiana em todos os eventos culturais realizados pelo Estado;\nm) implementar arte e cultura no mínimo de 50% (cinquenta por cento) dos espaços públicos de saúde e educação nos municípios com população superior a 100.000 (cem mil) habitantes;\nn) criar e implementar o sistema estadual de informações culturais para coordenar e sistematizar a coleta e a geração permanente de dados e informações sobre a cultura e para a gestão cultural;\no) criar 15 (quinze) fóruns setoriais de cultura com a participação da sociedade civil organizada nas áreas de:\n1. patrimônio cultural material e imaterial (cultura popular);\n2. circo;\n3. dança;\n4. teatro;\n5. audiovisual;\n6. música;\n7. artes visuais;\n8. museus;\n9. arquivos;\n10. literatura;\n11. biblioteca;\n12. artesanato;\n13. gastronomia;\n14. cultura das minorias;\n15. hip-hop; e\n16. games;\np) implementar o sistema estadual de patrimônio cultural e estimular a adesão de no mínimo 50% (cinquenta por cento) dos municípios à legislação e à política de patrimônio;\nq) impulsionar o Sistema Estadual de Museus em todas as unidades com plano diretor museológico e auxiliar a elaboração desse plano nos casos dos museus que não o possuam;\nr) realizar a Conferência Estadual de Cultura no mínimo a cada 2 (dois) anos, com o envolvimento da sociedade civil, dos gestores públicos e privados, das organizações e das instituições culturais, também dos agentes artísticos e culturais;\ns) implantar 10 (dez) fóruns regionais de cultura;\nt) buscar parcerias com a SECULT para implantar e implementar programas permanentes de atividades de arte e cultura no mínimo de 50% (cinquenta por cento) das escolas públicas estaduais;\nu) qualificar agentes culturais anualmente em cursos, oficinas, fóruns e seminários com conteúdo de gestão cultural, linguagens artísticas, patrimônio cultural e áreas correlatas;\nv) capacitar 1.500 (mil e quinhentos) agentes culturais nas áreas de gestão cultural, projetos, captação de recursos e gestão de processos e pessoas;\nw) mapear a diversidade das expressões culturais do Estado de Goiás;\nx) criar pelo menos 10 (dez) territórios culturais com política de desenvolvimento regional cultural;\ny) implementar o estatuto dos museus estaduais e estimular a aplicação de planos museológicos, digitalização e tratamento documental para todas as instituições museais e arquivísticas existentes e a serem criadas no território goiano;\nz) apoiar a implantação de museus e centros de documentação, arquivos históricos, públicos e privados, em locais adequados ou construídos para essa finalidade, segundo especificações museológicas e arquivísticas, no mínimo de 50% (cinquenta por cento) dos municípios;\naa) implantar e implementar programa de livro e leitura para possibilitar o acesso democrático a eles, com o consequente estreitamento dos laços entre autor, obra e público;\nab) implantar programa de apoio à formação e ao trabalho das áreas técnicas do setor cultural;\nac) implantar e implementar o programa contrapartida cultural, em que as empresas beneficiárias do Fundo Constitucional do Centro-Oeste - FCO ou de outras linhas governamentais de crédito devem financiar um projeto social ou cultural, sem renúncia fiscal por parte do Estado, com a operacionalização de 1.000 (mil) projetos no decênio 2024-2033;\nad) implantar e implementar o programa mais crédito cultural, em que o Estado auxilia o agente cultural a renegociar suas dívidas e fornece-lhe mais crédito com juros subsidiados, para o atendimento a 4.000 (quatro mil) agentes culturais, pessoas físicas e jurídicas, no decênio 2024-2033;\nae) criar e operacionalizar escolas de audiovisual e criatividade, voltadas para a formação audiovisual, com o atendimento a 1.000 (mil) alunos no decênio 2024-2033;\naf) criar cursos on-line de iniciação às artes visuais na Escola de Artes Visuais, da SECULT, com o atendimento a 800 (oitocentos) alunos no decênio 2024-2033;\nag) criar a Goiás Film Commission, para fomentar e incentivar a produção de filmes e outros feitos audiovisuais no Estado de Goiás;\nah) criar um circuito de literatura, para a realização de no mínimo um evento anual de formação de leitores no interior do Estado, com a participação de escritores, editores, produtores culturais e designers gráficos, em convênio com escolas públicas e privadas dos Ensinos Fundamental, Médio e Superior, no decênio 2024-2033;\nai) criar o circuito de artes cênicas, para a realização de no mínimo um evento anual de formação de público em artes cênicas no interior do Estado, com a participação de dançarinos, atores, diretores, artistas circenses e produtores culturais, em convênio com escolas públicas e privadas dos Ensinos Fundamental, Médio e Superior, no decênio 2024-2033;\naj) criar o circuito de música, para realizar no mínimo um evento anual de formação de público de música no interior do Estado, com a participação de cantores, músicos e produtores culturais, em convênio com escolas públicas e privadas dos Ensinos Fundamental, Médio e Superior, no decênio 2024-2033;\nak) criar o programa juventude cultural, para formar público ao setor cultural (Artes Visuais, Audiovisual, Artes Cênicas, Música, História, Literatura e Cultura Popular) nas escolas públicas estaduais, com a distribuição de amostras dos produtos culturais resultantes dos editais de fomento da SECULT a 500.000 (quinhentos mil) alunos no decênio 2024-2033, por meio do aplicativo Juventude Cultural, cujas ações serão desenvolvidas em cooperação técnica entre a pasta e a Universidade Federal de Goiás, também com convênio da SECULT com a Secretaria de Estado da Educação;\nal) criar os programas cinema na praça e feira do escritor goiano, que acontecerão das 14 às 20 horas, um domingo ao mês, na Praça Doutor Pedro Ludovico Teixeira (Praça Cívica) , em Goiânia, com 500 (quinhentos) eventos no decênio 2024-2033, em forma de mostra de cinema aberto e feira de livros, para formar público de cinema e leitores, com a participação de escritores, atores e diretores em interação com o público;\nam) criar o circuito de artes visuais, para promover a circulação e a difusão do segmento, com a ampliação do acesso às produções nacionais e estaduais das artes visuais, também fomentar o intercâmbio de experiências, promover exposições virtuais com a participação de artistas brasileiros e estrangeiros residentes no Brasil, possibilitar com palestras e workshops leituras e reflexões sobre trabalhos que contribuam para a formação e a construção do repertório imagético, teórico e crítico de artistas amadores e profissionais;\nan) criar o circuito da cultura hip hop, para a realização de no mínimo um evento anual de ações formativas (oficinas) , palestras e rodas de conversas, apresentações culturais e manifestações artísticas no interior do Estado e na capital, com a participação de artistas, grupos, coletivos e produtores culturais, em convênio com pontos de cultura, escolas públicas e privadas dos Ensinos Fundamental, Médio e Superior, no decênio 2024-2033;\nao) implantar e implementar o programa fé, religiosidade e devoção, de restauração e requalificação das igrejas tombadas pelo Estado de Goiás;\nap) implantar a Casa de Cultura de Goiás, em Goiânia, com a qual se pretende estimular a criação de congêneres no interior, para o fomento de todas as linguagens e as manifestações artísticas e culturais;\naq) implantar 15 (quinze) cines cultura no interior, para exibições de filmes do estilo cinema de arte e produções alternativas ao circuito comercial, em cooperação técnica com as prefeituras e com a curadoria de produções pela SECULT;\nar) ampliar até 50% (cinquenta por cento) os pontos de cultura no Estado de Goiás, com a possibilidade de regionalização;\nas) fomentar a criação de centros regionais de cultura afro-brasileira e povos originários do Estado de Goiás, conforme a Lei federal nº 11.645, de 10 de março de 2008;\nat) fomentar a criação do arquivo histórico público e privado no Estado de Goiás e implantar o sistema estadual de arquivos de acordo com a legislação arquivística; e\nau) possibilitar ao Arquivo Público do Estado de Goiás a aplicação da gestão de documentos com a implantação de sistema de gestão arquivística de documentos digitais, de acordo com as especificações das resoluções do Conselho Nacional de Arquivos.\n3.4 Ações\nConstituem ações do PECGO para o decênio 2024-2033:\n3.4.1 Ampliação, manutenção e qualificação dos espaços e dos equipamentos culturais\na) desenvolver programa de construção, revitalização e manutenção dos espaços e dos equipamentos culturais no Estado;\nb) articular com os municípios a disponibilização de espaços multifuncionais que permitam divulgar manifestações e produtos culturais e viabilizar a construção de novos espaços públicos multiúsos de cultura, esportes e lazer nos municípios;\nc) viabilizar a construção, a reforma e a ampliação de prédios para o armazenamento de acervos arquivísticos permanentes nos municípios, de acordo com as recomendações do Conselho Nacional de Arquivos - CONARQ;\nd) elaborar planos de gestão para cada equipamento cultural do Estado, para sua conservação e seu pleno funcionamento;\ne) viabilizar mecanismos para que os equipamentos culturais públicos atendam às normas de acessibilidade;\nf) criar projeto pedagógico e projeto de ocupação dos espaços públicos que se dediquem a ações de mediação cultural, de acordo com as necessidades, as demandas e a inserção na comunidade;\ng) realizar parcerias público-privadas que financiem projetos para a reforma, a manutenção e a construção de equipamentos culturais;\nh) articular com os órgãos responsáveis a disponibilização de espaços públicos multifuncionais que permitam divulgar as manifestações e os produtos culturais com a infraestrutura necessária, como: feiras, espetáculos, circos, teatros, exposições, comercializações de produtos regionais, cinemas, mostras e atividades correlatas;\ni) criar, ampliar, reformar e conservar bibliotecas nas cidades goianas, em parceria com municípios, secretarias de Estado, o Governo Federal e a iniciativa privada, para promover o acesso à informação;\nj) criar, implantar e manter museus, centros de documentação e centros de referências culturais nos municípios, em locais a serem adequados ou construídos com estruturas que atendam a suas finalidades, segundo especificações para preservação, conservação e manutenção do patrimônio cultural;\nk) equipar e manter centros comunitários, associações, pontos de cultura e outros locais coletivos fomentadores de cultura;\nl) incentivar a realização de atividades culturais circenses e ao ar livre nos municípios, como forma de promover a cultura; e\nm) fomentar os equipamentos culturais como canais de comunicação e diálogo com os cidadãos, para a ampliação de sua participação direta na gestão desses equipamentos.\n3.4.2 Criação, difusão, acesso e manutenção das atividades culturais\na) incluir no edital do Festival Internacional de Cinema e Vídeo Ambiental - FICA circuito de filmes nas escolas e a distribuição de cópias desses filmes a elas, para a formação de acervo nas bibliotecas da rede pública de ensino;\nb) ampliar o projeto FICA itinerante para mais municípios;\nc) incentivar e apoiar a circulação de mostras, exposições e espetáculos goianos em suas variadas linguagens e modalidades artísticas no Estado, no país e no exterior, por meio de parcerias com instituições federais, estaduais e municipais, empresas do Sistema S, entidades diversas e órgãos internacionais de cultura;\nd) manter acervos atualizados e conservados nas bibliotecas e nos lugares de memória e disponibilizá-los ao público;\ne) estimular a difusão das culturas impressa, audiovisual, digital e com outras ferramentas tecnológicas;\nf) articular os sistemas de comunicação, principalmente internet, rádio e televisão, para ampliar o espaço dos veículos públicos e comunitários com os processos e as instâncias de consulta, participação e diálogo para a formulação e o acompanhamento das políticas culturais;\ng) realizar parcerias com concessionárias de meios de comunicação para divulgar atividades culturais locais e regionais nos horários disponibilizados, também fomentar, via o Ministério das Comunicações, a concessão de rádios e televisões comunitárias, também estabelecer espaço de divulgação das manifestações culturais e artísticas do Estado de Goiás nos meios de comunicação (TV, TVs educativas, rádio e jornais) ;\nh) promover vivências em cultura e áreas afins, com qualificação em oficinas de teatro, música, construção de instrumentos, artesanato, entre outros, com a extensão desse trabalho a toda a sociedade;\ni) instituir instâncias de diálogo, consulta às instituições culturais, discussão pública e colaboração técnica;\nj) instituir políticas para a participação em projetos financiados e fomentados com recursos públicos, como acesso gratuito ou ingressos com preço reduzido, apresentações em periferias e escolas públicas e destinação de parte da tiragem de livros, CDs e DVDs para escolas e bibliotecas;\nk) implantar programas de formação de público, fomento, divulgação, documentação, descentralização e circulação de bens culturais;\nl) implantar o programa juventude cultural, que leve aos estudantes goianos os produtos de arte e cultura recebidos pela SECULT na operacionalização de seus editais culturais; e\nm) desenvolver projetos que possibilitem a aproximação entre obra, autor e público, para a formação de leitores.\n3.4.3 Formação e produção do conhecimento\na) estabelecer parcerias com a iniciativa privada para o desenvolvimento do setor cultural;\nb) criar e implementar programas de formação e capacitação técnica, profissional e acadêmica na área da cultura;\nc) manter ações de formação, capacitação, difusão e intercâmbio nos eventos produzidos pelo Estado;\nd) incluir nas políticas de eventos estatais investimento que priorize a formação e o fomento de temporadas populares e pedagógicas, para o poder público remunerar o desempenho do artista e promover a presença da arte em ambientes públicos e privados, também em espaços destinados à educação e à saúde;\ne) realizar convênios e acordos de cooperação com a União, prefeituras, secretarias estaduais de educação, turismo, ciência e tecnologia e instituições públicas de Ensino Superior para a formação e a capacitação nas áreas setoriais da cultura, conforme a demanda dos setores e dos territórios culturais do Estado;\nf) elaborar um manual para que novos produtores culturais possam entender, passo a passo, os trâmites para a realização de eventos nos mais variados espaços, também todos os procedimentos e as autorizações que os envolvam;\ng) fomentar a capacitação e o apoio técnico para a produção, a distribuição, a comercialização e a utilização sustentáveis de produtos relacionados a atividades artísticas e culturais;\nh) fomentar a formação de agentes multiplicadores para a elaboração de projetos;\ni) criar e gerenciar portal público de informação sobre toda a cadeia formativa, criativa e produtiva de todas as linguagens culturais, que inclui escolas, artistas e profissionais da área, espaços, fóruns, grupos de discussão, entre outros;\nj) elaborar ações de educação para a valorização e a preservação das culturas populares tradicionais;\nk) criar cursos de capacitação profissional que abranjam toda a cadeia produtiva da música;\nl) criar escolas e cursos de artes para as crianças e os jovens, prioritariamente nos municípios com baixo Índice de Desenvolvimento Humano - IDH;\nm) inserir o empreendedorismo no setor cultural com cursos de capacitação;\nn) ampliar a capacitação técnica nas áreas operacionais e de manutenção de equipamentos em teatros, cinemas, estúdios, museus e outros espaços culturais;\no) criar e implementar editais de seleção abertos à comunidade para ministrantes de oficinas e cursos de curta duração nas áreas de formação técnica e artística;\np) capacitar agentes, gestores culturais, servidores públicos da cultura e conselheiros de cultura para a elaboração e a gestão de projetos, a captação de recursos, a gestão de espaços e equipamentos, a prestação de contas e a gestão de pessoas;\nq) fomentar a criação de escolas de artes integradas nos municípios, com professores qualificados de todos os segmentos da arte;\nr) criar ações que promovam a capacitação e a produção dos agentes culturais, com a oferta de bolsas de estudos nas áreas culturais e artísticas à população, bem como a democratização do acesso a cursos universitários e especialização em áreas ligadas à cultura;\ns) criar projetos de capacitação profissional que abranjam toda a cadeia produtiva do teatro;\nt) democratizar e disponibilizar na rede pública de ensino cursos de formação cultural, presenciais e à distância, voltados aos Ensinos Técnico e Superior, para o aprimoramento das atividades de formação profissional cultural;\nu) articular a criação de cursos superiores e técnicos de Arquivologia nas universidades públicas e privadas;\nv) criar editais para financiar projetos de residência e intercâmbios regionais, nacionais e internacionais de arte e cultura, cujos pontos de partida serão a troca de experiências e os indicadores de acesso e consumo;\nw) estabelecer parcerias com o Instituto Brasileiro de Museus - IBRAM, secretarias municipais de cultura e outras instituições públicas e privadas para realizar oficinas e cursos de capacitação dos profissionais de museus, tanto na salvaguarda e na divulgação quanto na gestão do aparato museológico;\nx) criar e promover cursos de avaliação, gestão, classificação e descrição de documentos, conservação de acervos arquivísticos e memória.\ny) estabelecer parcerias com a Fundação Nacional de Artes - Funarte, o Sistema S, o Fundo de Amparo ao Trabalhador - FAT e as TVs públicas para a instalação de um programa estadual de treinamento técnico nas áreas culturais, a elaboração de projetos e a captação de recursos;\nz) disponibilizar informações sobre as leis e os regulamentos já existentes que regem tanto a atividade cultural nos municípios e no Estado de Goiás quanto a gestão pública das políticas culturais;\naa) criar bolsas de estudos nas áreas culturais e artísticas, inclusive com cotas, para que agentes culturais dos municípios do interior participem de cursos de artes e se tornem multiplicadores;\nab) assegurar o incentivo financeiro à realização de cursos, oficinas, seminários, capacitação e aperfeiçoamento em geral;\nac) criar, em parceria com a Secretaria de Estado da Educação, o Bolsa Professor, que subsidiará artistas com qualificação profissional para que ministrem aulas em projetos e oficinas culturais extracurriculares aos alunos; e\nad) capacitar os agentes culturais dos municípios do interior a elaborarem projetos para editais de fomento à cultura.\n3.4.4 Reconhecimento e promoção da diversidade cultural\na) valorizar a diversidade e a inclusão social em espaços culturais;\nb) criar e implementar políticas culturais voltadas aos povos originários, à comunidade negra, às pessoas com deficiência e às comunidades historicamente marginalizadas;\nc) criar mecanismos de participação e representação das comunidades tradicionais e dos povos do Cerrado goiano na elaboração, na implementação, no acompanhamento, na avaliação e na revisão de políticas de proteção e promoção das próprias culturas;\nd) apoiar os movimentos culturais coletivos, mestres e griôs;\ne) garantir apoio às manifestações artísticas em bairros e organizações comunitárias urbanas e rurais;\nf) sensibilizar e incentivar a população à valorização da cultura local e à ampliação de sua participação nela;\ng) apoiar, com a disponibilização de recursos, as culturas emergentes e a inclusão dos movimentos periféricos nas políticas públicas;\nh) criar e publicar editais para as áreas setoriais e adotar outras ações de promoção da diversidade cultural, com prioridade para os municípios do interior;\ni) criar programa de editais específicos para apoiar projetos de valorização e permanência da cultura dos povos do Cerrado goiano;\nj) capacitar as comunidades para a execução de projetos culturais e a valorização e a realização dos eventos tradicionais;\nk) viabilizar apoio financeiro às culturas tradicionais, sobretudo aos povos do Cerrado goiano, para a permanência dos jovens e dos mestres em seus territórios;\nl) criar projetos de transferência de saberes e fazeres das mestras e dos mestres do saber goiano aos mais jovens;\nm) capacitar os jovens dos povos do Cerrado goiano e de comunidades tradicionais para manter, promover e disseminar seus saberes e seus fazeres; e\nn) proporcionar a troca de experiência entre os professores e os jovens com os detentores da memória local, para formar novos contadores de histórias.\n3.4.5 Participação social\na) fortalecer o controle social sobre os modelos de gestão de políticas culturais e setoriais, para ampliar o diálogo com os segmentos artísticos e culturais;\nb) apoiar o aprimoramento de mecanismos de participação social no processo de elaboração, implementação, acompanhamento e avaliação das políticas públicas de cultura;\nc) viabilizar a participação social nas instâncias de governança e nos fóruns de debates municipais, regionais e estaduais;\nd) estabelecer parcerias para conceder bolsas de cursos profissionalizantes na área cultural, em atendimento a jovens e adolescentes em situação de vulnerabilidade, também em prevenção à exploração sexual e ao trabalho infantil; e\ne) apoiar a formalização profissional dos artistas e dos produtores culturais para garantir-lhes as condições à negociação de contratos de trabalho e o acesso a serviços sociais públicos.\n3.4.6 Fortalecimento de parcerias institucionais\na) apoiar a criação de órgãos executivos municipais exclusivos do setor cultural;\nb) sensibilizar os prefeitos para a criação de órgãos exclusivos da cultura nos municípios;\nc) orientar os municípios a criarem os conselhos municipais de cultura e os fundos municipais de cultura;\nd) apoiar os municípios na elaboração dos planos municipais de cultura;\ne) promover pesquisas, estudos e debates para criar marcos regulatórios às áreas artísticas, culturais e de patrimônio, também constituir sistemas setoriais de cultura que considerem a diversidade de diferentes segmentos e linguagens;\nf) promover o monitoramento da eficácia dos modelos de gestão das políticas culturais e setoriais, com base em indicadores estaduais, regionais e locais de acesso e consumo, mediante a mensuração dos resultados das políticas públicas de cultura no desenvolvimento econômico, na geração de sustentabilidade, também na garantia da preservação e da promoção do patrimônio e da diversidade cultural;\ng) criar nos municípios e no Estado ouvidorias e outros canais de interlocução dos cidadãos com órgãos públicos e instituições culturais, com a adoção de processos de consulta pública e atendimento individual;\nh) consolidar as conferências, os fóruns e os seminários que envolvam a formulação e o debate para as políticas culturais como espaços legítimos de consulta, reflexão crítica, avaliação e proposição de conceitos, estratégias e ações efetivas;\ni) apoiar os fóruns permanentes de cultura municipais, regionais e estaduais de caráter apartidário e abertos à livre participação dos setores culturais, da população e dos poderes constituídos, com autonomia para definir suas formas próprias de organização institucional;\nj) estimular a realização de conferências regionais e municipais de cultura, articuladas aos encontros estaduais e nacionais, como instrumentos de participação da sociedade nas diversas esferas;\nk) estimular a realização de conferências setoriais com a abertura de espaço à participação da sociedade nos meios artísticos e culturais;\nl) incentivar as conferências culturais e os colegiados a serem canais legítimos de debate e proposições;\nm) rearticular o Fórum Estadual dos Conselhos Municipais de Cultura com o estímulo à adesão e à participação dos conselhos municipais existentes ou dos que vierem a ser criados;\nn) articular a reorganização do Fórum Estadual de Políticas Culturais como colegiado permanente e legítimo para a aplicação das políticas culturais do Estado;\no) apoiar a realização de fóruns e seminários que debatam e avaliem questões específicas relativas aos setores artísticos e culturais, com o estímulo à inserção de elementos críticos nas questões e no desenho de estratégias à política cultural do Estado de Goiás;\np) estimular a criação de conselhos paritários de cultura, democraticamente constituídos, para fortalecer o diálogo entre o poder público, a iniciativa privada e a sociedade civil;\nq) incentivar a criação de conselhos municipais de cultura paritários, ou seja, com metade dos conselheiros eleitos pela sociedade civil;\nr) garantir ao Conselho Estadual de Cultura estrutura física e administrativa mínima para seu pleno funcionamento, além de autonomia para escolher a presidência do colegiado entre os conselheiros;\ns) implantar rede que interligue o Conselho Estadual de Cultura, os conselhos municipais de cultura e as entidades artístico-culturais de Goiás, para fomentar e organizar a produção cultural nos municípios e envolver a população no convívio político, educacional e cultural;\nt) proceder ao registro cadastral das entidades e dos equipamentos culturais do Estado;\nu) promover a articulação dos conselhos de cultura com outros colegiados referentes a políticas públicas de áreas relacionadas à cultural;\nv) apoiar a gestão cultural dos municípios e das regiões por meio dos fóruns culturais regionais permanentes;\nw) promover espaços permanentes de diálogo e fóruns de debate sobre a área da cultura abertos à população e aos segmentos culturais na Assembleia Legislativa do Estado de Goiás e nas câmaras municipais;\nx) articular com a SECULT a criação de unidades do Programa de Artesanato Brasileiro - PAB, divididas em regiões;\ny) realizar ações intersetoriais entre as secretarias e/ou as agências do Estado para reativar e fomentar os festivais e os eventos regionais temáticos;\nz) incentivar a criação de órgãos específicos de cultura nos municípios e colaborar com os gestores na construção dos planos de cultura; e\naa) estimular as unidades de educação (municipais, estaduais e particulares) a implantarem disciplinas ligadas às diferentes áreas da cultura, por meio de profissionais capacitados.\n3.4.7 Mecanismos de incentivo, fomento e financiamento\na) elaborar e publicar editais de ocupação de espaços culturais públicos e privados nos municípios para a circulação de artistas e manifestações de todos os setores da cultura;\nb) elaborar editais de fomento à produção e à criação cultural de acordo com as demandas setoriais;\nc) elaborar editais contínuos de ocupação dos espaços e dos equipamentos culturais públicos do Estado de Goiás;\nd) dar transparência a dados e indicadores sobre gestão e investimentos públicos;\ne) estruturar e consolidar calendários culturais anuais;\nf) elaborar e publicar edital para a realização de eventos culturais;\ng) criar programas que incentivem as políticas públicas de fomento à cultura;\nh) distribuir os recursos das Leis de Incentivo à Cultura setorialmente e de forma equitativa;\ni) minimizar a burocracia para o apoio a projetos culturais;\nj) implementar a cultura digital e incentivar a capacitação de multiplicadores;\nk) criar mecanismos que viabilizem o intercâmbio entre os municípios para a formação continuada de plateia nas escolas e nas comunidades;\nl) simplificar o procedimento para a propositura de projetos com a adoção de sistema digital e melhoria do mapa goiano;\nm) elaborar, em parceria com os órgãos e os poderes competentes, propostas de facilitação do acesso aos recursos financeiros; e\nn) implantar a política estadual de incentivo às atividades artísticas e culturais focadas no desenvolvimento regional.\n3.4.8 Desenvolvimento sustentável da Cultura\na) elaborar instrumentos legais que garantam a defesa de direitos associados ao patrimônio cultural, em especial os direitos de imagem e da propriedade intelectual coletiva de populações detentoras de saberes tradicionais;\nb) criar a Lei estadual dos Mestres de Cultura, para estabelecer programa de transmissão de saberes e práticas culturais tradicionais, em que o(a) mestre(a) será central, com o incentivo ao saber como produto cultural sustentável;\nc) valorizar as atividades artísticas e culturais e inseri-las nos programas públicos de desenvolvimento regional sustentável com políticas de incentivo;\nd) priorizar o atendimento a projetos da indústria cultural em suas manifestações tradicionais ou inovadoras;\ne) apoiar mecanismos de identificação e regulamentação das atividades que compõem a cadeia produtiva da cultura, via a ampliação do Cadastro Nacional de Atividades Econômicas - CNAE;\nf) incentivar como fatores de desenvolvimento econômico e social o conhecimento artístico local e as expressões e as produções culturais do cotidiano das famílias carentes de todos os municípios do Estado;\ng) implementar programas que facilitem o desenvolvimento da economia da cultura criativa nas macrorregiões de Goiás, para promover a sustentabilidade da produção artístico-cultural do Estado;\nh) mapear, fortalecer e articular as cadeias produtivas que formam a economia da cultura;\ni) fomentar a capacitação e o apoio técnico para a produção, a distribuição, a comercialização e a utilização sustentável de matérias-primas e produtos relacionados às atividades artísticas e culturais;\nj) criar programas de qualificação do trabalhador da cultura e de promoção da profissionalização do setor, para assegurar condições de trabalho, emprego e renda;\nk) incentivar as ações de formalização do mercado para possibilitar a valorização do trabalho e o fortalecimento econômico dos setores culturais;\nl) inserir as atividades culturais itinerantes nos programas públicos de desenvolvimento regional sustentável;\nm) incentivar a criação de redes e consórcios entre os municípios para possibilitar a valorização das culturas locais e o intercâmbio de atividades;\nn) propiciar, em parceria com os órgãos e os poderes competentes, a criação de agências de fomento nas macrorregiões histórico-culturais, com a qualificação em gestão financeira e a promoção de bens e serviços;\no) captar investimentos para a economia cultural do Estado;\np) estabelecer parcerias com o órgão estadual de turismo para promover o turismo cultural em busca de reconhecê-lo, valorizá-lo e profissionalizá-lo como forma de gerar sustentabilidade;\nq) estimular a geração de projetos que se dediquem à diversidade e à transversalidade em contexto descentralizado e sustentável;\nr) instalar cooperativas de fomento à cultura em parceria com a comunidade cultural;\ns) criar meios para o desenvolvimento da cadeia produtiva (da cultura e das artes) e da economia da cultura regional;\nt) celebrar convênios com instituições de ensino para capacitar artistas, produtores, gestores e trabalhadores da cultura a criarem e gerirem as cooperativas;\nu) definir diretrizes norteadoras do desenvolvimento da cadeia produtiva e das artes no Estado;\nv) criar e implementar programas e projetos que viabilizem o desenvolvimento, em longo prazo, do setor cultural nos territórios;\nw) desenvolver programas e projetos de integração entre os setores culturais, o turismo, o lazer e o esporte;\nx) transformar tanto os saberes e os fazeres quanto o legado cultural em economia da cultura;\ny) fomentar arranjos produtivos criativos para fortalecer o sistema de produção cultural do Estado;\nz) fomentar a capacitação e o apoio técnico para a produção, a distribuição, a comercialização e a utilização sustentável de produtos relacionados a atividades artísticas e culturais;\naa) promover a organização e a profissionalização artístico-cultural do Estado;\nab) articular parcerias para o fomento de atividades culturais com as esferas municipal e federal;\nac) incentivar a criação de cooperativas setoriais e multiculturais na sociedade civil, além da criação de consórcios públicos intermunicipais e interestaduais, para o desenvolvimento da cadeia produtiva e o estímulo da economia; e\nad) promover maior publicidade e transparência na fiscalização tanto da proposição quanto da prestação de contas dos projetos.\n3.4.9 Territorialidade\na) propor programas para o intercâmbio e a difusão artística e cultural entre os municípios e os territórios culturais, com a democratização do acesso às linhas de fomento, aos núcleos de produção, aos espaços físicos e aos equipamentos;\nb) criar programa de apoio à realização de eventos regionais voltados às tradições e às expressões culturais dos territórios;\nc) viabilizar a permanência e a continuidade dos principais eventos promovidos pela SECULT, com o envolvimento das regiões e dos municípios que sediam esses eventos, nas etapas de pré e pós-produção, curadoria e coordenação;\nd) fazer o levantamento dos principais eventos dos territórios para definir estratégia de apoio a eles;\ne) realizar eventos que possam contribuir com o fluxo turístico e o desenvolvimento nas regiões de baixo dinamismo cultural;\nf) elaborar e publicar editais para realizar e manter festivais gastronômicos anuais;\ng) ampliar a área de ocorrência dos eventos às microrregiões adjacentes às cidades-sede, para agregar a região e atender mais municípios;\nh) mapear as cadeias produtivas da cultura, também os arranjos produtivos locais e regionais culturais;\ni) criar parceria com o Instituto Mauro Borges e incluir os diversos setores da cultura nas pesquisas e nas estatísticas do Estado;\nj) levantar, divulgar e promover o acesso às informações sobre as referências culturais dos patrimônios materiais e imateriais dos municípios e das regiões;\nk) realizar o mapeamento cultural do Estado, com a compilação das informações dos inventários e dos diagnósticos municipais, para qualificar e atualizar o Mapa Goiano, identificar vocações culturais e estabelecer parâmetros de investimentos;\nl) descentralizar as ações da SECULT, com o incentivo à implantação de secretarias de cultura municipais, para democratizar as políticas públicas do Estado;\nm) criar os territórios culturais com o devido respeito às características de cada região;\nn) criar mecanismos de proteção, preservação e restauração de bens culturais (materiais e imateriais) ;\no) apoiar e incentivar as tradições culturais do Cerrado, com a valorização de suas potencialidades turísticas e culturais e com projetos de educação patrimonial e de estreitamento da relação entre cultura e meio ambiente;\np) desenvolver os planos setoriais de cultura;\nq) ampliar os eventos culturais realizados ou apoiados pelo Estado em todas as regiões;\nr) integrar os municípios e os territórios para o desenvolvimento regional cultural; e\ns) criar programas de apoio à realização de eventos regionais com foco nas tradições e nas expressões culturais dos territórios físicos e simbólicos.\n3.4.10 Preservação e difusão dos patrimônios culturais materiais e imateriais\na) disponibilizar aos cidadãos acervos físicos e virtuais atualizados e conservados nas bibliotecas e nas plataformas digitais;\nb) criar, renovar, atualizar e organizar os acervos bibliográficos nos municípios, com o apoio continuado à gestão dos acervos;\nc) atualizar e criar marcos regulatórios para os patrimônios materiais e imateriais;\nd) proporcionar o acesso às orientações, via o Sistema Nacional de Museus, para a criação e a implementação de políticas para acervos museológicos;\ne) incentivar e apoiar os municípios a criarem leis de tombamento e registro dos patrimônios material e imaterial;\nf) elaborar, aprovar e publicar lei de criação do Sistema Estadual de Patrimônio Cultural;\ng) implementar o Estatuto dos Museus;\nh) fortalecer o Sistema Estadual do Patrimônio Cultural e o Sistema Estadual de Museus de Goiás;\ni) prever no orçamento da SECULT recursos financeiros para a aplicação do Sistema Estadual do Patrimônio Cultural;\nj) elaborar programas de orientação técnica e conceitual para grupos, companhias e coletivos quanto à produção, à conservação e ao registro de documentos;\nk) desenvolver e aplicar o Plano Museológico e da Memória para todas as instituições museais e arquivísticas existentes e/ou a serem criadas no território goiano;\nl) promover, apoiar e incentivar a preservação, a conservação e o tombamento de bens culturais, materiais e imateriais, de interesse artístico, histórico, arqueológico e etnológico em todo o Estado e estabelecer parcerias público-privadas para financiar projetos patrimoniais;\nm) levantar, divulgar e promover o acesso às informações sobre as referências culturais dos patrimônios materiais e imateriais dos municípios e das regiões; e\nn) criar cursos na área patrimonial para a conscientização quanto à conservação e à preservação dos patrimônios edificados e arqueológicos e dos demais bens culturais.\n3.4.11 Reestruturação continuada da SECULT\na) modernizar técnica e administrativamente a SECULT para ela atender às políticas públicas culturais em Goiás;\nb) criar um departamento para a capacitação de gestores públicos de cultura e agentes culturais da sociedade civil, que atenda a todos os municípios do Estado de Goiás e esteja atento à valorização das expressões artísticas e culturais locais;\nc) assegurar equipe técnica qualificada na SECULT para o exercício das funções técnicas e de gestão, podendo ser através de concurso público; e\nd) estruturar institucional e administrativamente a SECULT para a gestão do patrimônio cultural.\n3.4.12 Orçamento e recursos financeiros\na) ampliar os recursos, garantir o financiamento e agilizar os repasses financeiros aos organismos institucionais de cultura, com obediência aos critérios da lei;\nb) possibilitar que todas as áreas setoriais da cultura participem da elaboração do orçamento da SECULT;\nc) apoiar tecnicamente os municípios na elaboração dos planos plurianuais - PPAs para a introdução de emendas, orçamentos e recursos destinados à cultura;\nd) criar projeto de orientação para os gestores e os agentes municipais em relação à organização institucional e à implementação do sistema municipal de cultura;\ne) lançar editais de pequenos eventos culturais que possuam como contrapartida oficinas que promovam a formação de educadores, agentes culturais e público em geral;\nf) orientar os pequenos municípios quanto aos editais e aos recursos de apoio a projetos voltados à cultura local, disponibilizados pelo órgão federal da cultura e outras fontes financiadoras;\ng) garantir que os recursos para a implementação das ações do PECGO estejam previstas no Plano Plurianual, na Lei de Diretrizes Orçamentárias e na Lei Orçamentária Anual;\nh) criar mecanismos de incentivos e selo de qualidade para as empresas que apoiarem a cultura no Estado e nos municípios;\ni) elaborar cartilha voltada à captação de recursos e à sensibilização da classe empresarial;\nj) manter o Fundo de Arte e Cultura do Estado de Goiás, cujos recursos devem priorizar projetos artísticos e culturais promotores de inclusão social, geração de emprego e renda e incentivadores das culturas locais e regionais, com o atendimento a todas as áreas culturais, em especial aos projetos de iniciativa da sociedade;\nk) possibilitar a inclusão de recursos financeiros do Estado em projetos culturais prioritários do interior;\nl) possibilitar até 0,5% (cinco décimos por cento) do Fundo de Arte e Cultura na participação orçamentária da SECULT no Orçamento-Geral do Estado para evitar a descontinuidade da aplicação do PECGO; e\nm) articular com a Secretaria de Estado da Economia de Goiás os procedimentos relativos aos benefícios fiscais que ainda não se encontram nos regulamentos do órgão, para proporcionar segurança jurídica ao patrocinador.\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22787",
+   "short": "Lei 22787/2024",
+   "title": "Lei nº 22787, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109021",
+   "first_law": "lei-2024-22787",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109021",
+     "sha256": "f7929d5f7bff6f86a2c03a259e87827f411a5bc16885a0788755bd8267943e4f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.787, DE 17 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Dom FRANCISCO AGAMENILTON DAMASCENA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22788",
+   "short": "Lei 22788/2024",
+   "title": "Lei nº 22788, de 2024 (Confere ao Município de Goianápolis/GO o título de Capital Estadual do Tomate.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109022",
+   "first_law": "lei-2024-22788",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109022",
+     "sha256": "6e7b882d73ae2d4fa935ebe299bb082cc53a4106296ce90fc56fcc7452f9f8da",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.788, DE 17 DE JUNHO DE 2024\nConfere ao Município de Goianápolis/GO o título de Capital Estadual do Tomate.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Goianápolis/GO o título de Capital Estadual do Tomate.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22791",
+   "short": "Lei 22791/2024",
+   "title": "Lei nº 22791, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109023",
+   "first_law": "lei-2024-22791",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109023",
+     "sha256": "064ce2be38f5b33224c30cf6346456f3ed8f184e7be5db753df2e2e2336bee1a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.791, DE 17 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada, anualmente, no mês de dezembro, no primeiro domingo após o Natal, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22793",
+   "short": "Lei 22793/2024",
+   "title": "Lei nº 22793, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, os Festejos do Mês de Agosto, realizados no Município de São Domingos/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109024",
+   "first_law": "lei-2024-22793",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109024",
+     "sha256": "687000eea7c1d609a9665748ff8d8ead0ad25d8ee4157e7503a8b44edf260c6a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.793, DE 17 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, os Festejos do Mês de Agosto, realizados no Município de São Domingos/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam incluídos, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, os Festejos do Mês de Agosto, realizados, anualmente, no Município de São Domingos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22795",
+   "short": "Lei 22795/2024",
+   "title": "Lei nº 22795, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109025",
+   "first_law": "lei-2024-22795",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109025",
+     "sha256": "55e7a79ffd6b2b2f92fd6454b9c560f58d96072f87f63117d09d969d14739f5f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.795, DE 17 DE JUNHO DE 2024\nAltera a Lei nº 20.194, de 05 de julho de 2018, que institui a Política Estadual para o Sistema Integrado de Informações de Violência Contra a Mulher, denominado Observatório Estadual da Violência Contra a Mulher.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.194, de 05 de julho de 2018, passa a vigorar com as seguintes alterações:\n\"Art. 6º-B No caso de fuga do agressor, a notificação à vítima dar-se-á imediatamente após o ocorrido, nos termos do art. 6º-A, § 1º, inciso II, e § 3º, da presente Lei.\" (NR)\n\"Art. 6º-C A Polícia Militar, por meio do Batalhão Maria da Penha, será comunicada, em ato simultâneo à expedição das notificações previstas nos arts. 6º-A e 6º-B, para que sejam adotadas as medidas preventivas cabíveis à segurança da mulher vítima de violência.\nParágrafo único. A não observância do disposto nos arts. 6º-A, 6º-B e 6º-C caracteriza violação do dever funcional e enseja a abertura de processo administrativo disciplinar nos termos da legislação aplicável ao agente infrator.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22796",
+   "short": "Lei 22796/2024",
+   "title": "Lei nº 22796, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109026",
+   "first_law": "lei-2024-22796",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109026",
+     "sha256": "b3ac533da508a50cb93a0eb0b188abd48a7cedffd2f3ff5c4fe21c3a4b1f53c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.796, DE 17 DE JUNHO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado JOÃO PEREIRA MESQUITA o Posto Avançado do Corpo de Bombeiros Militar do Estado de Goiás, situado na Avenida Floresta, nº 157, Quadra 44, no Município de Itapaci/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22789",
+   "short": "Lei 22789/2024",
+   "title": "Lei nº 22789, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109027",
+   "first_law": "lei-2024-22789",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109027",
+     "sha256": "582f5c2bb5c4949829b17edcd2b13f3bf4d3308f3afcc558d39801783525d83c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.789, DE 17 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido ao Padre LINDEMBERG SOUZA GONÇALVES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22790",
+   "short": "Lei 22790/2024",
+   "title": "Lei nº 22790, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109028",
+   "first_law": "lei-2024-22790",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109028",
+     "sha256": "310b8485a0c67502a754c4e44068124dce50f704e91b0dc94d802a65867367ed",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.790, DE 17 DE JUNHO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominado ATAÍDE RODRIGUES BORGES o Centro de Atendimento Socioeducativo - CASE, situado no Município de Itumbiara/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22792",
+   "short": "Lei 22792/2024",
+   "title": "Lei nº 22792, de 2024 (Institui a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109029",
+   "first_law": "lei-2024-22792",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109029",
+     "sha256": "742ab910fd570e8271ca91128b98847ae641e6bcdf1f68641a6efa0c3d030bc3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.792, DE 17 DE JUNHO DE 2024\nInstitui a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento, que tem por objetivo promover a assistência integral e o apoio necessário de forma a garantir-lhes o pleno exercício de seus direitos fundamentais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - estimular o acolhimento imediato e a assistência psicossocial às pessoas reencontradas e suas famílias;\nII - estimular a identificação das causas do desaparecimento e promover medidas preventivas para evitar novos casos, por meio de campanhas educativas e ações de sensibilização da comunidade;\nIII - estimular a oferta de oportunidades de educação, capacitação profissional e inserção no mercado de trabalho para as pessoas encontradas;\nIV - garantir o acesso à saúde;\nV - estimular a promoção da inclusão social e o resgate da cidadania das pessoas reencontradas, assegurando seus direitos e garantias fundamentais;\nVI - estimular a celebração de parcerias ou convênios com:\na) instituições públicas e privadas, organizações da sociedade civil e entidades de pesquisa para o desenvolvimento de programas e projetos de reinserção social;\nb) empresas da iniciativa privada para possibilitar a inclusão no mercado de trabalho.\nParágrafo único. As pessoas reencontradas serão classificadas como prioritárias, quando elegíveis, para as políticas e os programas de assistência social desenvolvidos no âmbito do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22794",
+   "short": "Lei 22794/2024",
+   "title": "Lei nº 22794, de 2024 (Institui o Dia Estadual da Música Gospel.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109030",
+   "first_law": "lei-2024-22794",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109030",
+     "sha256": "d5ba62cc5b0dcd298f327f7cc9ea109ba0a8bffe990c42b254d4e44f287ae02b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.794, DE 17 DE JUNHO DE 2024\nInstitui o Dia Estadual da Música Gospel.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Música Gospel, a ser comemorado, anualmente, no dia 17 de novembro.\nParágrafo único. O Dia Estadual de que trata esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22797",
+   "short": "Lei 22797/2024",
+   "title": "Lei nº 22797, de 2024 (Altera a Lei nº 14.711, de 30 de janeiro de 2004, que institui, no Gabinete Militar da Governadoria, a Medalha do Guardião.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109032",
+   "first_law": "lei-2024-22797",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109032",
+     "sha256": "80cd15b207c8d7aeb6cfc343237fa9c116cf5efb9f5ddf7d2a3f1d773d651950",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.797, DE 21 DE JUNHO DE 2024\nAltera a Lei nº 14.711, de 30 de janeiro de 2004, que institui, no Gabinete Militar da Governadoria, a Medalha do Guardião.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Medalha do Guardião instituída pela Lei nº 14.711, de 30 de janeiro de 2004, passa a ter a denominação de \"Medalha do Mérito Guardião\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 14.711, de 30 de janeiro de 2004, passa a vigorar com as seguintes alterações:\n\"Art. 1º Fica instituída, na Secretaria de Estado da Casa Militar, a MEDALHA DO MÉRITO GUARDIÃO.\" (NR)\n\"Art. 2º A MEDALHA DO MÉRITO GUARDIÃO destina-se a agraciar indivíduos civis e militares em razão de ações meritórias reconhecidas como abnegadas e de inestimável valor ou pelos bons e relevantes serviços prestados no desempenho de missões relacionadas à segurança de autoridades e instituições estaduais.\" (NR)\n\"Art 4º ..............................................................................................\n§ 1º Na apuração do mérito para a concessão da MEDALHA DO MÉRITO GUARDIÃO para o pessoal militar por bons e relevantes serviços prestados, serão observados os seguintes critérios:\n§ 2º Para a concessão da MEDALHA DO MÉRITO GUARDIÃO ao pessoal civil não serão observados os critérios estabelecidos nos incisos do § 1º deste artigo.\" (NR)\n\"Art 7º ..............................................................................................\nI - a Medalha, cunhada em metal dourado, será constituída de um escudo, simbolizando a proteção proporcionada pela Secretaria de Estado da Casa Militar, através de seus integrantes, às principais autoridades do Estado e às suas instituições; gravado em relevo e centralizado no interior do escudo, vê- se o contorno do mapa do Estado de Goiás sobreposto pela figura de um Grifo, animal fantástico que possui corpo de leão e cabeça de águia, a qual, segundo a mitologia, era o guardião dos templos dos deuses e dos seus tesouros ali guardados; a águia representa ainda a vigília, a atenção dispensada pelo agente de segurança no serviço de proteção às autoridades, enquanto o leão representa a força, a coragem e a agilidade que caracterizam atributos essenciais de um guardião. No verso da medalha, leem- se a inscrição CASA MILITAR e os dizeres MEDALHA DO MÉRITO GUARDIÃO, em fonte arial; a medalha será pendente de uma fita de gorgorão de seda chamalotada de 30mm (trinta milímetros) de largura por 60mm (sessenta milímetros) de comprimento, despontada na sua parte inferior em forma de bisel, contendo, na parte central, um colchete de 08mm (oito milímetros) de diâmetro externo por 06mm (seis milímetros) de diâmetro interno, com um dispositivo de pressão que permite prender a argola da medalha, sem risco de soltá- la; a fita apresentará 03 (três) listas verticais, de igual largura, nas cores verde- esmeralda, vermelho- sangue e amarela, as quais representam o verde da Bandeira do Estado, fazendo uma alusão ao Palácio das Esmeraldas, o sangue do próprio agente de segurança, disposto a derramá- lo para cumprir sua missão, e o amarelo, também da Bandeira do Estado, representando as riquezas moral, cultural e material guardadas pelos integrantes da Casa Militar;\n..........................................................................................................................\" (NR)\n\"Art. 9º A entrega da MEDALHA DO MÉRITO GUARDIÃO será feita conforme as formalidades militares regulamentares, preferencialmente no dia 31 de julho, data do aniversário da Secretaria de Estado da Casa Militar, em datas cívicas ou solenidades oficiais do Estado.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22798",
+   "short": "Lei 22798/2024",
+   "title": "Lei nº 22798, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada no Município de Goianápolis/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109033",
+   "first_law": "lei-2024-22798",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109033",
+     "sha256": "9ccea3251bd041af3e13efd3347dd353288c5e2008b236487619969994355f96",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.798, DE 21 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada no Município de Goianápolis/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada, anualmente, no mês de julho, no Município de Goianápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22799",
+   "short": "Lei 22799/2024",
+   "title": "Lei nº 22799, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109034",
+   "first_law": "lei-2024-22799",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109034",
+     "sha256": "3161c75e19788932726640cf517397657e0ff421dcb7f2e15a7efc9e0ac2c91d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.799, DE 21 DE JUNHO DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa do Divino Espírito Santo, realizada, anualmente, 50 (cinquenta) dias após a Páscoa, no Município de Formosa/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22800",
+   "short": "Lei 22800/2024",
+   "title": "Lei nº 22800, de 2024 (Confere ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109035",
+   "first_law": "lei-2024-22800",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-21",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109035",
+     "sha256": "823f2f431d83d819dc36082c5ebedb565c8344c50808b5a9fcb536e1c6eaaa29",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.800, DE 21 DE JUNHO DE 2024\nConfere ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22801",
+   "short": "Lei 22801/2024",
+   "title": "Lei nº 22801, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada no Município de Santa Helena de Goiás/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109036",
+   "first_law": "lei-2024-22801",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109036",
+     "sha256": "0744415e23dff4020edc3b11c7c0a9ee6190c4d5098efa3fd382c8c25bc465cc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.801, DE 21 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada no Município de Santa Helena de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada, anualmente, no mês de junho, no Município de Santa Helena de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}

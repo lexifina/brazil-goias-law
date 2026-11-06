@@ -1,0 +1,2386 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "48 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2024-22802": {
+   "label": "Lei nº 22802, de 2024",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-21",
+   "published": "2024-06-22",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109037",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22809": {
+   "label": "Lei nº 22809, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109039",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22808": {
+   "label": "Lei nº 22808, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada no Município de Jataí/GO.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109040",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22807": {
+   "label": "Lei nº 22807, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109041",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22803": {
+   "label": "Lei nº 22803, de 2024",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada no Município de Campos Belos/GO.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109042",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22804": {
+   "label": "Lei nº 22804, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109043",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22805": {
+   "label": "Lei nº 22805, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109044",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22806": {
+   "label": "Lei nº 22806, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-25",
+   "published": "2024-06-25",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109045",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22810": {
+   "label": "Lei nº 22810, de 2024",
+   "title": "Estabelece o dever de informação ao consumidor sobre a política de cancelamento e reembolso de pacote turístico.",
+   "kind": "law",
+   "enacted": "2024-06-26",
+   "published": "2024-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109048",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22811": {
+   "label": "Lei nº 22811, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-26",
+   "published": "2024-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109049",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22812": {
+   "label": "Lei nº 22812, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-26",
+   "published": "2024-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109050",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22813": {
+   "label": "Lei nº 22813, de 2024",
+   "title": "Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-27",
+   "published": "2024-06-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109052",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22816": {
+   "label": "Lei nº 22816, de 2024",
+   "title": "Dispõe sobre o Plano de Carreira e Remuneração do cargo de Docente de Ensino Superior da Universidade Estadual de Goiás.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109054",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22817": {
+   "label": "Lei nº 22817, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109055",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22818": {
+   "label": "Lei nº 22818, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109056",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22819": {
+   "label": "Lei nº 22819, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109057",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22820": {
+   "label": "Lei nº 22820, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109058",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22821": {
+   "label": "Lei nº 22821, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109059",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22822": {
+   "label": "Lei nº 22822, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109060",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22824": {
+   "label": "Lei nº 22824, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109062",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22814": {
+   "label": "Lei nº 22814, de 2024",
+   "title": "Altera o Protocolo de Intenções do Consórcio Interestadual de Desenvolvimento do Brasil Central, ratificado pela Lei estadual nº 19.020, de 30 de setembro de 2015.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109063",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22815": {
+   "label": "Lei nº 22815, de 2024",
+   "title": "Altera a Lei nº 21.070, de 9 de agosto de 2021, que cria o Programa Mães de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-06-28",
+   "published": "2024-06-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109064",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22825": {
+   "label": "Lei nº 22825, de 2024",
+   "title": "Altera a Lei nº 19.448, de 09 de setembro de 2016, que estabelece o atendimento prioritário a crianças, adolescentes e conselheiros tutelares nos órgãos públicos que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109163",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22826": {
+   "label": "Lei nº 22826, de 2024",
+   "title": "Altera a Lei nº 14.308, de 12 de novembro de 2002, que institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-ATLETA e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109164",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22827": {
+   "label": "Lei nº 22827, de 2024",
+   "title": "Institui a Política Estadual de Incentivo aos Projetos Audiovisuais de Produção Independente.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109165",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22828": {
+   "label": "Lei nº 22828, de 2024",
+   "title": "Institui a Política Estadual de Incentivo à Folia de Reis.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109166",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22829": {
+   "label": "Lei nº 22829, de 2024",
+   "title": "Institui o Dia Estadual do Diabetes.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109167",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22830": {
+   "label": "Lei nº 22830, de 2024",
+   "title": "Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantil.",
+   "kind": "law",
+   "enacted": "2024-07-04",
+   "published": "2024-07-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109168",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22831": {
+   "label": "Lei nº 22831, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109173",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22832": {
+   "label": "Lei nº 22832, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-05",
+   "published": "2024-07-05",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109174",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22834": {
+   "label": "Lei nº 22834, de 2024",
+   "title": "Dispõe sobre a instituição do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino.",
+   "kind": "law",
+   "enacted": "2024-07-10",
+   "published": "2024-07-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109180",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22835": {
+   "label": "Lei nº 22835, de 2024",
+   "title": "Abre crédito especial ao Fundo Estadual do Trabalho.",
+   "kind": "law",
+   "enacted": "2024-07-10",
+   "published": "2024-07-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109181",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22836": {
+   "label": "Lei nº 22836, de 2024",
+   "title": "Altera a Lei nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.",
+   "kind": "law",
+   "enacted": "2024-07-10",
+   "published": "2024-07-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109182",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22837": {
+   "label": "Lei nº 22837, de 2024",
+   "title": "Institui a Campanha Estadual de Valorização dos Agricultores Goianos.",
+   "kind": "law",
+   "enacted": "2024-07-10",
+   "published": "2024-07-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109183",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22838": {
+   "label": "Lei nº 22838, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-10",
+   "published": "2024-07-11",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109184",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22839": {
+   "label": "Lei nº 22839, de 2024",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109188",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22840": {
+   "label": "Lei nº 22840, de 2024",
+   "title": "Confere ao Município de Jataí o título de Capital Goiana da Agroindústria.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109189",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22841": {
+   "label": "Lei nº 22841, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109190",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22842": {
+   "label": "Lei nº 22842, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109191",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22843": {
+   "label": "Lei nº 22843, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109192",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22844": {
+   "label": "Lei nº 22844, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109193",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22845": {
+   "label": "Lei nº 22845, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109194",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22846": {
+   "label": "Lei nº 22846, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109195",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22847": {
+   "label": "Lei nº 22847, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109196",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22848": {
+   "label": "Lei nº 22848, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109197",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22849": {
+   "label": "Lei nº 22849, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109198",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22850": {
+   "label": "Lei nº 22850, de 2024",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109199",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2024-22851": {
+   "label": "Lei nº 22851, de 2024",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2024-07-12",
+   "published": "2024-07-15",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109200",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2024-22802",
+   "short": "Lei 22802/2024",
+   "title": "Lei nº 22802, de 2024 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109037",
+   "first_law": "lei-2024-22802",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-22",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109037",
+     "sha256": "02c67bfa01f21c57757822d214939aae6e5e7866d410eddae9d53c3bbe7f0ddc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.802, DE 21 DE JUNHO DE 2024\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada VAPT VUPT DE ANÁPOLIS SUL JOSÉ MIGUEL HAJJAR a unidade do Vapt Vupt Anápolis Sul, situada na Avenida Brasil Sul, 1511, Bairro Batista, no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 21 de junho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22809",
+   "short": "Lei 22809/2024",
+   "title": "Lei nº 22809, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109039",
+   "first_law": "lei-2024-22809",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109039",
+     "sha256": "4d6e3a1ca0ab866dbf7d39bea0e95b6271acb2fb6e8051dfaa54029c78a45bc4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.809, DE 25 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a AMAURY MIRANDA ESBERARD o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22808",
+   "short": "Lei 22808/2024",
+   "title": "Lei nº 22808, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada no Município de Jataí/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109040",
+   "first_law": "lei-2024-22808",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109040",
+     "sha256": "3a8354c00b352cf36e64ae1baa434dd4b658fe99b3b8e3387644e5b4ce71651b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.808, DE 25 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada no Município de Jataí/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada, anualmente, no mês de maio, no Município de Jataí/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22807",
+   "short": "Lei 22807/2024",
+   "title": "Lei nº 22807, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109041",
+   "first_law": "lei-2024-22807",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109041",
+     "sha256": "a67cae72f44794a61d45092d85895c75f4646bd7bddb6b40bd07c708353acdea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.807, DE 25 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MURILO ROBERTO BATALHA MACEDO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22803",
+   "short": "Lei 22803/2024",
+   "title": "Lei nº 22803, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada no Município de Campos Belos/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109042",
+   "first_law": "lei-2024-22803",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109042",
+     "sha256": "dcba10279d9ce3a2c1615fa4ef9450fe0e791b084070f8af88c3d04e6be774a0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.803, DE 25 DE JUNHO DE 2024\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada no Município de Campos Belos/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada, anualmente, no Sábado de Aleluia, no Município de Campos Belos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nALESSANDRO MOREIRA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22804",
+   "short": "Lei 22804/2024",
+   "title": "Lei nº 22804, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109043",
+   "first_law": "lei-2024-22804",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109043",
+     "sha256": "5b0f27eb281e78d809d5e4a769c15f475b303f5a4f93211cc8a12012b437105e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.804, DE 25 DE junho DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ HENRIQUE SOUSA DE CARVALHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22805",
+   "short": "Lei 22805/2024",
+   "title": "Lei nº 22805, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109044",
+   "first_law": "lei-2024-22805",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109044",
+     "sha256": "ca43e4cd8d31ac643848d0d0b937c3929bb9d7ed9186a20a8fe84719332e3b3e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.805, DE 25 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALINE VIEIRA TOMÁS PROTÁSIO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22806",
+   "short": "Lei 22806/2024",
+   "title": "Lei nº 22806, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109045",
+   "first_law": "lei-2024-22806",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-25",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109045",
+     "sha256": "7cc65d11bfb4545dea27fa1d206139e4dab8e0d70b0996d45a4a7548bb15a2e5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.806, DE 25 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a LIGA PRÓ-MELHORAMENTO DO SETOR UNIVERSITÁRIO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 25.107.582/0001-30, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em Exercício\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22810",
+   "short": "Lei 22810/2024",
+   "title": "Lei nº 22810, de 2024 (Estabelece o dever de informação ao consumidor sobre a política de cancelamento e reembolso de pacote turístico.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109048",
+   "first_law": "lei-2024-22810",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109048",
+     "sha256": "ca22de190f059f7aaec8038d3c0f8e028024a746c6fb996b19995d2d1404c60b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.810, DE 26 DE JUNHO DE 2024\nEstabelece o dever de informação ao consumidor sobre a política de cancelamento e reembolso de pacote turístico.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º As agências de viagem e turismo devem informar ao consumidor, no ato da contratação do pacote turístico, a política de cancelamento e reembolso.\nParágrafo único. Para os fins do disposto no caput, devem ser informados, no mínimo, o procedimento, os prazos e as multas aplicáveis.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O descumprimento desta Lei sujeitará o infrator às sanções previstas no art. 56 da Lei federal nº 8.078, de 11 de setembro de 1990.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22811",
+   "short": "Lei 22811/2024",
+   "title": "Lei nº 22811, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109049",
+   "first_law": "lei-2024-22811",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109049",
+     "sha256": "1c471b3e5a116892d64ab37f74022078a759c00413f16adb89d4de68375bd1c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.811, DE 26 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS PEQUENOS PRODUTORES UNIÃO - P.A. MINGAU, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 09.422.941/0001-98, com sede no Município de São João d'Aliança/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22812",
+   "short": "Lei 22812/2024",
+   "title": "Lei nº 22812, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109050",
+   "first_law": "lei-2024-22812",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109050",
+     "sha256": "70509bc062cd640deee21c9007663546c5e8e2e29e70f272226e0024729965bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.812, DE 26 DE JUNHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO F-ACIS DE IPORÁ E REGIÃO - FUTSAL - AÇÃO - COOPERAÇÃO E INTEGRAÇÃO SOCIAL, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 33.679.832/0001-35, com sede no Município de Iporá/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22813",
+   "short": "Lei 22813/2024",
+   "title": "Lei nº 22813, de 2024 (Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109052",
+   "first_law": "lei-2024-22813",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109052",
+     "sha256": "ce05e05f717e37f81a19404d0226f3f3cc2c46cb56586988965a8466017c1f58",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.813, DE 27 DE JUNHO DE 2024\nDispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A sede simbólica da Capital do Estado de Goiás funcionará no Município de Trindade, anualmente, na quinta-feira que antecede a data de encerramento da Festa do Divino Pai Eterno.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os Chefes de Poderes e dos órgãos constitucionais autônomos, com os respectivos secretários e auxiliares, poderão despachar da Capital Simbólica, na data de que trata o art. 1º, bem como realizar audiências públicas, previamente agendadas.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 27 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22816",
+   "short": "Lei 22816/2024",
+   "title": "Lei nº 22816, de 2024 (Dispõe sobre o Plano de Carreira e Remuneração do cargo de Docente de Ensino Superior da Universidade Estadual de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109054",
+   "first_law": "lei-2024-22816",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109054",
+     "sha256": "e6ec880ab0bb975864ae0f080b3730cbd40c198b32fbf8116ec91acafae17ddf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.816, DE 28 DE JUNHO DE 2024\nDispõe sobre o Plano de Carreira e Remuneração do cargo de Docente de Ensino Superior da Universidade Estadual de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## DAS DISPOSIÇÕES PRELIMINARES\nArt. 1º Fica instituído o Plano de Carreira e Remuneração do cargo de Docente de Ensino Superior da Universidade Estadual de Goiás - UEG.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Para esta Lei, consideram-se:\nI - Plano de Carreira e Remuneração - PCR: o instrumento de gestão da política de pessoal que compreende:\na) o conjunto de normas disciplinadoras do ingresso, do desempenho, do desenvolvimento e da evolução funcional ao longo do efetivo exercício no serviço público, como estímulo à produtividade, à capacitação e ao crescimento pessoal e profissional dos servidores, para contribuir com a melhoria dos serviços prestados; e\nb) o conjunto de critérios definidores do cargo e da remuneração dos servidores que pertencem à mesma carreira;\nII - cargo: o conjunto de atribuições e responsabilidades previstas na estrutura organizacional e cometidas a um servidor público;\nIII - evolução funcional: a passagem do servidor de um nível ou uma classe para outro(a) na carreira;\nIV - nível: a denominação das referências remuneratórias da carreira;\nV - classe: a denominação das referências relacionadas à titulação acadêmica;\nVI - promoção: a evolução funcional do servidor da classe em que se encontra para outra superior; e\nVII - progressão: a evolução funcional do servidor do nível em que se encontra para outro superior na mesma classe.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## DO INGRESSO NA CARREIRA\nArt. 3º O ingresso na carreira do cargo de Docente de Ensino Superior ocorrerá com concurso público de provas e títulos, nos termos da legislação vigente.\n§ 1º Além da comprovação dos requisitos legais estabelecidos na Lei estadual nº 20.756, de 28 de janeiro de 2020, que dispõe sobre o regime jurídico dos servidores públicos civis do Estado de Goiás, para o provimento e o exercício no cargo previsto nesta Lei, deverão ser cumpridos os requisitos estabelecidos no Anexo I desta Lei, e poderá haver outras exigências definidas por regulamento ou por edital de convocação do concurso público, conforme a especificidade do cargo.\n§ 2º No edital de convocação do concurso público, poderá ser estipulado o quantitativo de cargos específicos relativos a determinadas funções, com a correspondente exigência, como requisito de provimento e exercício, da comprovação de que o candidato tenha formação ou título que abranja conhecimento em área estabelecida.\n§ 3º Excetuada a classe de Docente de Ensino Superior Titular, a UEG poderá realizar concurso público para o provimento de cargo vago de Docente de Ensino Superior em quaisquer das classes da carreira para atender às políticas e às estratégias institucionais para a graduação, a pós-graduação, a pesquisa e a extensão da universidade, verificado o juízo de oportunidade e conveniência da administração.\n§ 4º O ingresso no cargo se dará no Nível A da classe correspondente ao que for especificado em edital.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## DO PLANO DE CARREIRA E REMUNERAÇÃO\n## Seção I\n## Do Quadro Permanente\nArt. 4º O Plano de Carreira e Remuneração desta Lei é constituído pelo Quadro Permanente composto pelo cargo de provimento efetivo de Docente de Ensino Superior.\nParágrafo único. O quantitativo de vagas do cargo do quadro definido no caput deste artigo é o especificado no Anexo I desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "## Seção II\n## Das Atribuições do Quadro Permanente\nArt. 5º As atribuições gerais do cargo de Docente de Ensino Superior são:\nI - desempenhar atividades de ensino, pesquisa, extensão e gestão para a produção do conhecimento, a ampliação e a transmissão do saber e da cultura; e\nII - desenvolver atividades correlatas, conforme a área de atuação no Ensino Superior.\n§ 1º A UEG, na distribuição de encargos e atividades do docente, considerará:\nI - a competência na matéria de sua formação científica;\nII - sua capacidade didático- pedagógica e sua eficiência no magistério; e\nIII - seu plano de desenvolvimento institucional elaborado por sua comunidade acadêmica.\n§ 2º Decreto do Chefe do Poder Executivo poderá estabelecer o detalhamento ou o acréscimo de atribuições correlatas, após a manifestação do Conselho Universitário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## Seção III\n## Da Estrutura da Carreira do Quadro Permanente\nArt. 6º A carreira do Quadro Permanente do cargo de Docente de Ensino Superior será estruturada em:\nI - 4 (quatro) classes, conforme a titulação acadêmica, assim distribuídas:\na) Docente de Ensino Superior Auxiliar: se for portador do título de especialista;\nb) Docente de Ensino Superior Assistente: se for portador do título de mestre;\nc) Docente de Ensino Superior Adjunto: se for portador do título de doutor; e\nd) Docente de Ensino Superior Titular: se for portador de título de doutor e aprovado em processo seletivo de promoção, nos termos desta Lei; e\nII - 15 (quinze) níveis, identificados pelas letras \"A\" a \"O\".\n§ 1º Serão aceitas apenas as titulações acadêmicas de cursos relacionados às áreas de interesse do Ensino Superior do Estado de Goiás, a critério do Conselho Universitário, com o diploma fornecido por instituição nacional de Ensino Superior credenciada e curso reconhecido pelo Ministério da Educação - MEC ou diploma de Instituição de Ensino Superior estrangeira revalidado por instituição nacional competente.\n§ 2º Os valores dos vencimentos de cada classe e nível são os definidos no Anexo II desta Lei.\n§ 3º Os valores dos vencimentos constantes do Anexo II desta Lei correspondem ao exercício no Regime de Tempo Integral - RTI, na jornada de 40 (quarenta) horas semanais, conforme o art. 12 desta Lei, acrescido em 50% (cinquenta por cento) para o Regime de Tempo Integral de Dedicação à Docência e à Pesquisa - RTIDP e reduzido proporcionalmente para o Regime de Tempo Parcial - RTP, de acordo com a carga horária da jornada exercida.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## Seção IV\n## Da Evolução Funcional do Quadro Permanente\nArt. 7º O desenvolvimento na carreira do cargo de Docente de Ensino Superior se dará mediante evolução funcional, por promoção e por progressão.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A promoção poderá ocorrer:\nI - entre as classes a que se referem as alíneas \"a\" a \"c\" do inciso I do art. 6º desta Lei, pela apresentação do título acadêmico, observado o disposto no § 1º do referido artigo, e após a validação por comissão permanente designada; e\nII - para a classe Docente de Ensino Superior Titular, prevista na alínea \"d\" do inciso I do art. 6º desta Lei, por meio de processo seletivo de promoção, observados os seguintes requisitos:\na) possuir efetivo exercício de, no mínimo, 12 (doze) anos na carreira de Docente de Ensino Superior Adjunto da UEG;\nb) estar em atividade vinculada ao RTI ou ao RTIDP;\nc) ser aprovado por banca examinadora em defesa pública de memorial ou trabalho científico original, com a demonstração da consolidação da linha de pesquisa do docente ou de suas atividades de extensão; e\nd) cumprir, no mínimo, os critérios obrigatórios estabelecidos pelo art. 9º desta Lei.\n§ 1º A banca examinadora de que trata a alínea \"c\" do inciso II deste artigo será constituída por 5 (cinco) docentes de classe igual à pretendida, entre os quais, no mínimo, 3 (três) serão de outras instituições de Ensino Superior distintas da UEG.\n§ 2º A promoção de que trata o inciso I do caput deste artigo ocorrerá no início de cada semestre letivo, após o processamento de cada ciclo de avaliação, nos termos do inciso II do caput do art. 9º desta Lei, obedecidos os prazos e os critérios previstos em regulamento.\n§ 3º A promoção de que trata o inciso II do caput deste artigo ocorrerá anualmente, após o processamento da seleção, obedecidos os prazos e os critérios previstos em regulamento.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º A progressão entre os Níveis \"A\" a \"O\" observará:\nI - o tempo mínimo de efetivo exercício no nível;\nII - o desempenho no exercício das atribuições de ensino, pesquisa e extensão;\nIII - a assunção de responsabilidade; e\nIV - a titulação e a qualificação acadêmicas.\n§ 1º A progressão será efetivada no nível imediatamente superior, após avaliação obtida pelo docente no sistema de pontos.\n§ 2º A progressão será efetivada por sistema de pontos, e serão considerados:\nI - obrigatórios os requisitos estabelecidos nos incisos I e II do caput deste artigo; e\nII - aceleradores os requisitos estabelecidos nos incisos III e IV do caput deste artigo.\n§ 3º Para a verificação do desempenho de que trata o inciso II do caput deste artigo, será estabelecida metodologia de avaliação com parâmetros para a aferição de competências e de resultados, também com o pacto de metas efetuadas por comissão permanente designada, consideradas as atividades de docência, de produção científica, acadêmicas, extensionistas, publicações científicas, entre outras, e o aperfeiçoamento.\n§ 4º O resultado da aferição dos requisitos de que trata o caput deste artigo será validado por comissão formada por membros representantes da carreira, da UEG e do órgão central de gestão de pessoal, observados os princípios administrativos constitucionais.\n§ 5º A concessão da evolução funcional ocorrerá por ato do Reitor, após a validação pela comissão de que trata o § 4º deste artigo.\n§ 6º Os pontos excedentes dos critérios obrigatórios serão considerados como aceleradores.\n§ 7º Terá o seu desempenho avaliado pelo órgão ou pela entidade no(a) qual estiver lotado, conforme a função desempenhada, e seu processo de evolução funcional validado pela Comissão de Avaliação de Desempenho da UEG o docente que estiver em ocupação conjunta com cargo de provimento em comissão ou com função comissionada em exercício no órgão de origem, movimentado por disposição ou movimentado por cessão em funções de assessoramento, gestão e direção da administração pública direta ou indireta ou ainda para organizações sociais que tenham contrato de gestão com o Poder Executivo do Estado de Goiás.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A concessão da promoção prevalecerá sobre a progressão, caso o servidor obtenha simultaneamente as condições para ambas, e a promoção será concedida no mesmo nível da classe ocupada anteriormente.\n§ 1º Na situação descrita no caput deste artigo, o servidor deverá cumprir todos os critérios necessários à progressão para o próximo nível, conforme o art. 9º desta Lei.\n§ 2º A próxima evolução funcional ocorrerá somente após, no mínimo, 18 (dezoito) meses da última promoção ou progressão.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. As demais condições para a efetivação das evoluções funcionais por promoção e por progressão, os critérios para a aferição dos requisitos estabelecidos no art. 9º desta Lei e a metodologia do sistema de pontos serão definidos até 180 (cento e oitenta) dias da publicação desta Lei por comissão formada pela UEG e pelo órgão central de gestão de pessoal, com sua publicação em decreto do Chefe do Poder Executivo.\nParágrafo único. As alterações de quaisquer condições de que trata o caput deste artigo ocorrerão somente após manifestação técnica do órgão central de gestão de pessoal.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## DO REGIME E DA JORNADA DE TRABALHO\nArt. 12. Os ocupantes do cargo de que trata esta Lei estão sujeitos aos regimes de trabalho:\nI - de Tempo Integral de Dedicação à Docência e à Pesquisa - RTIDP, com a jornada de trabalho de 40 (quarenta) horas semanais;\nII - de Tempo Integral - RTI, com a jornada de trabalho de 40 (quarenta) horas semanais; ou\nIII - de Tempo Parcial - RTP, com a jornada de trabalho de 20 (vinte) ou 30 (trinta) horas semanais.\n§ 1º O regime de trabalho do docente será homologado pela Reitoria, conforme critérios estabelecidos no Regimento Geral e no Regulamento de Atividades Docentes da UEG.\n§ 2º A UEG, por meio de Resolução do Conselho Universitário, disporá sobre o ingresso e o desligamento do docente em cada regime de trabalho, observados o desempenho dele e as necessidades da instituição.\n§ 3º A solicitação de alteração entre os regimes de trabalho será realizada a pedido do docente, recebida em fluxo contínuo e homologada pelo Reitor no interesse da administração, conforme calendário disponibilizado pela UEG.\n§ 4º Serão adotadas políticas que privilegiem o RTIDP e o RTI.\n§ 5º Em qualquer regime de trabalho, o docente ficará obrigado ao cumprimento de, no mínimo, 8 (oito) horas semanais de aulas, salvo os nomeados em cargo em comissão da estrutura básica e complementar da UEG.\n§ 6º A composição da jornada de trabalho do docente considerará as atividades de ensino, pesquisa, extensão e gestão.\n§ 7º É vedado ao Docente de Ensino Superior submetido ao RTIDP o exercício de qualquer outra atividade remunerada, com ou sem vínculo empregatício, em outra instituição pública ou privada, salvo:\nI - participação em órgãos de deliberação colegiada, relacionada com as funções de Docente de Ensino Superior;\nII - participação em comissões julgadoras ou verificadoras, relacionada com ensino, pesquisa e extensão;\nIII - as que gerarem a percepção de direitos autorais e correlatos;\nIV - colaboração esporádica ou não habitual em atividades de sua especialidade, devidamente autorizada pela unidade, pelo setor ou pelo departamento no qual estiver lotado; ou\nV - outros casos previstos na Lei federal nº 13.243, de 11 de janeiro de 2016, e na Lei estadual nº 21.615, de 7 de novembro de 2022.\n§ 8º A opção pelo RTIDP implica a lotação obrigatória na UEG.\n§ 9º Nos casos de afastamento para exercício de cargo comissionado de chefia, o docente terá garantido, em seu retorno, o enquadramento automático no regime de trabalho ao qual estava vinculado antes do afastamento.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## DO AFASTAMENTO\nArt. 13. O Docente de Ensino Superior, além dos casos previstos na legislação, poderá afastar-se de suas atribuições, em razão das atividades de magistério, para ser cedido a prestar colaboração a outra instituição de ensino ou de pesquisa, sem ônus para a UEG.\nParágrafo único. A autorização para o afastamento de que trata este artigo será efetivada por ato do Chefe do Poder Executivo, após manifestação do Reitor da UEG.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## DA LICENÇA PARA APRIMORAMENTO E INOVAÇÃO\nArt. 14. O Docente de Ensino Superior enquadrado na classe Docente de Ensino Superior Adjunto ou na classe Docente de Ensino Superior Titular, além dos casos previstos na legislação, poderá gozar, sem prejuízo a sua remuneração, de licença para aprimoramento e inovação, por 1 (um) período de até 6 (seis) meses a cada 7 (sete) anos de efetivo exercício.\n§ 1º Durante a licença para aprimoramento e inovação o docente realizará produção literária e/ou científica, a qual deverá ser apresentada ao final de seu gozo.\n§ 2º A não apresentação da produção literária e/ou científica de que trata o § 1º deste artigo implica a obrigação de ressarcimento ao erário da remuneração recebida durante o período de licença.\n§ 3º A concessão da licença para aprimoramento e inovação observará os critérios deﬁnidos pelo Conselho Universitário da UEG, e sua autorização será efetivada por ato do Reitor, mediante aprovação do colegiado do curso no âmbito do instituto acadêmico de sua vinculação.\n§ 4º Os períodos de licença de que trata o caput deste artigo não são acumuláveis, e é vedada sua conversão em pecúnia.\n§ 5º Durante o período da licença para aprimoramento e inovação não serão computados os requisitos de que tratam os arts. 8º e 9º desta Lei para evolução funcional.\n§ 6º O docente vinculado ao RTIDP fica impedido de exercer qualquer atividade remunerada durante o gozo da licença para aprimoramento e inovação, salvo os casos previstos no § 7º do art. 12 desta Lei.\n§ 7º Não se acumula o período de gozo da licença para aprimoramento e inovação com o período de gozo da licença para capacitação.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. A contagem do período aquisitivo para a licença para aprimoramento e inovação será:\nI - suspensa, pelas seguintes ausências:\na) faltas não justificadas até o limite de 10 (dez) ocorrências, consecutivas ou não;\nb) licença para tratamento de saúde por período de até 180 (cento e oitenta) dias, consecutivos ou não; ou\nc) licença por motivo de doença em pessoa da família enquanto for remunerada; e\nII - interrompida, nas situações de:\na) faltas não justificadas que excederem a 10 (dez) ocorrências, consecutivas ou não;\nb) licença para tratamento de saúde por período superior a 180 (cento e oitenta) dias, consecutivos ou não;\nc) aplicação de penalidade disciplinar de suspensão, ainda que seja convertida em multa;\nd) licença por motivo de doença em pessoa da família quando não for remunerada;\ne) licença por motivo de afastamento de cônjuge ou companheiro;\nf) licença para tratar de interesses particulares; ou\ng) cumprimento de pena decorrente de sentença definitiva com trânsito em julgado ou de pena privativa da liberdade.\n§ 1º Nos casos previstos no inciso I do caput deste artigo, a contagem para a aquisição da licença volta a ser efetivada no primeiro dia após ter sido cessada a causa da suspensão.\n§ 2º Nos casos previstos no inciso II do caput deste artigo, haverá a perda do período aquisitivo anterior, e a contagem para a aquisição da licença será reiniciada.\n§ 3º Não se aplicam a suspensão ou a interrupção de que trata este artigo nos casos de licença para tratamento de saúde motivada por acidente de trabalho ou doença profissional.\n§ 4º Na hipótese das alíneas \"c\" e \"g\" do inciso II deste artigo, se for constatada a improcedência da penalidade ou da condenação, nas instâncias administrativa ou judicial, conforme o caso, a contagem será restabelecida, computado o período correspondente ao afastamento.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## DAS DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nArt. 16. Fica autorizada a concessão da promoção na carreira pela UEG aos Docentes de Ensino Superior aptos a ela que a solicitaram até o dia 30 de abril de 2024.\n§ 1º A concessão da promoção se dará para o primeiro nível da classe correspondente à do título apresentado e homologado, nos termos do Anexo I da Lei estadual nº 13.842, de 1º de junho de 2001.\n§ 2º O número de vagas do cargo de Docente de Ensino Superior passa a ser de 1.456 (mil e quatrocentos e cinquenta e seis), sem limitação de vagas por classe.\n§ 3º Os efeitos funcionais e financeiros da promoção a que se refere o caput deste artigo se darão a partir do primeiro dia do mês subsequente ao da publicação desta Lei.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Os cargos de provimento efetivo de Docente de Ensino Superior, sob o regime estatutário, do Quadro Permanente, de que tratam as Leis nº 13.842, de 2001, e nº 14.042, de 2001, passam a integrar esta Lei, com a correspondência estabelecida entre as classes no Anexo III desta Lei, com efeitos funcionais e financeiros a partir do primeiro dia do segundo mês subsequente ao da publicação desta Lei.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "Art. 18. Após a efetivação do art. 16 desta Lei e a partir do primeiro dia do segundo mês subsequente ao da publicação desta Lei, será realizado o enquadramento do servidor do Quadro Permanente automaticamente, observadas as seguintes condições:\nI - na classe correspondente às indicadas no Anexo III desta Lei;\nII - no nível da classe com o valor equivalente ao do vencimento atual ou, quando não houver correspondência, no nível com o valor imediatamente superior; e\nIII - em seguida uma progressão para o nível imediatamente superior.\n§ 1º Os valores do vencimento de que trata o inciso II deste artigo são os especificados no Anexo II desta Lei, observados o regime e a jornada de trabalho, bem como o vencimento correspondente, conforme o disposto no § 3º do art. 6º desta Lei.\n§ 2º A unidade setorial de gestão e desenvolvimento de pessoas da UEG ficará responsável pela operacionalização do enquadramento de que trata este artigo, a ser efetivado por ato do Reitor.\n§ 3º Os requisitos para as evoluções funcionais vindouras a que se referem os arts. 7º a 11 desta Lei serão computados a partir do enquadramento de que trata este artigo.\n§ 4º Ficam resguardados aos inativos e aos pensionistas com direito à paridade os efeitos financeiros decorrentes do disposto nos incisos I e II do caput deste artigo.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Para os ocupantes do cargo de Docente de Ensino Superior até a data de publicação desta Lei, o acesso à classe Docente de Ensino Superior Titular, prevista na alínea \"d\" do inciso I de seu art. 6º, se dará por meio de processo seletivo de promoção, observados os seguintes requisitos:\nI - possuir efetivo exercício de, no mínimo, 12 (doze) anos na carreira do cargo de Docente de Ensino Superior da UEG;\nII - ter obtido o título de doutorado há, pelo menos, 6 (seis) anos;\nIII - estar em atividade vinculada ao RTI ou ao RTIDP;\nIV - ser aprovado por banca examinadora em defesa pública de memorial ou trabalho científico original, com a demonstração da consolidação da linha de pesquisa do docente ou de suas atividades de extensão;\nV - cumprir, pelo menos, os critérios obrigatórios estabelecidos pelo art. 9º desta Lei; e\nVI - ter permanecido na classe de Docente de Ensino Superior Adjunto por, no mínimo, 4 (quatro) anos.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. Ficam resguardados aos docentes ativos os períodos de licença sabática adquiridos até a data de publicação desta Lei.\nParágrafo único. Fica resguardado o direito ao cômputo do tempo de efetivo exercício residual para efeitos de concessão da licença para aprimoramento e inovação.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Os Docentes de Ensino Superior que na data da publicação desta Lei estiverem no exercício do RTP na jornada de 10 (dez) horas semanais deverão, em até 30 (trinta) dias corridos, optar pela alteração da jornada e/ou do regime de trabalho, conforme o art. 12 desta Lei, a ser efetivada a partir do segundo semestre letivo deste exercício.\nParágrafo único. No caso de não apresentação do pedido de alteração no prazo de que trata este artigo, o Docente de Ensino Superior será automaticamente enquadrado no RTP, com a carga laboral de 20 (vinte) horas semanais, a partir do segundo semestre letivo do exercício em que esta Lei for publicada.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. A produção dos efeitos de que tratam os arts. 7º a 11 desta Lei fica também condicionada à previsão de receita que permita o cumprimento, no exercício financeiro de sua publicação e nos 2 (dois) seguintes, do limite de alerta previsto no inciso II do § 1º do art. 59 da Lei Complementar federal nº 101, de 4 de maio de 2000, bem como à previsão de cumprimento da limitação de crescimento das despesas primárias estabelecida na Lei Complementar federal nº 159, de 19 de maio de 2017.\n"
+      },
+      "art-0023": {
+       "label": "Art. 23",
+       "kind": "article",
+       "text": "Art. 23. As alterações previstas nesta Lei não reduzem os vencimentos e preservam as vantagens já concedidas e incorporadas, até a data da sua publicação, às remunerações dos atuais ocupantes dos cargos alcançados.\n"
+      },
+      "art-0024": {
+       "label": "Art. 24",
+       "kind": "article",
+       "text": "Art. 24. A ementa da Lei nº 14.042, de 2001, passa a vigorar com a seguinte alteração:\n\"Institui o Quadro Transitório da Carreira dos Docentes de Ensino Superior e do Pessoal Técnico-Administrativo da Universidade Estadual de Goiás.\" (NR)\n"
+      },
+      "art-0025": {
+       "label": "Art. 25",
+       "kind": "article",
+       "text": "Art. 25. A Lei nº 14.042, de 2001, passa a vigorar com a seguinte alteração:\n\"Art. 1º Esta Lei institui o Quadro da Carreira do Pessoal Técnico-Administrativo e Docente do Quadro Transitório da Universidade Estadual de Goiás - UEG.\" (NR)\n"
+      },
+      "art-0026": {
+       "label": "Art. 26",
+       "kind": "article",
+       "text": "Art. 26. Ficam revogados a partir do primeiro dia do segundo mês subsequente ao da publicação desta Lei:\nI - a Lei nº 13.842, de 2001;\nII - os seguintes dispositivos da Lei nº 14.042, de 2001:\na) incisos I e II do art. 2º;\nb) arts. 3º e 4º; e\nc) art. 6º; e\nIII - o Anexo I da Lei nº 14.042, de 2001.\n"
+      },
+      "art-0027": {
+       "label": "Art. 27",
+       "kind": "article",
+       "text": "Art. 27. Esta Lei entra em vigor na data da sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANEXO I\nQUADRO PERMANENTE\nCargo Classe Quantitativo Requisitos para provimento\nDocente de Ensino Superior Auxiliar 1.456 Especialização\nAssistente Mestrado\nAdjunto Doutorado\nTitular Doutorado e aprovação no processo seletivo para promoção, conforme as regras desta Lei.\nANEXO II\nTABELA DE VENCIMENTOS\nRegime de Trabalho Nível Vencimento\nAuxiliar Assistente Adjunto Titular\nRegime de Tempo Integral - RTI (40 h) A 5.175,00 6.727,50 8.745,75 9.620,33\nB 5.490,68 7.137,88 9.279,24 10.207,16\nC 5.825,61 7.573,29 9.845,27 10.829,80\nD 6.180,97 8.035,26 10.445,84 11.490,42\nE 6.558,01 8.525,41 11.083,03 12.191,34\nF 6.958,05 9.045,46 11.759,10 12.935,01\nG 7.382,49 9.597,23 12.476,40 13.724,04\nH 7.832,82 10.182,66 13.237,46 14.561,21\nI 8.310,62 10.803,81 14.044,95 15.449,44\nJ 8.817,57 11.462,84 14.901,69 16.391,86\nK 9.355,44 12.162,07 15.810,69 17.391,76\nL 9.926,12 12.903,96 16.775,14 18.452,66\nM 10.531,61 13.691,10 17.798,43 19.578,27\nN 11.174,04 14.526,26 18.884,13 20.772,55\nO 11.855,66 15.412,36 20.036,07 22.039,67\nANEXO III\nCORRESPONDÊNCIA ENTRE AS CLASSES\nDE: Lei nº 13.842, de 1º de junho de 2001 e Lei nº 14.042, de 21 de dezembro de 2001. PARA\nCargo anterior Classe anterior Cargo novo Classe nova\nDocente de Ensino Superior Docente de Ensino Superior Graduado (DES I) - Extinto\nDocente de Ensino Superior Especialista (DES II) Docente de Ensino Superior Auxiliar\nDocente de Ensino Superior Mestre (DES III) Assistente\nDocente de Ensino Superior Doutor (DES IV) Adjunto\nDocente de Ensino Superior Pós-Doutor (DES V)\n- Titular\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22817",
+   "short": "Lei 22817/2024",
+   "title": "Lei nº 22817, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109055",
+   "first_law": "lei-2024-22817",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109055",
+     "sha256": "8c04e6d7bcca6c5edd7cf0a56f629dde14ea345b323bede3958fbbbd8407da08",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.817, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a PAULO GUSTAVO GONET BRANCO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22818",
+   "short": "Lei 22818/2024",
+   "title": "Lei nº 22818, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109056",
+   "first_law": "lei-2024-22818",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109056",
+     "sha256": "fceb9489ae690993552532c2a219224b5a088843dd8ab05e95d3b5502b69312f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.818, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOÃO AUGUSTO RIBEIRO NARDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22819",
+   "short": "Lei 22819/2024",
+   "title": "Lei nº 22819, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109057",
+   "first_law": "lei-2024-22819",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109057",
+     "sha256": "1009e6c804222e1cb3d971f12ce4d010268010b6279747b933de36af235abc39",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.819, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FRANCISCO SÉRVULO FREIRE NOGUEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22820",
+   "short": "Lei 22820/2024",
+   "title": "Lei nº 22820, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109058",
+   "first_law": "lei-2024-22820",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109058",
+     "sha256": "00a156a55e5550396ba344a059649d2a2b6a1a928f52cb79f4ada0529488a5df",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.820, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ ANTONIO DIAS TOFFOLI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22821",
+   "short": "Lei 22821/2024",
+   "title": "Lei nº 22821, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109059",
+   "first_law": "lei-2024-22821",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109059",
+     "sha256": "2d28248a0fecb4155f642986d92b3bb5f53a6af026ab28598df9119bf1492fef",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.821, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RENATA ANDRADE SANTOS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22822",
+   "short": "Lei 22822/2024",
+   "title": "Lei nº 22822, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109060",
+   "first_law": "lei-2024-22822",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109060",
+     "sha256": "6c1155373631403deca934e1c277e057e498e542cf0d4b52c601e77e40545115",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.822, DE 28 DE JUNHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VINICIUS MARCONDES CAMARGO TERIN o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nCAIRO SALIM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22824",
+   "short": "Lei 22824/2024",
+   "title": "Lei nº 22824, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109062",
+   "first_law": "lei-2024-22824",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109062",
+     "sha256": "43f1a4869ab8878c4f928e12611c7e4fcbeab476c0445c9760648f79070048d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.824, DE 28 DE junho DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IRENE DE MIRANDA MACEDO PAVAN o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22814",
+   "short": "Lei 22814/2024",
+   "title": "Lei nº 22814, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109063",
+   "first_law": "lei-2024-22814",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109063",
+     "sha256": "78e6a339bbf26f1465d8005006af0d7c149e717133ea37c7bfc50080f704619d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.814, DE 28 DE JUNHO DE 2024\nAltera o Protocolo de Intenções do Consórcio Interestadual de Desenvolvimento do Brasil Central, ratificado pela Lei estadual nº 19.020, de 30 de setembro de 2015.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Protocolo de Intenções do Consórcio Interestadual de Desenvolvimento do Brasil Central, ratificado pela Lei estadual nº 19.020, de 30 de setembro de 2015, passa a vigorar com a seguinte alteração:\n\"CLÁUSULA 6ª ....................................................................................\nParágrafo único. Fica autorizada a promoção de auxílio humanitário a entes federativos não integrantes do Consórcio, em situações de grave calamidade pública, a juízo da Assembleia Geral e mediante rateio a ser promovido pelos entes que optarem por contribuir por meio do Consórcio.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22815",
+   "short": "Lei 22815/2024",
+   "title": "Lei nº 22815, de 2024 (Altera a Lei nº 21.070, de 9 de agosto de 2021, que cria o Programa Mães de Goiás e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109064",
+   "first_law": "lei-2024-22815",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-06-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109064",
+     "sha256": "fcbb78a92359cd62dd3780d1dac9feaa4e28c7cd19b43a64781ca23c7e7f1843",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.815, DE 28 DE JUNHO DE 2024\nAltera a Lei nº 21.070, de 9 de agosto de 2021, que cria o Programa Mães de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 21.070, de 9 de agosto de 2021, passa a vigorar com as seguintes alterações:\n\"Art 2º ..............................................................................................\nV - assegurar a cobertura vacinal para as crianças da composição familiar.\" (NR)\n\"Art 4º ..............................................................................................\nIII - que tenham pelo menos uma criança de 0 (zero) a 6 (seis) anos na composição familiar.\n§ 2º A verificação do cumprimento dos requisitos estabelecidos por esta Lei será com base na situação regular e atualizada no Cadastro Único do Governo Federal.\" (NR)\n\"Art. 6º A beneficiária permanecerá no programa enquanto mantiver as condições de vulnerabilidade e o perfil especificados no art. 4º desta Lei.\" (NR)\n\"Art 7º ..............................................................................................\nVI - atualizar o Cadastro Único do Governo Federal sempre que houver a alteração das informações, no prazo máximo de 24 (vinte e quatro) meses.\nParágrafo único. Os requisitos previstos neste artigo serão validados com base no Cadastro Único do Governo Federal e nos dados relacionados a ele.\" (NR)\n\"Art 8º ..............................................................................................\nII - solicitação feita pelo beneficiário;\nIV - descumprimento dos requisitos necessários ao recebimento do benefício; ou\nV - fornecimento de declaração falsa ou cometimento de fraude para a obtenção do benefício.\nParágrafo único. Nos casos previstos nos itens II a V, nova adesão ao Programa Mães de Goiás só será possível com a participação em novo processo de seleção.\" (NR)\n\"Art. 9º O pagamento do auxílio financeiro previsto nesta Lei poderá ser bloqueado ou suspenso, com a devolução dos valores, devido a:\nII - não utilização do benefício por mais de 60 (sessenta) dias ou 2 (duas) competências (meses);\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O parágrafo único do art. 4º da Lei nº 21.070, de 2021, fica renumerado para § 1º.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica revogado o inciso IV do art. 4º da Lei nº 21.070, de 2021.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2024; 136º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22825",
+   "short": "Lei 22825/2024",
+   "title": "Lei nº 22825, de 2024",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109163",
+   "first_law": "lei-2024-22825",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109163",
+     "sha256": "d534a0526775278b7d3df6a455c837649504339960f2fedf81d13c35578512bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.825, DE 4 DE JULHO DE 2024\nAltera a Lei nº 19.448, de 09 de setembro de 2016, que estabelece o atendimento prioritário a crianças, adolescentes e conselheiros tutelares nos órgãos públicos que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 19.448, de 09 de setembro de 2016, passa a vigorar com a seguinte alteração:\n\"Art. 2º As crianças e adolescentes vítimas de violência aguardarão atendimento e serão atendidas, sempre que possível, em sala reservada, nas Delegacias de Polícia e nos Institutos Médico-Legais do Estado de Goiás.\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22826",
+   "short": "Lei 22826/2024",
+   "title": "Lei nº 22826, de 2024 (Altera a Lei nº 14.308, de 12 de novembro de 2002, que institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-ATLETA e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109164",
+   "first_law": "lei-2024-22826",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109164",
+     "sha256": "2251a76a6d702d1a2d997d2fa6101521aa35a5975a0ceb9173e75aaadff425c4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.826, DE 4 DE JULHO DE 2024\nAltera a Lei nº 14.308, de 12 de novembro de 2002, que institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-ATLETA e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 14.308, de 12 de novembro de 2002, passa a vigorar com a seguinte alteração:\n\"Art 2º ..............................................................................................\nI - ter idade igual ou superior a 8 (oito) anos de idade, salvo os casos de atletas portadores de deficiência, que poderão ser incluídos no Programa sem limite de idade;\n..........................................................................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22827",
+   "short": "Lei 22827/2024",
+   "title": "Lei nº 22827, de 2024 (Institui a Política Estadual de Incentivo aos Projetos Audiovisuais de Produção Independente.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109165",
+   "first_law": "lei-2024-22827",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109165",
+     "sha256": "62499cfb31de044369c3c548050a0fc54fdebb85da90b6f456d47c2b17f24757",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.827, DE 4 DE JULHO DE 2024\nInstitui a Política Estadual de Incentivo aos Projetos Audiovisuais de Produção Independente.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo aos Projetos Audiovisuais de Produção Independente, que tem por objetivo fomentar a produção e a difusão da cultura audiovisual por meio do apoio à produção independente.\nParágrafo único. (VETADO).\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual ora instituída tem como objetivos específicos:\nI - estimular a produção e difusão da cultura audiovisual no Estado de Goiás;\nII - estimular a competitividade do setor audiovisual goiano no mercado nacional;\nIII - estimular a diversidade e a pluralidade na produção audiovisual.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Política Estadual ora instituída atenderá, especialmente, às seguintes diretrizes:\nI - incentivar a realização de concursos e premiações voltados à produção independente;\nII - estimular a adoção de mecanismos de financiamentos e incentivos fiscais para projetos audiovisuais independentes;\nIII - estimular a disponibilização de espaços de exibição e circulação para a produção independente;\nIV - fomentar a participação de produtores independentes em eventos e mercados audiovisuais, nacionais e internacionais;\nV - estimular a celebração de parcerias ou convênios com órgãos públicos, outros entes federativos, bem como com a organização da sociedade civil para a efetiva aplicação desta Lei;\nVI - incentivar a formação e capacitação de profissionais no setor audiovisual.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Pública ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22828",
+   "short": "Lei 22828/2024",
+   "title": "Lei nº 22828, de 2024 (Institui a Política Estadual de Incentivo à Folia de Reis.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109166",
+   "first_law": "lei-2024-22828",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109166",
+     "sha256": "1ec8377c470ae2e6151b82b513c5e08a93a9463e5ceb7e39d139cf07a5f009e2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.828, DE 4 DE JULHO DE 2024\nInstitui a Política Estadual de Incentivo à Folia de Reis.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Folia de Reis, com o objetivo de valorizar, fomentar e preservar esta manifestação cultural.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual de Incentivo à Folia de Reis terá as seguintes finalidades:\nI - incentivar a realização de eventos, festivais e encontros relacionados à Folia de Reis;\nII - apoiar os grupos tradicionais e novos que praticam a Folia de Reis, incentivando a capacitação e auxílio material;\nIII - promover a educação e sensibilização da população acerca da importância da Folia de Reis para a identidade cultural do Estado;\nIV - incentivar a aquisição de indumentárias, instrumentos e materiais necessários à prática da Folia;\nV - incentivar a realização de oficinas, cursos e palestras sobre a Folia de Reis;\nVI - incentivar projetos de pesquisa e documentação sobre a Folia de Reis no Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22829",
+   "short": "Lei 22829/2024",
+   "title": "Lei nº 22829, de 2024 (Institui o Dia Estadual do Diabetes.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109167",
+   "first_law": "lei-2024-22829",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109167",
+     "sha256": "ed25852b090cb003be013953740eca6a7df474c7f72b942916931d3c72dbb3d6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.829, DE 4 DE JULHO DE 2024\nInstitui o Dia Estadual do Diabetes.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Diabetes, a ser realizado, anualmente, no dia 14 de novembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No Dia Estadual instituído por esta Lei, será priorizada a realização de palestras, campanhas, eventos educativos, caminhadas, corridas e outras atividades com o objetivo de promover a saúde da população, alertar sobre os riscos da doença, bem como instruir sobre o acesso ao tratamento.\nParágrafo único. Para a adoção das medidas de que trata o caput deste artigo, poderão ser celebradas parcerias ou convênios com órgãos públicos ou com a organização da sociedade civil.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual do Diabetes fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22830",
+   "short": "Lei 22830/2024",
+   "title": "Lei nº 22830, de 2024 (Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantil.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109168",
+   "first_law": "lei-2024-22830",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109168",
+     "sha256": "25465c14e14ec3c14798861afb3b534fbba052f2a617e814978ead2d0e14cc4b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.830, DE 4 DE JULHO DE 2024\nAltera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantil.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A ementa da Lei nº 20.456, de 22 de abril de 2019, passa a vigorar com a seguinte alteração:\n\"Institui a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Lei nº 20.456, de 22 de abril de 2019, passa a vigorar com as seguintes alterações:\n\"Art. 1º Fica instituída a Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil, a ser realizada, anualmente, na semana do dia 7 de abril.\" (NR)\n\"Art. 2º A Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil tem por objetivos:\nI - conscientizar a população, por meio de procedimentos informativos, educativos e organizativos, sobre os problemas causados pela obesidade infantojuvenil, suas consequências e formas de evitá-la ou tratá-la;\nII - estimular a adoção de medidas de identificação precoce de casos de obesidade e sobrepeso entre crianças e adolescentes;\nIII - adotar medidas que incentivem a educação alimentar e a prática de atividades físicas;\nIV - estimular a celebração de convênios ou parcerias com a organização da sociedade civil para:\na) a realização de palestras, suporte e atividades educativas nas escolas da rede pública estadual de educação;\nb) a avaliação anual do Índice de Massa Corporal - IMC, nas escolas da rede pública estadual de educação;\nc) a avaliação das variáveis de influência familiar nos estilos de vida das crianças associáveis ao controle de peso;\nd) avaliação do estado nutricional das famílias.\" (NR)\n\"Art. 3º A Semana Estadual de Combate e Prevenção à Obesidade Infantojuvenil fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\" (NR)\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22831",
+   "short": "Lei 22831/2024",
+   "title": "Lei nº 22831, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109173",
+   "first_law": "lei-2024-22831",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109173",
+     "sha256": "e997f6c0841a5fef0ddee1e77bc44583703441d19132d7bcc78e7ee43d128213",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.831, DE 5 DE JULHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a INVISIVEL CN, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 32.395.090/0001-53, com sede no Município de Caldas Novas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 5 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22832",
+   "short": "Lei 22832/2024",
+   "title": "Lei nº 22832, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109174",
+   "first_law": "lei-2024-22832",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-05",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109174",
+     "sha256": "86a7eab81fe0316a8864415371ac2dc82eb95f6f3b0033eb7b297269bc772343",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.832, DE 5 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ROBERTO GOMES FERREIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 5 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22834",
+   "short": "Lei 22834/2024",
+   "title": "Lei nº 22834, de 2024 (Dispõe sobre a instituição do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109180",
+   "first_law": "lei-2024-22834",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109180",
+     "sha256": "b9733880c0104ab64719c2dfb2de16defbcf69f6ef0575f98c39ea5e8845529e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.834, DE 10 DE JULHO DE 2024\nDispõe sobre a instituição do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído, na Secretaria de Estado da Educação - SEDUC, o Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino, em atendimento às Metas 2, 4 e 7 do Plano Estadual de Educação, para a universalização da Educação Básica, bem como para a elevação da qualidade de ensino com melhoria do fluxo escolar e da aprendizagem dos estudantes.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino tem por finalidade:\nI - garantir aos estudantes da rede estadual de ensino o acesso às informações, à aprendizagem e à ampliação de seus conhecimentos educacionais e de mundo;\nII - reduzir os índices de defasagens de aprendizagem e proporcionar aos estudantes formação para o trabalho e para a cidadania, com ênfase nos valores morais e éticos em que se fundamenta a sociedade;\nIII - melhorar o Índice de Desenvolvimento da Educação de Goiás - IDEGO e o Índice de Desenvolvimento da Educação Básica - IDEB;\nIV - estimular a formação continuada nas áreas de Língua Portuguesa e Matemática; e\nV - mitigar o abandono e a evasão escolares.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino proporcionará:\nI - material didático- pedagógico aos estudantes;\nII - material pedagógico de apoio aos Professores;\nIII - material de multimídia aos docentes e aos discentes;\nIV - formação continuada aos profissionais da educação, conforme a Base Nacional Comum Curricular - BNCC, o Documento Curricular para Goiás - Ampliado - DC- GO, o Documento Curricular para Goiás Etapa Ensino Médio - DC- GOEM e a Matriz de Referência do Exame Nacional do Ensino Médio - ENEM; e\nV - formação em serviço aos Professores, aos Gestores Escolares e aos Coordenadores Pedagógicos.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A execução do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino será objeto de monitoramento contínuo e de avaliações periódicas.\nParágrafo único. O acompanhamento pedagógico das ações voltadas à melhoria da qualidade da aprendizagem compreenderá:\nI - a análise dos resultados das avaliações externas periódicas;\nII - a realização de atividades disponibilizadas aos estudantes pela equipe pedagógica do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino;\nIII - a verificação da proatividade e da desenvoltura do estudante em atender e colocar em prática os ensinamentos do Professor sobre as temáticas ministradas em sala de aula; e\nIV - a constatação da frequência do estudante em sala de aula, de modo a reduzir seus déficits nas aprendizagens.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A aplicação das avaliações de aprendizagem consiste na realização de testes padronizados para a obtenção de dados relacionados ao sistema educacional, a fim de diagnosticar o estágio de aprendizagem dos estudantes e analisar a evolução do desempenho deles.\n§ 1º Serão avaliados os estudantes do 5º (quinto) e do 9º (nono) anos do Ensino Fundamental, também os da 3ª (terceira) série do Ensino Médio;\n§ 2º Os resultados de proficiência dos estudantes e do estabelecimento de ensino servirão de subsídio à produção do material didático-pedagógico e multimídia a ser disponibilizado na rede estadual de ensino e à elaboração de orientações pedagógicas para os Professores.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Todos os Professores e estudantes da rede estadual de ensino de Goiás terão acesso ao material pedagógico produzido por meio de plataformas digitais.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º O Estado de Goiás ofertará bolsas remuneradas, com o valor unitário de R$ 1.200,00 (mil e duzentos reais), para os seguintes profissionais, responsáveis pela produção do material didático-pedagógico e de multimídia para os estudantes:\nI - Professores elaboradores, formadores e/ou revisores; e\nII - aqueles que trabalharem diretamente na elaboração, na criação, na cocriação e na curadoria de materiais didáticos para Professores e estudantes.\n§ 1º As bolsas serão vigentes pelo período mínimo de 3 (três) meses e pelo período máximo de 12 (doze) meses, permitida a prorrogação por apenas 1 (um) período, e o prazo limite será de 24 (vinte e quatro) meses.\n§ 2º A SEDUC poderá cancelar ou suspender o pagamento das bolsas a qualquer tempo, caso seja constatado o descumprimento das obrigações constantes do termo de compromisso e/ou do plano de trabalho pelo bolsista.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º As bolsas ofertadas serão subdivididas da seguinte maneira:\nI - 13 (treze) bolsas para Professores planejadores de materiais didático- pedagógicos para o Ensino Fundamental;\nII - 6 (seis) bolsas para Professores planejadores de materiais de multimídia para o Ensino Fundamental;\nIII - 26 (vinte e seis) bolsas para Professores planejadores de materiais didático- pedagógicos para o Ensino Médio;\nIV - 16 (dezesseis) bolsas para Professores planejadores de materiais didático- pedagógicos para itinerários formativos para o Ensino Médio;\nV - 10 (dez) bolsas para Professores revisores de materiais didático- pedagógicos para itinerários formativos para o Ensino Médio; e\nVI - 130 (cento e trinta) bolsas para Professores formadores distribuídos entre as 40 (quarenta) Coordenações Regionais de Educação.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Os critérios para a seleção dos bolsistas serão elaborados de acordo com as etapas e as atuações definidas por decreto governamental, e a seleção obedecerá aos seguintes requisitos:\nI - referentes a Professor planejador de material didático-pedagógico para o Ensino Fundamental e para o Ensino Médio:\na) titulação;\nb) experiência em docência na rede estadual;\nc) avaliação da produção de roteiro de aula; e\nd) avaliação da produção de 1 (uma) aula complementar;\nII - referentes a Professor planejador de material multimídia:\na) titulação;\nb) experiência em docência e utilização de plataformas digitais;\nc) avaliação de roteiro de aula; e\nd) avaliação de aula gravada;\nIII - referentes a Professor planejador de material didático- pedagógico para itinerários formativos para o Ensino Médio:\na) titulação;\nb) 2 (dois) anos de experiência em docência; e\nc) experiência em elaboração de material didático; e\nIV - referentes a professor formador:\na) ser Professor efetivo ou com contrato temporário da SEDUC em efetivo exercício na Educação Básica;\nb) prestar serviço à SEDUC no limite máximo de 40 (quarenta) horas semanais;\nc) estar necessariamente em regência, parcial ou integralmente;\nd) ter acesso a recursos tecnológicos (computador, internet, tablet e/ou smartphone) que permitam a conectividade e a interatividade, saber utilizar a plataforma Google Classroom e as ferramentas de captura de som e imagem, bem como ter conhecimento e habilidade de navegação em plataformas digitais;\ne) não ocupar cargo comissionado, função gratificada ou função de gestão;\nf) ter disponibilidade para laborar 6 (seis) horas semanais em atividade relacionada ao programa instituído por esta Lei em turno diferente do de trabalho na rede pública estadual de ensino;\ng) ter título de graduação completa expedido por instituição devidamente reconhecida pelo Ministério da Educação - MEC na área de conhecimento optada pelo candidato; e\nh) gravar 1 (uma) aula de até 3 (três) minutos de duração sobre 1 (um) tema dentro da área de atuação do candidato, para demonstrar suas habilidades em comunicação e didática, a fim de desempenhar o ofício descrito nesta Lei.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. As bolsas serão concedidas em qualquer época do ano, como forma de assegurar o fluxo contínuo das ações de recuperação, ampliação e monitoramento da aprendizagem, mediante a assinatura de termo de compromisso.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Não será devido o valor da bolsa em caso de férias, licenças ou quaisquer outras formas de afastamento do bolsista.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. A bolsa de incentivo para os profissionais que atuam no Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino não se incorpora ao vencimento base para aposentadoria e pensão por morte.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. A bolsa ofertada no Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino instituído por esta Lei:\nI - tem caráter indenizatório;\nII - não se incorpora, em qualquer hipótese, à remuneração mensal do bolsista; e\nIII - se caracteriza como rendimento:\na) não tributável;\nb) sem incidência de contribuição previdenciária;\nc) não computável para efeito do 13º salário; e\nd) não considerável para a base de cálculo de margem consignável.\nParágrafo único. É vedado o pagamento da vantagem de que tratam os arts. 7º e 8º desta Lei aos bolsistas que estejam afastados a qualquer título.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. As despesas decorrentes desta Lei serão custeadas pelo Orçamento-Geral do Estado.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. As demais matérias pertinentes à seleção de bolsistas que vierem a ser necessárias serão disciplinadas por decreto.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22835",
+   "short": "Lei 22835/2024",
+   "title": "Lei nº 22835, de 2024 (Abre crédito especial ao Fundo Estadual do Trabalho.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109181",
+   "first_law": "lei-2024-22835",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109181",
+     "sha256": "f3031bf19785ab2bf932b0761f95137170e03170989665bc72c4eefef9572600",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.835, DE 10 DE JULHO DE 2024\nAbre crédito especial ao Fundo Estadual do Trabalho.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto, no corrente exercício, o crédito especial ao Fundo Estadual do Trabalho até o valor de R$ 700.000,00 (setecentos mil reais), conforme o Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial autorizado no art. 1º desta Lei serão provenientes de superávit financeiro diretamente arrecadado, em conformidade com o disposto no inciso I do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nCRÉDITO ESPECIAL\nExercício 2024\nUnidade Orçamentária 4250 - FUNDO ESTADUAL DO TRABALHO\nFunção 12 - EDUCAÇÃO\nSubfunção 363 - ENSINO PROFISSIONAL\nPrograma 1054 - GOIÁS DO CRESCIMENTO E DO EMPREENDEDORISMO\nAção 2443 - CERTIFICAÇÃO EM QUALIFICAÇÃO PROFISSIONAL\nGrupo de Despesa 03 - OUTRAS DESPESAS CORRENTES\nFonte 27140236 - TRANSFERÊNCIAS FUNDO A FUNDO DE RECURSOS DO FUNDO DE AMPARO AO TRABALHADOR - FAT - CORRENTES - EXERCÍCIOS ANTERIORES\nModalidade Aplicação 90 - APLICAÇÕES DIRETAS\nCódigo Orçamentário 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS\nValor: R$ 700.000,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22836",
+   "short": "Lei 22836/2024",
+   "title": "Lei nº 22836, de 2024 (Altera a Lei nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109182",
+   "first_law": "lei-2024-22836",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109182",
+     "sha256": "73bbdb8deb19ce6aa254d84c9c6a3b915da29fb34702063c465aebf85dc76440",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.836, DE 10 DE JULHO DE 2024\nAltera a Lei nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam ajustados os itens 5 e 6 do Anexo VII - Autorizações de acréscimos de despesas de pessoal para 2024 da Lei nº 22.536, de 9 de janeiro de 2024, nos termos do Anexo Único desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\n\"Anexo VII - Autorizações de acréscimos de despesas de pessoal para 2024 (Nos termos do art. 169, § 1º, inciso II, da Constituição Federal)\n(LEI Nº 22.536, DE 9 DE JANEIRO DE 2024)\nITEM TIPO DE PODER DESCRIÇÃO ACRÉSCIMO AUTORIZADO\n5 Tribunal de Justiça Alteração de Estruturas de Carreiras 136.336.000\n6 Tribunal de Justiça Concessão de vantagens ou aumento de remuneração 42.000.000\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22837",
+   "short": "Lei 22837/2024",
+   "title": "Lei nº 22837, de 2024 (Institui a Campanha Estadual de Valorização dos Agricultores Goianos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109183",
+   "first_law": "lei-2024-22837",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109183",
+     "sha256": "945802b395b6d0bf2b1662f185c7a81c18386c60e208a6a0d49a61a8c3cf7a6e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.837, DE 10 DE JULHO DE 2024\nInstitui a Campanha Estadual de Valorização dos Agricultores Goianos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Estadual de Valorização dos Agricultores Goianos, com a finalidade de promover ações de enaltecimento e de conscientização sobre a importância do agricultor para o desenvolvimento socioeconômico do Estado de Goiás.\nParágrafo único. A Campanha é destinada a pequenos, médios e grandes agricultores.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São diretrizes da Campanha de que trata esta Lei:\nI - impulsionar a inclusão qualificada do trabalhador rural, com atividades, palestras e eventos voltados à capacitação, à profissionalização e ao fortalecimento do trabalhador na lida rural;\nII - proporcionar o desenvolvimento econômico e social sustentável dos estabelecimentos rurais, com a melhoria da qualidade de vida das famílias associadas à agricultura;\nIII - fomentar ações preventivas sobre violência no campo, acidentes de trabalho, problemas de saúde e situações de vulnerabilidade alimentar;\nIV - estimular a formulação e a implementação de políticas públicas voltadas à facilitação do acesso ao crédito, à assistência e às tecnologias como meios de disseminação da importância do agro para os demais setores da economia.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22838",
+   "short": "Lei 22838/2024",
+   "title": "Lei nº 22838, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109184",
+   "first_law": "lei-2024-22838",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-11",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109184",
+     "sha256": "745ec65e0e503ef092090c8c5eaef0a505a0bcca1c3c5502f26312d8e4ce3add",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.838, DE 10 DE JULHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO BRASIL DE MOTOCICLISTAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 46.812.214/0001-63, com sede no Município de Morrinhos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22839",
+   "short": "Lei 22839/2024",
+   "title": "Lei nº 22839, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109188",
+   "first_law": "lei-2024-22839",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109188",
+     "sha256": "e823221e25cda6ddad7c5808b8b716578a8fc10bc91190aba873031f71b00d7f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.839, DE 12 DE JULHO DE 2024\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Folia de Santos Reis, realizada, anualmente, entre os dias 24 de dezembro e 6 de janeiro, no Município de Itaguaru/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22840",
+   "short": "Lei 22840/2024",
+   "title": "Lei nº 22840, de 2024 (Confere ao Município de Jataí o título de Capital Goiana da Agroindústria.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109189",
+   "first_law": "lei-2024-22840",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109189",
+     "sha256": "e3a441d4e2501d63c92322f975224dfd0f7e21686679a04a3019743fcf1728be",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.840, DE 12 DE JULHO DE 2024\nConfere ao Município de Jataí o título de Capital Goiana da Agroindústria.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Jataí o título de Capital Goiana da Agroindústria.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22841",
+   "short": "Lei 22841/2024",
+   "title": "Lei nº 22841, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109190",
+   "first_law": "lei-2024-22841",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109190",
+     "sha256": "557a535a5ebd70401509caf323349a07bd04a84810af24e11103d748e0bb9f56",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.841, DE 12 DE JULHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE GUIAS EM ECOTURISMO NO DESENVOLVIMENTO AMBIENTAL SUSTENTÁVEL - AGENDAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 05.647.894/0001-20, com sede no Município de Colinas do Sul/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22842",
+   "short": "Lei 22842/2024",
+   "title": "Lei nº 22842, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109191",
+   "first_law": "lei-2024-22842",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109191",
+     "sha256": "7e81cb9da331b090dcb20dbcd65a4467c88c2ab16039d8cfac55167c71b5d37f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.842, DE 12 DE JULHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação OBRAS ASSISTENCIAIS LEONIDIA MENDES - OBRAS LEME, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 34.808.661/0001-60, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22843",
+   "short": "Lei 22843/2024",
+   "title": "Lei nº 22843, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109192",
+   "first_law": "lei-2024-22843",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109192",
+     "sha256": "49c88e66ae4562202302d19995b43eabff2fd9c9e0048d3de6c40353e13e6e85",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.843, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FÁBIO DA SILVA E ALMEIDA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22844",
+   "short": "Lei 22844/2024",
+   "title": "Lei nº 22844, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109193",
+   "first_law": "lei-2024-22844",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109193",
+     "sha256": "d4702e07b54279741b08a9c92da48c650ad12312696c4d0dd08cf275210e2857",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.844, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VIRGÍNIA SOUZA BONTEMPO o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22845",
+   "short": "Lei 22845/2024",
+   "title": "Lei nº 22845, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109194",
+   "first_law": "lei-2024-22845",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109194",
+     "sha256": "b908db072642c128ba5179ad4559cf6936ff8b23ef3e216d8bf2f7820292ce54",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.845, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a DANIEL GARCIA DE OLIVEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22846",
+   "short": "Lei 22846/2024",
+   "title": "Lei nº 22846, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109195",
+   "first_law": "lei-2024-22846",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109195",
+     "sha256": "697dfb6b2404908eda7fd71b28a9ed2a04e60c8e423b1592d7dceb69998da878",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.846, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GUILHERME RESENDE CHRISTIANO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22847",
+   "short": "Lei 22847/2024",
+   "title": "Lei nº 22847, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109196",
+   "first_law": "lei-2024-22847",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109196",
+     "sha256": "35ef7366d1adb5c607ae2b657d79177f32d8907e3444f682b43e2562d8b2e9b0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.847, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a PAULO ANDRÉ TEIXEIRA HURBANO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22848",
+   "short": "Lei 22848/2024",
+   "title": "Lei nº 22848, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109197",
+   "first_law": "lei-2024-22848",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109197",
+     "sha256": "4fd3b102cd175c22991d6957869ac670b1da034f26161aaa7f83fd27cff1f3e9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.848, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a SAMUEL GONÇALVES DE OLIVEIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22849",
+   "short": "Lei 22849/2024",
+   "title": "Lei nº 22849, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109198",
+   "first_law": "lei-2024-22849",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109198",
+     "sha256": "fb62045c303e4c7e0d82f1943fbdc00917a99b7032543c440a75288546fd3f74",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.849, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a KLEIBER JOSÉ FREIRE DO AMARAL o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22850",
+   "short": "Lei 22850/2024",
+   "title": "Lei nº 22850, de 2024 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109199",
+   "first_law": "lei-2024-22850",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109199",
+     "sha256": "f0f811b4fc202e10c8212ffc0d8cc3d2f2b1fdb16296fd5890aebf3de2e240d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.850, DE 12 DE JULHO DE 2024\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VITOR OTTOBONI PORTO MIGLINO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2024-22851",
+   "short": "Lei 22851/2024",
+   "title": "Lei nº 22851, de 2024 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/109200",
+   "first_law": "lei-2024-22851",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2024-07-15",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/109200",
+     "sha256": "687fe86036601fe4eeca74b7b8aa6fc72ebe5a98d83fd1413bb8885afd039d9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 22.851, DE 12 DE JULHO DE 2024\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO ECOLÓGICO GUARDA AMBIENTAL, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 32.885.984/0001-21, com sede no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 12 de julho de 2024; 136º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
