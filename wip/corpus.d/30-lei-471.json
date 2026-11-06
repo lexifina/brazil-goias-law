@@ -1,0 +1,2410 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-23504": {
+   "label": "Lei nº 23504, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110985",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23505": {
+   "label": "Lei nº 23505, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110986",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23506": {
+   "label": "Lei nº 23506, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110987",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23507": {
+   "label": "Lei nº 23507, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110988",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23508": {
+   "label": "Lei nº 23508, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110989",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23509": {
+   "label": "Lei nº 23509, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110990",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23510": {
+   "label": "Lei nº 23510, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-16",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110991",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23511": {
+   "label": "Lei nº 23511, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110967",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23512": {
+   "label": "Lei nº 23512, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110968",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23513": {
+   "label": "Lei nº 23513, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110969",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23514": {
+   "label": "Lei nº 23514, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110970",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23515": {
+   "label": "Lei nº 23515, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110971",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23516": {
+   "label": "Lei nº 23516, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110972",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23517": {
+   "label": "Lei nº 23517, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110973",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23518": {
+   "label": "Lei nº 23518, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110974",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23519": {
+   "label": "Lei nº 23519, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110975",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23520": {
+   "label": "Lei nº 23520, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110976",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23521": {
+   "label": "Lei nº 23521, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110977",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23522": {
+   "label": "Lei nº 23522, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-17",
+   "published": "2025-06-17",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110978",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23523": {
+   "label": "Lei nº 23523, de 2025",
+   "title": "Institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-GOIÁS ATLETA e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-06-23",
+   "published": "2025-06-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110992",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23524": {
+   "label": "Lei nº 23524, de 2025",
+   "title": "Cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.",
+   "kind": "law",
+   "enacted": "2025-06-23",
+   "published": "2025-06-23",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110993",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23525": {
+   "label": "Lei nº 23525, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-06-25",
+   "published": "2025-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110996",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23526": {
+   "label": "Lei nº 23526, de 2025",
+   "title": "Institui o Dia Estadual da Fraternidade Feminina da Maçonaria.",
+   "kind": "law",
+   "enacted": "2025-06-25",
+   "published": "2025-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110997",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23527": {
+   "label": "Lei nº 23527, de 2025",
+   "title": "Proclama o Divino Pai Eterno como Patrono do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-06-25",
+   "published": "2025-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23528": {
+   "label": "Lei nº 23528, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-06-25",
+   "published": "2025-06-26",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23529": {
+   "label": "Lei nº 23529, de 2025",
+   "title": "Altera a Lei nº 23.428, de 19 de maio de 2025, para autorizar o Poder Executivo a celebrar contratos e termos aditivos de refinanciamento de dívidas com a União, nos termos da Lei Complementar federal nº 212, de 13 de janeiro de 2025.",
+   "kind": "law",
+   "enacted": "2025-06-26",
+   "published": "2025-06-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23530": {
+   "label": "Lei nº 23530, de 2025",
+   "title": "Altera a Lei nº 20.638, de 14 de novembro de 2019, que institui o Estatuto da Inclusão Social e Econômica das Pessoas com Deficiência no Estado de Goiás e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-06-28",
+   "published": "2025-06-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23531": {
+   "label": "Lei nº 23531, de 2025",
+   "title": "Institui o Dia Estadual dos Protetores de Animais.",
+   "kind": "law",
+   "enacted": "2025-06-28",
+   "published": "2025-06-30",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111006",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23532": {
+   "label": "Lei nº 23532, de 2025",
+   "title": "Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Firminópolis/GO.",
+   "kind": "law",
+   "enacted": "2025-07-01",
+   "published": "2025-07-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23533": {
+   "label": "Lei nº 23533, de 2025",
+   "title": "Altera a Lei nº 20.976, de 30 de março de 2021, que cria e denomina as Escolas do Futuro do Estado de Goiás - EFGs e os Colégios Tecnológicos do Estado de Goiás - COTECs e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-07-01",
+   "published": "2025-07-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111008",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23534": {
+   "label": "Lei nº 23534, de 2025",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Senador Canedo/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-01",
+   "published": "2025-07-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111009",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23535": {
+   "label": "Lei nº 23535, de 2025",
+   "title": "Abre crédito especial à Secretaria de Estado de Desenvolvimento Social - SEDS.",
+   "kind": "law",
+   "enacted": "2025-07-01",
+   "published": "2025-07-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111010",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23536": {
+   "label": "Lei nº 23536, de 2025",
+   "title": "Abre crédito especial à Polícia Militar - PM e à Universidade Estadual de Goiás - UEG.",
+   "kind": "law",
+   "enacted": "2025-07-01",
+   "published": "2025-07-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111011",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23537": {
+   "label": "Lei nº 23537, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111014",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23538": {
+   "label": "Lei nº 23538, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111015",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23539": {
+   "label": "Lei nº 23539, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111016",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23540": {
+   "label": "Lei nº 23540, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111017",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23541": {
+   "label": "Lei nº 23541, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111018",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23542": {
+   "label": "Lei nº 23542, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-02",
+   "published": "2025-07-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111019",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23544": {
+   "label": "Lei nº 23544, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111021",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23545": {
+   "label": "Lei nº 23545, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111022",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23546": {
+   "label": "Lei nº 23546, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111023",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23547": {
+   "label": "Lei nº 23547, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111024",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23548": {
+   "label": "Lei nº 23548, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111025",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23549": {
+   "label": "Lei nº 23549, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111026",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23550": {
+   "label": "Lei nº 23550, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111027",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23551": {
+   "label": "Lei nº 23551, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111028",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23552": {
+   "label": "Lei nº 23552, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111029",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23553": {
+   "label": "Lei nº 23553, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111030",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23554": {
+   "label": "Lei nº 23554, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-07-03",
+   "published": "2025-07-03",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111031",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-23504",
+   "short": "Lei 23504/2025",
+   "title": "Lei nº 23504, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110985",
+   "first_law": "lei-2025-23504",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110985",
+     "sha256": "8d8f0357b1669b32e38e8f335e4701ee7195e4fd971d7ef62dd24136f15b31e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.504, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RICARDO CUNHA ZUPPANI o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23505",
+   "short": "Lei 23505/2025",
+   "title": "Lei nº 23505, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110986",
+   "first_law": "lei-2025-23505",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110986",
+     "sha256": "a8891d025fd39f2be023555b195200ff45a677fd7e270cf331478a71db3eaaa9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.505, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ANTÔNIO MARCOS BARBOSA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23506",
+   "short": "Lei 23506/2025",
+   "title": "Lei nº 23506, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110987",
+   "first_law": "lei-2025-23506",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110987",
+     "sha256": "00824d49e814b9408051834118fb98dbe3a9633ff525046287a1118c21cb8c8e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.506, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IOAV BLANCHE o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23507",
+   "short": "Lei 23507/2025",
+   "title": "Lei nº 23507, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110988",
+   "first_law": "lei-2025-23507",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110988",
+     "sha256": "67653c492bd7ae9d95dddb033840a92c8a23e444dc9afae971acf69fddcf40da",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.507, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RENAN RIBEIRO VARELA REVOREDO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23508",
+   "short": "Lei 23508/2025",
+   "title": "Lei nº 23508, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110989",
+   "first_law": "lei-2025-23508",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110989",
+     "sha256": "45f2acd9cd5f8246c713f17da2b94eeb010a97423e2c09f826991f2b03aeea07",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.508, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOÃO FRANCISCO MENDES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23509",
+   "short": "Lei 23509/2025",
+   "title": "Lei nº 23509, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110990",
+   "first_law": "lei-2025-23509",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110990",
+     "sha256": "ad967c13fb39c082e1ab342125f775ff6edbc9f395da10ea458a1b651f57dd0d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.509, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a HOSANA LOIOLA MOTA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23510",
+   "short": "Lei 23510/2025",
+   "title": "Lei nº 23510, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110991",
+   "first_law": "lei-2025-23510",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110991",
+     "sha256": "d29d641cd6869ae2da328a7e37a9ae7a0b34a37b0959bb2a0f359cd9220c895f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.510, DE 16 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JOSÉ NADIR DE FARIA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 16 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23511",
+   "short": "Lei 23511/2025",
+   "title": "Lei nº 23511, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110967",
+   "first_law": "lei-2025-23511",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110967",
+     "sha256": "5b457c5f6aa376d0835092d0a73ae78983275a6f09d83b852255d8398f373704",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.511, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO CULTURAL E RENOVAÇÃO SOCIAL DE ARTES CÊNICAS - UNÇÃO E ARTE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 37.945.120/0001-71, com sede no Município de Santa Helena de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23512",
+   "short": "Lei 23512/2025",
+   "title": "Lei nº 23512, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110968",
+   "first_law": "lei-2025-23512",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110968",
+     "sha256": "435b07f34e7375ebf7651e8cc034f143e48350cadc86795d7627fa8400600206",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.512, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO MOBILIDADE, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 04.980.353/0001-56, com sede no Município de Santo Antônio do Descoberto/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia,17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23513",
+   "short": "Lei 23513/2025",
+   "title": "Lei nº 23513, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110969",
+   "first_law": "lei-2025-23513",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110969",
+     "sha256": "3fcf3df83deec1fcb7cb512e4c0af74d33961b08ac398464f3f4cc61028d56fd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.513, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE PRÁTICAS CORPORAIS E TREINAMENTO ESPORTIVO - APCTE AmarElo, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 48.208.034/0001-00, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23514",
+   "short": "Lei 23514/2025",
+   "title": "Lei nº 23514, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110970",
+   "first_law": "lei-2025-23514",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110970",
+     "sha256": "afa0944df19b7c328cc4f79a90fa438e2898b2eeffca4c12e45a7493496e83d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.514, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ESPORTIVA DE RIO VERDE - AERV, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 09.596.217/0001-80, com sede no Município de Rio Verde/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23515",
+   "short": "Lei 23515/2025",
+   "title": "Lei nº 23515, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110971",
+   "first_law": "lei-2025-23515",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110971",
+     "sha256": "fe435f91099c40a4cccd7f3b45e1f49929c134af3eef9cc1bcbcfd64d43936c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.515, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSISTÊNCIA SOCIAL ARCA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 22.919.363/0001-68, com sede no Município de Cocalzinho de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23516",
+   "short": "Lei 23516/2025",
+   "title": "Lei nº 23516, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110972",
+   "first_law": "lei-2025-23516",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110972",
+     "sha256": "43078a7d7817e5e05d9a57e5ad91d658fba907758e68867b16722b23cdc536b2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.516, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE PAIS E AMIGOS DOS AUTISTAS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 48.849.243/0001-25, com sede no Município de Pontalina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23517",
+   "short": "Lei 23517/2025",
+   "title": "Lei nº 23517, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110973",
+   "first_law": "lei-2025-23517",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110973",
+     "sha256": "a31a5ab13801c27c677f816a280627ec06430c21a655e3b17f97d26fa1312b65",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.517, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o CONSELHO CENTRAL DE PORANGATU DA SOCIEDADE DE SÃO VICENTE DE PAULO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 00.260.760/0001-38, com sede no Município de Porangatu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23518",
+   "short": "Lei 23518/2025",
+   "title": "Lei nº 23518, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110974",
+   "first_law": "lei-2025-23518",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110974",
+     "sha256": "44ea8f9a5245959d183411b630fc212240f3481f6a72b4b3953411be09f16927",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.518, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO MÃO AMIGA RESTAURAR - AMAR, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.754.152/0001-40, com sede no Município de Senador Canedo/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23519",
+   "short": "Lei 23519/2025",
+   "title": "Lei nº 23519, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110975",
+   "first_law": "lei-2025-23519",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110975",
+     "sha256": "e442df0098fe1319a8fa77b20205c7eef661a9c70ff4214f5f0ad081b92380c7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.519, DE 17 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a INEUZA GARBIN BERTUSSI o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23520",
+   "short": "Lei 23520/2025",
+   "title": "Lei nº 23520, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110976",
+   "first_law": "lei-2025-23520",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110976",
+     "sha256": "f6c25b15d290492a7398098ad98fa7cb40121840719d42fc17bdbd26d6a4fb0c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.520, DE 17 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VALTER NOGUEIRA DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23521",
+   "short": "Lei 23521/2025",
+   "title": "Lei nº 23521, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110977",
+   "first_law": "lei-2025-23521",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110977",
+     "sha256": "05e4639b72177a2ef43f8ac9e914e62b96c376bdc6b012cab554f279f54e6b2f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.521, DE 17 DE JUNHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO ALIANÇA ETERNA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 51.574.014/0001-50, com sede no Município de Anápolis/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23522",
+   "short": "Lei 23522/2025",
+   "title": "Lei nº 23522, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110978",
+   "first_law": "lei-2025-23522",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-17",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110978",
+     "sha256": "8195ee7e163eced7348eb5d5c7ed2868f962bc499fb68ad62fed640724f03ba3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.522, DE 17 DE JUNHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a VALDI CAMARCIO BEZERRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 17 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23523",
+   "short": "Lei 23523/2025",
+   "title": "Lei nº 23523, de 2025 (Institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-GOIÁS ATLETA e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110992",
+   "first_law": "lei-2025-23523",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-23",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110992",
+     "sha256": "5d9f9857ccf09949b6df458148d1533daa27252ce7105ccaac0c742aa37974d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.523, DE 23 DE JUNHO DE 2025\nInstitui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-GOIÁS ATLETA e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## OBJETIVOS E BENEFICIÁRIOS DO PROGRAMA\nArt. 1º Fica instituído o Programa de Incentivo ao Atleta de Rendimento - PRÓ-GOIÁS ATLETA, para o fomento esportivo, consistente na concessão de Bolsa-Atleta para valorizar atletas de alto rendimento ou atletas vinculados a programas de iniciação esportiva, nos termos desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Serão beneficiados os atletas:\nI - convocados pela seleção brasileira da respectiva modalidade esportiva para os ciclos olímpico e paralímpico em vigor, conforme for atestado pelo Comitê Olímpico Brasileiro, pelo Comitê Paralímpico Brasileiro ou pela confederação nacional da modalidade correspondente;\nII - com ranqueamento internacional do exercício anterior e a devida convocação oficial, de acordo com a legislação aplicável e conforme for atestado pelo Comitê Olímpico Brasileiro, pelo Comitê Paralímpico Brasileiro, por federação internacional ou pela confederação internacional ou nacional da respectiva modalidade;\nIII - com ranqueamento nacional do exercício anterior, até a terceira colocação, e a devida convocação oficial, de acordo com a legislação aplicável e conforme for atestado pela federação ou por outra entidade esportiva da respectiva modalidade;\nIV - com ranqueamento estadual, até a terceira colocação, conforme for atestado pela federação ou por outra entidade esportiva da respectiva modalidade; e\nV - que atendam aos critérios previstos nesta Lei, para a percepção da Bolsa Goiás Social.\nParágrafo único. Na hipótese de não se esgotarem as bolsas concedidas aos atletas na forma dos incisos do caput, poderão ser contemplados os demais atletas ranqueados, além da terceira colocação, em conformidade com a disponibilidade de bolsas em cada modalidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## BOLSA-ATLETA E CONDIÇÕES PARA A SUA PERCEPÇÃO\nArt. 3º São condições gerais para a percepção da Bolsa-Atleta, sem prejuízo ao atendimento das condições específicas de cada modalidade de bolsa, nos termos desta Lei:\nI - o beneficiário deve ter idade igual ou superior a 8 (oito) anos, salvo os casos de atletas com deficiência;\nII - o beneficiário deve apresentar projeto específico da modalidade esportiva coletiva ou individual, com documentação relacionada às competições que estejam incluídas no calendário anual das federações ou de outra entidade esportiva da respectiva modalidade, nos âmbitos internacional, nacional e estadual, devidamente vinculadas às confederações oficiais;\nIII - os responsáveis de crianças e adolescentes devem anuir à participação delas e deles no programa, nos termos da legislação aplicável;\nIV - o beneficiário deve possuir nível técnico comprovado por meio de declaração expedida pelo titular da(s) entidade(s) da modalidade correspondente, com o atestado do ranking internacional, nacional ou estadual;\nV - o beneficiário deve participar obrigatoriamente, caso seja convocado, de entrevista com os coordenadores do PRÓ-GOIÁS ATLETA;\nVI - o beneficiário deve se comprometer a representar o Estado de Goiás em competições oficiais de sua modalidade e sua categoria, bem como em eventos esportivos promovidos ou patrocinados pelo Governo do Estado;\nVII - o beneficiário não pode estar em cumprimento de qualquer tipo de punição imposta pelos Tribunais de Justiça Desportiva, pela entidade oficial específica e pela confederação da modalidade correspondente; e\nVIII - o beneficiário deve estar filiado à federação ou a outra entidade esportiva da respectiva modalidade, vinculada à confederação de sua modalidade.\n§ 1º Os atletas que postularem a percepção da Bolsa Goiás Social deverão atender às condições gerais elencadas nos incisos I, II, III, V, VI e VII e no § 5º deste artigo, sem prejuízo ao atendimento a requisitos específicos, conforme o disposto nesta Lei.\n§ 2º A Bolsa-Atleta poderá ser paga em até 12 (doze) parcelas, limitada ao exercício financeiro em vigor.\n§ 3º A Bolsa-Atleta é anual e perdurará enquanto o beneficiário atender às condições estabelecidas nesta Lei.\n§ 4º Ao atleta cuja modalidade esportiva possuir mais de uma entidade representativa, o projeto será avaliado conforme os critérios fixados pela Comissão do PRÓ-GOIÁS ATLETA.\n§ 5º O atleta cederá os direitos de imagem ao Estado, usará, obrigatoriamente, em seu uniforme, a logomarca do Estado de Goiás em dimensões definidas em regulamento e deverá divulgá-la em suas redes sociais, por ocasião de sua participação em competições e outros eventos esportivos, bem como de suas premiações, como condição para a continuidade da percepção da Bolsa-Atleta.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Serão observados, conforme as respectivas modalidades de bolsa, os seguintes critérios para a inclusão do atleta no PRÓ-GOIÁS ATLETA:\nI - bolsa internacional: atleta com ranqueamento internacional e a devida convocação oficial, segundo a legislação aplicável, conforme for atestado pelo Comitê Olímpico Brasileiro e pelo Comitê Paralímpico Brasileiro, por federação internacional ou pela confederação internacional ou nacional da respectiva modalidade;\nII - bolsa nacional: atletas com ranqueamento nacional, até a terceira colocação, e a devida convocação oficial, segundo a legislação aplicável e conforme for atestado pela federação ou por outra entidade esportiva da respectiva modalidade;\nIII - bolsa estadual: atletas com ranqueamento estadual, até a terceira colocação e conforme for atestado pela federação ou por outra entidade esportiva da respectiva modalidade; e\nIV - Bolsa Goiás Social: voltada a atletas que, cumulativamente:\na) estejam regularmente matriculados na rede pública de ensino;\nb) estejam em situação de vulnerabilidade social, conforme a legislação aplicável;\nc) estejam vinculados a programas esportivos públicos estaduais de iniciação esportiva ou organização da sociedade civil parceira; e\nd) tenham conduta disciplinar ilibada, aferida pelo atestado de ausência de punição disciplinar nos últimos 2 (dois) anos, expedido pela unidade escolar respectiva.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º A quantidade de Bolsas-Atleta concedida será de:\nI - 30 (trinta), no valor mensal de R$ 2.100,00 (dois mil e cem reais), para atletas com ranqueamento internacional;\nII - 70 (setenta), no valor mensal de R$ 1.500,00 (mil e quinhentos reais), para atletas com ranqueamento nacional;\nIII - 400 (quatrocentas), no valor mensal de R$ 1.000,00 (mil reais), para atletas com ranqueamento estadual; e\nIV - 700 (setecentas) Bolsas Goiás Social, no valor mensal de R$ 500,00 (quinhentos reais), para crianças e adolescentes vinculados aos programas de iniciação esportiva.\nParágrafo único. Deverão ser observados, preferencialmente, em todas as categorias de bolsas do PRÓ-GOIÁS ATLETA, números mínimos de 15% (quinze por cento) delas aos atletas do paradesporto e de 40% (quarenta por cento) delas ao desporto e ao paradesporto feminino.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º A Bolsa-Atleta deverá ser utilizada para cobrir custos com capacitação vinculada à sua modalidade esportiva, alimentação, saúde, inscrições, passagens para eventos esportivos, transporte urbano e aquisição de material esportivo.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## ADMINISTRAÇÃO E EXECUÇÃO DO PROGRAMA\nArt. 7º O Secretário de Estado de Esporte e Lazer designará a Comissão do PRÓ-GOIÁS ATLETA, composta por 5 (cinco) membros, servidores efetivos, e indicará seu Presidente, seu Vice-Presidente, seu Secretário e os demais membros, a qual será responsável por acompanhar, avaliar e fiscalizar a execução do programa, bem como por orientar, analisar e examinar o uso das bolsas pelos beneficiários.\n§ 1º Os membros da comissão não serão remunerados, considerado o exercício do cargo serviço público relevante.\n§ 2º Os membros da Comissão do PRÓ-GOIÁS ATLETA terão o mandato de 4 (quatro) anos, iniciado na data de sua posse, permitida apenas 1 (uma) recondução para novo mandato.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A Secretaria de Estado de Esporte e Lazer - SEEL, após a aprovação do projeto pela Comissão do PRÓ-GOIÁS ATLETA, concederá a Bolsa-Atleta mediante a assinatura do termo de adesão.\n§ 1º As modalidades esportivas amparadas pelo programa estabelecidas como prioritárias serão definidas por ato devidamente fundamentado da Comissão do PRÓ-GOIÁS ATLETA, conforme a sua relevância para o Estado.\n§ 2º O ato a que se refere o § 1º deste artigo deverá ser ratificado pelo Secretário de Estado de Esporte e Lazer.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Até 2 (dois) anos após o início da vigência desta Lei, o programa contará com sistema informatizado da SEEL, que receberá as inscrições dos atletas, os quais deverão postular a candidatura à bolsa, com a juntada da documentação correspondente, conforme o disposto nesta Lei.\n§ 1º O sistema produzirá automaticamente os resultados, os quais serão verificados pelo órgão, ouvidas as confederações, as federações ou outras entidades esportivas da respectiva modalidade, que deverão se manifestar em 5 (cinco) dias úteis.\n§ 2º Do resultado final, o candidato poderá interpor recurso administrativo, no prazo de 5 (cinco) dias úteis, perante a Comissão do PRÓ-GOIÁS ATLETA.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## PRESTAÇÃO DE CONTAS E PENALIDADES\nArt. 10. O atleta contemplado prestará contas, mensalmente, à Comissão do PRÓ-GOIÁS ATLETA dos gastos empregados com a bolsa, também dos resultados obtidos em competições, com a aprovação das entidades de desporto e paradesporto da modalidade correspondente, sem prejuízo à fiscalização exercida pelos órgãos de controle.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Será desligado do programa, após o devido processo legal administrativo, o atleta que:\nI - não atender aos requisitos constantes desta Lei;\nII - não comprovar a representação do Estado de Goiás em competições oficiais de sua modalidade e sua categoria, bem como em eventos esportivos promovidos ou patrocinados pelo Governo do Estado;\nIII - se transferir para outro estado ou país;\nIV - utilizar os recursos da Bolsa PRÓ-GOIÁS ATLETA para fins não especificados nesta Lei;\nV - for desligado de confederação, de federação ou de outra entidade esportiva da respectiva modalidade; e\nVI - descumprir quaisquer das condições exigidas por esta Lei.\n§ 1º É dispensado da comprovação da residência no Estado de Goiás o atleta convocado para integrar seleção brasileira, desde que seja exigida sua permanência em outra unidade federativa do Brasil e ele se mantenha, obrigatoriamente, filiado à federação ou a outra entidade esportiva goiana da respectiva modalidade.\n§ 2º O descumprimento do prazo para a apresentação da prestação de contas implicará a suspensão cautelar do incentivo.\n§ 3º Os beneficiários estarão sujeitos às seguintes sanções, que poderão ser aplicadas cumulativamente, conforme for definido em regulamento:\nI - devolução dos recursos indevidamente utilizados;\nII - advertência;\nIII - suspensão do recebimento do incentivo do PRO- GOIÁS ATLETA;\nIV - vedação do recebimento do incentivo do PRO- GOIÁS ATLETA por 5 (cinco) anos; e\nV - multa correspondente a até 10% (dez por cento) do valor total do benefício.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. É vedada a concessão de mais de uma bolsa deste Programa ao mesmo atleta.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. As despesas decorrentes da aplicação desta Lei correrão à conta do Tesouro Estadual, salvo a Bolsa Goiás Social, que poderá ser custeada pelos recursos oriundos do Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. A continuidade do programa será determinada anualmente por decreto do Chefe do Poder Executivo e estará condicionada à existência de dotação orçamentária e disponibilidade financeira.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. O Poder Executivo regulamentará esta Lei por meio de decreto.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. Compete à SEEL a implantação do programa, além da prática dos atos a ele relacionados, definidos pelo Chefe do Poder Executivo.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23524",
+   "short": "Lei 23524/2025",
+   "title": "Lei nº 23524, de 2025 (Cria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110993",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2025-23524"
+   ],
+   "versions": [
+    {
+     "from": "2026-09-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110993",
+     "sha256": "856daff3a7a27fcd6e3d33c9620d745b219956948f5c72cf937b7628174dd779",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.524, DE 23 DE JUNHO DE 2025\nCria o Programa Goiás + Inclusivo e abre os créditos especiais que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica criado o Programa Goiás + Inclusivo, destinado a assegurar proteção social e assistência financeira às famílias em situação de extrema pobreza que tenham pelo menos uma pessoa com deficiência até 18 anos de idade incompletos.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São objetivos específicos do Programa Goiás + Inclusivo:\nI - fortalecer o papel protetivo das famílias que tenham pelo menos uma pessoa com deficiência até 18 anos de idade incompletos;\nII - garantir a segurança alimentar; e\nIII - fomentar a segurança de renda e a melhor qualidade de vida.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Programa Goiás + Inclusivo, realizado por transferência de renda direta, utilizará a base de dados do Cadastro Único para Programas Sociais do Governo Federal - CadÚnico.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Serão elegíveis para o recebimento do benefício criado por esta Lei as famílias:\nI - que estejam em extrema pobreza ou pobreza 1, conforme o CadÚnico; e\nII - que tenham pelo menos uma pessoa com deficiência até 18 anos de idade incompletos.\n§ 1º A verificação do cumprimento dos requisitos desta Lei será com base na situação regular no CadÚnico.\n- Constituído § 1º pela Lei nº 24.537, de 10-9-2026.\n§ 2º A comprovação da deficiência da pessoa de até 18 anos de idade incompletos será realizada com base na apresentação do laudo médico com a indicação do código da Classificação Internacional de Doenças - CID, quando for aplicável.\n§ 3º A seleção das famílias observará a ordem crescente da menor para a maior renda familiar per capita, até o limite da disponibilidade orçamentária e financeira.\n§ 4º As famílias já beneficiárias terão até doze meses da convocação pela Secretaria de Estado de Desenvolvimento Social - SEDS para apresentar o laudo médico previsto no § 2º.\n§ 5º O prazo previsto no § 4º não afasta a continuidade do benefício às famílias já atendidas, desde que sejam mantidos os demais requisitos previstos nesta Lei.\n§ 6º Compete à SEDS analisar a documentação apresentada para a habilitação e a permanência no Programa Goiás + Inclusivo.\n§ 7º A concessão do benefício observará a disponibilidade orçamentária e financeira e o cronograma definido pela SEDS.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O valor do benefício criado será de R$ 500,00 (quinhentos reais) mensais.\n§ 1º O valor indicado no caput deste artigo poderá ser revisto anualmente por decreto do Chefe do Poder Executivo, com base no acompanhamento, no monitoramento, na avaliação do programa e na disponibilidade financeira e orçamentária do erário.\n§ 2º As famílias que tenham pessoa com deficiência até 6 (seis) anos de idade e estejam atendidas pelo Programa Mães de Goiás passarão a receber, de forma acumulada, o valor correspondente ao Programa Goiás + Inclusivo no montante de R$ 200,00 (duzentos reais).\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º As famílias beneficiárias permanecerão no Programa Goiás + Inclusivo enquanto mantiverem as condições de vulnerabilidade e o perfil especificados no art. 4º desta Lei.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Para garantirem a permanência no Programa Goiás + Inclusivo, os beneficiários deverão atualizar o CadÚnico sempre que houver a alteração das informações antes registradas, no máximo de 24 (vinte e quatro) meses.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º Os beneficiários do programa criado por esta Lei serão descredenciados nos seguintes casos:\nI - óbito;\nII - solicitação feita pelos próprios beneficiários;\nIII - fornecimento de declaração falsa ou cometimento de fraude para a obtenção do benefício; e\nIV - atingimento de 18 anos.\nParágrafo único. Nos casos previstos nos incisos II e III, outra adesão ao Programa Goiás + Inclusivo só será possível com a participação em novo processo de seleção, com base no CadÚnico.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O pagamento do auxílio financeiro previsto nesta Lei poderá ser bloqueado ou suspenso, com a devolução dos valores, devido a:\nI - solicitação do beneficiário;\nII - não utilização do benefício por mais de 60 (sessenta) dias ou 2 (duas) competências (meses); ou\nIII - saldo superior a duas vezes o valor do benefício.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. A Secretaria de Estado de Desenvolvimento Social - SEDS será responsável pela gestão, pela operacionalização e pela supervisão do Programa Goiás + Inclusivo.\nParágrafo único. A operacionalização do programa, as regras para a utilização dos recursos e os demais critérios para a composição do benefício serão definidos por decreto do Chefe do Poder Executivo.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. Para a execução do programa criado por esta Lei, serão utilizados recursos oriundos do Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. O Programa Goiás + Inclusivo, com duração de 12 (doze) meses, poderá ser prorrogado por decreto do Chefe do Poder Executivo, conforme a avaliação do programa e a disponibilidade orçamentária e financeira.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Para viabilizar a execução do Programa Goiás + Inclusivo, fica aberto, no corrente exercício, o crédito especial à SEDS no valor de R$ 17.125.500,00 (dezessete milhões, cento e vinte e cinco mil e quinhentos reais), conforme o Anexo I desta Lei.\nParágrafo único. Os recursos necessários à abertura do crédito especial indicado no caput deste artigo serão provenientes de superávit financeiro apurado em balanço patrimonial do exercício anterior, em consonância com o art. 43, § 1º, inciso I, da Lei federal nº 4.320, de 17 de março de 1964.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Para fortalecer a infraestrutura e a capacidade operacional dos Centros de Referência de Assistência Social - CRASs e dos Centros de Referência Especializados de Assistência Social - CREASs, fica aberto, no corrente exercício, crédito especial ao Fundo Estadual da Assistência Social - FEAS no valor de R$ 100.000.000,00 (cem milhões de reais), conforme o Anexo II desta Lei.\nParágrafo único. Os recursos necessários à abertura do crédito especial indicado no caput deste artigo serão provenientes de superávit financeiro apurado em balanço patrimonial do exercício anterior, em consonância com o art. 43, § 1º, inciso I, da Lei nº 4.320, de 1964.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "Art. 15. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 23 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\nDETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA DO CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod CO Valor (R$)\n3001 - GAB. SEC. ESTADO DESENVOL-VIMENTO SOCIAL 08 - ASSISTÊN-CIA SOCIAL 242 - ASSISTÊN-CIA À PESSOA COM DEFICIÊN-CIA 1040 - ASSISTÊN-CIA SOCIAL E PROMOÇÃO DA CIDADANIA 2586 - TRANSFE-RÊNCIA DE RENDA COMPLE-MENTAR - GOIÁS + INCLUSIVO 03 - OUTRAS DESPESAS CORRENTES 27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES 90 - APLICAÇÕES DIRETAS 0000 - IDENTIFICA-ÇÃO DE DESPESAS GERAIS 17.125.500,00\nTOTAL 17.125.500,00\nANEXO II\nDETALHAMENTO DA CLASSIFICAÇÃO ORÇAMENTÁRIA DO CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod CO Valor (R$)\n3051 - FUNDO ESTADUAL DE ASSISTÊN-CIA SOCIAL - FEAS 08 - ASSISTÊN-CIA SOCIAL 244 - ASSISTÊN-CIA COMUNI-TÁRIA 1040 - ASSISTÊN-CIA SOCIAL E PROMOÇÃO DA CIDADANIA 3189 - COFINAN-CIAMENTO ESTADUAL DO SUAS 04 - INVESTI-MENTOS 27610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE - EXERCÍCIOS ANTERIORES 41 - TRANSFERÊN-CIAS A MUNICÍPIOS - FUNDO A FUNDO 0000 - IDENTIFICA-ÇÃO DE DESPESAS GERAIS 100.000.000,00\nTOTAL 100.000.000,00\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 23524, de 2025 was altered on 1 date(s) its notes cite, the latest 2026-09-10."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23525",
+   "short": "Lei 23525/2025",
+   "title": "Lei nº 23525, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110996",
+   "first_law": "lei-2025-23525",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110996",
+     "sha256": "cf03a78be84067ad6ec100487db3b8c2951890c8a19bdf92a91f9b7c6ae0c9e7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.525, DE 25 DE JUNHO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Imagem do Divino Pai Eterno fica declarada patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23526",
+   "short": "Lei 23526/2025",
+   "title": "Lei nº 23526, de 2025 (Institui o Dia Estadual da Fraternidade Feminina da Maçonaria.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110997",
+   "first_law": "lei-2025-23526",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110997",
+     "sha256": "82843615a1018f0901c551253e02c2f2b203358a88490d609706b21f8eb4deb9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.526, DE 25 DE JUNHO DE 2025\nInstitui o Dia Estadual da Fraternidade Feminina da Maçonaria.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Fraternidade Feminina da Maçonaria, a ser comemorado, anualmente, no dia 13 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual da Fraternidade Feminina da Maçonaria fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23527",
+   "short": "Lei 23527/2025",
+   "title": "Lei nº 23527, de 2025 (Proclama o Divino Pai Eterno como Patrono do Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110998",
+   "first_law": "lei-2025-23527",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110998",
+     "sha256": "ea1ff6bf637773db0f70faf4a8a740e64ece50e3534e2ca5b6daedfd95a144f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.527, DE 25 DE JUNHO DE 2025\nProclama o Divino Pai Eterno como Patrono do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Divino Pai Eterno fica proclamado como Patrono do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Governo do Estado de Goiás prestará, anualmente, as honras de Estado ao Patrono dos goianos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23528",
+   "short": "Lei 23528/2025",
+   "title": "Lei nº 23528, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/110999",
+   "first_law": "lei-2025-23528",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-26",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/110999",
+     "sha256": "a47ef514a61a7202b4f702890d7201168d96f1dd936ed270a6ff77fb8c5f4887",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.528, DE 25 DE JUNHO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa do Tomate, realizada, anualmente, no mês de julho, no Município de Goianápolis/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 25 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23529",
+   "short": "Lei 23529/2025",
+   "title": "Lei nº 23529, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111004",
+   "first_law": "lei-2025-23529",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111004",
+     "sha256": "3c91b15e73af33cbdd31fad3ae3ed27483c62e5de2e2b3cd0f577c22650d9073",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.529, DE 26 DE JUNHO DE 2025\nAltera a Lei nº 23.428, de 19 de maio de 2025, para autorizar o Poder Executivo a celebrar contratos e termos aditivos de refinanciamento de dívidas com a União, nos termos da Lei Complementar federal nº 212, de 13 de janeiro de 2025.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 23.428, de 19 de maio de 2025, passa a vigorar com as seguintes alterações:\n\"Art. 1º-A Fica autorizado o Poder Executivo a celebrar contratos e termos aditivos de contratos de refinanciamento de dívidas com a União no âmbito do Programa de Pleno Pagamento de Dívidas dos Estados - Propag, de que trata a Lei Complementar federal nº 212, de 13 de janeiro de 2025.\nParágrafo único. Fica autorizado o Poder Executivo a manter as garantias originalmente convencionadas nos contratos de dívida de que trata o § 1º do art. 2º da Lei Complementar nº 212, de 2025.\" (NR)\n\"Art 2º ..............................................................................................\nParágrafo único. Fica o Poder Executivo autorizado a celebrar contrato aditivo para a instituição do valor base nominal do limite ao crescimento das despesas primárias e indicar o exercício financeiro de início da limitação de despesas, conforme definido no caput, devendo ainda ser indicado o ano base, conforme faculdade estabelecida no § 1º do art. 33 do Decreto federal nº 12.433, de 14 de abril de 2025.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 26 de junho de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23530",
+   "short": "Lei 23530/2025",
+   "title": "Lei nº 23530, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111005",
+   "first_law": "lei-2025-23530",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111005",
+     "sha256": "3d52ac752d9af2bdd381c844b05b350f458023ac15717c8575a74623a2d18b11",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.530, DE 28 DE JUNHO DE 2025\nAltera a Lei nº 20.638, de 14 de novembro de 2019, que institui o Estatuto da Inclusão Social e Econômica das Pessoas com Deficiência no Estado de Goiás e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.638, de 14 de novembro de 2019, fica acrescida do seguinte art. 28-A:\n\"Art. 28-A. Para a garantia do direito ao trabalho das pessoas com deficiência, poderão ser adotadas as seguintes diretrizes:\nI - estimular a formação de uma rede de apoio para promover a inserção e evolução da pessoa com deficiência nas empresas, por meio de projetos a serem desenvolvidos em parceria com a organização da sociedade civil, bem como com empresas empregadoras;\nII - incentivar a eliminação de barreiras atitudinais para a inserção de pessoas com deficiência no mercado de trabalho;\nIII - incentivar o acesso das pessoas com deficiência à educação inclusiva;\nIV - incentivar a adoção de jornada de trabalho flexível, quando se fizer necessário para as pessoas com deficiência;\nV - incentivar a adoção de medidas que capacitem as empresas a reconhecerem as necessidades e potencialidades das pessoas com deficiência;\nVI - incentivar a promoção da acessibilidade urbana que permita às pessoas com deficiência chegarem ao local de trabalho;\nVII - incentivar a adoção de linhas de pesquisa sobre inclusão e deficiências, que permitam compreender as relações sociais e os principais caminhos a serem percorridos para garantir o desenvolvimento de uma sociedade inclusiva.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23531",
+   "short": "Lei 23531/2025",
+   "title": "Lei nº 23531, de 2025 (Institui o Dia Estadual dos Protetores de Animais.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111006",
+   "first_law": "lei-2025-23531",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-06-30",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111006",
+     "sha256": "b4658ae65ca226fa57aaaaba952bef2e2e3c2849f9be999e318c0f023f486116",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.531, DE 28 DE JUNHO DE 2025\nInstitui o Dia Estadual dos Protetores de Animais.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual dos Protetores de Animais, a ser celebrado, anualmente, no dia 4 de outubro, que tem por objetivo valorizar e reconhecer o trabalho dos protetores de animais, bem como sua importância na defesa dos direitos e no combate ao abandono e aos maus-tratos de animais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º No Dia Estadual instituído por esta Lei, poderão ser adotadas as seguintes medidas:\nI - realização de eventos de reconhecimento e premiação de protetores de animais que se destacarem em suas ações;\nII - realização de campanhas educativas em escolas, universidades e espaços públicos sobre a importância da guarda responsável e do respeito aos direitos dos animais;\nIII - fomento à criação e à ampliação de políticas públicas de proteção animal no Estado de Goiás;\nIV - celebração de parcerias entre o poder público e a organização da sociedade civil para o fortalecimento das atividades dos protetores dos animais no Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual dos Protetores de Animais fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de junho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23532",
+   "short": "Lei 23532/2025",
+   "title": "Lei nº 23532, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Firminópolis/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111007",
+   "first_law": "lei-2025-23532",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111007",
+     "sha256": "d115517cf8460791882b869eb3688f8dda30bfecafc482d3545d4906b3e996e6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.532, DE 1º DE JULHO DE 2025\nAutoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Firminópolis/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10, inciso XI, da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a alienar o imóvel do Estado de Goiás especificado no Anexo Único desta Lei, por doação onerosa, ao Município de Firminópolis/GO, CNPJ nº 02.321.917/0001-13, possibilitada pela Lei municipal nº 1.748, de 28 de março de 2025.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel descrito e caracterizado no Anexo Único desta Lei está avaliado em R$ 229.085,10 (duzentos e vinte e nove mil, oitenta e cinco reais e dez centavos), conforme o Laudo de Avaliação para Doação nº 24/2025, da Gerência de Avaliação de Imóveis, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração - SEAD.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O imóvel de que trata esta Lei destina-se à implementação de programas habitacionais, à doação de casas e lotes, à regularização fundiária e ao fomento à geração de empregos e renda, todos com a conclusão prevista para 5 (cinco) anos a partir da assinatura da escritura pública de doação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A doação autorizada será realizada com a cláusula de inalienabilidade e reversão do imóvel e das benfeitorias porventura existentes ao doador em caso de descumprimento do disposto no art. 3º desta Lei ou de desvio de finalidade, sem direito à indenização.\nParágrafo único. A reversão prevista no caput deste artigo terá eficácia independentemente de interpelação judicial, mediante simples ato declaratório do doador e averbação na matrícula imobiliária.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do art. 5º, inciso XII, da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANEXO ÚNICO\nIMÓVEL OBJETO DE DOAÇÃO ONEROSA AO MUNICÍPIO DE FIRMINÓPOLIS/GO, DESTINADO À IMPLEMENTAÇÃO DE PROGRAMAS HABITACIONAIS, À DOAÇÃO DE CASAS E LOTES, À REGULARIZAÇÃO FUNDIÁRIA E AO FOMENTO À GERAÇÃO DE EMPREGOS E RENDA\nDENOMINAÇÃO Um imóvel rural\nLOCALIZAÇÃO Às margens da Rodovia GO-164, no Povoado de Santo Antônio, Município de Firminópolis/GO\nÁREA 2 (dois) alqueires\nPROPRIETÁRIO Estado de Goiás\nMATRÍCULA Nº 8.022 - Cartório de Registro de Imóveis, Civil das Pessoas Naturais e Jurídicas e de Títulos e Documentos da Comarca de Firminópolis\nMEMORIAL DESCRITIVO Assim se descreve: \"Começa num marco cravado dentro do Patrimônio de Santo Antônio, a ( sic) margem direita da Rodovia Firminópolis Paraúna; deste seguindo pela mesma Rodovia até o esgoto da Lagoa do Meio, descendo pelo esgoto até o limite da gleba ora doada; virando a esquerda segue confrontando com Miguel e Lafaiete Caetano da Costa; voltando ainda à esquerda segue confrontando, digo, divisando com Maria Vicente até o marco cravado a ( sic) margem direita da Rodovia Firminópolis - Paraúna, ponto de partida\".\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23533",
+   "short": "Lei 23533/2025",
+   "title": "Lei nº 23533, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111008",
+   "first_law": "lei-2025-23533",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111008",
+     "sha256": "121a51b86041e6e94039b2e7896eece597e689894661b51b05cb238279df13cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.533, DE 1º DE JULHO DE 2025\nAltera a Lei nº 20.976, de 30 de março de 2021, que cria e denomina as Escolas do Futuro do Estado de Goiás - EFGs e os Colégios Tecnológicos do Estado de Goiás - COTECs e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 20.976, de 30 de março de 2021, passa a vigorar com as seguintes alterações:\n\"Art 1º ..............................................................................................\nVII - Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD, sediada na Rua Dona Josefina, nº 1, Setor Nossa Senhora de Fátima, Catalão/GO.\n..........................................................................................................................\" (NR)\n\"Art. 4º-A Serão transferidos para a Escola do Futuro do Estado de Goiás em Tecnologia e Artes LABIBE FAIAD a estrutura e os acervos necessários à execução de seus serviços pertencentes ao então Colégio Tecnológico do Estado de Goiás em ARTES LABIBE FAIAD.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica revogado o inciso VI do art. 2º da Lei nº 20.976, de 2021.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23534",
+   "short": "Lei 23534/2025",
+   "title": "Lei nº 23534, de 2025 (Autoriza a aquisição, por doação onerosa do Município de Senador Canedo/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111009",
+   "first_law": "lei-2025-23534",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111009",
+     "sha256": "e81518c001c6c413692ee481b4eccceae10db097e3281065da89ce19cb1cd41f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.534, DE 1º DE JULHO DE 2025\nAutoriza a aquisição, por doação onerosa do Município de Senador Canedo/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Senador Canedo/GO, CNPJ nº 25.107.525/0001-51, possibilitada pela Lei municipal nº 2.507, de 26 de outubro de 2021, alterada pela Lei municipal nº 2.838, de 08 de abril de 2024.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel para doação está avaliado em R$ 645.532,03 (seiscentos e quarenta e cinco mil, quinhentos e trinta e dois reais e três centavos), conforme o Laudo de Avaliação para Doação nº 109/2023, da Gerência de Avaliação de Imóveis, da Secretaria de Estado da Administração - SEAD.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei, conforme os arts. 2º e 3º da Lei municipal nº 2.507, de 2021, destina-se à construção da sede própria do Presídio de Senador Canedo/GO, em quatro anos, a partir da efetivação do registro no Cartório de Registro de Imóveis.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel ao doador no caso de descumprimento do disposto no art. 3º desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS, POR DOAÇÃO ONEROSA DO MUNICÍPIO DE SENADOR CANEDO/GO, PARA A CONSTRUÇÃO DO PRESÍDIO DE SENADOR CANEDO, CONFORME A LEI MUNICIPAL Nº 2.507, DE 26 DE OUTUBRO DE 2021, ALTERADA PELA LEI MUNICIPAL Nº 2.838, DE 08 DE ABRIL DE 2024\nDENOMINAÇÃO Gleba de terras\nLOCALIZAÇÃO Avenida Paraíso, denominada Quinhão 1B, Fazenda Bonsucesso, 75250-000.\nÁREA 56.808,00 m²\nMATRÍCULA Nº 52.901, Serventia de Registro de Imóveis da Comarca de Senador Canedo/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"Começa no marco M.21 de coordenada UTM MC = 51°, E = 705.162,316 e N = 8.154.097,460, cravado na confrontação com as terras de José Ferreira; daí segue por essa confrontação pelo azimute 77°13'12'' e distâncias 41,77 m até o marco M.3; daí segue confrontando com a Avenida Paraíso pelo azimute 77°13'06'' e distância 304,00 m até o Marco M.3A; daí segue confrontando com o Quinhão 1D pelos seguintes azimutes e distâncias: Az = 161°34'30'' - 180,28 até o marco M.3B; Az = 258°04'42'' - 56,40 m até o marco M.3C; daí segue confrontando com o Quinhão 1C pelos seguintes azimutes e distâncias: Az = 257°46'58'' - 243,90 m até o marco M.3D; Az = 345°39'38'' - 43,47 m até o marco M.3E; Az = 317°17'40'' - 121,04 m até o marco M.3F; Az = 343°49'07'' - 27,84 m até o marco M.21, ponto inicial desta descrição.\"\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23535",
+   "short": "Lei 23535/2025",
+   "title": "Lei nº 23535, de 2025 (Abre crédito especial à Secretaria de Estado de Desenvolvimento Social - SEDS.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111010",
+   "first_law": "lei-2025-23535",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111010",
+     "sha256": "107350a3f7370f9145d91932b4f24b4d1a33317024e1128569528f7e2308615f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.535, DE 1º DE JULHO DE 2025\nAbre crédito especial à Secretaria de Estado de Desenvolvimento Social - SEDS.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto, no corrente exercício, o crédito especial de R$ 1.000.000,00 (um milhão de reais) à Secretaria de Estado de Desenvolvimento Social - SEDS, conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial à SEDS autorizado no art. 1º desta Lei serão provenientes da anulação parcial ou total de dotações orçamentárias no valor de R$ 1.000.000,00 (um milhão de reais), em consonância com o inciso III do § 1º do art. 43 da Lei federal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANEXO I\nABERTURA DE CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod CO Valor (R$)\n3001 - GAB. SEC. ESTADO DESENVOLVI-MENTO SOCIAL 08 - ASSIS-TÊNCIA SOCIAL 244 - ASSIS-TÊNCIA COMU-NITÁRIA 1044 - SOMOS TODOS IGUAIS 2311 - CONCESSÃO DE CRÉDITO SOCIAL 03 - OUTRAS DESPESAS CORRENTES 17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE 90 -APLICA-ÇÕES DIRETAS 0000 -IDENTI-FICAÇÃO DE DESPESAS GERAIS 1.000.000,00\nTOTAL 1.000.000,00\nANEXO II\nANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA\nUO Função Subfunção Programa Ação GND Fonte Mod CO Valor (R$)\n3001 - GAB. SEC. ESTADO DESENVOLVI-MENTO SOCIAL 08 - ASSIS-TÊNCIA SOCIAL 244 - ASSIS-TÊNCIA COMU-NITÁRIA 1044 - SOMOS TODOS IGUAIS 2312 - TRANSFERÊNCIA DE RENDA COMPLEMENTAR - MÃES DE GOIÁS 03 - OUTRAS DESPESAS CORRENTES 17610156 - RECURSOS VINCULADOS AO FUNDO DE COMBATE E ERRADICAÇÃO DA POBREZA - OUTROS RECURSOS DO PROTEGE 90 -APLICA-ÇÕES DIRETAS 0000 -IDENTI-FICAÇÃO DE DESPESAS GERAIS 1.000.000,00\nTOTAL 1.000.000,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23536",
+   "short": "Lei 23536/2025",
+   "title": "Lei nº 23536, de 2025 (Abre crédito especial à Polícia Militar - PM e à Universidade Estadual de Goiás - UEG.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111011",
+   "first_law": "lei-2025-23536",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111011",
+     "sha256": "709597ee34ff6a4bc065806bce8c096832c3e66e3e9dbe06d10b0444e39b3796",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.536, DE 1º DE JULHO DE 2025\nAbre crédito especial à Polícia Militar - PM e à Universidade Estadual de Goiás - UEG.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica aberto no corrente exercício o crédito especial de R$ 30.000,00 (trinta mil reais) à Polícia Militar - PM e à Universidade Estadual de Goiás - UEG, conforme o Anexo I desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Os recursos necessários à abertura do crédito especial de que trata o art. 1º desta Lei serão provenientes de anulação parcial de dotação orçamentária no valor de R$ 30.000,00 (trinta mil reais), com a observância do disposto no art. 43, § 1º, inciso III, da Lei federal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANEXO I\nABERTURA DE CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n2902 - POLÍCIA MILITAR 09 - PREVI-DÊNCIA SOCIAL 274 - PREVIDÊNCIA ESPECIAL 0200 - ENCARGOS DOS BENEFÍCIOS PREVIDEN-CIÁRIOS E ESPECIAIS 7250 - PAGAMEN-TO DE PENSÕES ESPECIAIS 03 - OUTRAS DESPESAS CORRENTES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTIFICA-ÇÃO DE DESPESAS GERAIS 16.000,00\n4062 - UEG 09 - PREVI-DÊNCIA SOCIAL 274 - PREVIDÊNCIA ESPECIAL 0200 - ENCARGOS DOS BENEFÍCIOS PREVIDEN-CIÁRIOS E ESPECIAIS 7250 - PAGAMEN-TO DE PENSÕES ESPECIAIS 03 - OUTRAS DESPESAS CORRENTES 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTIFICA-ÇÃO DE DESPESAS GERAIS 14.000,00\nTOTAL 30.000,00\nANEXO II\nANULAÇÃO DE DOTAÇÃO ORÇAMENTÁRIA\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n1706 - RESERVA DE CONTIN-GÊNCIA 99 - RESERVA DE CONTIN-GÊNCIA 999 - RESERVA DE CONTIN-GÊNCIA 9999 - RESERVA DE CONTIN-GÊNCIA 9000 - RESERVA DE CONTIN-GÊNCIA 09 - RESERVA DE CONTIN-GÊNCIA 15000100 - RECURSOS NÃO VINCULADOS DE IMPOSTOS - RECEITAS ORDINÁRIAS 99 - A DEFINIR 0000 - IDENTIFICA-ÇÃO DE DESPESAS GERAIS 30.000,00\nTOTAL 30.000,00\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23537",
+   "short": "Lei 23537/2025",
+   "title": "Lei nº 23537, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111014",
+   "first_law": "lei-2025-23537",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111014",
+     "sha256": "22ad15a5576fed85765d6d45564ad6056b2a13ada0c416e0407660cf63856d19",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.537, DE 2 DE julho DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE CAPOEIRA E JIU-JITSU DENDÊ MARÉ - CENTRO DE APOIO À COMUNIDADE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 55.716.458/0001-33, com sede no Município de Inhumas/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23538",
+   "short": "Lei 23538/2025",
+   "title": "Lei nº 23538, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111015",
+   "first_law": "lei-2025-23538",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111015",
+     "sha256": "7a62317fb02661292dcf257bd17f1c10233f07ea1a85ddf7398a775bd6466899",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.538, DE 2 DE JULHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO QUILOMBOLA DA FAMÍLIA MACHADINHO DE CRISTALINA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 51.044.525/0001-60, com sede no Município de Cristalina/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23539",
+   "short": "Lei 23539/2025",
+   "title": "Lei nº 23539, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111016",
+   "first_law": "lei-2025-23539",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111016",
+     "sha256": "6aec6af616b7314a4dcb87cc41edb407e1fc1cb1f708f2b217ceff5a679b2212",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.539, DE 2 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a JESSICA APARECIDA RIBEIRO GOMES o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23540",
+   "short": "Lei 23540/2025",
+   "title": "Lei nº 23540, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111017",
+   "first_law": "lei-2025-23540",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111017",
+     "sha256": "384653feaea5cd2dd2cc702822d6bba0d953b1ae464cfb4ab5b2609ed6f48478",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.540, DE 2 DE JULHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO LIBERDADE DE TAE KWONDO E CULTURA, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 18.356.443/0001-85, com sede no Município de Goianira/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nCHARLES BENTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23541",
+   "short": "Lei 23541/2025",
+   "title": "Lei nº 23541, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111018",
+   "first_law": "lei-2025-23541",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111018",
+     "sha256": "8deb13995b598d0ec1f6471075c67c22ffd0ad93f0f5fbca803f835412c68d3b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.541, DE 2 DE JULHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a associação VETERANOS DO RIALMA ESPORTE CLUBE, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 09.240.695/0001-53, com sede no Município de Rialma/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23542",
+   "short": "Lei 23542/2025",
+   "title": "Lei nº 23542, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111019",
+   "first_law": "lei-2025-23542",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111019",
+     "sha256": "4e3fa6dee9c3fa60528dd2086a26ba309b188c926812e29eb92adf867504da85",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.542, DE 2 DE JULHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE DESENVOLVIMENTO DA COMUNIDADE DOS QUILOMBOLAS DE SÃO FÉLIX MINAÇU - GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 07.851.486/0001-10, com sede no Município de Minaçu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 2 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23544",
+   "short": "Lei 23544/2025",
+   "title": "Lei nº 23544, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111021",
+   "first_law": "lei-2025-23544",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111021",
+     "sha256": "db2df43efcb1235cd307661627627db6448eb221d66dd18070810828f77f3718",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.544, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ GONZAGA VIANA FILHO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23545",
+   "short": "Lei 23545/2025",
+   "title": "Lei nº 23545, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111022",
+   "first_law": "lei-2025-23545",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111022",
+     "sha256": "0aba6a9339cfd070d40293bb42fc188cd669b84bbd47c78dd1787448d1348422",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.545, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CÉSAR CINTRA JATAHY FONSECA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23546",
+   "short": "Lei 23546/2025",
+   "title": "Lei nº 23546, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111023",
+   "first_law": "lei-2025-23546",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111023",
+     "sha256": "12fcdce047f6f9d72f354215ecfa6bd4f5ed14de06ef0f666c1a703ca5531097",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.546, DE 3 DE JULHO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarado de utilidade pública o INSTITUTO AFAGO, inscrito no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 46.835.166/0001-29, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23547",
+   "short": "Lei 23547/2025",
+   "title": "Lei nº 23547, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111024",
+   "first_law": "lei-2025-23547",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111024",
+     "sha256": "827cab310172654e2866ad9b7aab5265b340178fd4fa60db0193b67416dfa372",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.547, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCIANA DE SOUSA BARROS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23548",
+   "short": "Lei 23548/2025",
+   "title": "Lei nº 23548, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111025",
+   "first_law": "lei-2025-23548",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111025",
+     "sha256": "d70c56130fd3d62a8d5cbad723595a849c0587f572ee5043fad0e7e5c448f6cf",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.548, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALESSANDRA LOPES BRAGA DE RESENDE o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23549",
+   "short": "Lei 23549/2025",
+   "title": "Lei nº 23549, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111026",
+   "first_law": "lei-2025-23549",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111026",
+     "sha256": "c7ed41c31ad3dd20923adc5e97946ad5251e76ef9bb935673017c3cd3af74418",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.549, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a ALEX SANDRO GOMES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23550",
+   "short": "Lei 23550/2025",
+   "title": "Lei nº 23550, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111027",
+   "first_law": "lei-2025-23550",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111027",
+     "sha256": "f7fd7bee17ce2df576f23d7927a50bd57788444d608ad3e4274970014a7ea0d5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.550, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CHEPE PUTZU o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23551",
+   "short": "Lei 23551/2025",
+   "title": "Lei nº 23551, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111028",
+   "first_law": "lei-2025-23551",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111028",
+     "sha256": "d48064d41c42c2f7596e2af513eafde9944e9c9e347cad59d82f93397914a5d2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.551, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RENATA FARIAS COSTA GOMES DE BARROS NACAGAMI o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23552",
+   "short": "Lei 23552/2025",
+   "title": "Lei nº 23552, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111029",
+   "first_law": "lei-2025-23552",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111029",
+     "sha256": "5368ce973f4238a98c166feabdff414fff98ccaada49b425021c2fdc172c1e70",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.552, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a THIAGO VINÍCIUS CUNHA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23553",
+   "short": "Lei 23553/2025",
+   "title": "Lei nº 23553, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111030",
+   "first_law": "lei-2025-23553",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111030",
+     "sha256": "74dce4bf2431bd10f2766983f5126009a0f01cb6460fc8821af95e1ee12f4600",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.553, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a PEDRO IVO RODRIGUES VELLOSO CORDEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23554",
+   "short": "Lei 23554/2025",
+   "title": "Lei nº 23554, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111031",
+   "first_law": "lei-2025-23554",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-07-03",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111031",
+     "sha256": "3bf322b0f903d1c1846d2246375085ef2b1adff7f98c2b093b359efd52fc3f70",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.554, DE 3 DE JULHO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a IGOR VIANA MONTEIRO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 3 de julho de 2025; 137º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
