@@ -1,0 +1,2620 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2025-23861": {
+   "label": "Lei nº 23861, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111601",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23860": {
+   "label": "Lei nº 23860, de 2025",
+   "title": "Institui o Dia Estadual do Procurador Municipal e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111602",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23859": {
+   "label": "Lei nº 23859, de 2025",
+   "title": "Estabelece regras a serem atendidas pelos estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111603",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23858": {
+   "label": "Lei nº 23858, de 2025",
+   "title": "Institui o Dia Estadual da Indústria Farmacêutica.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111604",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23857": {
+   "label": "Lei nº 23857, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111605",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23856": {
+   "label": "Lei nº 23856, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111606",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23855": {
+   "label": "Lei nº 23855, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111607",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23854": {
+   "label": "Lei nº 23854, de 2025",
+   "title": "Institui o Programa de Recuperação de Créditos não Tributários da Superintendência de Proteção aos Direitos do Consumidor - PROCON-GOIÁS, unidade administrativa da Secretaria de Estado da Segurança Pública, denominado QUITA PROCON-GOIÁS.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111608",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23853": {
+   "label": "Lei nº 23853, de 2025",
+   "title": "Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111609",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23852": {
+   "label": "Lei nº 23852, de 2025",
+   "title": "Confere ao Município de Três Ranchos o título de \"Capital Goiana da Pesca Esportiva\".",
+   "kind": "law",
+   "enacted": "2025-11-19",
+   "published": "2025-11-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111610",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23864": {
+   "label": "Lei nº 23864, de 2025",
+   "title": "Cria o Programa Estadual de Inclusão ao Esporte - PRÓ-GOIÁS ESPORTE, vinculado à Secretaria de Estado de Esporte e Lazer - SEEL, e revoga a Lei nº 14.546, de 30 de setembro de 2003.",
+   "kind": "law",
+   "enacted": "2025-11-24",
+   "published": "2025-11-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111612",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23865": {
+   "label": "Lei nº 23865, de 2025",
+   "title": "Autoriza a integralização de capital social da Companhia de Desenvolvimento Econômico de Goiás - CODEGO e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-11-24",
+   "published": "2025-11-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111613",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23866": {
+   "label": "Lei nº 23866, de 2025",
+   "title": "Dispõe sobre a contratação por tempo determinado para atender à necessidade temporária das empresas públicas e das sociedades de economia mista, também revoga a Lei nº 13.196, de 29 de dezembro de 1997.",
+   "kind": "law",
+   "enacted": "2025-11-24",
+   "published": "2025-11-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111614",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23867": {
+   "label": "Lei nº 23867, de 2025",
+   "title": "Altera a Lei nº 22.874, de 24 de julho de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025, e altera o Anexo I - Metas Fiscais da Lei nº 23.570, de 10 de julho de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026.",
+   "kind": "law",
+   "enacted": "2025-11-24",
+   "published": "2025-11-24",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23868": {
+   "label": "Lei nº 23868, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-26",
+   "published": "2025-11-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111620",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23869": {
+   "label": "Lei nº 23869, de 2025",
+   "title": "Institui o Campeonato Goiano de Futebol de Várzea no Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2025-11-26",
+   "published": "2025-11-27",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111621",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23870": {
+   "label": "Lei nº 23870, de 2025",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Jaraguá/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111622",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23871": {
+   "label": "Lei nº 23871, de 2025",
+   "title": "Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111623",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23872": {
+   "label": "Lei nº 23872, de 2025",
+   "title": "Institui o Dia Estadual dos Conciliadores e Mediadores Judiciais e Extrajudiciais e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111624",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23873": {
+   "label": "Lei nº 23873, de 2025",
+   "title": "Institui o Dia Estadual dos Carros Antigos e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111625",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23874": {
+   "label": "Lei nº 23874, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111626",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23875": {
+   "label": "Lei nº 23875, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111627",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23876": {
+   "label": "Lei nº 23876, de 2025",
+   "title": "Confere ao Município de Pires do Rio/GO o título de Capital Goiana da Avicultura.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111628",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23877": {
+   "label": "Lei nº 23877, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraial das Abóboras, realizado no Município de Rio Verde/GO.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111629",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23878": {
+   "label": "Lei nº 23878, de 2025",
+   "title": "Institui o Dia Estadual do Corretor de Seguros de Vida.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111630",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23879": {
+   "label": "Lei nº 23879, de 2025",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111631",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23880": {
+   "label": "Lei nº 23880, de 2025",
+   "title": "Institui o Dia Estadual dos Secretários Municipais de Saúde.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111632",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23881": {
+   "label": "Lei nº 23881, de 2025",
+   "title": "Altera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111633",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23882": {
+   "label": "Lei nº 23882, de 2025",
+   "title": "Dispõe sobre medidas de prevenção à fraude com cartões de débito ou crédito conhecida como \"golpe da maquininha quebrada\".",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111634",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23883": {
+   "label": "Lei nº 23883, de 2025",
+   "title": "Institui a Política Estadual de Prevenção e Combate ao Crime de Perseguição - SOS STALKING.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111635",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23884": {
+   "label": "Lei nº 23884, de 2025",
+   "title": "Institui o Dia Estadual de Proteção dos Mananciais e Nascentes.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111636",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23885": {
+   "label": "Lei nº 23885, de 2025",
+   "title": "Institui o Dia Estadual do Ambientalista.",
+   "kind": "law",
+   "enacted": "2025-11-28",
+   "published": "2025-11-28",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111637",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23886": {
+   "label": "Lei nº 23886, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111643",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23887": {
+   "label": "Lei nº 23887, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111644",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23888": {
+   "label": "Lei nº 23888, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111645",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23889": {
+   "label": "Lei nº 23889, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111646",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23890": {
+   "label": "Lei nº 23890, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111647",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23891": {
+   "label": "Lei nº 23891, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111648",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23892": {
+   "label": "Lei nº 23892, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111649",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23893": {
+   "label": "Lei nº 23893, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111650",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23894": {
+   "label": "Lei nº 23894, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111651",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23895": {
+   "label": "Lei nº 23895, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111652",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23896": {
+   "label": "Lei nº 23896, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111653",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23897": {
+   "label": "Lei nº 23897, de 2025",
+   "title": "Declara de utilidade pública a entidade que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111654",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23898": {
+   "label": "Lei nº 23898, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111655",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23899": {
+   "label": "Lei nº 23899, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111656",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23900": {
+   "label": "Lei nº 23900, de 2025",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Parada Obrigatória - Encontro de Motociclistas, realizada no Município de Morrinhos/GO.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111657",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23901": {
+   "label": "Lei nº 23901, de 2025",
+   "title": "Institui a Semana Estadual de Sensibilização sobre a Neurofibromatose (doença de von Recklinghausen) e dá outras providências.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111658",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23902": {
+   "label": "Lei nº 23902, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111659",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2025-23903": {
+   "label": "Lei nº 23903, de 2025",
+   "title": "Concede o título de cidadania que especifica.",
+   "kind": "law",
+   "enacted": "2025-12-01",
+   "published": "2025-12-01",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111660",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2025-23861",
+   "short": "Lei 23861/2025",
+   "title": "Lei nº 23861, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111601",
+   "first_law": "lei-2025-23861",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111601",
+     "sha256": "fae9e5cc90070b94fb01e7dcaa022bc4294f4236c0c359a7276e50581686a9b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.861, DE 19 DE NOVEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a EDUARDO DELGADO DE ALMEIDA THÓ o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23860",
+   "short": "Lei 23860/2025",
+   "title": "Lei nº 23860, de 2025 (Institui o Dia Estadual do Procurador Municipal e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111602",
+   "first_law": "lei-2025-23860",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111602",
+     "sha256": "1aa652afc2d07c83f188c951f549c3b09f0c2f22c74fe3c146b43aa44fe1d464",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.860, DE 19 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual do Procurador Municipal e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Procurador Municipal, a ser celebrado, anualmente, no dia 13 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Procurador Municipal tem por objetivos:\nI - reconhecer a importância da atuação dos Procuradores Municipais na defesa do interesse público, na promoção da segurança jurídica e na preservação do Estado Democrático de Direito nos municípios goianos;\nII - valorizar a carreira de Procurador Municipal, destacando sua relevância para a eficiência da gestão pública municipal e o fortalecimento da advocacia pública;\nIII - incentivar a realização de eventos, palestras, seminários e outras atividades voltadas à conscientização sobre o papel e as atribuições dos Procuradores Municipais, bem como a troca de experiências entre profissionais da área jurídica;\nIV - promover a aproximação entre a sociedade e a advocacia pública municipal, fomentando o conhecimento sobre sua atuação e seu impacto na administração pública.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Poder Executivo, em parceria com instituições representativas da categoria e demais órgãos públicos, poderá promover e apoiar atividades alusivas à data, sem prejuízo da iniciativa de entidades privadas, associações e universidades.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual do Procurador Municipal passa a integrar o Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23859",
+   "short": "Lei 23859/2025",
+   "title": "Lei nº 23859, de 2025 (Estabelece regras a serem atendidas pelos estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111603",
+   "first_law": "lei-2025-23859",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111603",
+     "sha256": "a3ce393394e300090c78d35e3f7368fd71d42ca1b55da8fe9798f12b8513a3ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.859, DE 19 DE NOVEMBRO DE 2025\nEstabelece regras a serem atendidas pelos estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos atenderão às seguintes regras:\nI - possibilitar aos proprietários de cães e gatos conhecer a estrutura do local, bem como as áreas das quais o animal de estimação usufruirá e em que se acomodará;\nII - instalar sistema de monitoramento por câmeras em suas dependências;\nIII - disponibilizar água potável aos animais domésticos hospedados;\nIV - registrar com documentos e comunicar aos tutores eventual acidente que envolva seus animais de estimação, durante sua estadia.\nParágrafo único. Para os fins desta Lei, são considerados animais domésticos cães e gatos, de pequeno a grande porte.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º As gravações obtidas por meio das câmeras de monitoramento de que trata o inciso II do art. 1º serão armazenadas por 6 (seis) meses, contados da realização dos serviços, e a cópia das gravações será fornecida pelo estabelecimento ao cliente, quando solicitada, no prazo de até 2 (dois) dias.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento do disposto nesta Lei sujeita os estabelecimentos infratores às seguintes penalidades:\nI - advertência;\nII - multa, no valor de R$ 1.500,00 (mil e quinhentos reais), para cada ocorrência, duplicado, em caso de reincidência.\nParágrafo único. Os valores arrecadados pelas multas serão destinados ao Fundo Estadual do Meio Ambiente - FEMA, facultada a destinação diversa por ato do Chefe do Poder Executivo.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23858",
+   "short": "Lei 23858/2025",
+   "title": "Lei nº 23858, de 2025 (Institui o Dia Estadual da Indústria Farmacêutica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111604",
+   "first_law": "lei-2025-23858",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111604",
+     "sha256": "b8108bc3205f7a942910f2d6f3c9ca657e1ca64e593303684264800c7d56090d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.858, DE 19 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual da Indústria Farmacêutica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual da Indústria Farmacêutica, a ser comemorado, anualmente, no dia 31 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23857",
+   "short": "Lei 23857/2025",
+   "title": "Lei nº 23857, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111605",
+   "first_law": "lei-2025-23857",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111605",
+     "sha256": "4a8ba81d418f02d2af2d06a03169d996a84acc1d66e0d95f77775522fc40af34",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.857, DE 19 DE NOVEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ACOPEGO - ASSOCIAÇÃO DOS PROFISSIONAIS DA CONTABILIDADE DO ESTADO DE GOIÁS, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 31.201.914/0001-44, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23856",
+   "short": "Lei 23856/2025",
+   "title": "Lei nº 23856, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111606",
+   "first_law": "lei-2025-23856",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111606",
+     "sha256": "c4130a7c25aefad424b3dd84c1fa7ab049bf0e1baf0e36e5333aa9c5d20f2855",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.856, DE 19 DE NOVEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LEONARDO DIAS PIRES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nTALLES BARRETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23855",
+   "short": "Lei 23855/2025",
+   "title": "Lei nº 23855, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111607",
+   "first_law": "lei-2025-23855",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111607",
+     "sha256": "c3e5a0c0a6fe52795316c6228e20ca248e74295dafb0f6f773bc4a5bc64a94b7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.855, DE 19 DE NOVEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a NEOLETE PIRES DE FREITAS o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23854",
+   "short": "Lei 23854/2025",
+   "title": "Lei nº 23854, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111608",
+   "first_law": null,
+   "earlier_laws": [
+    "lei-2025-23854"
+   ],
+   "versions": [
+    {
+     "from": "2026-03-18",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111608",
+     "sha256": "ab1683e348563b0d3c90afff1f24766e794a2c6a555ac1e590be578b5bc2687c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.854, DE 19 DE NOVEMBRO DE 2025\nInstitui o Programa de Recuperação de Créditos não Tributários da Superintendência de Proteção aos Direitos do Consumidor - PROCON-GOIÁS, unidade administrativa da Secretaria de Estado da Segurança Pública, denominado QUITA PROCON-GOIÁS.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Programa de Recuperação de Créditos não Tributários da Superintendência de Proteção aos Direitos do Consumidor - PROCON-GOIÁS, denominado QUITA PROCON-GOIÁS, constituído de medidas facilitadoras para a quitação de débitos com o Fundo Estadual de Defesa do Consumidor, instituído pela Lei nº 12.207, de 20 de dezembro de 1993, relacionados às sanções administrativas de multas aplicadas pelo PROCON-GOIÁS.\nParágrafo único. Considera-se crédito não tributário o montante obtido pela soma dos valores correspondentes à multa administrativa aplicada, aos juros, às multas moratórias e à atualização monetária.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O QUITA PROCON-GOIÁS abrange todos os créditos não tributários descritos no art. 1º desta Lei, inclusive os inscritos em dívida ativa, judicializados ou não, cuja decisão da primeira instância administrativa tenha sido proferida até 31 de dezembro de 2024.\n§ 1º Estão abrangidos pelo caput deste artigo os créditos não tributários:\nI - não inscritos na dívida ativa da Fazenda Pública Estadual;\nII - inscritos na dívida ativa da Fazenda Pública Estadual;\nIII - ajuizados em ação de execução fiscal ou judicializados; e\nIV - objeto de ação anulatória.\n§ 2º Não serão contemplados com os benefícios desta Lei os processos já beneficiados com os descontos decorrentes:\nI - de Termo de Ajustamento de Conduta - TAC eventualmente celebrado;\nII - das Leis nº 19.100, de 19 de novembro de 2015, nº 19.551, de 15 de dezembro de 2016, nº 19.909, de 14 de dezembro de 2017, e nº 20.656, de 18 de dezembro de 2019, com negociações formalizadas; ou\nIII - de quaisquer outras concessões e modalidades de descontos já ofertadas pelo PROCON-GOIÁS.\n§ 3º O prazo para a adesão ao QUITA PROCON-GOIÁS será de cento e cinquenta dias contados da publicação desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O QUITA PROCON-GOIÁS consiste nas seguintes medidas facilitadoras:\nI - redução de 40% (quarenta por cento) do valor principal da multa aplicada na decisão administrativa, para o pagamento à vista;\nII - remissão total dos juros moratórios, da multa e da atualização monetária, para o pagamento à vista ou parcelado; e\nIII - não obrigatoriedade do pagamento de todos os processos administrativos sancionatórios relativos a crédito não tributário de um mesmo sujeito passivo, se houver mais de um deles.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Considera-se formalizada a adesão ao QUITA PROCON-GOIÁS mediante a assinatura do Termo de Adesão, a ser disponibilizado pela Gerência da Dívida Ativa, da Procuradoria-Geral do Estado - PGE, para as dívidas por ela inscritas, e pela Gerência de Gestão de Créditos, do PROCON-GOIÁS, nos demais casos.\n§ 1º A adesão deverá ser subscrita pelo devedor, por seu representante legal ou por procurador constituído, devidamente comprovados documentalmente, observados os limites e as condições desta Lei.\n§ 2º Deverá constar da procuração subscrita pelo devedor a concessão de poderes específicos ao procurador constituído para praticar todos os atos necessários à formalização da adesão de que trata esta Lei.\n§ 3º O termo disponibilizado poderá ser assinado presencialmente ou por meio do sítio eletrônico.\n§ 4º A adesão ao programa importa em confissão irrevogável e irretratável da dívida, e cabe ao devedor desistir da impugnação, do recurso interposto ou da ação judicial proposta relativamente à matéria objeto do débito favorecido.\n§ 5º O pedido de desistência da ação com a renúncia ao direito no qual se funda não exime o autor do pagamento dos honorários advocatícios, nos termos do art. 90 da Lei federal nº 13.105 (Código de Processo Civil), de 16 de março de 2015.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O crédito não tributário favorecido deverá ser liquidado exclusivamente por Documento de Arrecadação de Receitas Estaduais - DARE.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º O pagamento do crédito não tributário não inscrito em dívida ativa estadual poderá ser quitado à vista ou parcelado em até dez vezes.\n§ 1º O parcelamento se dará da seguinte forma:\nI - a primeira parcela será de 40% (quarenta por cento) do saldo devedor, após a concessão do desconto (remissão de juros, multa e atualização monetária aplicável), e deverá ser quitada no prazo de quinze dias contados da assinatura do Termo de Adesão com a emissão do DARE;\nII - o saldo restante será dividido em até nove parcelas iguais, com o vencimento nos meses subsequentes, contados da data da assinatura do Termo de Adesão com a emissão do DARE; e\nIII - o valor de cada parcela não poderá ser inferior ao mínimo previsto no parágrafo único do art. 57 da Lei federal nº 8.078 (Código de Defesa do Consumidor), de 11 de setembro de 1990.\n§ 2º Os débitos inscritos ou não em dívida ativa, todavia em execução judicial ou sub judice em virtude de ação anulatória ou de qualquer outra ação cabível, não serão objeto de parcelamento.\n§ 3º O sujeito passivo cujo débito estiver ajuizado deverá pagar, para o que dispõe esta Lei, além da multa reduzida de 40% (quarenta por cento), o equivalente a 10% (dez por cento) sobre o valor reduzido, a título de honorários advocatícios destinados aos Procuradores do Estado.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Após a assinatura do Termo de Adesão, o sujeito passivo que não efetuar o pagamento de qualquer DARE até a data de seu vencimento, à vista ou parcelado, perderá todos os benefícios desta Lei.\n§ 1º Na hipótese prevista no caput deste artigo, o pagamento efetuado será amortizado do valor integral devido e será retomada a cobrança do saldo devedor nos termos previstos em lei.\n§ 2º Caso haja protestos formalizados referentes aos débitos de que trata esta Lei, eventuais custas, taxas e emolumentos ficarão a cargo do particular aderente, observados os valores originalmente inscritos, sem os descontos do QUITA PROCON-GOIÁS.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O QUITA PROCON-GOIÁS será coordenado e executado pela Secretaria de Estado da Segurança Pública e pelo PROCON-GOIÁS, e os seus titulares ficam autorizados a baixarem os atos necessários à sua plena execução.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º Esta Lei entra em vigor na data de sua publicação e terá a vigência de cento e cinquenta dias, destinados à adesão ao programa.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     },
+     "note": "Text in force as compiled by the Casa Civil de Goiás; Lei nº 23854, de 2025 was altered on 1 date(s) its notes cite, the latest 2026-03-18."
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23853",
+   "short": "Lei 23853/2025",
+   "title": "Lei nº 23853, de 2025 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111609",
+   "first_law": "lei-2025-23853",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111609",
+     "sha256": "18383cf33c2e3029789aeba9f08f0051de0712c3632f17ed2f45d5eb32bf76d1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.853, DE 19 DE NOVEMBRO DE 2025\nAltera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE, passa a vigorar com as seguintes alterações:\n\"Art. 52. Ficam nomeados substitutos tributários nas operações com energia elétrica, desde a produção ou a importação até o consumo:\nI - no ambiente de contratação regulada, a empresa distribuidora de energia elétrica relativamente à obrigação de pagar o imposto devido nas operações anteriores e subsequentes; e\nII - no ambiente de contratação livre:\na) a empresa distribuidora de energia elétrica relativamente à obrigação de pagar o imposto devido nas operações anteriores e subsequentes quanto aos valores e aos encargos cobrados pela operação da rede ou da linha de distribuição à qual estiver conectado o destinatário; e\nb) o destinatário conectado:\n1. à rede de distribuição operada por distribuidora, que, por força da execução de contrato de conexão e do uso da rede de distribuição dela, receber em condições de consumo energia elétrica adquirida de terceiros, relativamente ao imposto devido nas operações anteriores, ressalvado o disposto na alínea 'a' deste inciso; e\n2. diretamente à rede básica de transmissão e que promover a entrada de energia elétrica no seu estabelecimento ou domicílio para seu próprio consumo, relativamente ao imposto devido nas operações anteriores.\n§ 1º Na hipótese prevista no inciso I do caput deste artigo, o imposto deve ser calculado sobre o preço praticado na operação final e pago por ocasião da saída do produto do estabelecimento da distribuidora.\n§ 1º-A Na hipótese prevista no inciso II do caput deste artigo, o imposto deve ser pago por ocasião do fornecimento de energia elétrica ou da operação de conexão e uso do sistema de transmissão ou de distribuição de energia elétrica, conforme o disposto em regulamento.\n§ 2º É assegurado o pagamento do imposto ao Estado de Goiás quando nele ocorrer o consumo da energia elétrica.\n...................................................................\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23852",
+   "short": "Lei 23852/2025",
+   "title": "Lei nº 23852, de 2025 (Confere ao Município de Três Ranchos o título de \"Capital Goiana da Pesca Esportiva\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111610",
+   "first_law": "lei-2025-23852",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111610",
+     "sha256": "91055164ad1facfd41d5907d6f01479f387bb2c6b05f12b5280090c3dc0dae7a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.852, DE 19 DE NOVEMBRO DE 2025\nConfere ao Município de Três Ranchos o título de \"Capital Goiana da Pesca Esportiva\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Três Ranchos o título de \"Capital Goiana da Pesca Esportiva\".\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 19 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23864",
+   "short": "Lei 23864/2025",
+   "title": "Lei nº 23864, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111612",
+   "first_law": "lei-2025-23864",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111612",
+     "sha256": "7df61ede80215b505c79c8a3e4b2762ce91aad9dcddd03de6c2a7602de8b1fd6",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.864, DE 24 DE NOVEMBRO DE 2025\nCria o Programa Estadual de Inclusão ao Esporte - PRÓ-GOIÁS ESPORTE, vinculado à Secretaria de Estado de Esporte e Lazer - SEEL, e revoga a Lei nº 14.546, de 30 de setembro de 2003.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "## CAPÍTULO I\n## OBJETIVOS DO PROGRAMA\nArt. 1º Fica criado o Programa Estadual de Inclusão ao Esporte - PRÓ-GOIÁS ESPORTE, vinculado à Secretaria de Estado de Esporte e Lazer - SEEL, que tem por objetivos o incentivo ou o patrocínio:\nI - à prática de esportes, nas concepções de esporte de participação e de esporte de rendimento, com o fomento a projetos que prioritariamente busquem a inclusão social de pessoas de baixa renda e em situação de vulnerabilidade social, nos moldes estabelecidos nesta Lei;\nII - à pesquisa científica para o melhoramento de novas técnicas e o desenvolvimento do esporte e do desporto;\nIII - aos projetos de acesso ao esporte, para crianças, adolescentes, jovens e pessoas com deficiência;\nIV - à capacitação de atletas de alto rendimento;\nV - às práticas esportivas e paradesportivas destinadas às pessoas de todas as faixas etárias, na perspectiva da participação, do lazer e da manutenção do estado de saúde, em caráter coletivo; e\nVI - aos eventos esportivos promovidos por organizações e entidades, em conformidade com a Lei federal nº 13.019, de 31 de julho de 2014, ou com a Lei estadual nº 23.052, de 4 de novembro de 2024, e com os critérios a serem definidos em regulamento.\nParágrafo único. Esta Lei considera:\nI - incentivo: concessão de apoio ou repasse financeiro, formalizado por meio de termo de compromisso, destinado à formação esportiva, à alimentação, à saúde, às inscrições, às passagens, ao transporte, à hospedagem, à realização de eventos e à aquisição de material ou equipamento, consoante as diretrizes fixadas no caput deste artigo; e\nII - patrocínio: instrumento de fomento a projeto ou evento privado, formalizado por meio de contrato, em que o patrocinador transfere, em caráter definitivo ou provisório, recursos financeiros, patrimoniais, mobiliários ou imobiliários, serviços ou outros direitos economicamente mensuráveis ao patrocinado, que poderá ficar obrigado às contrapartidas previstas no art. 5º desta Lei.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "## CAPÍTULO II\n## BENEFICIÁRIOS DO PROGRAMA\nArt. 2º O PRÓ-GOIÁS ESPORTE contempla projetos que promovam a prática de atividades esportivas voltadas a todas as faixas etárias, sem distinção.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O beneficiário do PRÓ-GOIÁS ESPORTE é a pessoa física ou jurídica com projeto, de apresentação obrigatória, devidamente selecionado.\nParágrafo único. A concessão de incentivo ou patrocínio à pessoa física ou jurídica deverá observar o disposto na Lei nº 13.019, de 2014, e na Lei nº 23.052, de 2024, sem prejuízo ao atendimento a esta Lei e ao respectivo regulamento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Os projetos cujos beneficiários sejam pessoas de baixa renda ou em vulnerabilidade social poderão ser custeados por recursos do Fundo de Proteção Social do Estado de Goiás - PROTEGE GOIÁS, observada a seguinte ordem prioritária:\nI - crianças e adolescentes de baixa renda e em situação de vulnerabilidade social; e\nII - residentes em regiões caracterizadas por baixo nível de renda ou por desigualdade social.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º O beneficiário do PRÓ-GOIÁS ESPORTE se comprometerá à contrapartida obrigatória ao Estado, proporcional ao incentivo financeiro ou ao patrocínio concedido, que consistirá em atuação e apoio em monitorias, oficinas, capacitações, cursos e eventos, entre outros, consoante os critérios e o calendário fixados previamente por ato do Secretário de Estado de Esporte e Lazer.\nParágrafo único. As contrapartidas deverão ser detalhadas no plano de trabalho e aprovadas pela Comissão Especial, com a informação de todos os elementos de despesa, inclusive o relatório descritivo das atividades a serem desempenhadas.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "## CAPÍTULO III\n## ADMINISTRAÇÃO DO PROGRAMA\nArt. 6º A gestão do PRÓ-GOIÁS ESPORTE será realizada por uma Comissão Especial designada pelo titular da SEEL, formada, preferencialmente, pelo mínimo de três servidores.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º Compete à Comissão Especial do PRÓ-GOIÁS ESPORTE:\nI - analisar, selecionar, aprovar ou reprovar o projeto esportivo apresentado, conforme o critério de relevância para o desenvolvimento e a disseminação de esportes no Estado de Goiás; e\nII - apreciar, analisar e deliberar sobre os balanços, os relatórios, a prestação de contas e os documentos relacionados com o PRÓ-GOIÁS ESPORTE.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º O PRÓ-GOIÁS ESPORTE contemplará projetos aprovados pela Comissão Especial, mediante a concessão de incentivo ou patrocínio, na forma disciplinada nesta Lei e no respectivo regulamento.\n§ 1º O incentivo referido no caput deste artigo consistirá na concessão de apoio ou repasse financeiro, formalizado por meio de termo de compromisso, destinado à formação esportiva, à alimentação, à saúde, às inscrições, às passagens, ao transporte, à hospedagem, à realização de eventos e à aquisição de material ou equipamento, consoante as diretrizes fixadas no art. 1º desta Lei.\n§ 2º O patrocínio é um instrumento de fomento a projeto ou evento privado, formalizado por meio de contrato, em que o patrocinador transfere, em caráter definitivo ou provisório, recursos financeiros, patrimoniais, mobiliários ou imobiliários, serviços ou outros direitos economicamente mensuráveis ao patrocinado, que poderá ficar obrigado às contrapartidas previstas no art. 5º desta Lei.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "## CAPÍTULO IV\n## PROJETOS\nArt. 9º Será concedido incentivo ou patrocínio ao beneficiário cujo projeto tenha sido aprovado, conforme os critérios fixados nesta Lei e no respectivo regulamento.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O projeto terá a duração de até doze meses, renováveis por igual período, segundo os parâmetros a serem fixados em regulamento, desde que o beneficiário preserve as condições de manutenção para a percepção do incentivo ou do patrocínio e não incorra nas penalidades dispostas nesta Lei.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. A SEEL, após a aprovação do projeto pela Comissão Especial, concederá o incentivo ou o patrocínio a eventos, mediante o termo de compromisso ou contrato a ser firmado pelo beneficiário ou por seu responsável legal para a aderência ao PRÓ-GOIÁS ESPORTE.\n§ 1º Os incentivos financeiros integrais e parciais serão distribuídos conforme quantitativos especificados por regulamento.\n§ 2º O incentivo ou o patrocínio poderá ser suspenso, a pedido do beneficiário, por até dois meses seguidos ou alternados, mediante requerimento fundamentado feito à administração do PRÓ-GOIÁS ESPORTE, no prazo de até trinta dias, sem prejuízo ao disposto no art. 53-A da Lei federal nº 14.597 (Lei Geral do Esporte), de 14 de junho de 2023.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "## CAPÍTULO V\n## RECURSOS FINANCEIROS\nArt. 12. Os recursos oriundos do PROTEGE GOIÁS, instituído pela Lei nº 14.469, de 16 de julho de 2003, serão destinados exclusivamente aos beneficiários de baixa renda e em vulnerabilidade social.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Constituem, ainda, recursos para a execução desta Lei:\nI - a contribuição mensal de 0,3% (três décimos por cento) prevista na alínea \"b\" do inciso II do § 5º do art. 20-A da Lei nº 13.591, de 18 de janeiro de 2000;\nII - os provenientes de dotações orçamentárias do Estado;\nIII - as emendas parlamentares, as doações, as subvenções, as contribuições e as transferências oriundas de ajustes voltados para a execução dos objetivos desta Lei;\nIV - os provenientes de ajustes celebrados com instituições públicas ou instituições privadas, nacionais ou estrangeiras; e\nV - os decorrentes da devolução de remanescentes de projetos, da restituição de valores por falta ou inconsistência de prestação de contas e pelas demais irregularidades, previstas em regulamento.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "## CAPÍTULO VI\n## CRITÉRIOS DE ATENDIMENTO DOS PROJETOS E DAS ATIVIDADES\nArt. 14. Os projetos deverão estar alinhados às concepções de desporto e paradesporto comunitário e de rendimento, observadas as condições a serem fixadas em regulamento e o disposto no parágrafo único do art. 1º, no art. 3º e no art. 4º desta Lei.\n"
+      },
+      "art-0015": {
+       "label": "Art. 15",
+       "kind": "article",
+       "text": "## CAPÍTULO VII\n## PRESTAÇÃO DE CONTAS E PENALIDADES\nArt. 15. O valor do incentivo percebido pelo beneficiário somente poderá ser utilizado para cobrir gastos com formação esportiva, alimentação, saúde, inscrições, passagens para eventos esportivos, transporte, hospedagem e aquisição de material esportivo, consoante as diretrizes fixadas nesta Lei.\nParágrafo único. A prestação de contas de projetos patrocinados seguirá critérios definidos no contrato de patrocínio.\n"
+      },
+      "art-0016": {
+       "label": "Art. 16",
+       "kind": "article",
+       "text": "Art. 16. A prestação de contas do incentivo e do patrocínio obtidos por meio desta Lei será mensal, e cumpre à Comissão Especial do PRÓ-GOIÁS ESPORTE a apreciação dos documentos e dos resultados esperados.\nParágrafo único. O descumprimento do prazo para a apresentação da prestação de contas implicará a suspensão cautelar do incentivo ou do patrocínio.\n"
+      },
+      "art-0017": {
+       "label": "Art. 17",
+       "kind": "article",
+       "text": "Art. 17. O beneficiário do PRÓ-GOIÁS ESPORTE:\nI - deverá atender aos critérios desta Lei e do respectivo regulamento;\nII - nos últimos cinco anos não pode ter:\na) tido contas reprovadas por conselhos estaduais de esporte;\nb) sofrido condenação pelos tribunais de justiça desportiva; e\nc) sofrido condenação criminal; e\nIII - não pode estar em cumprimento de pena.\n§ 1º Perderá o direito ao incentivo ou ao patrocínio o beneficiário que:\nI - transferir-se para outro estado ou país;\nII - utilizar os recursos do incentivo ou do patrocínio para fins não especificados nesta Lei;\nIII - for dispensado de seleções representativas do Estado de Goiás ou nacionais, por indisciplina;\nIV - deixar de cumprir quaisquer das condições exigidas nesta Lei; e\nV - deixar de prestar contas no prazo legal.\n§ 2º Os beneficiários estarão sujeitos às seguintes sanções, que poderão ser aplicadas cumulativamente, conforme for definido em regulamento:\nI - devolução dos recursos indevidamente utilizados;\nII - advertência;\nIII - suspensão do recebimento de incentivo ou de patrocínio do PRÓ-GOIÁS ESPORTE;\nIV - vedação do recebimento de incentivo ou de patrocínio do PRÓ-GOIÁS ESPORTE por cinco anos; e\nV - multa correspondente a até 10% (dez por cento) do valor total do benefício.\n"
+      },
+      "art-0018": {
+       "label": "Art. 18",
+       "kind": "article",
+       "text": "## CAPÍTULO VIII\n## DISPOSIÇÕES FINAIS E TRANSITÓRIAS\nArt. 18. Compete à SEEL a implantação do PRÓ-GOIÁS ESPORTE, além da prática dos atos definidos pelo Chefe do Poder Executivo, nos termos da Lei nº 21.792, de 16 de fevereiro de 2023.\n"
+      },
+      "art-0019": {
+       "label": "Art. 19",
+       "kind": "article",
+       "text": "Art. 19. Os valores do PRÓ-GOIÁS ESPORTE deverão ser estabelecidos em cada exercício, na ocasião da aprovação dos orçamentos anuais, obedecidos os parâmetros fixados pela Lei de Diretrizes Orçamentárias.\n"
+      },
+      "art-0020": {
+       "label": "Art. 20",
+       "kind": "article",
+       "text": "Art. 20. A continuidade do PRÓ-GOIÁS ESPORTE será determinada anualmente por decreto do Chefe do Poder Executivo e estará condicionada à existência de dotação orçamentária e disponibilidade financeira.\n"
+      },
+      "art-0021": {
+       "label": "Art. 21",
+       "kind": "article",
+       "text": "Art. 21. Fica revogada a Lei nº 14.546, de 30 de setembro de 2003.\n"
+      },
+      "art-0022": {
+       "label": "Art. 22",
+       "kind": "article",
+       "text": "Art. 22. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23865",
+   "short": "Lei 23865/2025",
+   "title": "Lei nº 23865, de 2025 (Autoriza a integralização de capital social da Companhia de Desenvolvimento Econômico de Goiás - CODEGO e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111613",
+   "first_law": "lei-2025-23865",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111613",
+     "sha256": "fd864f028e21bb8e5460867eaade81b2ec4741fdff07257c43a748e4679cd494",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.865, DE 24 DE NOVEMBRO DE 2025\nAutoriza a integralização de capital social da Companhia de Desenvolvimento Econômico de Goiás - CODEGO e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Poder Executivo a integralizar o capital social da Companhia de Desenvolvimento Econômico de Goiás - CODEGO, mediante o aporte de R$ 60.435.343,25 (sessenta milhões, quatrocentos e trinta e cinco mil, trezentos e quarenta e três reais e vinte e cinco centavos).\nParágrafo único. O montante previsto no caput deste artigo será destinado, exclusivamente, à continuidade das obras de implementação do Distrito Agroindustrial Norberto Teixeira - DIANOT, no Município de Aparecida de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Fica convalidado e autorizado o aumento do capital social da CODEGO, realizado no exercício de 2024, no montante de R$ 40.010.000,00 (quarenta milhões e dez mil reais), nos termos do art. 2º da Lei nº 22.578, de 22 de março de 2024.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a integralização de capital informada no art. 1º desta Lei, fica aberto, no corrente exercício, crédito especial de R$ 60.435.343,25 (sessenta milhões, quatrocentos e trinta e cinco mil, trezentos e quarenta e três reais e vinte e cinco centavos) ao Fundo de Desenvolvimento de Atividades Industriais - FUNPRODUZIR, conforme o Anexo I desta Lei.\nParágrafo único. Os recursos necessários à abertura do crédito especial indicado no caput deste artigo serão provenientes da anulação parcial ou total de dotações orçamentárias no valor de R$ 60.435.343,25 (sessenta milhões, quatrocentos e trinta e cinco mil, trezentos e quarenta e três reais e vinte e cinco centavos), como prevê o art. 43, § 1º, inciso III, da Lei federal nº 4.320, de 17 de março de 1964, conforme o Anexo II desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\nABERTURA DE CRÉDITO ESPECIAL\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n3351 - FUNPRO-DUZIR 22 - INDÚS- TRIA 661 - Promoção Industrial 1054 - GOIÁS DO CRESCI MENTO E DO EMPREEN- DEDORISMO 2441 - GESTÃO DA INICIATIVA DE POLÍTICAS PÚBLICAS DE DESENVOL-VIMENTO ECONÔMICO E SOCIAL REGIONA-LIZADO 05 - INVER-SÕES FINAN-CEIRAS 17530161 - RECURSOS PROVE- NIENTES DE TAXAS, CONTRI-BUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS 90 - APLICA-ÇÕES DIRETAS 0000 - IDENTIFI-CAÇÃO DE DES-PESAS GERAIS 60.435.343,25\nTOTAL 60.435.343,25\nUO Função Subfunção Programa Ação GND Fonte Mod. CO Valor (R$)\n3351 - FUNPRO-DUZIR 99 - RESER- VA DE CONTIN- GÊNCIA 999 - RESERVA DE CONTIN- GÊNCIA 9999 - RESERVA DE CONTIN- GÊNCIA 9000 - RESERVA DE CON-TINGÊN- CIA 09 - RESERVA DE CONTIN-GÊNCIA 17530161 - RECURSOS PROVENIENTES DE TAXAS, CONTRIBUIÇÕES E PREÇOS PÚBLICOS - TAXAS POR SERVIÇOS PÚBLICOS 99 - A DEFINIR 0000 - IDENTIFICAÇÃO DE DESPESAS GERAIS 60.435.343,25\nTOTAL 60.435.343,25\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23866",
+   "short": "Lei 23866/2025",
+   "title": "Lei nº 23866, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111614",
+   "first_law": "lei-2025-23866",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111614",
+     "sha256": "42653db302a517912a3ae4a5ff7554acd74061faf34b0ed3b3259ad8880e1390",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.866, DE 24 DE NOVEMBRO DE 2025\nDispõe sobre a contratação por tempo determinado para atender à necessidade temporária das empresas públicas e das sociedades de economia mista, também revoga a Lei nº 13.196, de 29 de dezembro de 1997.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Para atender à necessidade temporária de excepcional interesse público, assim declarada, as empresas públicas e as sociedades de economia mista do Estado de Goiás poderão celebrar contratos individuais de trabalho, sob o regime da Consolidação das Leis do Trabalho - CLT, observadas as disposições legais que regem a matéria.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Considera-se necessidade temporária de excepcional interesse público aquela que compromete a prestação contínua e eficiente dos serviços próprios das empresas públicas e das sociedades de economia mista, nos casos:\nI - emergenciais, de calamidade pública ou equivalentes;\nII - de estudo para a elaboração de projetos de implementação do desenvolvimento econômico ou de serviços públicos; e\nIII - de atendimento urgente às exigências do serviço, em decorrência da falta de pessoal ou enquanto perdurar a necessidade transitória, para evitar o colapso das atividades relacionadas às competências, ao desenvolvimento econômico e aos serviços prestados pelas empresas públicas e pelas sociedades de economia mista, incluídas as exigências:\na) técnicas especializadas para a implantação de unidades recém-criadas ou de novas atribuições ou aquelas decorrentes do aumento transitório do volume de trabalho;\nb) de pesquisa e desenvolvimento de produtos e serviços, no âmbito de projetos com prazo determinado e com a admissão de pesquisador ou de técnico formado em área tecnológica de nível intermediário ou superior;\nc) de atividades que se tornarão obsoletas em curto ou médio prazo, em decorrência do contexto de transformação social, econômica ou tecnológica, que tornarão desvantajoso o provimento de empregos públicos em relação às contratações de que trata esta Lei;\nd) preventivas temporárias para conter situações de grave e iminente risco à sociedade que possam ocasionar incidentes de calamidade pública ou danos e crimes ambientais, humanitários ou à saúde da população;\ne) técnicas especializadas em tecnologia da informação;\nf) de serviços de engenharia; ou\ng) de serviços destinados ao imediato atendimento à população.\n§ 1º Os contratos por tempo determinado de que trata esta Lei poderão ser celebrados por até 2 (dois) anos.\n§ 2º Em caso de contratação por tempo inferior ao estabelecido no § 1º, poderá ser celebrada única prorrogação, observado o prazo máximo de 2 (dois) anos.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A declaração da necessidade temporária de excepcional interesse público de que trata o art. 1º desta Lei será efetivada pelo titular da empresa estatal e divulgada inclusive no Diário Oficial do Estado, e dela constarão também a tipificação apresentada no art. 2º desta Lei e as funções necessárias ao devido atendimento.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O recrutamento de pessoal a ser contratado, nos termos desta Lei, será feito com a declaração da necessidade temporária de excepcional interesse público e indispensavelmente por processo seletivo simplificado, na forma estabelecida em edital, com critérios claros e objetivos de seleção.\n§ 1º O processo seletivo especificado no caput deste artigo será realizado por comissão especial instituída unicamente para esse fim, que definirá as etapas do certame a serem fixadas em edital, e ele especificará, no mínimo:\nI - as denominações das funções temporárias, as atribuições a serem desempenhadas, os requisitos e os perfis profissionais necessários, o número de vagas e a remuneração;\nII - os requisitos mínimos de habilitação no processo seletivo; e\nIII - os critérios de classificação dos candidatos habilitados, caso seja ultrapassado o número de vagas.\n§ 2º Nos casos de certame sem prova, serão realizadas, pelo menos, etapas de análise curricular e de entrevistas com critérios de pontuação objetiva.\n§ 3º Para os casos emergenciais, de calamidade pública ou equivalentes ou para os serviços destinados ao imediato atendimento à população, conforme está previsto no inciso I e na alínea \"g\" do inciso III do art. 2º desta Lei, poderá ser excetuada a realização do processo seletivo simplificado de que trata este artigo, com a devida justificativa.\n§ 4º Na situação do § 3º deste artigo poderá, alternativamente, ser realizado edital de processo seletivo simplificado para banco de credenciamento, o qual conterá os requisitos do § 1º deste artigo, exceto o número de vagas.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Os contratos serão efetivados e firmados com a observância do disposto nesta Lei, e a contratação estará condicionada à garantia da disponibilidade orçamentária.\n§ 1º Os contratos deverão seguir minuta-padrão previamente analisada pela área jurídica da empresa estatal.\n§ 2º Fica vedada a contratação retroativa, sob pena de nulidade do contrato.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º É proibida, nos termos desta Lei, a contratação de servidores ativos da administração direta ou indireta da União, dos estados, do Distrito Federal e dos municípios, compreendidos os contratos temporários, bem como de empregados e servidores de suas subsidiárias e controladas.\n§ 1º Sem prejuízo à nulidade do contrato, a infração ao disposto neste artigo acarretará responsabilidade administrativa da autoridade contratante e do contratado, inclusive, se for o caso, solidariamente quanto à devolução dos valores pagos ao contratado.\n§ 2º A vedação disposta no caput deste artigo não se aplica às formas de acumulação de cargos legalmente permitidas, nos termos do inciso XVI do art. 37 da Constituição Federal.\n"
+      },
+      "art-0007": {
+       "label": "Art. 7º",
+       "kind": "article",
+       "text": "Art. 7º É vedada a recontratação do pessoal admitido nos termos desta Lei na mesma empresa estatal, exceto com a aprovação em outro processo seletivo simplificado e observado o prazo superior a 6 (seis) meses do término do anterior.\n"
+      },
+      "art-0008": {
+       "label": "Art. 8º",
+       "kind": "article",
+       "text": "Art. 8º A remuneração e as vantagens do pessoal contratado nos termos desta Lei serão estabelecidas no edital e no contrato, assegurados, no mínimo, os direitos trabalhistas previstos na legislação.\nParágrafo único. Nos casos em que a prestação de serviço não exigir tempo integral, por decorrer de necessidade administrativa eventual, e conforme for definido no edital de chamamento público, o pagamento poderá ser efetuado por hora de trabalho, de acordo com a produtividade.\n"
+      },
+      "art-0009": {
+       "label": "Art. 9º",
+       "kind": "article",
+       "text": "Art. 9º O pessoal contratado nos termos desta Lei fica vinculado ao Regime Geral de Previdência Social, de que tratam o art. 201 da Constituição Federal e a Lei federal nº 8.213, de 24 de julho de 1991.\n"
+      },
+      "art-0010": {
+       "label": "Art. 10",
+       "kind": "article",
+       "text": "Art. 10. O contrato firmado nos termos desta Lei será rescindido, sem direito a indenizações:\nI - pelo término do prazo contratual; ou\nII - por iniciativa do contratante se o contratado incorrer nas faltas graves indicadas no art. 482 da CLT.\nParágrafo único. O acerto das verbas rescisórias será efetivado nos termos da legislação trabalhista.\n"
+      },
+      "art-0011": {
+       "label": "Art. 11",
+       "kind": "article",
+       "text": "Art. 11. O tempo de serviço prestado em virtude da contratação conforme esta Lei será contado para todos os efeitos legais, salvo disposição legal específica em sentido contrário.\n"
+      },
+      "art-0012": {
+       "label": "Art. 12",
+       "kind": "article",
+       "text": "Art. 12. Os atuais contratos de trabalho por tempo determinado celebrados pelas empresas públicas e pelas sociedades de economia mista do Estado de Goiás antes da vigência desta Lei, se estiverem em vigor e não tiverem sido prorrogados, poderão ter sua prorrogação até o prazo total de que trata o § 2º do art. 2º desta Lei.\n"
+      },
+      "art-0013": {
+       "label": "Art. 13",
+       "kind": "article",
+       "text": "Art. 13. Fica revogada a Lei nº 13.196, de 29 de dezembro de 1997.\n"
+      },
+      "art-0014": {
+       "label": "Art. 14",
+       "kind": "article",
+       "text": "Art. 14. Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23867",
+   "short": "Lei 23867/2025",
+   "title": "Lei nº 23867, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111616",
+   "first_law": "lei-2025-23867",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-24",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111616",
+     "sha256": "a7a624fe5ebe2990b8004716dc1debbe0f18ff942a9f2f0593315f4ee199236a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.867, DE 24 DE NOVEMBRO DE 2025\nAltera a Lei nº 22.874, de 24 de julho de 2024, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025, e altera o Anexo I - Metas Fiscais da Lei nº 23.570, de 10 de julho de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 22.874, de 24 de julho de 2024, passa a vigorar com as seguintes alterações:\n\"Art. 3º ......................................................\n§ 1º Não serão consideradas na meta de resultado primário de que trata o caput deste artigo as empresas estatais não dependentes, isto é, as empresas públicas ou as sociedades de economia mista em que o Estado de Goiás, direta ou indiretamente, detenha a maior parte do capital social com direito a voto e que não recebam do ente controlador recursos financeiros para pagar despesas com custeio, pessoal e investimento, excluídos os provenientes de aumento de participação acionária.\n§ 2º Para a demonstração da compatibilidade referida no caput deste artigo, os intervalos de tolerância para a verificação do cumprimento das metas anuais de resultado primário serão convertidos em valores correntes e fixados com base no produto interno bruto estadual previsto nesta Lei, observados os seguintes limites:\nI - limite inferior: valor equivalente a menos 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei; e\nII - limite superior: valor equivalente a mais 0,25 (vinte e cinco centésimos) ponto percentual do PIB estadual previsto nesta Lei.\n§ 3º A obtenção do resultado que exceda ao limite superior de que trata o inciso II do § 2º deste artigo não implica o descumprimento da meta a que se refere o caput, também deste artigo.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Demonstrativo 1 - Metas Anuais do Anexo I - Metas Fiscais da Lei nº 22.874, de 2024, passa a vigorar na forma do Anexo I desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Demonstrativo 3 - Metas Fiscais Atuais Comparadas com as Fixadas nos Três Exercícios Anteriores do Anexo I - Metas Fiscais da Lei nº 22.874, de 2024, passa a vigorar na forma do Anexo II desta Lei.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Demonstrativo 7 - ESTIMATIVA E COMPENSAÇÃO DA RENÚNCIA DE RECEITA do Anexo I - Metas Fiscais da Lei nº 23.570, de 10 de julho de 2025, que dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2026, passa a vigorar na forma do Anexo III desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Fica transformado em § 1º o parágrafo único do art. 3º da Lei nº 22.874, de 2024.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 24 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO I\n(Alteração do Anexo I - Metas Fiscais da Lei nº 22.874, de 24 de julho de 2024)\n\"DEMONSTRATIVO 1 - METAS ANUAIS\nGOVERNO DO ESTADO DE GOIÁS\nLEI DE DIRETRIZES ORÇAMENTÁRIAS\nANEXO DE METAS FISCAIS\nMETAS ANUAIS 2025\nAMF - Demonstrativo 1 (LRF, art. 4º, § 1º) R$ 1,00\nESPECIFICAÇÃO Valor Corrente (a) 2025 Valor Constante % PIB (a / PIB) x 100 % RCL (a / RCL) x 100\nReceita Total (EXCETO FONTES RPPS) 45.762.517.026 45.762.517.026 12,02% 101,27%\nReceitas Primárias (EXCETO FONTES RPPS) (I) 43.458.349.998 43.458.349.998 11,41% 96,17%\nReceitas Primárias Correntes 43.399.562.986 43.399.562.986 11,40% 96,04%\nImpostos, Taxas e Contribuições de Melhoria 26.782.988.890 26.782.988.890 7,03% 59,27%\nTransferências Correntes 10.728.922.464 10.728.922.464 2,82% 23,74%\nDemais Receitas Primárias Correntes 5.887.651.632 5.887.651.632 1,55% 13,03%\nReceitas Primárias de Capital 58.787.012 58.787.012 0,02% 0,13%\nDespesa Total (EXCETO FONTES RPPS) 50.161.928.455 50.161.928.455 13,18% 111,00%\nDespesas Primárias (EXCETO FONTES RPPS) (II) 48.417.395.890 48.417.395.890 12,72% 107,14%\nDespesas Primárias Correntes 41.135.563.408 41.135.563.408 10,80% 91,03%\nPessoal e Encargos Sociais 23.541.993.133 23.541.993.133 6,18% 52,10%\nOutras Despesas Correntes 17.593.570.275 17.593.570.275 4,62% 38,93%\nDespesas Primárias de Capital 6.031.832.483 6.031.832.483 1,58% 13,35%\nPagamento de Restos a Pagar de Despesas Primárias 1.250.000.000 1.250.000.000 0,33% 2,77%\nReceita Total (COM FONTES RPPS) 3.691.021.518 3.691.021.518 0,97% 8,17%\nReceitas Primárias (COM FONTES RPPS) (III) 3.571.688.411 3.571.688.411 0,94% 7,90%\nDespesa Total (COM FONTES RPPS) 3.341.085.286 3.341.085.286 0,88% 7,39%\nDespesas Primárias (COM FONTES RPPS) (IV) 3.341.085.286 3.341.085.286 0,88% 7,39%\nResultado Primário (SEM RPPS) - Acima da Linha (V) = (I - II) - 4.959.045.893 4.959.045.893 -1,30% -10,97%\nResultado Primário (COM RPPS) - Acima da Linha (VI) = (V) + (III - IV) - 4.728.442.767 4.728.442.767 -1,24% -10,46%\nJuros, Encargos e Variações Monetárias Ativos (Exceto RPPS) 2.265.211.620 2.265.211.620 0,59% 5,01%\nJuros, Encargos e Variações Monetárias Passivos (Exceto RPPS) 939.081.603 939.081.603 0,25% 2,08%\nDívida Pública Consolidada (DC) 28.857.524.375 28.857.524.375 7,58% 63,86%\nDívida Consolidada Líquida (DCL) 16.025.711.466 16.025.711.466 4,21% 35,46%\nResultado Nominal (SEM RPPS) - Abaixo da linha - 5.741.223.529 5.741.223.529 -1,51% -12,70\nFONTE: Sistema Programação e Execução Orçamentária e Financeira (SIOFI) / Sistema de Contabilidade Geral do Estado de Goiás (SCG)\nNOTA: A elaboração desse demonstrativo seguiu a metodologia de cálculo disposta no item 03.06.00 - Anexo 6 da Parte III do MDF. Portanto, no cálculo do Resultado Primário (SEM RPPS) - acima da linha, não são consideradas as receitas e despesas com as fontes do RPPS. Estas são apresentadas de forma apartada, com impacto apenas no cálculo do Resultado Primário (COM RPPS) - acima da linha, para fins de transparência. Também não são consideradas as dívidas, disponibilidade de caixa e haveres financeiros do RPPS no cálculo do Resultado Nominal (SEM RPPS) - abaixo da linha.\nParâmetros 2023 2024 2025\nIPCA (%)(1) 4,62% 3,87% 4,85%\nTx. de var. do PIB (%)(2) 2,90% 1,59% 2,19%\nPIB nominal (R$ milhões)(3) 336.747 355.341 380.734\nReceita Corrente Líquida - RCL (R$)(4) 38.407.128.875 40.349.918.128 45.190.131.451\nNota:\n1. Fonte: Para 2025, estimativas contidas no relatório Focus publicado no dia 01/09/2025. Para os demais anos, estimativas contidas no relatório Focus publicado no dia 15/01/2024.\n2. Fonte: Para 2025, estimativas contidas no relatório Focus publicado no dia 01/09/2025. Para os demais anos, estimativas contidas no relatório Focus publicado no dia 15/01/2024.\n3. Fonte: Instituto Mauro Borges para o ano de 2023. Para os demais anos, calculado com base nas variações percentuais das estimativas do IPCA e PIB.\n4. Fonte: Relatório Resumido de Execução Orçamentária - RREO para o ano de 2023. Para demais anos: resultados das projeçoes de receitas constantes nesta LDO\n\" (NR)\nANEXO II\n(Alteração do Anexo I - Metas Fiscais da Lei nº 22.874, de 24 de julho de 2024)\n\"DEMONSTRATIVO 3 - METAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES\nGOVERNO DO ESTADO DE GOIÁS\nLEI DE DIRETRIZES ORÇAMENTÁRIAS\nANEXO DE METAS FISCAIS\nMETAS FISCAIS ATUAIS COMPARADAS COM AS FIXADAS NOS TRÊS EXERCÍCIOS ANTERIORES\n2025\nAMF - Demonstrativo 3 (LRF, art.4º, §2º, inciso II) R$ 1,00\nESPECIFICAÇÃO VALORES A PREÇOS CORRENTES\n2022 2023 % 2024 % 2025 %\nReceita Total (EXCETO FONTES RPPS) 36.900.165.900 37.759.173.453 2,33% 39.643.510.045 4,99% 45.762.517.026 15,44%\nReceitas Primárias (EXCETO FONTES RPPS) (I) 32.521.233.974 36.093.993.904 10,99% 38.383.618.938 6,34% 43.458.349.998 13,22%\nDespesa Total (EXCETO FONTES RPPS) 35.242.943.035 35.481.193.965 0,68% 39.388.400.350 11,01% 50.161.928.455 27,35%\nDespesas Primárias (EXCETO FONTES RPPS) (II) 31.046.784.912 34.737.556.974 11,89% 38.198.896.035 9,96% 48.417.395.890 26,75%\nReceita Total (COM FONTES RPPS) 2.422.487.079 2.896.128.604 19,55% 3.165.343.847 9,30% 3.691.021.518 16,61%\nReceitas Primárias (COM FONTES RPPS) (III) 2.373.837.576 2.476.011.532 4,30% 3.158.806.845 27,58% 3.571.688.411 13,07%\nDespesa Total (COM FONTES RPPS) 2.585.007.495 2.634.409.130 1,91% 3.121.319.127 18,48% 3.341.085.286 7,04%\nDespesas Primárias (COM FONTES RPPS) (IV) 2.585.007.495 2.634.409.130 1,91% 3.121.319.127 18,48% 3.341.085.286 7,04%\nResultado Primário (SEM RPPS) - Acima da Linha (V) = (I - II) 1.474.449.062 1.356.436.930 -8,00% 184.722.903 -86,38% - 4.959.045.893 -2784,59%\nResultado Primário (COM RPPS) - Acima da Linha (VI) = (V) + (III - IV) 1.263.279.143 1.198.039.332 -5,16% 222.210.621 -81,45% - 4.728.442.767 -2227,91%\nDívida Pública Consolidada (DC) 23.476.739.990 24.386.175.952 3,87% 27.278.451.974 11,86% 28.857.524.375 5,79%\nDívida Consolidada Líquida (DCL) 19.358.344.587 24.386.175.952 25,97% 13.663.539.682 -43,97% 16.025.711.466 17,29%\nResultado Nominal (SEM RPPS) - Abaixo da Linha - 1.542.397.573 - 5.027.831.365 225,98% - 701.203.900 -86,05% - 5.741.223.529 718,77%\nESPECIFICAÇÃO VALORES A PREÇOS CONSTANTES\n2022 2023 % 2024 % 2025 %\nReceita Total (EXCETO FONTES RPPS) 40.098.965.268 39.220.453.466 2,33% 39.643.510.045 1,08% 45.762.517.026 15,44%\nReceitas Primárias (EXCETO FONTES RPPS) (I) 35.340.432.754 37.490.831.468 10,99% 38.383.618.938 2,38% 43.458.349.998 13,22%\nDespesa Total (EXCETO FONTES RPPS) 38.298.081.167 36.854.316.171 0,68% 39.388.400.350 6,88% 50.161.928.455 27,35%\nDespesas Primárias (EXCETO FONTES RPPS) (III) 33.738.166.740 36.081.900.428 11,89% 38.198.896.035 5,87% 48.417.395.890 26,75%\nReceita Total (COM FONTES RPPS) 2.632.487.494 3.008.208.781 19,55% 3.165.343.847 5,22% 3.691.021.518 16,61%\nReceitas Primárias (COM FONTES RPPS) (III) 2.579.620.665 2.571.833.178 4,30% 3.158.806.845 22,82% 3.571.688.411 13,07%\nDespesa Total (COM FONTES RPPS) 2.809.096.469 2.736.360.763 1,91% 3.121.319.127 14,07% 3.341.085.286 7,04%\nDespesas Primárias (COM FONTES RPPS) (IV) 2.809.096.469 2.736.360.763 1,91% 3.121.319.127 14,07% 3.341.085.286 7,04%\nResultado Primário (SEM RPPS) - Acima da Linha (V) = (I - II) 1.602.266.014 1.408.931.040 -8,00% 184.722.903 -86,89% - 4.959.045.893 -2784,59%\nResultado Primário (COM RPPS) - Acima da Linha (VI) = (V) + (III - IV) 1.372.790.210 1.244.403.454 -5,16% 222.210.621 -82,14% - 4.728.442.767 -2227,91%\nDívida Pública Consolidada (DC) 25.511.890.218 25.329.920.961 3,87% 27.278.451.974 7,69% 28.857.524.375 5,79%\nDívida Consolidada Líquida (DCL) 21.036.479.601 25.329.920.961 25,97% 13.663.539.682 -46,06% 16.025.711.466 17,29%\nResultado Nominal (SEM RPPS) - Abaixo da Linha - 1.676.104.841 - 5.222.408.439 225,98% - 701.203.900 -86,57% - 5.741.223.529 718,77%\nFonte: Sistema Programação e Execução Orçamentária e Financeira\nSistema de Contabilidade Geral do Estado de Goiás (SCG)\nNOTAS:\n1) A elaboração desse demonstrativo segue a metodologia de cálculo disposta no item 03.06.00 - Anexo 6 da Parte III do MDF. Portanto, no cálculo do Resultado Primário (SEM RPPS) - acima da linha, não são consideradas as receitas e despesas com as fontes do RPPS. Estas são apresentadas de forma apartada, com impacto apenas no cálculo do Resultado Primário (COM RPPS) - acima da linha, para fins de transparência. Também não são consideradas as dívidas, disponibilidade de caixa e haveres financeiros do RPPS no cálculo do Resultado Nominal (SEM RPPS) - abaixo da linha.\n2) As metas para os exercícios de 2022 e 2023 foram calculadas com base na metodologia estipulada pelo MDF/STN vigente à época da elaboração de cada LDO. Desta forma, não foi possível obter os valroes das receitas e despesas, total e primária, exceto e com fontes RPPS, conforme estipulado pela 14ª edição do MDF. Isso decorre do fato de que essas fontes (RPPS) não eram projetadas no momento de elaboração das respectivas LDO. Neste sentido, para o preenchimento deste demonstrativa e, principalmente, para fins de comparação, os valores apresentados neste demonstrativo foram estimados a partir das proporções de cada fonte de receita e despesa nos valores realizados de 2021 e 2022, respectivamente\nANEXO III\n(Alteração do Anexo I - Metas Fiscais da Lei nº 23.570, de 10 de julho de 2025)\nESTADO DE GOIÁS\nLEI DE DIRETRIZES ORÇAMENTÁRIAS\nANEXO DE METAS FISCAIS\nestimativa e compensação da renúncia de receita\n2026\nAMF - Demonstrativo 7 (LRF, art. 4°, § 2°, inciso V) R$ 1,00\nTRIBUTO MODALIDADE SETORES/PROGRAMAS/ BENEFICIÁRIOS 2026 2027 2028\nICMS\nCrédito Outorgado\nAtacado 3.006.986.728 3.189.811.521 3.378.220.928\nIndústria 5.345.330.134 5.670.326.206 6.005.249.694\nVarejo 160.978.115 170.765.584 180.852.024\nProdução agropecuária 84.305.502 89.431.277 94.713.625\nPrestação de serviços 58.288.832 61.832.793 65.485.008\nSub-total 8.655.889.311 9.182.167.381 9.724.521.279\nProGoiás Atacado 32.042.445 33.990.626 35.998.316\nIndústria 2.727.443.509 2.893.272.075 3.064.166.083\nVarejo 7.678.889 8.145.765 8.626.903\nProdução agropecuária 8.536.500 9.055.519 9.590.393\nPrestação de serviços 2.139.253 2.269.319 2.403.359\nSub-total 2.777.840.596 2.946.733.304 3.120.785.054\nCO + ProGoiás Total 11.433.729.907 12.128.900.685 12.845.306.333\nRedução de Base de Cálculo\nAtacado 315.606.315 334.795.179 354.570.191\nIndústria 78.781.854 83.571.790 88.508.042\nVarejo 724.882.525 768.955.383 814.374.501\nProdução agropecuária 1.910.120 2.026.256 2.145.939\nPrestação de serviços 56.566.197 60.005.421 63.549.701\nSub-total 1.177.747.011 1.249.354.029 1.323.148.374\nIsenção Atacado 97.666.943 103.605.093 109.724.632\nIndústria 73.262.491 77.716.851 82.307.274\nVarejo 431.939.770 458.201.708 485.265.850\nProdução agropecuária 29.383.734 31.170.265 33.011.368\nPrestação de serviços 55.780.709 59.172.177 62.667.240\nSub-total 688.033.647 729.866.093 772.976.363\nFomentar/Produzir [Indústria] 2.842.961.070 3.015.813.103 3.193.945.120\nEstimativa de Propostas de Alterações Legislativas em Tramitação (atendimento ao art. 14, inciso I, LRF) 1.658.008.103 728.917.637 768.714.593\nAnistia / Remissão 88.041.488 63.449.315 52.913.824\nIPVA Redução de Base de Cálculo Automóvel 1000cc 50.683.657 53.765.223 56.940.920\nMotocicleta 125cc 10.705.241 11.356.119 12.026.880\nSub-total 61.388.897 65.121.342 68.967.799\nIsenção Deficiente físico 11.366.418 12.057.496 12.769.684\nIsento por idade 446.175.091 473.302.537 501.258.625\nMototaxi 147.710 156.691 165.946\nÔnibus ou microônibus de turismo 2.635.122 2.795.337 2.960.446\nÔnibus ou microônibus escolar 1.308.368 1.387.917 1.469.895\nTáxi 6.106.430 6.477.701 6.860.313\nVeículos 0 km 307.557.949 326.257.472 345.528.196\nSub-total 775.297.087 822.435.150 871.013.104\nAnistia / Remissão 468.969 181.690 115.835\nEstimativa de Propostas de Alterações Legislativas em Tramitação (atendimento ao art. 14, inciso I, LRF) 129.199.109 94.321.533 99.176.876\nITCD Redução da Base de Cálculo - - -\nEstimativa de Propostas de Alterações Legislativas em Tramitação (atendimento ao art. 14, inciso I, LRF) 51.111.002 40.832.091 42.544.264\nAnistia / Remissão 2.981.922 1.792.309 1.561.362\nCONTRIBUIÇÃO PREVIDENCIÁRIA¹ Redução da base de Cálculo Aposentados e Pensionistas do RPPS 177.516.835 172.131.554 169.670.155\nTOTAL 18.908.968.212 18.940.984.977 20.040.383.847\nFonte: GIAD/Economia\nNota: (1) Fonte: GADP/DAP/GOIASPREV, com base de dados de fevereiro de 2025.\nObservações:\na) Correção pelo IPCA e PIB,conforme percentuais abaixo;\nb) Anistia/Remissão Previstas (2025 a 2027): valores consigados na LOA 2025;\nc) Anistia/Remissão Previstas (2028): valores de 2027;\n\" (NR)\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23868",
+   "short": "Lei 23868/2025",
+   "title": "Lei nº 23868, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111620",
+   "first_law": "lei-2025-23868",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111620",
+     "sha256": "4861e26c854fe3860b9aea86daa39f473cf5af2531f751cff374addc978c534e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.868, DE 26 DE NOVEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUIZ PAULO TEIXEIRA FERREIRA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 26 de novembro de 2025.\nDeputado\nBRUNO PEIXOTO\n- PRESIDENTE -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23869",
+   "short": "Lei 23869/2025",
+   "title": "Lei nº 23869, de 2025 (Institui o Campeonato Goiano de Futebol de Várzea no Estado de Goiás.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111621",
+   "first_law": "lei-2025-23869",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-27",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111621",
+     "sha256": "edf0c5ae05b217b5d67e11ec488fda325f64a5ae46db550aee5fb89df91f6de1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.869, DE 26 DE NOVEMBRO DE 2025\nInstitui o Campeonato Goiano de Futebol de Várzea no Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 23, § 7º, da Constituição Estadual, por seu Presidente, promulga a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Campeonato Goiano de Futebol de Várzea no Estado de Goiás, com o objetivo de promover o esporte amador, incentivar a prática do futebol e integrar as comunidades locais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Campeonato Goiano de Futebol de Várzea será realizado anualmente.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Poderão participar do campeonato equipes amadoras de futebol de várzea, desde que estejam devidamente cadastradas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A organização do campeonato deverá observar as seguintes diretrizes:\nI - realização de etapas regionais e uma etapa final estadual;\nII - garantia de infraestrutura mínima necessária para a realização dos jogos, incluindo campos de futebol adequados, arbitragem, segurança e assistência médica;\nIII - promoção de ações de inclusão social, incentivando a participação de jovens, mulheres e pessoas com deficiência;\nIV - estabelecimento de parcerias com prefeituras, entidades esportivas e organizações da sociedade civil para apoio e realização das etapas regionais;\nV - incentivo ao fair play e à prática esportiva saudável.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Para a execução do previsto nesta Lei, poderão ser firmados convênios e parcerias com empresas privadas, visando à captação de recursos e ao apoio logístico para a realização do campeonato.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, em Goiânia, 26 de novembro de 2025.\nDeputado\nBRUNO PEIXOTO\n- PRESIDENTE -\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23870",
+   "short": "Lei 23870/2025",
+   "title": "Lei nº 23870, de 2025 (Autoriza a aquisição, por doação onerosa do Município de Jaraguá/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111622",
+   "first_law": "lei-2025-23870",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111622",
+     "sha256": "37d00aba112db1728dc303361d135211997a6e14b74b7b73ee79383142f14218",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.870, DE 28 DE NOVEMBRO DE 2025\nAutoriza a aquisição, por doação onerosa do Município de Jaraguá/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Jaraguá/GO, CNPJ nº 01.223.916/0001-73, possibilitada pela Lei municipal nº 1.620, de 6 de dezembro de 2024.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel para doação está avaliado em R$ 238.625,09 (duzentos e trinta e oito mil, seiscentos e vinte e cinco reais e nove centavos), conforme o Laudo de Avaliação para Doação nº 160/2025, da Gerência de Avaliação de Imóveis, da Secretaria de Estado da Administração - SEAD.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei destina-se à construção da Escola do Futuro em Artes Basileu França no Município de Jaraguá/GO, conforme os arts. 4º a 7º da Lei nº 1.620, de 2024.\nParágrafo único. A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel e das benfeitorias em favor do doador, caso haja o descumprimento do disposto no caput deste artigo, sem direito a indenização.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL AUTORIZADO A SER RECEBIDO PELO ESTADO DE GOIÁS, POR DOAÇÃO ONEROSA DO MUNICÍPIO DE JARAGUÁ/GO, PARA A CONSTRUÇÃO DA ESCOLA DO FUTURO EM ARTES BASILEU FRANÇA, CONFORME A LEI MUNICIPAL Nº 1.620, DE 6 DE DEZEMBRO DE 2024\nDENOMINAÇÃO Área Pública 1\nLOCALIZAÇÃO Avenida Moacir Rios, Praça Nicanor Rios, Área 1, Jardim Ana Edith, 76330-000.\nÁREA 5.963,54 m²\nMATRÍCULA Nº 29.014, Cartório de Registro de Imóveis da Comarca de Jaraguá/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"FRENTE: 101,52 metros de circunferência com raio de 71,00 metros dividindo com a Avenida Moacir Rios; FUNDOS: 93,06 metros dividindo com a Praça Nicanor Rios; LADO DIREITO: 52,16 metros dividindo com a Praça Nicanor Rios; LADO ESQUERDO: 52,16 metros dividindo com a Praça Nicanor Rios.\"\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23871",
+   "short": "Lei 23871/2025",
+   "title": "Lei nº 23871, de 2025 (Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111623",
+   "first_law": "lei-2025-23871",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111623",
+     "sha256": "462cad1b672ba1bdc53aa6bcb7f005e287e197157f7015e0ebe62645cb4cdef1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.871, DE 28 DE NOVEMBRO DE 2025\nAutoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do inciso XI do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica autorizado o Chefe do Poder Executivo a adquirir o imóvel especificado no Anexo Único desta Lei para o Estado de Goiás, por doação onerosa do Município de Rio Verde/GO, CNPJ nº 02.056.729/0001-05, permitida pela Lei municipal nº 7.281, de 27 de junho de 2022.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O imóvel para a doação está avaliado em R$ 7.125.043,70 (sete milhões, cento e vinte e cinco mil, quarenta e três reais e setenta centavos), conforme o Laudo de Avaliação para Doação nº 234/2025, da Superintendência Central de Patrimônio Imobiliário, da Secretaria de Estado da Administração.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O bem de que trata esta Lei, conforme o parágrafo único do art. 1º da Lei municipal nº 7.281, de 2022, destina-se à construção pelo Estado de Goiás da sede da 8ª Delegacia Regional de Polícia Civil, em Rio Verde/GO, em dois anos, a partir da formalização da doação com a outorga da escritura pública.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A aquisição autorizada será realizada com a cláusula de inalienabilidade e de reversão do imóvel ao doador no caso do descumprimento do disposto no art. 3º desta Lei.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Compete ao Procurador-Geral do Estado, nos termos do inciso XII do art. 5º da Lei Complementar nº 58, de 04 de julho de 2006, a apreciação da minuta da escritura pública de doação do imóvel de que trata esta Lei.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANEXO ÚNICO\nIMÓVEL A SER RECEBIDO PELO ESTADO DE GOIÁS, POR DOAÇÃO ONEROSA DO MUNICÍPIO DE RIO VERDE/GO, PARA A CONSTRUÇÃO DA 8ª DELEGACIA REGIONAL DE POLÍCIA CIVIL, CONFORME A LEI MUNICIPAL Nº 7.281, DE 27 DE JUNHO DE 2022\nLOCALIZAÇÃO Rua Quatorze (14-B), denominado o imóvel de Parte \"B\" do Lote 1 da Quadra 2, Bairro Popular e Centro, Rio Verde/GO\nÁREA 8.584,39 m²\nMATRÍCULA Nº 103.035 - Cartório de Registro de Imóveis, Títulos e Documentos e Pessoas Jurídicas e Tabelionato de Protestos de Rio Verde/GO\nMEMORIAL DESCRITIVO Assim se descreve: \"Frente para a Rua Quatorze (14-B) em 77,17 + 7,07 metros; dividindo pelo lado direito com a Parte 'A' do lote 01 da quadra 02 em 115,48 metros; dividindo pelo lado esquerdo com a Rua Quinze (15-A) em 87,50 metros; e pelo fundo com a Parte 'A' do lote 01 da quadra 02 em 58,38 + 21,08 + 25,57 metros.\"\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23872",
+   "short": "Lei 23872/2025",
+   "title": "Lei nº 23872, de 2025 (Institui o Dia Estadual dos Conciliadores e Mediadores Judiciais e Extrajudiciais e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111624",
+   "first_law": "lei-2025-23872",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111624",
+     "sha256": "edac1ab0a26ac2e645fb6b72aad72c80a587459a97fcf7cd021c7fe474184d12",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.872, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual dos Conciliadores e Mediadores Judiciais e Extrajudiciais e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual dos Conciliadores e Mediadores Judiciais e Extrajudiciais, a ser celebrado, anualmente, no dia 23 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Fica revogada a Lei nº 17.295, de 25 de abril de 2011.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23873",
+   "short": "Lei 23873/2025",
+   "title": "Lei nº 23873, de 2025 (Institui o Dia Estadual dos Carros Antigos e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111625",
+   "first_law": "lei-2025-23873",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111625",
+     "sha256": "026d007907b29130225379c3a5a6de741580295f54548fd34f97db0dd74ecf41",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.873, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual dos Carros Antigos e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual dos Carros Antigos, a ser comemorado, anualmente, no dia 5 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual dos Carros Antigos fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDRÉ DO PREMIUM\nDeputado\nCORONEL ADAILTON\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23874",
+   "short": "Lei 23874/2025",
+   "title": "Lei nº 23874, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111626",
+   "first_law": "lei-2025-23874",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111626",
+     "sha256": "af8e9d762e05d086dc006312410ba657213cec7c2457c3dce6cab4b02c32c737",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.874, DE 28 DE NOVEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FERES EDUARDO APARECIDO CHADDAD NETO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nGUGU NADER\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23875",
+   "short": "Lei 23875/2025",
+   "title": "Lei nº 23875, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111627",
+   "first_law": "lei-2025-23875",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111627",
+     "sha256": "f27d22f11818018c76af20953c90a225e077e09ac60920ee5d03aeb1aad68444",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.875, DE 28 DE NOVEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa de Nossa Senhora da Guia, realizada, anualmente, nos meses de agosto e setembro, no Município de Firminópolis/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23876",
+   "short": "Lei 23876/2025",
+   "title": "Lei nº 23876, de 2025 (Confere ao Município de Pires do Rio/GO o título de Capital Goiana da Avicultura.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111628",
+   "first_law": "lei-2025-23876",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111628",
+     "sha256": "0ec3a74f20e5aaddd5601bf4fcd6e0395004fd626dbb72b512a6325b1a19f250",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.876, DE 28 DE NOVEMBRO DE 2025\nConfere ao Município de Pires do Rio/GO o título de Capital Goiana da Avicultura.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Pires do Rio/GO o título de Capital Goiana da Avicultura.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23877",
+   "short": "Lei 23877/2025",
+   "title": "Lei nº 23877, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraial das Abóboras, realizado no Município de Rio Verde/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111629",
+   "first_law": "lei-2025-23877",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111629",
+     "sha256": "2737f293c543f31485f56d784287e8f6470b7b54b9d75dac8d69ab9e3cf0ddfa",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.877, DE 28 DE NOVEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraial das Abóboras, realizado no Município de Rio Verde/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraial das Abóboras, realizado, anualmente, no mês de junho, no Município de Rio Verde/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23878",
+   "short": "Lei 23878/2025",
+   "title": "Lei nº 23878, de 2025 (Institui o Dia Estadual do Corretor de Seguros de Vida.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111630",
+   "first_law": "lei-2025-23878",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111630",
+     "sha256": "6f8eac6eb6e1b001e38c9ffb15cf30013c89721075ad3787d19ea59d9124da38",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.878, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual do Corretor de Seguros de Vida.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Corretor de Seguros de Vida, a ser comemorado, anualmente, no dia 20 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual instituído por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - reconhecer a importância do profissional corretor de seguros de vida na promoção da segurança financeira, proteção familiar e planejamento sucessório dos cidadãos goianos;\nII - incentivar a divulgação de informações sobre a relevância dos seguros de vida como ferramenta de proteção social e financeira;\nIII - promover eventos, seminários e atividades educativas em parceria com entidades representativas do setor, com órgãos públicos e com a sociedade civil organizada;\nIV - estimular a valorização profissional da categoria, com reconhecimento de boas práticas e iniciativas inovadoras no setor de seguros de vida; e\nV - fomentar a celebração de parcerias entre o Poder Público e entidades do setor, instituições de ensino, associações profissionais e demais organizações interessadas, visando à realização de campanhas educativas e de conscientização sobre a importância da atividade do corretor de seguros de vida.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual do Corretor de Seguros de Vida passa a integrar o Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23879",
+   "short": "Lei 23879/2025",
+   "title": "Lei nº 23879, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111631",
+   "first_law": "lei-2025-23879",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111631",
+     "sha256": "724f032be76afca4b7175ec7cf420cb51831d8af606364e57473e17cdbce6ace",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.879, DE 28 DE NOVEMBRO DE 2025\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Bloco do Mancha fica reconhecido como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23880",
+   "short": "Lei 23880/2025",
+   "title": "Lei nº 23880, de 2025 (Institui o Dia Estadual dos Secretários Municipais de Saúde.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111632",
+   "first_law": "lei-2025-23880",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111632",
+     "sha256": "511b8dfd94904e712528cc72c963f6671fa82acf7b4977471a3c23646721ad1b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.880, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual dos Secretários Municipais de Saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual dos Secretários Municipais de Saúde, a ser comemorado, anualmente, no dia 19 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual dos Secretários Municipais de Saúde tem por objetivos:\nI - reconhecer e valorizar a atuação dos Secretários Municipais de Saúde como gestores de políticas públicas de saúde nos municípios do Estado de Goiás;\nII - incentivar o fortalecimento das ações de saúde pública, promovendo a troca de experiências e conhecimentos entre os Secretários Municipais de Saúde;\nIII - proporcionar maior visibilidade ao papel desempenhado pelos Secretários Municipais de Saúde na implementação do Sistema Único de Saúde (SUS) e na promoção da saúde e do bem-estar da população;\nIV - promover atividades de capacitação, eventos científicos, seminários, palestras e debates voltados à melhoria da gestão da saúde pública municipal; e\nV - facilitar a articulação entre os diversos níveis de governo e instâncias de controle social, visando ao aprimoramento das políticas de saúde.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As comemorações do Dia Estadual dos Secretários Municipais de Saúde poderão incluir:\nI - reuniões, fóruns, seminários e conferências para discussão de temas relevantes da saúde pública, com a participação de representantes dos Poderes Executivo, Legislativo e Judiciário, além de membros de organizações da sociedade civil e acadêmica;\nII - atividades de integração e formação continuada para os Secretários Municipais de Saúde; e\nIII - homenagens a Secretários Municipais de Saúde que se destacaram na gestão de políticas públicas de saúde no âmbito municipal, por meio de entrega de prêmios, diplomas e honrarias.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Fica recomendado aos municípios goianos que incentivem a participação de seus Secretários Municipais de Saúde nas atividades alusivas ao Dia Estadual dos Secretários Municipais de Saúde, criando espaços de diálogo e colaboração entre os diversos entes da Federação.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23881",
+   "short": "Lei 23881/2025",
+   "title": "Lei nº 23881, de 2025 (Altera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111633",
+   "first_law": "lei-2025-23881",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111633",
+     "sha256": "adc7cf8db026f128385467d733dcc5ab4088c4ac9faa19f8e3e2e7f5640fc57c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.881, DE 28 DE NOVEMBRO DE 2025\nAltera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 7.371, de 20 de agosto de 1971, passa a vigorar com as seguintes alterações:\n\"Art. 1º As organizações da sociedade civil, os sindicatos, as sociedades cooperativas e as organizações religiosas constituídos no Estado de Goiás podem ser declarados de utilidade pública se provarem:\nII - que estão em efetivo funcionamento há mais de um ano;\n§ 1º A prova das exigências contidas nos incisos I e II do caput far-se-á mediante apresentação de cópia:\nI - do estatuto social da entidade atualizado e registrado;\nII - de inscrição no Cadastro Nacional da Pessoa Jurídica - CNPJ;\nIII - da ata de eleição da atual diretoria;\nIV - de comprovante de que a entidade funciona no endereço por ela declarado.\n§ 3º Para os fins do inciso IV do caput deste artigo:\nI - considera-se idônea a pessoa que não tenha condenação transitada em julgado ou proferida por órgão colegiado em decorrência de:\na) ato de improbidade administrativa ou crime contra a administração pública;\nb) quaisquer dos crimes relacionados na alínea \"e\" do inciso I do art. 1º da Lei Complementar federal nº 64, de 18 de maio de 1990.\n§ 4º A prova da exigência contida no inciso IV do caput deste artigo far-se-á mediante apresentação de Certidão Cível e Criminal Negativa (1º e 2º graus), atualizadas, das Justiças Estadual, Federal e Eleitoral, de todos os membros da Diretoria, expedidas pelo cartório distribuidor da sede da pessoa jurídica.\n§ 6º A Procuradoria-Geral da Assembleia Legislativa do Estado de Goiás se manifestará sobre regularidade do disposto no § 1º.\" (NR)\n\"Art. 3º Será revogada a declaração de utilidade pública quando a entidade deixar de cumprir os requisitos estabelecidos no art. 1º.\n§ 1º Qualquer cidadão poderá requerer a Deputado Estadual, mediante representação fundamentada, que apresente projeto de lei para a revogação do ato declaratório de utilidade pública.\n§ 2º A entidade cujo ato de declaração de utilidade pública tiver sido revogado não poderá obter novo título no período de 2 (dois) anos, contados da data da publicação da lei que determinou sua revogação.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Ficam revogados os seguintes dispositivos da Lei nº 7.371, de 20 de agosto de 1971:\nI - o inciso III do caput do art. 1º;\nII - os incisos I, II e III do art. 3º.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23882",
+   "short": "Lei 23882/2025",
+   "title": "Lei nº 23882, de 2025 (Dispõe sobre medidas de prevenção à fraude com cartões de débito ou crédito conhecida como \"golpe da maquininha quebrada\".)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111634",
+   "first_law": "lei-2025-23882",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111634",
+     "sha256": "f1702af5e448a4e975958db8198d3911e0e5c36cb3773304742e83ed64791bea",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.882, DE 28 DE NOVEMBRO DE 2025\nDispõe sobre medidas de prevenção à fraude com cartões de débito ou crédito conhecida como \"golpe da maquininha quebrada\".\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Os estabelecimentos comerciais que realizam transações com cartões de débito ou crédito adotarão as seguintes medidas de segurança e prevenção de fraude:\nI - verificar, antes de realizar qualquer transação, o funcionamento correto da máquina de cartão, de forma a garantir que esteja devidamente conectada;\nII - caso o consumidor alegue problema técnico na máquina de cartão, o estabelecimento comercial:\na) procederá a nova tentativa de pagamento, utilizando o mesmo ou outro equipamento disponível;\nb) confirmará com a operadora da máquina do cartão a existência de eventual problema técnico, antes de sugerir formas alternativas de pagamento;\nIII - qualquer transação realizada de forma alternativa será acompanhada de recibo ou comprovante de pagamento, que será entregue ao consumidor.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Em caso de alegação de falha na máquina de cartão, o estabelecimento comercial não poderá recusar o pagamento via cartão de débito ou crédito sem antes proceder às medidas definidas no art. 1º desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Poderão ser celebrados convênios ou parcerias com órgãos públicos ou com a organização da sociedade civil para a realização de campanhas de conscientização e educação sobre fraudes eletrônicas.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O descumprimento do disposto nesta Lei sujeitará o infrator às sanções previstas nos arts. 56 e seguintes da Lei federal nº 8.078, de 11 de setembro de 1990.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23883",
+   "short": "Lei 23883/2025",
+   "title": "Lei nº 23883, de 2025 (Institui a Política Estadual de Prevenção e Combate ao Crime de Perseguição - SOS STALKING.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111635",
+   "first_law": "lei-2025-23883",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111635",
+     "sha256": "28338ce75063addbc021d41fef582e0c2df94b3d6fccfc771824baf90504a7ab",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.883, DE 28 DE NOVEMBRO DE 2025\nInstitui a Política Estadual de Prevenção e Combate ao Crime de Perseguição - SOS STALKING.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Prevenção e Combate ao Crime de Perseguição - SOS STALKING, que tem por objetivos:\nI - prevenir e combater a prática do crime de perseguição;\nII - valorizar o direito à integridade física e psicológica, à capacidade de locomoção, à liberdade e à privacidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a conscientização da população sobre a existência do crime de perseguição, bem como as formas de identificação e combate;\nII - estimular a adoção de medidas de combate às violências física e psicológica, associadas à perseguição;\nIII - (VETADO);\nIV - estimular a adoção de medidas de apoio às vítimas do crime de perseguição;\nV - estimular o atendimento às vítimas do crime de perseguição por profissionais capacitados para adotar as medidas necessárias à sua proteção.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da Política Estadual ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23884",
+   "short": "Lei 23884/2025",
+   "title": "Lei nº 23884, de 2025 (Institui o Dia Estadual de Proteção dos Mananciais e Nascentes.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111636",
+   "first_law": "lei-2025-23884",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111636",
+     "sha256": "3b5ef3a70ef0ad63a50981eabe2712f8133a9f4380ed7bf5b602b5e3ffc92a6d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.884, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual de Proteção dos Mananciais e Nascentes.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual de Proteção dos Mananciais e Nascentes, a ser comemorado, anualmente, no dia 19 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual de Proteção dos Mananciais e Nascentes fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual de Proteção dos Mananciais e Nascentes tem por objetivos:\nI - conscientizar a sociedade sobre a importância da preservação dos mananciais e nascentes;\nII - estimular a adoção de ações educativas, campanhas ambientais e mutirões comunitários em defesa da água;\nIII - valorizar o patrimônio natural do Estado de Goiás, destacando sua relevância ambiental, social e econômica.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Poder Público poderá, por meio dos órgãos competentes, promover atividades alusivas à data, em parceria com instituições públicas, privadas e com a sociedade civil.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23885",
+   "short": "Lei 23885/2025",
+   "title": "Lei nº 23885, de 2025 (Institui o Dia Estadual do Ambientalista.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111637",
+   "first_law": "lei-2025-23885",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-11-28",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111637",
+     "sha256": "bb6bb41d7f44be23248be3325d2e8a27a32110ee34e61d5dc893d32dc2adb3dc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.885, DE 28 DE NOVEMBRO DE 2025\nInstitui o Dia Estadual do Ambientalista.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Ambientalista, a ser comemorado, anualmente, no dia 5 de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Ambientalista tem por objetivos:\nI - conscientizar a sociedade sobre a importância da preservação ambiental, com ênfase na proteção do bioma Cerrado;\nII - reconhecer e valorizar o trabalho de ambientalistas, organizações e comunidades que atuam na defesa do meio ambiente em Goiás;\nIII - estimular a realização de palestras, seminários e campanhas voltadas à educação ambiental e ao desenvolvimento sustentável;\nIV - fomentar políticas públicas que promovam a sustentabilidade e a conservação dos recursos naturais no Estado.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual do Ambientalista fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 28 de novembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23886",
+   "short": "Lei 23886/2025",
+   "title": "Lei nº 23886, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111643",
+   "first_law": "lei-2025-23886",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111643",
+     "sha256": "76bd790e6984d0f505cf98e2947c88c2107eb2647db72a47cea6a67b6da3e558",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.886, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MARGARETH MENEZES DA PURIFICAÇÃO COSTA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23887",
+   "short": "Lei 23887/2025",
+   "title": "Lei nº 23887, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111644",
+   "first_law": "lei-2025-23887",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111644",
+     "sha256": "624623ef312ad6e439f30865b09484e489cb0f4050dc144ba69b798c569942f2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.887, DE 1º DE DEZEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO AMOR-EXIGENTE DE CATALÃO - VERA LUSSIA CARDOSO BORGES, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 30.127.865/0001-84, com sede no Município de Catalão/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23888",
+   "short": "Lei 23888/2025",
+   "title": "Lei nº 23888, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111645",
+   "first_law": "lei-2025-23888",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111645",
+     "sha256": "9d3c40a458b42c01d33e986326265d6119a183a83ff02346a68a6f7a197636b5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.888, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LEVINO DE SOUZA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nCORONEL ADAILTON\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23889",
+   "short": "Lei 23889/2025",
+   "title": "Lei nº 23889, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111646",
+   "first_law": "lei-2025-23889",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111646",
+     "sha256": "b4e5861e8c21a294495108604c4feaa6426337dc530003d093bdf0546c065e5c",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.889, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a FRANCISCO MATA MACHADO TAVARES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23890",
+   "short": "Lei 23890/2025",
+   "title": "Lei nº 23890, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111647",
+   "first_law": "lei-2025-23890",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111647",
+     "sha256": "b33af719a7f915b236e6fc84f222581018a83806feddd9cad98becf87274bf4d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.890, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a AUGUSTO CÉSAR ROCHA VENTURA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23891",
+   "short": "Lei 23891/2025",
+   "title": "Lei nº 23891, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111648",
+   "first_law": "lei-2025-23891",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111648",
+     "sha256": "547296017a657d1db82be2021eb98616355554bd20909737843e09edd7dec198",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.891, DE 1º DE DEZEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE PAIS E AMIGOS DOS EXCEPCIONAIS DE INDIARA-GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 49.897.211/0001-68, com sede no Município de Indiara/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23892",
+   "short": "Lei 23892/2025",
+   "title": "Lei nº 23892, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111649",
+   "first_law": "lei-2025-23892",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111649",
+     "sha256": "bfb7db3cb8c51f8d0a65bf489a50dfe2c14a7f30a40f1409019f49ebf69b7b14",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.892, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a GERSON LEVY RABONE PALMA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23893",
+   "short": "Lei 23893/2025",
+   "title": "Lei nº 23893, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111650",
+   "first_law": "lei-2025-23893",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111650",
+     "sha256": "3563bd2c2646a3cd4150867e944ad3535b2a854ca416daeb2f17c4a3de6381d8",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.893, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CAMILA CAROLINA DE DEUS FERREIRA o Título Honorífico de Cidadã Goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJULIO PINA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23894",
+   "short": "Lei 23894/2025",
+   "title": "Lei nº 23894, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111651",
+   "first_law": "lei-2025-23894",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111651",
+     "sha256": "f6637c2210e31063af15e664e49aa12bc5f9569bd42d752fe9ba0fdd3ca40810",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.894, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a CLAUDE JEAN BAPTISTE TROISGROS o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23895",
+   "short": "Lei 23895/2025",
+   "title": "Lei nº 23895, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111652",
+   "first_law": "lei-2025-23895",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111652",
+     "sha256": "ee7278aeb4b2fe1be8883c6660a4a6c4126249b470c868e665ae9ba6490f08d7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.895, DE 1º DE DEZEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO VILA CRUZ, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 54.834.842/0001-78, com sede no Município de Trindade/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUIZ SAMPAIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23896",
+   "short": "Lei 23896/2025",
+   "title": "Lei nº 23896, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111653",
+   "first_law": "lei-2025-23896",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111653",
+     "sha256": "25acc5f325fd1b98191f1376b09d6f25b8215df87b27ccb570d49be8978f068b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.896, DE 1º DE DEZEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DE VOLUNTÁRIOS DE COMBATE AO CÂNCER DE TRÊS RANCHOS - GO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 23.305.695/0001-15, com sede no Município de Três Ranchos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23897",
+   "short": "Lei 23897/2025",
+   "title": "Lei nº 23897, de 2025 (Declara de utilidade pública a entidade que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111654",
+   "first_law": "lei-2025-23897",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111654",
+     "sha256": "f114abd1e30442171022199c9646145e9a777b68ceb5eb569f5e233ba0bcf703",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.897, DE 1º DE DEZEMBRO DE 2025\nDeclara de utilidade pública a entidade que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica declarada de utilidade pública a ASSOCIAÇÃO DOS POLICIAIS PENAIS DO ESTADO DE GOIÁS - ASPPEGO, inscrita no Cadastro Nacional da Pessoa Jurídica (CNPJ) sob o nº 03.376.308/0001-24, com sede no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23898",
+   "short": "Lei 23898/2025",
+   "title": "Lei nº 23898, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111655",
+   "first_law": "lei-2025-23898",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111655",
+     "sha256": "7fbdc9fbc96392d3b304a1f2af5884c941e0aa592c125229aa761d01f14be1e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.898, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a RODRIGO SOARES SATHLER o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23899",
+   "short": "Lei 23899/2025",
+   "title": "Lei nº 23899, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111656",
+   "first_law": "lei-2025-23899",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111656",
+     "sha256": "0e788bfeab61d39a5ce098f4d93bc8fc79cb8ae8679cb9488658136b611b8149",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.899, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a MÁRCIO LUÍS SPIMPOLO o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23900",
+   "short": "Lei 23900/2025",
+   "title": "Lei nº 23900, de 2025",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111657",
+   "first_law": "lei-2025-23900",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111657",
+     "sha256": "c0da2f4b6521e06f6c67299dc37cbc050a8a0814ae7acc80aa65b554dfdd63d0",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.900, DE 1º DE DEZEMBRO DE 2025\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Parada Obrigatória - Encontro de Motociclistas, realizada no Município de Morrinhos/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Parada Obrigatória - Encontro de Motociclistas, realizada, anualmente, durante a Semana Santa, no Município de Morrinhos/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nLINCOLN TEJOTA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23901",
+   "short": "Lei 23901/2025",
+   "title": "Lei nº 23901, de 2025 (Institui a Semana Estadual de Sensibilização sobre a Neurofibromatose (doença de von Recklinghausen) e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111658",
+   "first_law": "lei-2025-23901",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111658",
+     "sha256": "afa1fe7b7c2cd6d3c790fa3103cdb81abed23340df7756429a575b351009d85e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.901, DE 1º DE DEZEMBRO DE 2025\nInstitui a Semana Estadual de Sensibilização sobre a Neurofibromatose (doença de von Recklinghausen) e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Sensibilização sobre a Neurofibromatose (doença de von Recklinghausen), a ser realizada, anualmente, na semana que inclui o dia 17 de maio.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - sensibilizar a sociedade, por meio da realização de atividades educativas, palestras, seminários, campanhas de sensibilização e distribuição de materiais informativos sobre a existência da neurofibromatose, sintomas, processo de evolução e sobre os cuidados a serem tomados com as pessoas acometidas pela neurofibromatose;\nII - estimular a formação de uma rede de proteção entre Estado, profissionais da saúde e sociedade, que vise à construção e ao fortalecimento de políticas públicas que ampliem a assistência às pessoas acometidas pela neurofibromatose;\nIII - estimular a capacitação dos profissionais de saúde para tratarem a neurofibromatose;\nIV - incentivar a pesquisa para se alcançar tratamento mais eficaz da neurofibromatose.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Para a realização da Semana Estadual instituída por esta Lei, poderão ser celebradas parcerias ou convênios com instituições de pesquisa, organizações da sociedade civil e setor privado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23902",
+   "short": "Lei 23902/2025",
+   "title": "Lei nº 23902, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111659",
+   "first_law": "lei-2025-23902",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111659",
+     "sha256": "c8d8a9e1dc1ad303e056883d38c226cca6f27e897c0727c0a3e78a691be63133",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.902, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCIANO MIRANDA MEIRELES o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nJOSÉ MACHADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2025-23903",
+   "short": "Lei 23903/2025",
+   "title": "Lei nº 23903, de 2025 (Concede o título de cidadania que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/111660",
+   "first_law": "lei-2025-23903",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/111660",
+     "sha256": "669869c068a770f5a161c8db3771a96d34bc3f74e37d4b522a1fb982dba28597",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 23.903, DE 1º DE DEZEMBRO DE 2025\nConcede o título de cidadania que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica concedido a LUCIANO SANTOS DA SILVA o Título Honorífico de Cidadão Goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 1º de dezembro de 2025; 137º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADO EDUARDO PRADO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
