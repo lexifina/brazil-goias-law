@@ -42,6 +42,10 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -248,6 +252,205 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2022-171` | Lei Complementar nº 171, de 2022 | 1 | 2022-03-31 to 2022-03-31 |
 | `lc-2025-204` | Lei Complementar nº 204, de 2025 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2025-03-31 to 2025-03-31 |
 | `lc-2023-189` | Lei Complementar nº 189, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2024-22902` | Lei nº 22902, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22903` | Lei nº 22903, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22904` | Lei nº 22904, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22905` | Lei nº 22905, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22906` | Lei nº 22906, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22907` | Lei nº 22907, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22908` | Lei nº 22908, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22909` | Lei nº 22909, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22910` | Lei nº 22910, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22911` | Lei nº 22911, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22912` | Lei nº 22912, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22913` | Lei nº 22913, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22914` | Lei nº 22914, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22915` | Lei nº 22915, de 2024 (Institui a Campanha Estadual de Orientação à Pessoa Idosa contra Fraudes Financeiras.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22916` | Lei nº 22916, de 2024 (Institui o Dia do Esporte nas escolas da rede pública estadual de ensino.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22917` | Lei nº 22917, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.) | 1 | 2024-08-09 to 2024-08-09 |
+| `lei-2024-22918` | Lei nº 22918, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22919` | Lei nº 22919, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22920` | Lei nº 22920, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22921` | Lei nº 22921, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22922` | Lei nº 22922, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22923` | Lei nº 22923, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22924` | Lei nº 22924, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22925` | Lei nº 22925, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22926` | Lei nº 22926, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22927` | Lei nº 22927, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22928` | Lei nº 22928, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22929` | Lei nº 22929, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22930` | Lei nº 22930, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22931` | Lei nº 22931, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-13 to 2024-08-13 |
+| `lei-2024-22932` | Lei nº 22932, de 2024 | 1 | 2024-08-15 to 2024-08-15 |
+| `lei-2024-22937` | Lei nº 22937, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Ipameri/GO.) | 1 | 2024-08-21 to 2024-08-21 |
+| `lei-2024-22935` | Lei nº 22935, de 2024 | 1 | 2024-10-25 to 2024-10-25 |
+| `lei-2024-22934` | Lei nº 22934, de 2024 (Cria o Adicional de Responsabilidade Técnica para os profissionais temporários de Arquitetura e Engenharia.) | 1 | 2026-03-18 to 2026-03-18 |
+| `lei-2024-22933` | Lei nº 22933, de 2024 (Dispõe sobre o Sistema Unificado Estadual de Sanidade Agroindustrial Familiar, Artesanal e de Pequeno Porte - SUSAF/GO e dá outras providências.) | 1 | 2024-08-21 to 2024-08-21 |
+| `lei-2024-22936` | Lei nº 22936, de 2024 (Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024-2027.) | 1 | 2024-08-21 to 2024-08-21 |
+| `lei-2024-22938` | Lei nº 22938, de 2024 (Abre crédito especial à Secretaria-Geral de Governo - SGG e cria produto no Plano Plurianual para o quadriênio 2024- 2027.) | 1 | 2024-08-21 to 2024-08-21 |
+| `lei-2024-22939` | Lei nº 22939, de 2024 (Dispõe sobre a mudança de denominação dos estabelecimentos de ensino da rede estadual de educação que especifica.) | 1 | 2024-08-21 to 2024-08-21 |
+| `lei-2024-22940` | Lei nº 22940, de 2024 | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22941` | Lei nº 22941, de 2024 (Altera a Lei nº 21.792, de 16 de fevereiro de 2023, que estabelece a organização administrativa básica do Poder Executivo e dá outras providências.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22942` | Lei nº 22942, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22943` | Lei nº 22943, de 2024 (Institui a Semana Estadual de Conscientização sobre o Transtorno Opositor Desafiador - TOD.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22944` | Lei nº 22944, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22945` | Lei nº 22945, de 2024 (Confere ao Município de Jaraguá o título de Capital Goiana das Confecções.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22946` | Lei nº 22946, de 2024 (Institui o Dia Estadual do Trilheiro e dá outras providências.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22947` | Lei nº 22947, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22948` | Lei nº 22948, de 2024 (Institui o Dia Estadual do Nutricionista.) | 1 | 2024-08-26 to 2024-08-26 |
+| `lei-2024-22949` | Lei nº 22949, de 2024 (Institui o Calendário Estadual de Eventos Religiosos.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22950` | Lei nº 22950, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Sebastião, realizada no Município de Silvânia/GO.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22951` | Lei nº 22951, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22952` | Lei nº 22952, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22953` | Lei nº 22953, de 2024 (Institui a Semana Estadual das Cidades Inteligentes e dá outras providências.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22954` | Lei nº 22954, de 2024 (Dispõe sobre o dever de retirada, pelo proprietário, dos bens móveis por ele entregues aos prestadores de serviços de assistência técnica.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22955` | Lei nº 22955, de 2024 | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22956` | Lei nº 22956, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22957` | Lei nº 22957, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22958` | Lei nº 22958, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22959` | Lei nº 22959, de 2024 (Institui a Política Pública "Jovem Economista".) | 1 | 2024-08-28 to 2024-08-28 |
+| `lei-2024-22960` | Lei nº 22960, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22961` | Lei nº 22961, de 2024 (Institui a Política Estadual de Diagnóstico e Tratamento da Escoliose e dá outras providências.) | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22962` | Lei nº 22962, de 2024 (Altera a Lei nº 22.084, de 3 de julho de 2023, que institui a Política Estadual de Apoio à População Migrante.) | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22963` | Lei nº 22963, de 2024 (Estabelece diretrizes para a integração dos municípios goianos ao Sistema Nacional de Trânsito.) | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22964` | Lei nº 22964, de 2024 | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22965` | Lei nº 22965, de 2024 (Dispõe sobre o regime jurídico dos servidores públicos do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2024-09-02 to 2024-09-02 |
+| `lei-2024-22966` | Lei nº 22966, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22967` | Lei nº 22967, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22968` | Lei nº 22968, de 2024 (Altera a Lei nº 16.497, de 10 de fevereiro de 2009, que institui a Política Estadual sobre Mudanças Climáticas.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22969` | Lei nº 22969, de 2024 | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22970` | Lei nº 22970, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22971` | Lei nº 22971, de 2024 (Institui a Política Estadual de Incentivo ao Desenvolvimento dos Municípios Goianos e dá outras providências.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22972` | Lei nº 22972, de 2024 (Altera a Lei nº 16.296, de 02 de julho de 2008, que institui o Dia Estadual de Combate ao Abuso Sexual e à Exploração de Crianças e Adolescentes.) | 1 | 2024-09-04 to 2024-09-04 |
+| `lei-2024-22973` | Lei nº 22973, de 2024 | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-2024-22974` | Lei nº 22974, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-2024-22975` | Lei nº 22975, de 2024 (Institui a Política de Conscientização para o Trânsito e Convivência Harmônica entre Veículos Automotores e Ferrovias no Estado de Goiás.) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-2024-22976` | Lei nº 22976, de 2024 (Institui a Política Estadual de Incentivo à Educação Empreendedora e dá outras providências.) | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-2024-22977` | Lei nº 22977, de 2024 | 1 | 2024-09-05 to 2024-09-05 |
+| `lei-2024-22979` | Lei nº 22979, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa à Universidade Federal de Goiás - UFG, os imóveis que especifica.) | 1 | 2024-09-09 to 2024-09-09 |
+| `lei-2024-22980` | Lei nº 22980, de 2024 (Altera a Lei nº 16.488, de 10 de fevereiro de 2009, que institui a Política Estadual de Incentivo ao Aproveitamento da Energia Solar.) | 1 | 2024-09-09 to 2024-09-09 |
+| `lei-2024-22981` | Lei nº 22981, de 2024 | 1 | 2024-09-10 to 2024-09-10 |
+| `lei-2024-22988` | Lei nº 22988, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22987` | Lei nº 22987, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22986` | Lei nº 22986, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22985` | Lei nº 22985, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22984` | Lei nº 22984, de 2024 | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22983` | Lei nº 22983, de 2024 | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22982` | Lei nº 22982, de 2024 (Abre crédito especial à Secretaria de Estado de Desenvolvimento Social - SEDS e cria produto no Plano Plurianual para o quadriênio 2024-2027.) | 1 | 2024-09-13 to 2024-09-13 |
+| `lei-2024-22989` | Lei nº 22989, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-17 to 2024-09-17 |
+| `lei-2024-22990` | Lei nº 22990, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22991` | Lei nº 22991, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22992` | Lei nº 22992, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22993` | Lei nº 22993, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22994` | Lei nº 22994, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22995` | Lei nº 22995, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22996` | Lei nº 22996, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22997` | Lei nº 22997, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-18 to 2024-09-18 |
+| `lei-2024-22998` | Lei nº 22998, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-22999` | Lei nº 22999, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-23000` | Lei nº 23000, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-23001` | Lei nº 23001, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-23002` | Lei nº 23002, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-23003` | Lei nº 23003, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-19 to 2024-09-19 |
+| `lei-2024-23004` | Lei nº 23004, de 2024 (Altera a Lei nº 13.345, de 24 de setembro de 1998, que autoriza a prática de ato que especifica.) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23005` | Lei nº 23005, de 2024 | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23006` | Lei nº 23006, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23007` | Lei nº 23007, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23008` | Lei nº 23008, de 2024 | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23009` | Lei nº 23009, de 2024 | 1 | 2024-09-23 to 2024-09-23 |
+| `lei-2024-23010` | Lei nº 23010, de 2024 (Institui o Dia Estadual do Neurocirurgião.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23011` | Lei nº 23011, de 2024 (Autoriza o Poder Público estadual a disponibilizar pagamento por meio de PIX nos eventos que especifica.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23012` | Lei nº 23012, de 2024 (Altera a Lei nº 22.093, de 6 de julho de 2023, que institui a Política de Prevenção e Combate ao Câncer de Ovário e dá outras providências.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23013` | Lei nº 23013, de 2024 (Confere ao Município de Itaguaru/GO o título de Capital Goiana da Banana.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23014` | Lei nº 23014, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23015` | Lei nº 23015, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23016` | Lei nº 23016, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23017` | Lei nº 23017, de 2024 (Institui a Semana Estadual de Orientação sobre a Paralisia Cerebral.) | 1 | 2024-09-27 to 2024-09-27 |
+| `lei-2024-23018` | Lei nº 23018, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2024-09-30 to 2024-09-30 |
+| `lei-2024-23019` | Lei nº 23019, de 2024 (Institui a Semana Estadual de Sensibilização para a Perda Gestacional, Neonatal e Infantil e dá outras providências.) | 1 | 2024-09-30 to 2024-09-30 |
+| `lei-2024-23020` | Lei nº 23020, de 2024 (Altera a Lei nº 20.247, de 30 de julho de 2018, que cria a campanha de conscientização "IMPOSTO DE RENDA DO BEM".) | 1 | 2024-09-30 to 2024-09-30 |
+| `lei-2024-23021` | Lei nº 23021, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-09-30 to 2024-09-30 |
+| `lei-2024-23022` | Lei nº 23022, de 2024 | 1 | 2024-10-02 to 2024-10-02 |
+| `lei-2024-23023` | Lei nº 23023, de 2024 (Institui o Dia Estadual de Acolhimento do Paciente Oncológico.) | 1 | 2024-10-02 to 2024-10-02 |
+| `lei-2024-23028` | Lei nº 23028, de 2024 (Altera a Lei nº 21.003, de 05 de maio de 2021, que cria o Programa Crédito Social e dá outras providências.) | 1 | 2024-10-07 to 2024-10-07 |
+| `lei-2024-23027` | Lei nº 23027, de 2024 (Altera a Lei nº 19.952, de 29 de dezembro de 2017, que institui o Programa Bolsa-Artista e dá outras providências.) | 1 | 2024-10-07 to 2024-10-07 |
+| `lei-2024-23026` | Lei nº 23026, de 2024 | 1 | 2024-10-07 to 2024-10-07 |
+| `lei-2024-23025` | Lei nº 23025, de 2024 (Institui a Política Estadual para o Desenvolvimento e a Expansão da Apicultura e Meliponicultura e dá outras providências.) | 1 | 2024-10-07 to 2024-10-07 |
+| `lei-2024-23024` | Lei nº 23024, de 2024 (Institui a Política "Feiras de Orgânicos", para incentivar e fomentar as feiras livres de produtos orgânicos no Estado de Goiás.) | 1 | 2024-10-07 to 2024-10-07 |
+| `lei-2024-23029` | Lei nº 23029, de 2024 (Institui a Política Estadual de Proteção e Atenção às Mães Atípicas e a Semana Estadual das Mães Atípicas.) | 1 | 2026-06-22 to 2026-06-22 |
+| `lei-2024-23031` | Lei nº 23031, de 2024 (Institui o Dia Estadual de Conscientização e Enfrentamento da Doença de Chagas.) | 1 | 2024-10-14 to 2024-10-14 |
+| `lei-2024-23030` | Lei nº 23030, de 2024 (Institui a Semana Estadual de Conscientização e Prevenção do Traumatismo Cranioencefálico - TCE.) | 1 | 2024-10-14 to 2024-10-14 |
+| `lei-2024-23032` | Lei nº 23032, de 2024 (Institui a Semana Estadual de Valorização dos Municípios do Entorno do Distrito Federal e dá outras providências.) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-2024-23033` | Lei nº 23033, de 2024 (Institui a Política Estadual de Inclusão Sociodigital - GO Conectado.) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-2024-23034` | Lei nº 23034, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-10-18 to 2024-10-18 |
+| `lei-2024-23036` | Lei nº 23036, de 2024 | 1 | 2024-10-25 to 2024-10-25 |
+| `lei-2024-23035` | Lei nº 23035, de 2024 (Altera a Lei nº 14.586, de 17 de novembro de 2003, que cria fundos rotativos na Secretaria da Saúde e dá outras providências.) | 1 | 2024-10-25 to 2024-10-25 |
+| `lei-2024-23037` | Lei nº 23037, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Mineiros/GO, do imóvel que especifica.) | 1 | 2024-10-28 to 2024-10-28 |
+| `lei-2024-23038` | Lei nº 23038, de 2024 (Altera a Lei nº 20.795, de 10 de junho de 2020, que autoriza o Chefe do Poder Executivo a firmar o termo de colaboração que especifica.) | 1 | 2024-10-28 to 2024-10-28 |
+| `lei-2024-23039` | Lei nº 23039, de 2024 (Abre crédito especial à Secretaria de Estado do Entorno do Distrito Federal - SEDF.) | 1 | 2024-10-28 to 2024-10-28 |
+| `lei-2024-23040` | Lei nº 23040, de 2024 | 1 | 2024-10-28 to 2024-10-28 |
+| `lei-2024-23041` | Lei nº 23041, de 2024 (Institui o Dia Estadual do Krav Magá e dá outras providências.) | 1 | 2024-10-28 to 2024-10-28 |
+| `lei-2024-23042` | Lei nº 23042, de 2024 (Institui o Laboratório de Inovação Goiás - LIGO.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23043` | Lei nº 23043, de 2024 (Autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, o Prêmio Redação Enem.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23044` | Lei nº 23044, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Santa Fé de Goiás/GO, dos imóveis que especifica.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23045` | Lei nº 23045, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa ao Município de Caldazinha/GO, os imóveis que especifica.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23046` | Lei nº 23046, de 2024 (Autoriza a Secretaria de Estado da Educação a instituir, anualmente, o Festival de Arte Educativo de Goiás - FAEGO na rede estadual de ensino.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23047` | Lei nº 23047, de 2024 (Autoriza o Chefe do Poder Executivo a alienar o imóvel que especifica, por doação onerosa ao Município de Porangatu/GO.) | 1 | 2024-10-29 to 2024-10-29 |
+| `lei-2024-23048` | Lei nº 23048, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-10-31 to 2024-10-31 |
+| `lei-2024-23049` | Lei nº 23049, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Natal do Bem, realizado no Município de Goiânia/GO.) | 1 | 2024-10-31 to 2024-10-31 |
+| `lei-2024-23050` | Lei nº 23050, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-10-31 to 2024-10-31 |
+| `lei-2024-23051` | Lei nº 23051, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Abadiânia/GO, do imóvel que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23052` | Lei nº 23052, de 2024 (Dispõe sobre a concessão de patrocínios na forma que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23053` | Lei nº 23053, de 2024 (Institui o Dia Estadual do Mesário da Justiça Eleitoral e dá outras providências.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23054` | Lei nº 23054, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23055` | Lei nº 23055, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23056` | Lei nº 23056, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23057` | Lei nº 23057, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23058` | Lei nº 23058, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23059` | Lei nº 23059, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23060` | Lei nº 23060, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23061` | Lei nº 23061, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23062` | Lei nº 23062, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-04 to 2024-11-04 |
+| `lei-2024-23063` | Lei nº 23063, de 2024 | 1 | 2024-11-05 to 2024-11-05 |
+| `lei-2024-23064` | Lei nº 23064, de 2024 (Autoriza a aquisição, por doação onerosa por parte do Município de Porangatu/GO, dos imóveis que especifica.) | 1 | 2024-11-05 to 2024-11-05 |
+| `lei-2024-23065` | Lei nº 23065, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-08 to 2024-11-08 |
+| `lei-2024-23066` | Lei nº 23066, de 2024 (Altera a Lei nº 13.463, de 31 de maio de 1999, que dispõe sobre a Política estadual do idoso e dá outras providências.) | 1 | 2024-11-08 to 2024-11-08 |
+| `lei-2024-23067` | Lei nº 23067, de 2024 (Altera a Lei nº 15.640, de 02 de maio de 2006, que dispõe sobre os fundos rotativos que menciona.) | 1 | 2024-11-08 to 2024-11-08 |
+| `lei-2024-23068` | Lei nº 23068, de 2024 | 1 | 2025-12-23 to 2025-12-23 |
+| `lei-2024-23069` | Lei nº 23069, de 2024 | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23070` | Lei nº 23070, de 2024 | 1 | 2025-01-09 to 2025-01-09 |
+| `lei-2024-23071` | Lei nº 23071, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23072` | Lei nº 23072, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23073` | Lei nº 23073, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23074` | Lei nº 23074, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23075` | Lei nº 23075, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23076` | Lei nº 23076, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23077` | Lei nº 23077, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23078` | Lei nº 23078, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-11 to 2024-11-11 |
+| `lei-2024-23081` | Lei nº 23081, de 2024 (Institui o Dia Estadual do Estudante Universitário.) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-2024-23080` | Lei nº 23080, de 2024 (Institui a Semana Estadual de Divulgação e Conscientização sobre o Planejamento Sucessório e dá outras providências.) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-2024-23079` | Lei nº 23079, de 2024 (Altera a Lei nº 15.958, de 18 de janeiro de 2007, que dispõe sobre a Lei Orgânica do Tribunal de Contas dos Municípios do Estado de Goiás.) | 1 | 2024-11-13 to 2024-11-13 |
+| `lei-2024-23082` | Lei nº 23082, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Circuito de Pesca Esportiva Gigantes do Araguaia.) | 1 | 2024-11-18 to 2024-11-18 |
+| `lei-2024-23083` | Lei nº 23083, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-18 to 2024-11-18 |
+| `lei-2024-23084` | Lei nº 23084, de 2024 (Institui o Dia Estadual do Fonoaudiólogo e da Fonoaudiologia e dá outras providências.) | 1 | 2024-11-18 to 2024-11-18 |
+| `lei-2024-23085` | Lei nº 23085, de 2024 (Institui o Dia Estadual da Diálise e dá outras providências.) | 1 | 2024-11-18 to 2024-11-18 |
+| `lei-2024-23086` | Lei nº 23086, de 2024 (Institui a Semana Estadual de Combate à Violência Escolar e dá outras providências.) | 1 | 2024-11-18 to 2024-11-18 |
+| `lei-2024-23087` | Lei nº 23087, de 2024 | 1 | 2025-04-30 to 2025-04-30 |
+| `lei-2024-23088` | Lei nº 23088, de 2024 (Altera a Lei nº 14.248, de 29 de julho de 2002, que dispõe sobre a Política Estadual de Resíduos Sólidos e dá outras providências.) | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23089` | Lei nº 23089, de 2024 | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23090` | Lei nº 23090, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23091` | Lei nº 23091, de 2024 (Institui o Dia Estadual do Psicanalista.) | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23092` | Lei nº 23092, de 2024 | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23093` | Lei nº 23093, de 2024 | 1 | 2024-11-21 to 2024-11-21 |
+| `lei-2024-23095` | Lei nº 23095, de 2024 (Abre crédito especial ao Fundo Estadual dos Direitos da Criança e do Adolescente - FECAD e ao Fundo Estadual dos Direitos da Pessoa Idosa - FEDPI/GO.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23094` | Lei nº 23094, de 2024 (Autoriza a aquisição, por doação onerosa da União, do imóvel que especifica.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23096` | Lei nº 23096, de 2024 | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23097` | Lei nº 23097, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Nova América/GO, do imóvel que especifica.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23098` | Lei nº 23098, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23099` | Lei nº 23099, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23100` | Lei nº 23100, de 2024 (Institui a Semana Estadual de Incentivo à Mulher na Política e o Dia da Mulher na Política no âmbito do Estado de Goiás.) | 1 | 2024-11-25 to 2024-11-25 |
+| `lei-2024-23101` | Lei nº 23101, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-11-25 to 2024-11-25 |
 | `lei-2024-23102` | Lei nº 23102, de 2024 (Institui o Dia Estadual dos Surdos.) | 1 | 2024-11-25 to 2024-11-25 |
 | `lei-2024-23103` | Lei nº 23103, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-26 to 2024-11-26 |
 | `lei-2024-23104` | Lei nº 23104, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-11-26 to 2024-11-26 |
@@ -1744,19 +1947,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-24599` | Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.) | 1 | 2026-11-04 to 2026-11-04 |
 | `lei-2026-24600` | Lei nº 24600, de 2026 (Institui os Meses Estaduais "Outubro Rosa Pet" e "Novembro Azul Pet".) | 1 | 2026-11-04 to 2026-11-04 |
 
-The build made 1694 commits:
+The build made 1893 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1694 | first version of an act |
+| 1893 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1694 laws in the record.
-- 3330 tags.
+- 1893 laws in the record.
+- 3722 tags.
 
 ## Dates
 
@@ -1768,7 +1971,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `11b1c863e46aa9d2f16024fea4b6fe59ef2f2b9cd53dfd79fd469fb8bf98e275` (8900854 bytes).
+- Corpus: sha256 `ea9587d1d38f55986c706b2edfb0b75937ef7649d3d426a6d70e1e1030d93d4b` (9905353 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -1924,6 +2127,22 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
 - One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -1934,6 +2153,10 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
