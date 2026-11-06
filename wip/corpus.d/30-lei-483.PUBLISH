@@ -1,0 +1,3 @@
+sha256:96173926d10d7d34bb68373498b4c0c713dacc37135940b1f7bbc4513c8f13c6
+reviewer: assembly-runner review.py 2026-11-06T01:49:08Z: second-reader letters check 0 mismatches; no slug/law-key collision; shadow build check.py 0 mismatches 0 trailer errors 0 future-dated; audit_push [] (50 acts)
+at: 2026-11-06T01:49:08Z

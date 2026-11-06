@@ -1,0 +1,2417 @@
+{
+ "country": {
+  "code": "BR-GO",
+  "name": "Goiás",
+  "slug": "brazil-goias",
+  "lang": "pt",
+  "tz": "America/Sao_Paulo",
+  "future_branch": "futuro",
+  "publisher": {
+   "name": "Secretaria de Estado da Casa Civil de Goiás (Legisla Goiás)",
+   "email": "legisla@casacivil.go.gov.br.invalid"
+  },
+  "default_in_force_rule": {
+   "text": "Decreto-Lei 4.657/1942 (LINDB) art. 1: unless it says otherwise, a law takes effect 45 days after its official publication. Goiás laws almost always say \"Esta Lei entra em vigor na data de sua publicação\"; this record dates each act as enacted by its publication in the Diário Oficial do Estado (the Constituição by its promulgation).",
+   "source": "https://www.planalto.gov.br/ccivil_03/decreto-lei/del4657compilado.htm"
+  },
+  "licence_note": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative."
+ },
+ "sources": [
+  {
+   "name": "Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act",
+   "url": "https://legisla.casacivil.go.gov.br",
+   "retrieved": "2026-11-06",
+   "licence": "Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative.",
+   "notes": "50 acts in this part."
+  }
+ ],
+ "laws": {
+  "lei-2026-24054": {
+   "label": "Lei nº 24054, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112614",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24055": {
+   "label": "Lei nº 24055, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112615",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24056": {
+   "label": "Lei nº 24056, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112616",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24058": {
+   "label": "Lei nº 24058, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112618",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24059": {
+   "label": "Lei nº 24059, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112619",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24060": {
+   "label": "Lei nº 24060, de 2026",
+   "title": "Institui a Semana Estadual de Valorização dos Profissionais da Área da Saúde.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112620",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24061": {
+   "label": "Lei nº 24061, de 2026",
+   "title": "Institui o Dia Estadual das Santas Casas e dos Hospitais Filantrópicos.",
+   "kind": "law",
+   "enacted": "2026-01-30",
+   "published": "2026-02-02",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112621",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24062": {
+   "label": "Lei nº 24062, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112695",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24063": {
+   "label": "Lei nº 24063, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112696",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24064": {
+   "label": "Lei nº 24064, de 2026",
+   "title": "Institui a Política Estadual de Incentivo à Implementação de Telhados Verdes.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112697",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24065": {
+   "label": "Lei nº 24065, de 2026",
+   "title": "Institui a Semana Estadual de Valorização do Jiu-Jitsu.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112698",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24066": {
+   "label": "Lei nº 24066, de 2026",
+   "title": "Institui o Dia Estadual do Airsoft.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112699",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24067": {
+   "label": "Lei nº 24067, de 2026",
+   "title": "Institui a Semana Estadual Cajuí.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112700",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24068": {
+   "label": "Lei nº 24068, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112701",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24069": {
+   "label": "Lei nº 24069, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112702",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24070": {
+   "label": "Lei nº 24070, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Etapa do Circuito Goiano de Pesca Esportiva, realizada nos Municípios de Niquelândia/GO e Uruaçu/GO.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112703",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24071": {
+   "label": "Lei nº 24071, de 2026",
+   "title": "Altera a Lei nº 17.696, de 04 de julho de 2012, que institui a Semana de Combate ao Bullying e ao Cyberbullying nas escolas da rede pública e privada da Educação Básica do Estado de Goiás.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112704",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24072": {
+   "label": "Lei nº 24072, de 2026",
+   "title": "Institui a Política Estadual de Incentivo ao Jovem Aprendiz na Ciência.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112705",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24073": {
+   "label": "Lei nº 24073, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Doce em louvor a São Sebastião, realizada na Comunidade Rural das Flores nos Municípios de Cromínia/GO e Mairipotaba/GO.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112706",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24074": {
+   "label": "Lei nº 24074, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Maio, realizada no Município de Guapó/GO.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112707",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24075": {
+   "label": "Lei nº 24075, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112708",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24076": {
+   "label": "Lei nº 24076, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112709",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24077": {
+   "label": "Lei nº 24077, de 2026",
+   "title": "Institui o Dia Estadual do Radialista.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112710",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24078": {
+   "label": "Lei nº 24078, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Folia de Reis de São Francisco de Goiás, realizada no Município de São Francisco de Goiás/GO.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112711",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24079": {
+   "label": "Lei nº 24079, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112712",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24080": {
+   "label": "Lei nº 24080, de 2026",
+   "title": "Altera a Lei nº 22.218, de 16 de agosto de 2023, que institui a Política Estadual de Incentivo ao Turismo Local.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112713",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24081": {
+   "label": "Lei nº 24081, de 2026",
+   "title": "Institui o Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio.",
+   "kind": "law",
+   "enacted": "2026-02-04",
+   "published": "2026-02-04",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112714",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24082": {
+   "label": "Lei nº 24082, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112802",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24083": {
+   "label": "Lei nº 24083, de 2026",
+   "title": "Confere ao Município de Três Ranchos/GO o título de Capital Goiana do Turismo Náutico.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112803",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24084": {
+   "label": "Lei nº 24084, de 2026",
+   "title": "Confere ao Município de Rio Verde/GO o título de Capital Goiana da Soja.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112804",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24085": {
+   "label": "Lei nº 24085, de 2026",
+   "title": "Institui a Semana Estadual de Conscientização sobre o Uso das Redes Sociais por Crianças e Adolescentes e dá outras providências.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112805",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24086": {
+   "label": "Lei nº 24086, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval de Porangatu, realizado no Município de Porangatu/GO.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112806",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24087": {
+   "label": "Lei nº 24087, de 2026",
+   "title": "Institui, no Estado de Goiás, a Rota do Açafrão.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112807",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24088": {
+   "label": "Lei nº 24088, de 2026",
+   "title": "Institui a Semana Estadual do Livro Infantil.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112808",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24089": {
+   "label": "Lei nº 24089, de 2026",
+   "title": "Altera a Lei nº 19.197, de 07 de janeiro de 2016, que institui a Política Estadual de Atenção Integral aos Portadores de Fibromialgia.",
+   "kind": "law",
+   "enacted": "2026-02-10",
+   "published": "2026-02-10",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112809",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24090": {
+   "label": "Lei nº 24090, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112938",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24091": {
+   "label": "Lei nº 24091, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Pecuária de Jataí, realizada no Município de Jataí/GO.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112939",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24092": {
+   "label": "Lei nº 24092, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112940",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24093": {
+   "label": "Lei nº 24093, de 2026",
+   "title": "Dá denominação ao próprio público que especifica.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112941",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24094": {
+   "label": "Lei nº 24094, de 2026",
+   "title": "Institui a Campanha Estadual de Prevenção e Combate ao Câncer de Testículo.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112942",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24095": {
+   "label": "Lei nº 24095, de 2026",
+   "title": "Institui o Dia Estadual das Artes Marciais e dos Esportes de Combate.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112943",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24096": {
+   "label": "Lei nº 24096, de 2026",
+   "title": "Institui a Política Estadual de Apoio Psicossocial e Psicopedagógico para Alunos em Situação de Vulnerabilidade Social.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112944",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24097": {
+   "label": "Lei nº 24097, de 2026",
+   "title": "Veda a realização, a contratação, o apoio ou o patrocínio aos eventos ou às manifestações artísticas que especifica.",
+   "kind": "law",
+   "enacted": "2026-02-13",
+   "published": "2026-02-13",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112945",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24098": {
+   "label": "Lei nº 24098, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Moto Fest Angatu, realizado no Município de Porangatu/GO.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112998",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24099": {
+   "label": "Lei nº 24099, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112999",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24100": {
+   "label": "Lei nº 24100, de 2026",
+   "title": "Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113000",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24101": {
+   "label": "Lei nº 24101, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Mega Dance Musical, realizado no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113002",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24102": {
+   "label": "Lei nº 24102, de 2026",
+   "title": "Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Bora de Bike\", realizado no Município de Goiânia/GO.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113004",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24103": {
+   "label": "Lei nº 24103, de 2026",
+   "title": "Institui o Dia Estadual do Meteorologista.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113005",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  },
+  "lei-2026-24105": {
+   "label": "Lei nº 24105, de 2026",
+   "title": "Institui o Mês Estadual de Defesa da Cultura Goiana.",
+   "kind": "law",
+   "enacted": "2026-02-18",
+   "published": "2026-02-19",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113007",
+   "temporary_until": null,
+   "restores": null,
+   "note": null
+  }
+ },
+ "acts": [
+  {
+   "slug": "lei-2026-24054",
+   "short": "Lei 24054/2026",
+   "title": "Lei nº 24054, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112614",
+   "first_law": "lei-2026-24054",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112614",
+     "sha256": "b49f2be9cb54a684dbd52de044ef0b29c22e6b54b250cd2e7263e0491ff606b4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.054, DE 30 DE JANEIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Folia de Reis de Lages, comemorada, anualmente, no dia 5 de janeiro, no Distrito de Lages, Município de Itapuranga/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nWAGNER CAMARGO NETO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24055",
+   "short": "Lei 24055/2026",
+   "title": "Lei nº 24055, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112615",
+   "first_law": "lei-2026-24055",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112615",
+     "sha256": "58f9da4ff52a3c05fce17c3916324cbc6edc145ed0e6a80a09cf35b77c59d559",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.055, DE 30 DE JANEIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Cavalgada Ecológica, realizada, anualmente, no mês de junho, no Município de Perolândia/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24056",
+   "short": "Lei 24056/2026",
+   "title": "Lei nº 24056, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112616",
+   "first_law": "lei-2026-24056",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112616",
+     "sha256": "390b68a42879ce53d55adc648c0858c38cc4c996709d1db9a2d8820451f5bcd7",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.056, DE 30 DE JANEIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O concurso \"Comida di Buteco\", realizado, anualmente, no mês de abril, fica reconhecido como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O concurso \"Comida di Buteco\" fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24058",
+   "short": "Lei 24058/2026",
+   "title": "Lei nº 24058, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112618",
+   "first_law": "lei-2026-24058",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112618",
+     "sha256": "bd819fe88341f77d5de98b6b4b06cfa82f08c310d366026336595e0cbbfbde50",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.058, DE 30 DE JANEIRO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada DANIEL ANTÔNIO DIAS a Rodovia GO-219 que liga o Município de Orizona/GO ao Município de São Miguel do Passa Quatro/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTÓVÃO TORMIN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24059",
+   "short": "Lei 24059/2026",
+   "title": "Lei nº 24059, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112619",
+   "first_law": "lei-2026-24059",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112619",
+     "sha256": "4cf6b4ec3074066726916ba083a3009db27bd03a938a16a79d810128284f1860",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.059, DE 30 DE JANEIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa da Congada de Santa Efigênia, realizada, anualmente, nos dias 25 e 26 de julho, no Município de Niquelândia/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24060",
+   "short": "Lei 24060/2026",
+   "title": "Lei nº 24060, de 2026 (Institui a Semana Estadual de Valorização dos Profissionais da Área da Saúde.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112620",
+   "first_law": "lei-2026-24060",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112620",
+     "sha256": "887c95314ecd6d471376d37882a650036e54371b8e66362df3939057e12b2f4f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.060, DE 30 DE JANEIRO DE 2026\nInstitui a Semana Estadual de Valorização dos Profissionais da Área da Saúde.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Valorização dos Profissionais da Área da Saúde, a ser realizada, anualmente, na semana que inclui o dia 7 de abril.\nParágrafo único. Durante a Semana Estadual instituída por esta Lei poderão ser realizadas palestras, seminários e atividades que tenham por objetivos:\nI - valorizar o trabalho dos profissionais, especialmente no que tange ao ambiente de trabalho, às causas e aos motivos de sobrecarga;\nII - debater alternativas e políticas públicas em defesa dos trabalhadores da área da saúde.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual de Valorização dos Profissionais da Área da Saúde fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24061",
+   "short": "Lei 24061/2026",
+   "title": "Lei nº 24061, de 2026 (Institui o Dia Estadual das Santas Casas e dos Hospitais Filantrópicos.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112621",
+   "first_law": "lei-2026-24061",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-02",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112621",
+     "sha256": "5d274ad0737c1cb873e0db76f1780baa9f3c25244ece06b23c6b24788b3ebb02",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.061, DE 30 DE JANEIRO DE 2026\nInstitui o Dia Estadual das Santas Casas e dos Hospitais Filantrópicos.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual das Santas Casas e dos Hospitais Filantrópicos, a ser comemorado, anualmente, no dia 1º de novembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 30 de janeiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nDeputado Estadual\nAntônio Gomide\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24062",
+   "short": "Lei 24062/2026",
+   "title": "Lei nº 24062, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112695",
+   "first_law": "lei-2026-24062",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112695",
+     "sha256": "7d143f0196e7c69647a23064df4599fc70f904544fc00e7979fa3f7ff56b5d32",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.062, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Romaria do Divino Pai Eterno, realizada, anualmente, no Município de Trindade/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nCRISTIANO GALINDO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24063",
+   "short": "Lei 24063/2026",
+   "title": "Lei nº 24063, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112696",
+   "first_law": "lei-2026-24063",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112696",
+     "sha256": "cd9275d5728a4911644514a92f6aec1e503aa6af2d4298ae6ece7c44342609fb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.063, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Romaria de Ouro Minas, realizada, anualmente, de 13 a 16 de agosto, no Município de Nova Roma/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANDERSON TEODORO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24064",
+   "short": "Lei 24064/2026",
+   "title": "Lei nº 24064, de 2026 (Institui a Política Estadual de Incentivo à Implementação de Telhados Verdes.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112697",
+   "first_law": "lei-2026-24064",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112697",
+     "sha256": "3226c5abed1fbf75530459280abe73e7653985524c97bdd4df707ddc07dab745",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.064, DE 4 DE FEVEREIRO DE 2026\nInstitui a Política Estadual de Incentivo à Implementação de Telhados Verdes.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo à Implementação de Telhados Verdes.\nParágrafo único. Para os efeitos desta Lei, considera-se telhado verde a cobertura parcial ou total de edificações com vegetação, destinada a promover a redução do consumo de energia e a melhoria do isolamento térmico e contribuir para a biodiversidade local.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º São diretrizes da Política Estadual de Incentivo à Implementação de Telhados Verdes, especialmente:\nI - incentivar a utilização de telhados verdes em edificações públicas e privadas;\nII - promover a conscientização da população sobre os benefícios dos telhados verdes;\nIII - fomentar a capacitação de profissionais para a implementação de telhados verdes;\nIV - promover a integração das políticas públicas relacionadas ao meio ambiente, urbanismo e habitação;\nV - estimular a concessão de incentivos fiscais para a instalação de telhados verdes em edificações;\nVI - estimular a criação de linhas de crédito e financiamento facilitados para a implementação de telhados verdes;\nVII - estimular a celebração de parcerias com instituições de ensino e pesquisa para o desenvolvimento de novas tecnologias e formação de profissionais na área;\nVIII - priorizar, nos projetos de edificações públicas novas ou que passarão por grandes reformas, a inclusão, sempre que tecnicamente viável, de telhados verdes.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As diretrizes técnicas para a implementação de telhados verdes a serem observadas em todas as edificações que adotem esta solução serão definidas de acordo com a conveniência e oportunidade pelo órgão competente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVIRMONDES CRUVINEL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24065",
+   "short": "Lei 24065/2026",
+   "title": "Lei nº 24065, de 2026 (Institui a Semana Estadual de Valorização do Jiu-Jitsu.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112698",
+   "first_law": "lei-2026-24065",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112698",
+     "sha256": "739ed76d0eaf11ad810392ca3a68e56eed7595bb6b6f6f452d640eb0cdadd9bb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.065, DE 4 DE FEVEREIRO DE 2026\nInstitui a Semana Estadual de Valorização do Jiu-Jitsu.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Valorização do Jiu-Jitsu, a ser realizada, anualmente, na terceira semana do mês de setembro, que tem por objetivos:\nI - estimular e promover a prática do jiu-jitsu em todo o território estadual, com foco no desenvolvimento social, educacional e esportivo;\nII - valorizar atletas e instrutores de jiu-jitsu.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Durante a Semana Estadual de Valorização do Jiu-Jitsu, poderão ser realizadas as seguintes atividades:\nI - realização de campeonatos estaduais e regionais de jiu-jitsu, com premiações que incentivem a participação de atletas amadores e profissionais;\nII - ministração gratuita de aulas abertas e workshops por professores e atletas que praticam o esporte;\nIII - realização de palestras e seminários sobre a importância do jiu-jitsu para a educação e o desenvolvimento pessoal, bem como sobre a valorização de atletas que se destacam no cenário nacional e internacional;\nIV - adoção de medidas que utilizam o jiu-jitsu como ferramenta de inclusão social e cidadania para jovens em situação de vulnerabilidade;\nV - realização de exposições e mostras culturais sobre a história do jiu-jitsu no Brasil e em Goiás, com destaque para seus pioneiros e as conquistas dos atletas goianos;\nVI - incentivo à implantação de clínicas esportivas, com técnicos e atletas de alto rendimento, para capacitar novos talentos e incentivar a formação de instrutores qualificados.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A organização e execução da semana estadual instituída por esta Lei serão realizadas pelo Poder Público estadual, por meio do órgão competente, facultada a celebração de parceria com escolas, com a organização da sociedade civil, academias e entidades representativas do esporte.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual de Valorização do Jiu-Jitsu fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nLINEU OLIMPIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24066",
+   "short": "Lei 24066/2026",
+   "title": "Lei nº 24066, de 2026 (Institui o Dia Estadual do Airsoft.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112699",
+   "first_law": "lei-2026-24066",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112699",
+     "sha256": "68ec75c5f15df30159092cef13695132e63c8668eedd1bd0c87eb873fcfafc8b",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.066, DE 4 DE FEVEREIRO DE 2026\nInstitui o Dia Estadual do Airsoft.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Airsoft, a ser celebrado, anualmente, no dia 18 de julho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A instituição do Dia Estadual do Airsoft tem por objetivos:\nI - promover a prática do airsoft como atividade esportiva, recreativa e de integração social;\nII - incentivar o comportamento ético, bem como o respeito às normas de segurança e à legislação vigente;\nIII - valorizar as entidades, associações e atletas que contribuem para o desenvolvimento do airsoft no Estado;\nIV - estimular ações educativas, palestras, competições e eventos relacionados ao tema.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual do Airsoft fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nLUIZ SAMPAIO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24067",
+   "short": "Lei 24067/2026",
+   "title": "Lei nº 24067, de 2026 (Institui a Semana Estadual Cajuí.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112700",
+   "first_law": "lei-2026-24067",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112700",
+     "sha256": "79b2d4aceb8aa63843baf8f67e70d00f6d22a568ebd83845ae97162836abe0b9",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.067, DE 4 DE FEVEREIRO DE 2026\nInstitui a Semana Estadual Cajuí.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual Cajuí, a ser realizada, anualmente, durante a última semana do mês de abril.\nParágrafo único. A Semana Estadual ora instituída é destinada à conscientização, preservação e valorização do Bioma Cerrado.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual Cajuí ora instituída tem como objetivos:\nI - conhecer, valorizar e preservar o Bioma Cerrado;\nII - estimular meios de acesso à cultura e preservação, promovendo conhecimento às crianças e aos jovens da rede pública estadual de ensino;\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante a realização da semana estadual ora instituída, serão desenvolvidas atividades voltadas ao conhecimento, à divulgação e à valorização do Bioma Cerrado, como shows, palestras, atividades de incentivo à preservação, bem como feiras de frutas nativas do Cerrado.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Para a realização da semana estadual ora instituída poderão ser celebrados convênios ou parcerias com órgãos públicos e com a organização da sociedade civil.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nHENRIQUE CÉSAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24068",
+   "short": "Lei 24068/2026",
+   "title": "Lei nº 24068, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112701",
+   "first_law": "lei-2026-24068",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112701",
+     "sha256": "45b31ef38b9408fda1c600edb0104a0515cd91158f9acd107442d0c51681665f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.068, DE 4 DE FEVEREIRO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada RENATA DE SOUSA \"TWO\" a quadra poliesportiva do Colégio Estadual Senador José da Costa Ferreira, situada no Município de Orizona/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nISSY QUINAN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24069",
+   "short": "Lei 24069/2026",
+   "title": "Lei nº 24069, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112702",
+   "first_law": "lei-2026-24069",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112702",
+     "sha256": "7b3f426e9f992fc00b1efd196cc85dee60cf17ea249eb2c96e2e2a1948b528f5",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.069, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Maratona Internacional de Goiânia, realizada, anualmente, no mês de maio, no Município de Goiânia/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24070",
+   "short": "Lei 24070/2026",
+   "title": "Lei nº 24070, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112703",
+   "first_law": "lei-2026-24070",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112703",
+     "sha256": "f99d509624067351784572c81e4a9ac214f566624fad8e08c068876866e5ba73",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.070, DE 4 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Etapa do Circuito Goiano de Pesca Esportiva, realizada nos Municípios de Niquelândia/GO e Uruaçu/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Etapa do Circuito Goiano de Pesca Esportiva, realizada, anualmente, no mês de junho, nos Municípios de Niquelândia/GO e Uruaçu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nDR. RODRIGO FERNANDES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24071",
+   "short": "Lei 24071/2026",
+   "title": "Lei nº 24071, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112704",
+   "first_law": "lei-2026-24071",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112704",
+     "sha256": "af2311a2ed94fff6abc86af1fd42592b37527eacb3635dd699a23e320bd29df2",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.071, DE 4 DE FEVEREIRO DE 2026\nAltera a Lei nº 17.696, de 04 de julho de 2012, que institui a Semana de Combate ao Bullying e ao Cyberbullying nas escolas da rede pública e privada da Educação Básica do Estado de Goiás.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 2º da Lei nº 17.696, de 04 de julho de 2012, fica acrescido dos seguintes incisos:\n\"Art. 2º ......................................................\nV - impulsionar a reflexão crítica entre estudantes, profissionais da educação e comunidade escolar sobre a prevenção e o combate à violência digital, especialmente aquela praticada a partir do uso de inteligência artificial;\nVI - construir coletivamente ações no âmbito da unidade escolar que identifiquem os tipos de violência virtual, praticadas contra meninas e mulheres, em especial aquelas oriundas de inteligência artificial;\nVII - promover a formação continuada a estudantes e educadores sobre a temática da violência virtual;\nVIII - abordar estratégias e meios de atendimento aos estudantes em situação de violência, praticada em âmbito digital, com a apresentação de seus instrumentos protetivos e os meios para o registro de denúncias, em conjunto com demais órgãos do Poder Executivo, com a integração dos órgãos para atendimento e acompanhamento das estudantes vítimas de violência.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24072",
+   "short": "Lei 24072/2026",
+   "title": "Lei nº 24072, de 2026 (Institui a Política Estadual de Incentivo ao Jovem Aprendiz na Ciência.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112705",
+   "first_law": "lei-2026-24072",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112705",
+     "sha256": "533add7fb8525c291b74278a64bec308061b5bef5a8a2b7d66d8d81e33601f39",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.072, DE 4 DE FEVEREIRO DE 2026\nInstitui a Política Estadual de Incentivo ao Jovem Aprendiz na Ciência.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Incentivo ao Jovem Aprendiz na Ciência, que tem por objetivo promover a valorização dos jovens cientistas, combater a desigualdade de classe e estimular os adolescentes em formação a investirem na carreira científica.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a celebração de parcerias ou convênios com instituições de ensino de nível básico e superior, associações, bem como empresas e instituições científicas e acadêmicas, para a fiel execução desta Lei;\nII - incentivar adolescentes a conhecerem diferentes áreas científicas, a fim de motivá-los a acreditar que estão aptos a ocupar todos os espaços nos campos da ciência;\nIII - estimular a criação de campanhas que visem dar visibilidade às carreiras científicas e adotar como parâmetro a trajetória profissional e sua contribuição em pesquisas científicas, no âmbito nacional ou internacional;\nIV - estimular a realização de debates e seminários em instituições científicas e acadêmicas, que discutam o acesso ao mercado de trabalho e a desigualdade das condições de trabalho, com o objetivo de buscar soluções para as dificuldades existentes;\nV - estimular a ampliação de bolsas de iniciação científica e de pesquisa para jovens aprendizes e assegurar, sempre que possível, o sistema de cotas;\nVI - estimular a valorização de cientistas nas áreas de ciências humanas e sociais.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANDRÉ DO PREMIUM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24073",
+   "short": "Lei 24073/2026",
+   "title": "Lei nº 24073, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112706",
+   "first_law": "lei-2026-24073",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112706",
+     "sha256": "90f045169223fe26af641601b168b55519a8699bcef6977ca4e70681be19e65d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.073, DE 4 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Doce em louvor a São Sebastião, realizada na Comunidade Rural das Flores nos Municípios de Cromínia/GO e Mairipotaba/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Doce em louvor a São Sebastião, realizada, anualmente, no dia 20 de janeiro, na Comunidade Rural das Flores nos Municípios de Cromínia/GO e Mairipotaba/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24074",
+   "short": "Lei 24074/2026",
+   "title": "Lei nº 24074, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Maio, realizada no Município de Guapó/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112707",
+   "first_law": "lei-2026-24074",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112707",
+     "sha256": "e9e9e007ab795713fe0255fa1e552d7d1300ea83251c7516428edffa235294d3",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.074, DE 4 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Maio, realizada no Município de Guapó/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Maio, realizada, anualmente, no início do mês de maio, no Município de Guapó/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nVETER MARTINS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24075",
+   "short": "Lei 24075/2026",
+   "title": "Lei nº 24075, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112708",
+   "first_law": "lei-2026-24075",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112708",
+     "sha256": "2e78acdcc13327620aa64bb974726125e40898a624c239e1850ae0bf7abf3562",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.075, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Festejo de São João Batista, realizado, anualmente, no período entre 14 e 24 de junho, no Município de Teresina de Goiás:\nI - fica reconhecido como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24076",
+   "short": "Lei 24076/2026",
+   "title": "Lei nº 24076, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112709",
+   "first_law": "lei-2026-24076",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112709",
+     "sha256": "5684a831b026f99732f11a0b3bc36f5f351a185712108e661194f070477faa43",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.076, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A dança folclórica \"Catira\" fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nAMAURI RIBEIRO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24077",
+   "short": "Lei 24077/2026",
+   "title": "Lei nº 24077, de 2026 (Institui o Dia Estadual do Radialista.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112710",
+   "first_law": "lei-2026-24077",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112710",
+     "sha256": "da537db3c779327d6c4679601b6a1516b2a9200bc234c7f67cfbeb6807617e3a",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.077, DE 4 DE FEVEREIRO DE 2026\nInstitui o Dia Estadual do Radialista.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Radialista, a ser comemorado, anualmente, no dia 5 de julho, em reconhecimento à importância desses profissionais para a sociedade goiana.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º (VETADO).\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Dia Estadual do Radialista fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24078",
+   "short": "Lei 24078/2026",
+   "title": "Lei nº 24078, de 2026",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112711",
+   "first_law": "lei-2026-24078",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112711",
+     "sha256": "4e8fa27105f51d53d425621987505d3bc0f87e6d38dcf768d6a498812467f712",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.078, DE 4 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Folia de Reis de São Francisco de Goiás, realizada no Município de São Francisco de Goiás/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Folia de Reis de São Francisco de Goiás, realizada, anualmente, no período entre 25 de dezembro e 6 de janeiro, no Município de São Francisco de Goiás/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24079",
+   "short": "Lei 24079/2026",
+   "title": "Lei nº 24079, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112712",
+   "first_law": "lei-2026-24079",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112712",
+     "sha256": "a3829d2e5502ae337d16d6bdc337e1769d03f2e14c83f92d51ec140f48851b84",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.079, DE 4 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Campanha da Fraternidade fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24080",
+   "short": "Lei 24080/2026",
+   "title": "Lei nº 24080, de 2026 (Altera a Lei nº 22.218, de 16 de agosto de 2023, que institui a Política Estadual de Incentivo ao Turismo Local.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112713",
+   "first_law": "lei-2026-24080",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112713",
+     "sha256": "4431d531c5672108c9f4f42016aa81e182c7663e79f80150ec8818998cc3d328",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.080, DE 4 DE FEVEREIRO DE 2026\nAltera a Lei nº 22.218, de 16 de agosto de 2023, que institui a Política Estadual de Incentivo ao Turismo Local.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Lei nº 22.218, de 16 de agosto de 2023, passa a vigorar com as seguintes alterações:\n\"Art. 4º ...................................................\nXXXI - estimular a realização de campanhas e publicidades para incentivar a população e investidores a conhecerem os municípios goianos;\nXXXII - estimular a celebração de parcerias ou convênios com órgãos públicos e com a organização da sociedade civil para potencializar os atrativos turísticos que cada município pode apresentar aos visitantes;\nXXXIII - estimular a análise de formas para apresentar as atividades e os atrativos dos municípios, em um ambiente central na capital do Estado, para facilitar o acesso à informação aos turistas e investidores.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nGUSTAVO SEBBA\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24081",
+   "short": "Lei 24081/2026",
+   "title": "Lei nº 24081, de 2026 (Institui o Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112714",
+   "first_law": "lei-2026-24081",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-04",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112714",
+     "sha256": "93447a35914f3e3e3f7ef2ecaaec2becde471aea909f9e1d132f100de8ba7c9e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.081, DE 4 DE FEVEREIRO DE 2026\nInstitui o Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio, a ser realizado, anualmente, no dia 24 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual de Reconhecimento e Lembrança das Vítimas do Genocídio do Povo Armênio fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O Dia Estadual instituído por esta Lei tem como objetivos:\nI - promover a memória das vítimas do genocídio armênio e a conscientização sobre o evento histórico;\nII - divulgar as atividades e os eventos relacionados ao reconhecimento do genocídio armênio;\nIII - fortalecer a conexão do Estado de Goiás com iniciativas nacionais e internacionais de reconhecimento do genocídio armênio;\nIV - promover debates e eventos educativos sobre a importância de prevenir genocídios e outros crimes contra a humanidade;\nV - servir de instrumento para a promoção dos direitos humanos e da paz;\nVI - fomentar o intercâmbio cultural entre o Estado de Goiás e as comunidades armênias e com outras que compartilham a mesma história de sofrimento e superação.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 4 de fevereiro de 2026; 138º da República.\nDANIEL VILELA\nGovernador do Estado em exercício\nMAURO RUBEM\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24082",
+   "short": "Lei 24082/2026",
+   "title": "Lei nº 24082, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112802",
+   "first_law": "lei-2026-24082",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112802",
+     "sha256": "20b5c62f05d6ac7bc670fbdca3a1bb70c16d8c8c3011ca7a9b9af41ff599eccc",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.082, DE 10 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Catedral Santa Rita de Cássia, situada na Rua Paranaíba, 27, Praça da República, Município de Itumbiara/GO, fica reconhecida como patrimônio histórico e cultural goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBRUNO PEIXOTO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24083",
+   "short": "Lei 24083/2026",
+   "title": "Lei nº 24083, de 2026 (Confere ao Município de Três Ranchos/GO o título de Capital Goiana do Turismo Náutico.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112803",
+   "first_law": "lei-2026-24083",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112803",
+     "sha256": "259da93c9675812120b5277f404636bae9b891b451b9c330ed9626229764e3ff",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.083, DE 10 DE FEVEREIRO DE 2026\nConfere ao Município de Três Ranchos/GO o título de Capital Goiana do Turismo Náutico.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Três Ranchos/GO o título de Capital Goiana do Turismo Náutico.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nDr. GEORGE MORAIS\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24084",
+   "short": "Lei 24084/2026",
+   "title": "Lei nº 24084, de 2026 (Confere ao Município de Rio Verde/GO o título de Capital Goiana da Soja.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112804",
+   "first_law": "lei-2026-24084",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112804",
+     "sha256": "0514d97043792871f456fdee457d4642a9013feac2bd26f0d595ca6124fdce48",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.084, DE 10 DE FEVEREIRO DE 2026\nConfere ao Município de Rio Verde/GO o título de Capital Goiana da Soja.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica conferido ao Município de Rio Verde/GO o título de Capital Goiana da Soja.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24085",
+   "short": "Lei 24085/2026",
+   "title": "Lei nº 24085, de 2026 (Institui a Semana Estadual de Conscientização sobre o Uso das Redes Sociais por Crianças e Adolescentes e dá outras providências.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112805",
+   "first_law": "lei-2026-24085",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112805",
+     "sha256": "eb4065668a58f7fc03151fcc3eb6305e899477c3d233c24078e03d919b71719d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.085, DE 10 DE FEVEREIRO DE 2026\nInstitui a Semana Estadual de Conscientização sobre o Uso das Redes Sociais por Crianças e Adolescentes e dá outras providências.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual de Conscientização sobre o Uso das Redes Sociais por Crianças e Adolescentes, a ser realizada, anualmente, na segunda semana do mês de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual instituída por esta Lei tem como objetivos:\nI - difundir informações e orientações sobre o uso consciente e responsável das redes sociais;\nII - promover a prevenção de riscos relacionados ao uso inadequado ou excessivo das plataformas digitais;\nIII - conscientizar pais, responsáveis, educadores e a sociedade sobre os impactos das redes sociais no desenvolvimento infantojuvenil;\nIV - fomentar o diálogo entre escola, família, profissionais da saúde e comunidade sobre práticas de educação digital.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante a Semana Estadual instituída por esta Lei, será estimulada a realização de atividades voltadas à conscientização sobre o uso das redes sociais por crianças e adolescentes, especialmente:\nI - palestras, oficinas e seminários ministrados por profissionais habilitados, especialmente das áreas de educação, psicologia, pedagogia, saúde e segurança;\nII - elaboração e distribuição de cartilhas e materiais educativos com orientações sobre os riscos e boas práticas no uso das redes sociais;\nIII - realização de ações preventivas voltadas à saúde física, emocional e mental de crianças e adolescentes expostos às mídias digitais;\nIV - eventos e atividades destinadas a pais e responsáveis, com o objetivo de orientá-los sobre formas de acompanhamento e apoio no uso digital;\nV - campanhas informativas em escolas, espaços comunitários, centros culturais, mídias sociais e demais ambientes de acesso público;\nVI - realização de atividades abertas ao público em geral, como rodas de conversa, campanhas em mídias sociais, intervenções urbanas, exposições culturais, audiências públicas e debates promovidos em espaços comunitários, centros culturais, unidades de saúde, instituições de acolhimento e demais locais acessíveis à população.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual de Conscientização sobre o Uso das Redes Sociais por Crianças e Adolescentes fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nDELEGADA FERNANDA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24086",
+   "short": "Lei 24086/2026",
+   "title": "Lei nº 24086, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval de Porangatu, realizado no Município de Porangatu/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112806",
+   "first_law": "lei-2026-24086",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112806",
+     "sha256": "f44442376d029bdd76f33a92d0748cc9d449e6eb871f62b8d02c4a553f0b5f13",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.086, DE 10 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval de Porangatu, realizado no Município de Porangatu/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval de Porangatu, realizado, anualmente, na temporada carnavalesca, no Município de Porangatu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nVIVIAN NAVES\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24087",
+   "short": "Lei 24087/2026",
+   "title": "Lei nº 24087, de 2026 (Institui, no Estado de Goiás, a Rota do Açafrão.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112807",
+   "first_law": "lei-2026-24087",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112807",
+     "sha256": "1b4f8d8482d4b2ece1d39202662c1bd8d06198b51e91d86414de740b4b0f8a2d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.087, DE 10 DE FEVEREIRO DE 2026\nInstitui, no Estado de Goiás, a Rota do Açafrão.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída, no Estado de Goiás, a Rota do Açafrão, que tem como objetivos sua promoção, valorização e divulgação, além de:\nI - incentivar o consumo de produtos locais e fortalecer a cadeia produtiva;\nII - fortalecer o desenvolvimento do agronegócio, do turismo e do empreendedorismo local;\nIII - fortalecer a identidade e a cultura local.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Integram a Rota do Açafrão os Municípios de Mara Rosa, Estrela do Norte, Amaralina e Formoso.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O planejamento da Rota do Açafrão poderá ser realizado em parceria entre o Poder Público estadual e os segmentos interessados.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nDR. RODRIGO FERNANDES\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24088",
+   "short": "Lei 24088/2026",
+   "title": "Lei nº 24088, de 2026 (Institui a Semana Estadual do Livro Infantil.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112808",
+   "first_law": "lei-2026-24088",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112808",
+     "sha256": "286a86a62f54fed611d9138f5ef8336baba861dc6a860a453669ac76b1d14349",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.088, DE 10 DE FEVEREIRO DE 2026\nInstitui a Semana Estadual do Livro Infantil.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Semana Estadual do Livro Infantil, a ser realizada, anualmente, na semana que inclui o dia 18 de abril.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Semana Estadual do Livro Infantil tem como objetivos:\nI - incentivar o hábito da leitura entre crianças e adolescentes;\nII - promover o acesso a livros infantis de qualidade nas escolas e bibliotecas públicas;\nIII - valorizar autores, ilustradores e obras da literatura infantil, especialmente os goianos;\nIV - estimular a formação de novos leitores e o desenvolvimento do pensamento crítico desde a infância;\nV - fortalecer a identidade cultural goiana por meio da literatura.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Durante a Semana Estadual do Livro Infantil, poderão ser realizadas as seguintes atividades:\nI - contação de histórias, oficinas literárias, rodas de leitura e saraus infantis;\nII - feiras de livros, exposições e lançamentos de obras infantis;\nIII - encontros com autores e ilustradores de literatura infantil;\nIV - atividades interativas em bibliotecas, escolas e espaços culturais;\nV - parcerias com instituições de ensino superior, editoras e organizações da sociedade civil para promoção de eventos literários.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º A Semana Estadual do Livro Infantil fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º As despesas decorrentes da execução desta Lei correrão à conta de dotações orçamentárias próprias, suplementadas se necessário.\n"
+      },
+      "art-0006": {
+       "label": "Art. 6º",
+       "kind": "article",
+       "text": "Art. 6º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24089",
+   "short": "Lei 24089/2026",
+   "title": "Lei nº 24089, de 2026 (Altera a Lei nº 19.197, de 07 de janeiro de 2016, que institui a Política Estadual de Atenção Integral aos Portadores de Fibromialgia.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112809",
+   "first_law": "lei-2026-24089",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-10",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112809",
+     "sha256": "52270a83217669c785e5d94ef45478042778d523b8a032a7462741711aa83ed1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.089, DE 10 DE FEVEREIRO DE 2026\nAltera a Lei nº 19.197, de 07 de janeiro de 2016, que institui a Política Estadual de Atenção Integral aos Portadores de Fibromialgia.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O art. 3º da Lei nº 19.197, de 07 de janeiro de 2016, passa a vigorar com as seguintes alterações:\n\"Art. 3º ........................................\nVIII - estimular a criação de um cadastro estadual de portadores de fibromialgia, com vistas à obtenção de dados epidemiológicos sobre a população atingida e:\na) facilitar o acompanhamento do tratamento dos pacientes diagnosticados com fibromialgia;\nb) contribuir para o desenvolvimento de pesquisas científicas sobre a doença;\nIX - estimular a adoção de medidas que favoreçam a inclusão social, com vistas à promoção de autonomia e ao exercício de cidadania;\nX - estimular a realização de diagnóstico diferencial, com o objetivo de excluir demais patologias que se assemelham à fibromialgia e possibilitar o tratamento adequado;\nXI - estimular a adoção de planos regionais de atenção à fibromialgia.\" (NR)\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 10 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nPAULO CEZAR\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24090",
+   "short": "Lei 24090/2026",
+   "title": "Lei nº 24090, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112938",
+   "first_law": "lei-2026-24090",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112938",
+     "sha256": "f6e2ba6ecad80eedfa9589f6f6223cf144b8c3d8c8d91806b4e5c8a21ccd8beb",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.090, DE 13 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Corrida de Cavalos, realizada, anualmente, no mês de junho, no Município de Nazário/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24091",
+   "short": "Lei 24091/2026",
+   "title": "Lei nº 24091, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Pecuária de Jataí, realizada no Município de Jataí/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112939",
+   "first_law": "lei-2026-24091",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112939",
+     "sha256": "726becc9875989e09f5865d0a8d320edb47eeb31a91d05cd1d0d7a791de517c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.091, DE 13 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Pecuária de Jataí, realizada no Município de Jataí/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluída, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Pecuária de Jataí, realizada, anualmente, no Município de Jataí/GO, no início do mês de junho.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24092",
+   "short": "Lei 24092/2026",
+   "title": "Lei nº 24092, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112940",
+   "first_law": "lei-2026-24092",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112940",
+     "sha256": "d8a97e9fd723150fa097ad709406e43482b55ef8b5460d6a5424553451e3a695",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.092, DE 13 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa do Pequi, realizada, anualmente, entre os dias 16 e 23 de outubro, no Município de Novo Planalto/GO:\nI - fica reconhecida como patrimônio cultural imaterial goiano;\nII - fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nJAMIL CALIFE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24093",
+   "short": "Lei 24093/2026",
+   "title": "Lei nº 24093, de 2026 (Dá denominação ao próprio público que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112941",
+   "first_law": "lei-2026-24093",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112941",
+     "sha256": "94ceff6c342ed3a7bdd9d489fed754cea166c0e023f8fbb84df0e2a761669682",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.093, DE 13 DE FEVEREIRO DE 2026\nDá denominação ao próprio público que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica denominada GERALDINHO NOGUEIRA a Rodovia GO-147, no trecho que liga os Municípios de Bela Vista de Goiás/GO e Silvânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nCRISTÓVÃO TORMIN\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24094",
+   "short": "Lei 24094/2026",
+   "title": "Lei nº 24094, de 2026 (Institui a Campanha Estadual de Prevenção e Combate ao Câncer de Testículo.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112942",
+   "first_law": "lei-2026-24094",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112942",
+     "sha256": "f9e3ad3d201d8688d07ecbc37457a42b995ceb92ea239b721a4a52438656e5e4",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.094, DE 13 DE FEVEREIRO DE 2026\nInstitui a Campanha Estadual de Prevenção e Combate ao Câncer de Testículo.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Campanha Estadual de Prevenção e Combate ao Câncer de Testículo, que tem por objetivos:\nI - divulgar informações sobre o câncer de testículo para conscientização e prevenção da doença; e\nII - proporcionar maior acesso aos serviços de diagnóstico, de forma a contribuir para a redução da mortalidade.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Campanha instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a realização de palestras que abordem os sintomas, a prevenção, a possibilidade de diagnóstico precoce e o tratamento do câncer de testículo;\nII - estimular a distribuição de materiais educativos sobre prevenção e controle do câncer de testículo;\nIII - estimular a realização de consultas e exames gratuitos para diagnóstico e tratamento do câncer de testículo;\nIV - incentivar a adoção de políticas públicas que contribuam para a prevenção e o combate do câncer de testículo;\nV - estimular a celebração de parcerias ou convênios com órgãos públicos, bem como com organização da sociedade civil, instituições de ensino e associações médicas para possibilitar a fiel execução desta Lei.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º A Campanha instituída por esta Lei fica incluída no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nWILDE CAMBÃO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24095",
+   "short": "Lei 24095/2026",
+   "title": "Lei nº 24095, de 2026 (Institui o Dia Estadual das Artes Marciais e dos Esportes de Combate.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112943",
+   "first_law": "lei-2026-24095",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112943",
+     "sha256": "757d01c8d4ffd8754747d1ce738067848e8abed325822fc0b1547653144c1e6f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.095, DE 13 DE FEVEREIRO DE 2026\nInstitui o Dia Estadual das Artes Marciais e dos Esportes de Combate.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual das Artes Marciais e dos Esportes de Combate, a ser comemorado, anualmente, no dia 19 de setembro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual instituído por esta Lei fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nKARLOS CABRAL\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24096",
+   "short": "Lei 24096/2026",
+   "title": "Lei nº 24096, de 2026 (Institui a Política Estadual de Apoio Psicossocial e Psicopedagógico para Alunos em Situação de Vulnerabilidade Social.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112944",
+   "first_law": "lei-2026-24096",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112944",
+     "sha256": "ae1687ec70665cf6a86c172559bc7118b19992dd31f46337710abb63b1f7616f",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.096, DE 13 DE FEVEREIRO DE 2026\nInstitui a Política Estadual de Apoio Psicossocial e Psicopedagógico para Alunos em Situação de Vulnerabilidade Social.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituída a Política Estadual de Apoio Psicossocial e Psicopedagógico para Alunos da Rede Pública Estadual de Ensino em Situação de Vulnerabilidade Social, que tem por objetivo oferecer-lhes suporte integral e personalizado, especialmente àqueles que enfrentam desafios emocionais, sociais e educacionais.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º A Política Estadual instituída por esta Lei atenderá, especialmente, às seguintes diretrizes:\nI - estimular a identificação precoce de alunos em situação de vulnerabilidade, mediante avaliações psicopedagógicas e socioemocionais;\nII - estimular a disponibilização de profissionais especializados em psicologia e pedagogia para acompanhamento individualizado dos alunos em situação de vulnerabilidade;\nIII - estimular a realização de atividades psicopedagógicas e socioemocionais, com o objetivo de promover o desenvolvimento de habilidades interpessoais, emocionais e cognitivas dos alunos;\nIV - estimular a orientação e o apoio aos pais ou responsáveis dos alunos em situação de vulnerabilidade;\nV - estimular a adoção de medidas que visem à melhoria das relações interpessoais no ambiente escolar;\nVI - estimular a adoção de medidas para aperfeiçoar o processo de ensino-aprendizagem;\nVII - estimular a realização de oficinas, palestras e rodas de conversas sobre aprendizagem, inclusão, saúde mental, diversidade e direitos humanos;\nVIII - estimular o acompanhamento do rendimento dos alunos em situação de vulnerabilidade.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas porventura decorrentes desta Lei correrão à conta de dotações orçamentárias próprias, consignadas no orçamento vigente.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei será regulamentada pelo Poder Executivo, que estabelecerá também a forma de monitoramento e avaliação da política pública ora instituída.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nBIA DE LIMA\nDeputada Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24097",
+   "short": "Lei 24097/2026",
+   "title": "Lei nº 24097, de 2026 (Veda a realização, a contratação, o apoio ou o patrocínio aos eventos ou às manifestações artísticas que especifica.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112945",
+   "first_law": "lei-2026-24097",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-13",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112945",
+     "sha256": "15b4a6e4a50d823e1f8536ab77ac1b3cf1be6f8b44c27e9c2086ea46e3a5da33",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.097, DE 13 DE FEVEREIRO DE 2026\nVeda a realização, a contratação, o apoio ou o patrocínio aos eventos ou às manifestações artísticas que especifica.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Ficam vedados à Administração Pública estadual a realização, a contratação, o apoio ou o patrocínio a qualquer modalidade de evento ou manifestação artística, abertos ao público infantojuvenil, que:\nI - envolvam gesto ou expressão obscena ou erótica;\nII - estimulem o uso de drogas; ou\nIII - façam apologia a crimes de qualquer natureza.\nParágrafo único. Para os efeitos desta Lei, entendem-se como eventos ou manifestações artísticas exposições, shows, festivais, mostras, apresentações teatrais, recitais, entre outros.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Constatada a violação ao disposto nesta Lei, qualquer pessoa ou entidade deve comunicar o fato, por escrito, com descrição das respectivas circunstâncias:\nI - à autoridade policial ou ao membro do Ministério Público com atribuição em matéria de infância e juventude;\nII - a outros órgãos que entender necessário.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º O descumprimento desta Lei implica penalidade de multa, no valor de R$ 1.500,00 (mil e quinhentos reais) a R$ 5.000,00 (cinco mil reais), a ser paga pelo organizador da atividade ou manifestação artística e demais pessoas que se envolverem diretamente na prática dos atos previstos nos incisos do art. 1º desta Lei.\n§ 1º A aplicação da multa deve ser precedida de contraditório e ampla defesa em processo administrativo, nos termos da Lei nº 13.800, de 18 de janeiro de 2001.\n§ 2º O valor da multa:\nI - será anualmente reajustado pelo Índice Nacional de Preços ao Consumidor (INPC), divulgado pelo Instituto Brasileiro de Geografia e Estatística (IBGE);\nII - será divulgado em caráter permanente e atualizado na página eletrônica do órgão competente.\n§ 3º Na aplicação da multa, devem ser levados em consideração os seguintes fatores:\nI - em relação à infração propriamente dita: a duração e a intensidade desta, os motivos que levaram a sua prática e as consequências dela decorrentes;\nII - em relação ao infrator: sua situação econômica, bem como eventuais antecedentes e reincidência.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 13 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nMAJOR ARAÚJO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24098",
+   "short": "Lei 24098/2026",
+   "title": "Lei nº 24098, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Moto Fest Angatu, realizado no Município de Porangatu/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112998",
+   "first_law": "lei-2026-24098",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112998",
+     "sha256": "2f8a98a2af9f8f5ffebfc12a5c318e9b62d7c2e3b28fc7ac14341e05b919d209",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.098, DE 18 DE fevereiro DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Moto Fest Angatu, realizado no Município de Porangatu/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Moto Fest Angatu, realizado, anualmente, no mês de junho, no Município de Porangatu/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nAMILTON FILHO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24099",
+   "short": "Lei 24099/2026",
+   "title": "Lei nº 24099, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/112999",
+   "first_law": "lei-2026-24099",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/112999",
+     "sha256": "96e5541ecb8353875af79225bae18a2757446088fb5cc80de037a8b347cb344e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.099, DE 18 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º O Carnaval de Riverlândia, realizado, anualmente, no período do Carnaval, no Distrito de Riverlândia/GO, Município de Rio Verde/GO:\nI - fica reconhecido como patrimônio cultural imaterial goiano;\nII - fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24100",
+   "short": "Lei 24100/2026",
+   "title": "Lei nº 24100, de 2026 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113000",
+   "first_law": "lei-2026-24100",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113000",
+     "sha256": "a334b16eee9422f37bf455e778b1ea546a2c8a502158c9629186dbf2808710cd",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.100, DE 18 DE FEVEREIRO DE 2026\nDispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º A Festa do Leite, realizada, anualmente, no mês de agosto, no Distrito de Ouroana/GO, Município de Rio Verde/GO, fica reconhecida como patrimônio cultural imaterial goiano.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nLUCAS DO VALE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24101",
+   "short": "Lei 24101/2026",
+   "title": "Lei nº 24101, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Mega Dance Musical, realizado no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113002",
+   "first_law": "lei-2026-24101",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113002",
+     "sha256": "2bf62cd6ee023be59ba61cd0506b54059e128e70c56ec875d8174206a5a1fa7e",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.101, DE 18 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Mega Dance Musical, realizado no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Mega Dance Musical, realizado, anualmente, no mês de maio, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24102",
+   "short": "Lei 24102/2026",
+   "title": "Lei nº 24102, de 2026 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Bora de Bike\", realizado no Município de Goiânia/GO.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113004",
+   "first_law": "lei-2026-24102",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113004",
+     "sha256": "25dc2afb6c7f0c38bf242300bb8e636d60d610cd9334adb989022d4348cee270",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.102, DE 18 DE FEVEREIRO DE 2026\nInclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Bora de Bike\", realizado no Município de Goiânia/GO.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica incluído, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o \"Bora de Bike\", realizado, anualmente, no Município de Goiânia/GO.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nRICARDO QUIRINO\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24103",
+   "short": "Lei 24103/2026",
+   "title": "Lei nº 24103, de 2026 (Institui o Dia Estadual do Meteorologista.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113005",
+   "first_law": "lei-2026-24103",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113005",
+     "sha256": "59eca2b11ed2712522c2394ee702fda954ea42926f9b0fecce969b2c3c6cea7d",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.103, DE 18 DE FEVEREIRO DE 2026\nInstitui o Dia Estadual do Meteorologista.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Dia Estadual do Meteorologista, a ser comemorado, anualmente, no dia 14 de outubro.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º O Dia Estadual do Meteorologista fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-24105",
+   "short": "Lei 24105/2026",
+   "title": "Lei nº 24105, de 2026 (Institui o Mês Estadual de Defesa da Cultura Goiana.)",
+   "url": "https://legisla.casacivil.go.gov.br/pesquisa_legislacao/113007",
+   "first_law": "lei-2026-24105",
+   "earlier_laws": [],
+   "versions": [
+    {
+     "from": "2026-02-19",
+     "source_url": "https://legisla.casacivil.go.gov.br/api/v2/pesquisa/legislacoes/113007",
+     "sha256": "ef1890ec3a777775e3a4281d0c53e2c88b1114f0e8c9faf6483419f3df9715c1",
+     "units": {
+      "000-titulo": {
+       "label": "Título",
+       "kind": "title",
+       "text": "# LEI Nº 24.105, DE 18 DE FEVEREIRO DE 2026\nInstitui o Mês Estadual de Defesa da Cultura Goiana.\nA ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:\n"
+      },
+      "art-0001": {
+       "label": "Art. 1º",
+       "kind": "article",
+       "text": "Art. 1º Fica instituído o Mês Estadual de Defesa da Cultura Goiana, a ser realizado, anualmente, no mês de outubro, com a finalidade de valorizar, preservar e difundir as expressões culturais goianas em suas diversas manifestações.\n"
+      },
+      "art-0002": {
+       "label": "Art. 2º",
+       "kind": "article",
+       "text": "Art. 2º (VETADO).\n"
+      },
+      "art-0003": {
+       "label": "Art. 3º",
+       "kind": "article",
+       "text": "Art. 3º As despesas decorrentes da aplicação desta Lei correrão à conta de dotações orçamentárias próprias, suplementadas, se necessário.\n"
+      },
+      "art-0004": {
+       "label": "Art. 4º",
+       "kind": "article",
+       "text": "Art. 4º O Mês Estadual de Defesa da Cultura Goiana fica incluído no Calendário Cívico, Cultural e Turístico do Estado de Goiás.\n"
+      },
+      "art-0005": {
+       "label": "Art. 5º",
+       "kind": "article",
+       "text": "Art. 5º Esta Lei entra em vigor na data de sua publicação.\nGoiânia, 18 de fevereiro de 2026; 138º da República.\nRONALDO CAIADO\nGovernador do Estado\nANTÔNIO GOMIDE\nDeputado Estadual\n"
+      }
+     }
+    }
+   ]
+  }
+ ],
+ "applies": [],
+ "decisions": [
+  "An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.",
+  "The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as \"- Redação original\") and the publisher's notes (in Arial Black, such as \"- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010\", the green \"Vide\" notes and the <nota> elements of newer pages). \"Vide\" notes do not date a version. The notice \"Este texto não substitui o publicado no D.O. de ...\" is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.",
+  "One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; \"000-titulo\" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.",
+  "Tables are one line per row, cells separated by \" | \"; images are left out."
+ ],
+ "ai_use": [
+  "Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records."
+ ]
+}
