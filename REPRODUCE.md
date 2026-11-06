@@ -46,6 +46,22 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -252,6 +268,802 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2022-171` | Lei Complementar nº 171, de 2022 | 1 | 2022-03-31 to 2022-03-31 |
 | `lc-2025-204` | Lei Complementar nº 204, de 2025 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2025-03-31 to 2025-03-31 |
 | `lc-2023-189` | Lei Complementar nº 189, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22099` | Lei nº 22099, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22100` | Lei nº 22100, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22101` | Lei nº 22101, de 2023 (Institui a Campanha de Conscientização sobre a Castração de Cães e Gatos.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22102` | Lei nº 22102, de 2023 (Concede título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22103` | Lei nº 22103, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22104` | Lei nº 22104, de 2023 | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22105` | Lei nº 22105, de 2023 | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22106` | Lei nº 22106, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22107` | Lei nº 22107, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22108` | Lei nº 22108, de 2023 | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22109` | Lei nº 22109, de 2023 (Institui a Política Estadual de Fortalecimento de Vínculos Familiares e Garantia de Convivência Familiar e dá outras providências.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22110` | Lei nº 22110, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22111` | Lei nº 22111, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22112` | Lei nº 22112, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22113` | Lei nº 22113, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22114` | Lei nº 22114, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-07-13 to 2023-07-13 |
+| `lei-2023-22115` | Lei nº 22115, de 2023 | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22116` | Lei nº 22116, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Carnaval dos Amigos de Goiânia.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22117` | Lei nº 22117, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2026-10-08 to 2026-10-08 |
+| `lei-2023-22118` | Lei nº 22118, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22119` | Lei nº 22119, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22120` | Lei nº 22120, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2026-10-08 to 2026-10-08 |
+| `lei-2023-22122` | Lei nº 22122, de 2023 (Confere ao Município de Itaguari/GO o título de "Capital Goiana da Folia de Reis".) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22123` | Lei nº 22123, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22124` | Lei nº 22124, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22121` | Lei nº 22121, de 2023 (Confere ao Município de Divinópolis de Goiás o título de Capital Goiana da Cultura Desportiva da Vaquejada.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22125` | Lei nº 22125, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22126` | Lei nº 22126, de 2023 (Confere ao Município de Iporá/GO o título de "Capital Estadual do Muladeiro".) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22127` | Lei nº 22127, de 2023 (Altera a Lei nº 21.012, de 25 de maio de 2021, para dispor sobre a sinalização para estrangeiros e pessoas com deficiência.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22128` | Lei nº 22128, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22129` | Lei nº 22129, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22130` | Lei nº 22130, de 2023 (Institui o Dia Estadual de Conscientização da Apraxia de Fala na Infância - AFI.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22131` | Lei nº 22131, de 2023 (Altera a Lei nº 9.644, de 17 de dezembro de 1984, que declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22133` | Lei nº 22133, de 2023 (Institui o Dia Estadual do Sociólogo.) | 1 | 2026-05-21 to 2026-05-21 |
+| `lei-2023-22132` | Lei nº 22132, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-07-21 to 2023-07-21 |
+| `lei-2023-22134` | Lei nº 22134, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22135` | Lei nº 22135, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22136` | Lei nº 22136, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22137` | Lei nº 22137, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22138` | Lei nº 22138, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22139` | Lei nº 22139, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22140` | Lei nº 22140, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22141` | Lei nº 22141, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22142` | Lei nº 22142, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22143` | Lei nº 22143, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22144` | Lei nº 22144, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22145` | Lei nº 22145, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22146` | Lei nº 22146, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22147` | Lei nº 22147, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22148` | Lei nº 22148, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22149` | Lei nº 22149, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22150` | Lei nº 22150, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22151` | Lei nº 22151, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22152` | Lei nº 22152, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22153` | Lei nº 22153, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22154` | Lei nº 22154, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22155` | Lei nº 22155, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22156` | Lei nº 22156, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22157` | Lei nº 22157, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22158` | Lei nº 22158, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-07-25 to 2023-07-25 |
+| `lei-2023-22159` | Lei nº 22159, de 2023 (Confere ao Município de Caiapônia/GO o título de "Capital das Cachoeiras".) | 1 | 2023-07-28 to 2023-07-28 |
+| `lei-2023-22160` | Lei nº 22160, de 2023 | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22161` | Lei nº 22161, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Prêmio Mulheres Empreendedoras, realizado no Município de Goiânia/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22162` | Lei nº 22162, de 2023 | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22163` | Lei nº 22163, de 2023 (Institui o Dia Estadual do Policial Penal.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22164` | Lei nº 22164, de 2023 (Institui o Dia "D" - Dia Estadual de Incentivo às Práticas de Desburocratização.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22165` | Lei nº 22165, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22166` | Lei nº 22166, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22167` | Lei nº 22167, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a tradicional Corrida da Aleluia.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22168` | Lei nº 22168, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Santa Rita de Cássia, realizada no Município de Pontalina/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22169` | Lei nº 22169, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas do Município de São Francisco de Goiás/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22170` | Lei nº 22170, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas realizadas no Município de Jaraguá/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22171` | Lei nº 22171, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas, realizadas no Município de Hidrolina/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22172` | Lei nº 22172, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas do Município de Crixás/GO.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22173` | Lei nº 22173, de 2023 (Institui o Calendário Estadual de Circuito de Rodeio.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22177` | Lei nº 22177, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22174` | Lei nº 22174, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22175` | Lei nº 22175, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Exposição Agropecuária e Industrial de Ipameri - ExpoIpameri.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22176` | Lei nº 22176, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22178` | Lei nº 22178, de 2023 (Dispõe sobre o reconhecimento da Jantinha como patrimônio cultural imaterial goiano.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22179` | Lei nº 22179, de 2023 (Institui o Dia Estadual das Comunidades Terapêuticas.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22180` | Lei nº 22180, de 2023 (Institui o Dia Estadual do Servidor do Sistema Socioeducativo.) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22181` | Lei nº 22181, de 2023 | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22182` | Lei nº 22182, de 2023 (Confere ao Município de Goiânia o título de "Capital da Art Déco".) | 1 | 2023-08-02 to 2023-08-02 |
+| `lei-2023-22183` | Lei nº 22183, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas, realizadas no Município de Santa Terezinha de Goiás/GO.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22184` | Lei nº 22184, de 2023 (Denomina "Maternidade Ediberto Marcolino Vieira" a maternidade existente no Hospital Estadual de Trindade, no Município de Trindade/GO.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22185` | Lei nº 22185, de 2023 (Dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22186` | Lei nº 22186, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22187` | Lei nº 22187, de 2023 (Institui a Política Estadual de Estímulo ao Empreendedorismo do Jovem do Campo e dá outras providências.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22188` | Lei nº 22188, de 2023 (Institui o Dia Estadual do Psicólogo 60+.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22189` | Lei nº 22189, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22190` | Lei nº 22190, de 2023 (Altera a Lei nº 19.197, de 07 de janeiro de 2016, que institui a Política Estadual de Atenção Integral aos Portadores de Fibromialgia.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22191` | Lei nº 22191, de 2023 (Institui a Política de Valorização da Mulher do Campo e dá outras providências.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22192` | Lei nº 22192, de 2023 (Institui a Política Estadual de Atenção aos Direitos da Mãe Solo e dá outras providências.) | 1 | 2023-08-07 to 2023-08-07 |
+| `lei-2023-22193` | Lei nº 22193, de 2023 (Convalida e revigora, na Secretaria de Estado de Relações Institucionais - SERINT, os fundos rotativos que especifica.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22194` | Lei nº 22194, de 2023 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22195` | Lei nº 22195, de 2023 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22196` | Lei nº 22196, de 2023 (Autoriza a abertura de crédito especial à Secretaria de Estado da Retomada - RETOMADA.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22197` | Lei nº 22197, de 2023 (Dispõe sobre a realização de atividades educativas sobre direitos dos animais domésticos, nas escolas públicas e privadas.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22198` | Lei nº 22198, de 2023 (Altera a Lei nº 21.145, de 28 de outubro de 2021, que institui a Semana Estadual do Lixo Zero no âmbito do Estado de Goiás.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22199` | Lei nº 22199, de 2023 (Altera a Lei nº 17.356, de 21 de junho de 2011, que institui a Política Estadual de Saúde Bucal.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22200` | Lei nº 22200, de 2023 (Institui a Campanha de Valorização e Respeito ao Trabalho do Professor.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22201` | Lei nº 22201, de 2023 (Altera a Lei nº 15.985, de 16 de fevereiro de 2007, que dispõe sobre a obrigatoriedade do registro das empresas de sistemas eletrônicos de segurança.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22202` | Lei nº 22202, de 2023 (Dispõe sobre o tombamento do "Marco Zero" do Estado de Goiás, localizado no Distrito de Buenolândia/GO.) | 1 | 2023-08-10 to 2023-08-10 |
+| `lei-2023-22203` | Lei nº 22203, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2026-10-08 to 2026-10-08 |
+| `lei-2023-22205` | Lei nº 22205, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Nossa Senhora d´Abadia, realizada no Município de Nova Aurora/GO.) | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-22204` | Lei nº 22204, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Dia do Romeiro de Nossa Senhora do Muquém.) | 1 | 2023-08-11 to 2023-08-11 |
+| `lei-2023-22206` | Lei nº 22206, de 2023 (Autoriza a abertura de crédito especial à Agência Goiana de Infraestrutura e Transportes - GOINFRA.) | 1 | 2023-08-14 to 2023-08-14 |
+| `lei-2023-22207` | Lei nº 22207, de 2023 | 1 | 2023-08-14 to 2023-08-14 |
+| `lei-2023-22208` | Lei nº 22208, de 2023 (Dispõe sobre a realização do exame para diagnóstico do pé torto congênito em recém-nascidos, nos locais que especifica.) | 1 | 2023-08-14 to 2023-08-14 |
+| `lei-2023-22209` | Lei nº 22209, de 2023 (Institui a Política Estadual de Combate ao Trabalho em Condição Análoga à de Escravo e de Amparo a Trabalhadores Resgatados dessa Condição.) | 1 | 2023-08-14 to 2023-08-14 |
+| `lei-2023-22210` | Lei nº 22210, de 2023 (Denomina "Viaduto Ronaldo Ramos Caiado Filho" o viaduto na GO-060, no trecho próximo ao "Portal da Fé", Município de Trindade/GO.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22211` | Lei nº 22211, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22212` | Lei nº 22212, de 2023 | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22213` | Lei nº 22213, de 2023 (Cria o Polo Goiano de Desenvolvimento Mineral - Polo Mineral e dá outras providências.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22214` | Lei nº 22214, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Bar em Bar.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22215` | Lei nº 22215, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22216` | Lei nº 22216, de 2023 (Confere ao Município de Damolândia o título de "Capital Goiana do Carro de Boi".) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22217` | Lei nº 22217, de 2023 | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22218` | Lei nº 22218, de 2023 (Institui a Política Estadual de Incentivo ao Turismo Local.) | 1 | 2026-02-04 to 2026-02-04 |
+| `lei-2023-22219` | Lei nº 22219, de 2023 (Institui a Política Estadual de Mobilidade Sustentável - PEMS e dá outras providências.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22220` | Lei nº 22220, de 2023 (Altera a Lei nº 19.580, de 06 de janeiro de 2017, que dispõe sobre a proibição de exposição do informe que especifica nos estacionamentos.) | 1 | 2023-08-16 to 2023-08-16 |
+| `lei-2023-22221` | Lei nº 22221, de 2023 (Estabelece a redução da base de cálculo do Imposto sobre a Transmissão Causa Mortis e Doação de Quaisquer Bens ou Direitos - ITCD na situação que especifica.) | 1 | 2023-08-18 to 2023-08-18 |
+| `lei-2023-22222` | Lei nº 22222, de 2023 (Institui, no Estado de Goiás, o "Ano Escritor Bariani Ortêncio" e dá outras providências.) | 1 | 2023-08-21 to 2023-08-21 |
+| `lei-2023-22223` | Lei nº 22223, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-08-21 to 2023-08-21 |
+| `lei-2023-22224` | Lei nº 22224, de 2023 | 1 | 2023-08-21 to 2023-08-21 |
+| `lei-2023-22225` | Lei nº 22225, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22236` | Lei nº 22236, de 2023 (Dispõe sobre o direito das mulheres à presença de acompanhante nos estabelecimentos públicos e privados de saúde no âmbito do Estado de Goiás.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22235` | Lei nº 22235, de 2023 | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22234` | Lei nº 22234, de 2023 (Institui a Campanha Estadual de Conscientização e Prevenção do Uso Excessivo de Equipamentos Eletrônicos por Crianças e Adolescentes.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22233` | Lei nº 22233, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial e dá outras providências.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22232` | Lei nº 22232, de 2023 | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22231` | Lei nº 22231, de 2023 (Altera a Lei nº 14.248, de 29 de julho de 2002, que dispõe sobre a Política Estadual de Resíduos Sólidos.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22230` | Lei nº 22230, de 2023 (Institui a Política Estadual de Conscientização e Atenção Integral à Saúde da Mulher no Climatério e na Menopausa.) | 1 | 2025-12-17 to 2025-12-17 |
+| `lei-2023-22229` | Lei nº 22229, de 2023 (Institui o Dia Estadual do Pequi.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22228` | Lei nº 22228, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor ao Senhor Bom Jesus, realizada no Município de Goiânia/GO.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22227` | Lei nº 22227, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Expo Rio Verde, realizada no Município de Rio Verde/GO.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22226` | Lei nº 22226, de 2023 (Autoriza o Chefe do Poder Executivo a desconstituir negócio jurídico especificado e a adquirir o imóvel especificado por doação do Município de Rio Verde/GO.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22237` | Lei nº 22237, de 2023 (Dispõe sobre a criação e a transformação do Colégio Estadual que especifica.) | 1 | 2023-08-25 to 2023-08-25 |
+| `lei-2023-22238` | Lei nº 22238, de 2023 | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22239` | Lei nº 22239, de 2023 (Institui o Circuito Turístico Cultural do Carro de Boi no Estado de Goiás.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22240` | Lei nº 22240, de 2023 (Institui a Política Estadual de Atenção à Pessoa com Gagueira e dá outras providências.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22241` | Lei nº 22241, de 2023 (Autoriza a instituição da servidão administrativa que especifica.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22242` | Lei nº 22242, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22243` | Lei nº 22243, de 2023 | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22244` | Lei nº 22244, de 2023 | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22245` | Lei nº 22245, de 2023 | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22246` | Lei nº 22246, de 2023 (Institui, no Estado de Goiás, o Selo Empresa Amiga da Juventude.) | 1 | 2023-08-28 to 2023-08-28 |
+| `lei-2023-22247` | Lei nº 22247, de 2023 | 1 | 2023-09-01 to 2023-09-01 |
+| `lei-2023-22248` | Lei nº 22248, de 2023 (Autoriza o Chefe do Poder Executivo a adquirir, por doação onerosa, o imóvel que especifica.) | 1 | 2023-09-01 to 2023-09-01 |
+| `lei-2023-22249` | Lei nº 22249, de 2023 (Institui o Dia Estadual da Paz na Escola.) | 1 | 2023-09-01 to 2023-09-01 |
+| `lei-2023-22250` | Lei nº 22250, de 2023 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação, os imóveis que especifica para o Município de Cachoeira Dourada/GO.) | 1 | 2023-09-06 to 2023-09-06 |
+| `lei-2023-22251` | Lei nº 22251, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-06 to 2023-09-06 |
+| `lei-2023-22252` | Lei nº 22252, de 2023 (Institui o Dia Estadual do Terapeuta Ocupacional.) | 1 | 2023-09-11 to 2023-09-11 |
+| `lei-2023-22253` | Lei nº 22253, de 2023 (Dispõe sobre a criação do Sistema de Informação de Proteção Integral à Infância e Juventude no Estado de Goiás e dá outras providências.) | 1 | 2023-09-11 to 2023-09-11 |
+| `lei-2023-22254` | Lei nº 22254, de 2023 (Institui a Política Estadual de Incentivo ao Comércio Varejista.) | 1 | 2023-09-11 to 2023-09-11 |
+| `lei-2023-22255` | Lei nº 22255, de 2023 | 1 | 2023-09-11 to 2023-09-11 |
+| `lei-2023-22256` | Lei nº 22256, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-11 to 2023-09-11 |
+| `lei-2023-22257` | Lei nº 22257, de 2023 (Altera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás e dá outras providências.) | 1 | 2023-09-13 to 2023-09-13 |
+| `lei-2023-22259` | Lei nº 22259, de 2023 (Dispõe sobre as indenizações a serem percebidas pelos titulares de cargos que especifica.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22260` | Lei nº 22260, de 2023 (Autoriza a abertura de crédito especial à Agência Goiana de Habitação S/A - AGEHAB.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22261` | Lei nº 22261, de 2023 (Autoriza a abertura de crédito especial à Polícia Civil do Estado de Goiás.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22262` | Lei nº 22262, de 2023 | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22263` | Lei nº 22263, de 2023 | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22258` | Lei nº 22258, de 2023 | 1 | 2023-11-14 to 2023-11-14 |
+| `lei-2023-22264` | Lei nº 22264, de 2023 (Institui o Mês Estadual "Maio Furta-cor", dedicado à conscientização, ao cuidado e à promoção da saúde mental materna.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22265` | Lei nº 22265, de 2023 (Altera a Lei nº 21.238, de 12 de janeiro de 2022, que institui a Semana Estadual de Combate e Prevenção ao Câncer de Colo de Útero e Colorretal.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22266` | Lei nº 22266, de 2023 (Dispõe sobre a disponibilização do boletim médico pelos hospitais, clínicas e estabelecimentos de saúde, na forma que especifica.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22267` | Lei nº 22267, de 2023 (Institui a Política Estadual de Prevenção da Prematuridade Neonatal.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22268` | Lei nº 22268, de 2023 (Institui a Política Pública estadual "Patrulheiro do Rio" e dá outras providências.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22269` | Lei nº 22269, de 2023 (Altera a Lei nº 20.054, de 25 de abril de 2018, que declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-15 to 2023-09-15 |
+| `lei-2023-22270` | Lei nº 22270, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22271` | Lei nº 22271, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22272` | Lei nº 22272, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Queima do Alho, realizada no Município de Amorinópolis/GO.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22273` | Lei nº 22273, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Peão no Município de São Luiz do Norte/GO.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22274` | Lei nº 22274, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22275` | Lei nº 22275, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22276` | Lei nº 22276, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22277` | Lei nº 22277, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22278` | Lei nº 22278, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22279` | Lei nº 22279, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22280` | Lei nº 22280, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival de Cultura e Cervejas Artesanais PiriBier.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22281` | Lei nº 22281, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22282` | Lei nº 22282, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22283` | Lei nº 22283, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de Abril, realizada, anualmente, no Município de Damianópolis/GO.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22284` | Lei nº 22284, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-09-20 to 2023-09-20 |
+| `lei-2023-22285` | Lei nº 22285, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás, e dá outras providências.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22286` | Lei nº 22286, de 2023 (Autoriza o Poder Executivo do Estado de Goiás a promover medidas de desestatização da Companhia Celg de Participações - CELGPAR.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22287` | Lei nº 22287, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22288` | Lei nº 22288, de 2023 (Confere ao Município de Jesúpolis o título de Capital Goiana da Pamonha.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22289` | Lei nº 22289, de 2023 (Institui o Dia Estadual do Comerciário.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22290` | Lei nº 22290, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Santa Rita de Cássia em Itumbiara/GO.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22291` | Lei nº 22291, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa em Louvor a Sant'Ana, realizada no Município de Inhumas/GO.) | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22292` | Lei nº 22292, de 2023 | 1 | 2023-09-26 to 2023-09-26 |
+| `lei-2023-22293` | Lei nº 22293, de 2023 (Altera a Lei nº 20.795, de 10 de junho de 2020, que autoriza o Chefe do Poder Executivo a firmar termo de colaboração que especifica.) | 1 | 2023-09-28 to 2023-09-28 |
+| `lei-2023-22305` | Lei nº 22305, de 2023 (Institui a Política Estadual de Atenção Integral à Síndrome de Burnout.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22304` | Lei nº 22304, de 2023 (Institui a Política Estadual de Atenção à Saúde Materno-Infantil.) | 1 | 2025-03-31 to 2025-03-31 |
+| `lei-2023-22303` | Lei nº 22303, de 2023 (Altera a Lei nº 21.975, de 29 de maio de 2023, que concede o título de cidadania que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22302` | Lei nº 22302, de 2023 (Institui o Dia Estadual da Equoterapia.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22301` | Lei nº 22301, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22300` | Lei nº 22300, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22299` | Lei nº 22299, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22298` | Lei nº 22298, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22297` | Lei nº 22297, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22296` | Lei nº 22296, de 2023 (Institui o Dia Estadual em Memória das Vítimas da Covid-19.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22295` | Lei nº 22295, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22294` | Lei nº 22294, de 2023 | 1 | 2023-10-04 to 2023-10-04 |
+| `lei-2023-22306` | Lei nº 22306, de 2023 (Institui a Política Estadual de Fomento à Nova Agricultura no Estado de Goiás.) | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-22307` | Lei nº 22307, de 2023 (Dispõe sobre a obrigatoriedade de as concessionárias de telefonia fixa e celular cancelarem a multa de fidelidade na forma que menciona.) | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-22308` | Lei nº 22308, de 2023 (Dispõe sobre a realização da Campanha de Incentivo ao Primeiro Voto nas escolas das redes pública e privada de ensino do Estado de Goiás.) | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-22309` | Lei nº 22309, de 2023 (Autoriza a abertura de crédito adicional especial ao Gabinete da Secretaria de Estado de Relações Institucionais - SERINT.) | 1 | 2023-10-06 to 2023-10-06 |
+| `lei-2023-22314` | Lei nº 22314, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-2023-22310` | Lei nº 22310, de 2023 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-2023-22311` | Lei nº 22311, de 2023 | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-2023-22312` | Lei nº 22312, de 2023 (Altera a Lei nº 14.626, de 22 de dezembro de 2003, que institui a Semana Estadual do Idoso e dá outras providências.) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-2023-22313` | Lei nº 22313, de 2023 (Institui a Política Estadual de Incentivo Estudantil "Aluno Nota 10" na rede de ensino público do Estado de Goiás.) | 1 | 2023-10-11 to 2023-10-11 |
+| `lei-2023-22315` | Lei nº 22315, de 2023 (Confere ao Município de Hidrolândia/GO o título de Capital Goiana da Jabuticaba e da Logística.) | 1 | 2023-10-16 to 2023-10-16 |
+| `lei-2023-22316` | Lei nº 22316, de 2023 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22317` | Lei nº 22317, de 2023 (Dispõe sobre o Plano Plurianual para o quadriênio 2024-2027.) | 1 | 2024-09-20 to 2024-09-20 |
+| `lei-2023-22318` | Lei nº 22318, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22319` | Lei nº 22319, de 2023 | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22320` | Lei nº 22320, de 2023 | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22331` | Lei nº 22331, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22332` | Lei nº 22332, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22333` | Lei nº 22333, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22334` | Lei nº 22334, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22335` | Lei nº 22335, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22336` | Lei nº 22336, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22337` | Lei nº 22337, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22338` | Lei nº 22338, de 2023 (Institui a Semana Estadual de Combate à Exploração do Trabalho da Criança e do Adolescente.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22339` | Lei nº 22339, de 2023 (Institui a Campanha de Conscientização sobre as Doenças Ocultas, dispõe sobre a utilização do Cordão de Girassol e dá outras providências.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22321` | Lei nº 22321, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22322` | Lei nº 22322, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22323` | Lei nº 22323, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22324` | Lei nº 22324, de 2023 (Altera a Lei nº 21.385, de 13 de maio de 2022, que declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22325` | Lei nº 22325, de 2023 (Dispõe sobre a comunicação com os pacientes receptores de órgãos por intermédio de todos os meios de comunicação possíveis, no âmbito do Estado de Goiás.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22326` | Lei nº 22326, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Passeio Ciclístico de Goiás, realizado de Bela Vista de Goiás a Aruanã.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22327` | Lei nº 22327, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa dos Caretas de Pouso Alto.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22328` | Lei nº 22328, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22329` | Lei nº 22329, de 2023 (Altera a Lei nº 11.844, de 10 de dezembro de 1992, que institui o Dia do Militar Veterano Goiano.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22330` | Lei nº 22330, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-19 to 2023-10-19 |
+| `lei-2023-22340` | Lei nº 22340, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-23 to 2023-10-23 |
+| `lei-2023-22341` | Lei nº 22341, de 2023 | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22342` | Lei nº 22342, de 2023 (Institui o Dia Estadual do Romeiro de Nossa Senhora da Salette e dá outras providências.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22343` | Lei nº 22343, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22344` | Lei nº 22344, de 2023 (Altera a Lei nº 21.518, de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22345` | Lei nº 22345, de 2023 (Institui o Selo Produto Livre de Testes em Animais.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22346` | Lei nº 22346, de 2023 (Dispõe sobre o Banco de Ração e Utensílios para Animais no Estado de Goiás e dá outras providências.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22347` | Lei nº 22347, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22348` | Lei nº 22348, de 2023 (Autoriza o Poder Executivo a tombar ao Patrimônio Histórico e Artístico Estadual o bem imóvel que especifica, no Município de Flores de Goiás/GO.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22349` | Lei nº 22349, de 2023 (Altera a Lei nº 21.480, de 30 de junho de 2022, que institui a Política Estadual para a População em Situação de Rua.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22350` | Lei nº 22350, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22351` | Lei nº 22351, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-25 to 2023-10-25 |
+| `lei-2023-22354` | Lei nº 22354, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-10-26 to 2023-10-26 |
+| `lei-2023-22353` | Lei nº 22353, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Congresso Nacional de Administração, realizado no Município de Goiânia.) | 1 | 2023-10-26 to 2023-10-26 |
+| `lei-2023-22352` | Lei nº 22352, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-10-26 to 2023-10-26 |
+| `lei-2023-22355` | Lei nº 22355, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22356` | Lei nº 22356, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22357` | Lei nº 22357, de 2023 (Autoriza a abertura de créditoespecial à Controladoria-Geral do Estado - CGE.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22358` | Lei nº 22358, de 2023 (Autoriza a aquisição, por doação onerosa do Município de Rio Verde/GO, do imóvel que especifica.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22359` | Lei nº 22359, de 2023 (Confere ao Município de Cristianópolis/GO o título de "Capital Estadual da Fé Cristã Evangélica".) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22360` | Lei nº 22360, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Galho, realizada no Município de Aragoiânia/GO.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22361` | Lei nº 22361, de 2023 (Altera a Lei nº 16.499, de 10 de fevereiro de 2009, que institui o Sistema de Comunicação e Cadastro de Pessoas Desaparecidas e dá outras providências.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22362` | Lei nº 22362, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22363` | Lei nº 22363, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22364` | Lei nº 22364, de 2023 (Confere ao Município de Taquaral de Goiás/GO o título de Capital da Moda Íntima.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22365` | Lei nº 22365, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22366` | Lei nº 22366, de 2023 (Altera a Lei nº 17.139, de 27 de agosto de 2010, que institui o Estatuto do Portador de Câncer no Estado de Goiás.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22367` | Lei nº 22367, de 2023 (Altera Lei nº 17.139, de 27 de agosto de 2010, que institui o Estatuto do Portador de Câncer no Estado de Goiás.) | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2023-22368` | Lei nº 22368, de 2023 (Estabelece prazos para a regularização de barragens em cursos hídricos no âmbito do Estado de Goiás e dá outras providências.) | 1 | 2025-02-26 to 2025-02-26 |
+| `lei-2023-22369` | Lei nº 22369, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22370` | Lei nº 22370, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22371` | Lei nº 22371, de 2023 (Institui a Semana Estadual de Conscientização da Síndrome do Ovário Policístico (SOP).) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22372` | Lei nº 22372, de 2023 (Altera a Lei nº 19.039, de 08 de outubro de 2015, que institui a Política Estadual de Combate ao Racismo no Esporte e dá outras providências.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22373` | Lei nº 22373, de 2023 (Cria o Cadastro de Primeiro Emprego no âmbito do Estado de Goiás.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22374` | Lei nº 22374, de 2023 (Institui o Dia Estadual do Lions Clube.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22376` | Lei nº 22376, de 2023 (Confere ao Município de Itauçu/GO o título de Capital Estadual do Salgado.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22377` | Lei nº 22377, de 2023 (Institui o Mês Estadual "Agosto Branco", dedicado à Prevenção e ao Combate ao Câncer de Pulmão.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22375` | Lei nº 22375, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas da Cidade de Goiás/GO.) | 1 | 2023-11-07 to 2023-11-07 |
+| `lei-2023-22378` | Lei nº 22378, de 2023 (Altera a Lei nº 19.413, de 22 de julho de 2016, que institui a política estadual de incentivo ao consumo sustentável.) | 1 | 2023-11-08 to 2023-11-08 |
+| `lei-2023-22379` | Lei nº 22379, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-11-08 to 2023-11-08 |
+| `lei-2023-22380` | Lei nº 22380, de 2023 (Institui o Dia Estadual de Conscientização sobre a Esclerose Lateral Amiotrófica - ELA.) | 1 | 2023-11-08 to 2023-11-08 |
+| `lei-2023-22382` | Lei nº 22382, de 2023 | 1 | 2023-11-14 to 2023-11-14 |
+| `lei-2023-22383` | Lei nº 22383, de 2023 (Autoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2023.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22384` | Lei nº 22384, de 2023 | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22385` | Lei nº 22385, de 2023 (Dispõe sobre a informação do registro de nascimento pelos Cartórios de Registro Civil, no caso e na forma que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22386` | Lei nº 22386, de 2023 (Altera a Lei nº 16.549, de 19 de maio de 2009, que fixa procedimentos a serem adotados pelos fornecedores de serviços de estacionamento e guarda de veículos.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22387` | Lei nº 22387, de 2023 (Dispõe sobre o reconhecimento da Árvore de Baru como símbolo do Cerrado Goiano e dá outras providências.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22388` | Lei nº 22388, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas do Município de Corumbá de Goiás.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22389` | Lei nº 22389, de 2023 (Institui a Política Estadual de Modernização do Sistema Público de Saúde.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22396` | Lei nº 22396, de 2023 (Institui o Dia Estadual do Atleta, no âmbito do Estado de Goiás.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22397` | Lei nº 22397, de 2023 (Institui o Dia Estadual da Advocacia Familiarista.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22398` | Lei nº 22398, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22399` | Lei nº 22399, de 2023 (Institui a Política Estadual "Criança e Adolescente Conscientes" de informação e prevenção de violência e abusos.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22400` | Lei nº 22400, de 2023 (Institui o Dia Estadual do Influenciador Digital.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22401` | Lei nº 22401, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22403` | Lei nº 22403, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22404` | Lei nº 22404, de 2023 (Dispõe sobre a Política de Educação e Tratamento de Doenças Raras no âmbito do Estado de Goiás e dá outras providências.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22405` | Lei nº 22405, de 2023 (Confere ao Município de Quirinópolis/GO o título de Capital Goiana da Chica Doida.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22406` | Lei nº 22406, de 2023 (Altera a Lei nº 16.369, de 09 de outubro de 2008, que institui a política de incentivo ao uso da bicicleta no âmbito do Estado de Goiás.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22407` | Lei nº 22407, de 2023 (Institui o Dia Estadual da Pessoa com Doença Pulmonar Obstrutiva Crônica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22408` | Lei nº 22408, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22409` | Lei nº 22409, de 2023 (Institui a Política Estadual Adote a Saúde no âmbito do Estado de Goiás.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22390` | Lei nº 22390, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22391` | Lei nº 22391, de 2023 | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22392` | Lei nº 22392, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas do Município de Posse/GO.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22393` | Lei nº 22393, de 2023 (Institui a Política Estadual de Incentivo à Economia Prateada e dá outras providências.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22394` | Lei nº 22394, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22395` | Lei nº 22395, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-11-20 to 2023-11-20 |
+| `lei-2023-22402` | Lei nº 22402, de 2023 (Institui a Política Estadual de Criação de Bibliotecas Comunitárias no âmbito do Estado de Goiás.) | 1 | 2023-11-21 to 2023-11-21 |
+| `lei-2023-22410` | Lei nº 22410, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-11-21 to 2023-11-21 |
+| `lei-2023-22411` | Lei nº 22411, de 2023 (Inclui no calendário escolar a Semana da Conscientização da Segurança Escolar.) | 1 | 2023-11-22 to 2023-11-22 |
+| `lei-2023-22412` | Lei nº 22412, de 2023 | 1 | 2023-11-22 to 2023-11-22 |
+| `lei-2023-22413` | Lei nº 22413, de 2023 | 1 | 2023-11-24 to 2023-11-24 |
+| `lei-2023-22414` | Lei nº 22414, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-11-27 to 2023-11-27 |
+| `lei-2023-22415` | Lei nº 22415, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio histórico e cultural goiano.) | 1 | 2023-11-27 to 2023-11-27 |
+| `lei-2023-22416` | Lei nº 22416, de 2023 | 1 | 2023-11-27 to 2023-11-27 |
+| `lei-2023-22417` | Lei nº 22417, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2023-22418` | Lei nº 22418, de 2023 | 1 | 2023-11-27 to 2023-11-27 |
+| `lei-2023-22419` | Lei nº 22419, de 2023 | 1 | 2023-11-27 to 2023-11-27 |
+| `lei-2023-22420` | Lei nº 22420, de 2023 (Altera a Lei nº 13.463, de 31 de maio de 1999, que dispõe sobre a Política estadual do idoso e dá outras providências.) | 1 | 2023-11-28 to 2023-11-28 |
+| `lei-2023-22421` | Lei nº 22421, de 2023 (Dispõe sobre a afixação de placa ou cartaz com mensagem alusiva ao crime de importunação sexual na forma que especifica e dá outras providências.) | 1 | 2023-11-28 to 2023-11-28 |
+| `lei-2023-22422` | Lei nº 22422, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE.) | 1 | 2023-12-12 to 2023-12-12 |
+| `lei-2023-22423` | Lei nº 22423, de 2023 (Altera a Lei nº 21.162, de 16 de novembro de 2021, que institui o Programa Bolsa Estudo no âmbito da Secretaria de Estado da Educação e dá outras providências.) | 1 | 2023-11-30 to 2023-11-30 |
+| `lei-2023-22424` | Lei nº 22424, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.) | 1 | 2023-12-01 to 2023-12-01 |
+| `lei-2023-22425` | Lei nº 22425, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-01 to 2023-12-01 |
+| `lei-2023-22426` | Lei nº 22426, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-01 to 2023-12-01 |
+| `lei-2023-22427` | Lei nº 22427, de 2023 | 1 | 2023-12-01 to 2023-12-01 |
+| `lei-2023-22440` | Lei nº 22440, de 2023 (Confere ao Município de Anhanguera o título de Capital Estadual do Limão Taiti.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22439` | Lei nº 22439, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22438` | Lei nº 22438, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22437` | Lei nº 22437, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas realizadas no Município de Luziânia.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22436` | Lei nº 22436, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiana, realizado no Município de Anápolis/GO.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22435` | Lei nº 22435, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22434` | Lei nº 22434, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22433` | Lei nº 22433, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural e imaterial goiano e dá outras providências.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22432` | Lei nº 22432, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Nossa Senhora da Piedade, realizada no Município de Bela Vista de Goiás/GO.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22430` | Lei nº 22430, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22429` | Lei nº 22429, de 2023 | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22428` | Lei nº 22428, de 2023 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22431` | Lei nº 22431, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa de São Luiz Gonzaga, realizada no Município de São Luís de Montes Belos/GO.) | 1 | 2023-12-05 to 2023-12-05 |
+| `lei-2023-22441` | Lei nº 22441, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22442` | Lei nº 22442, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22443` | Lei nº 22443, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22444` | Lei nº 22444, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22445` | Lei nº 22445, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22446` | Lei nº 22446, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22447` | Lei nº 22447, de 2023 | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22448` | Lei nº 22448, de 2023 | 1 | 2023-12-07 to 2023-12-07 |
+| `lei-2023-22449` | Lei nº 22449, de 2023 | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22451` | Lei nº 22451, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, as Cavalhadas realizadas no Município de Palmeiras de Goiás/GO.) | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22452` | Lei nº 22452, de 2023 | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22453` | Lei nº 22453, de 2023 (Altera a Lei nº 14.247, de 29 de julho de 2002, que institui o Sistema Estadual de Unidades de Conservação no Estado de Goiás e dá outras providências.) | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22454` | Lei nº 22454, de 2023 (Institui a Campanha "Junho Violeta" de prevenção à violência contra pessoas idosas.) | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22455` | Lei nº 22455, de 2023 (Inclui a Folia de Reis Mineira no Calendário Cívico, Cultural e Turístico do Estado de Goiás.) | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22450` | Lei nº 22450, de 2023 | 1 | 2023-12-08 to 2023-12-08 |
+| `lei-2023-22456` | Lei nº 22456, de 2023 | 1 | 2023-12-12 to 2023-12-12 |
+| `lei-2023-22457` | Lei nº 22457, de 2023 | 1 | 2023-12-12 to 2023-12-12 |
+| `lei-2023-22458` | Lei nº 22458, de 2023 (Institui o Dia Estadual de Conscientização sobre a Síndrome de May-Thurner.) | 1 | 2023-12-12 to 2023-12-12 |
+| `lei-2023-22459` | Lei nº 22459, de 2023 (Dispõe sobre o reconhecimento dos bens que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-12 to 2023-12-12 |
+| `lei-2023-22460` | Lei nº 22460, de 2023 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do Estado de Goiás - CTE.) | 1 | 2024-03-19 to 2024-03-19 |
+| `lei-2023-22461` | Lei nº 22461, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22462` | Lei nº 22462, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22463` | Lei nº 22463, de 2023 (Institui a Semana Estadual de Incentivo ao Estudo Bíblico.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22464` | Lei nº 22464, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22465` | Lei nº 22465, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22466` | Lei nº 22466, de 2023 | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22467` | Lei nº 22467, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22468` | Lei nº 22468, de 2023 | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22469` | Lei nº 22469, de 2023 (Concede o título de cidadania que especifica.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22470` | Lei nº 22470, de 2023 (Dispõe sobre o reconhecimento dos bens que especifica como patrimônio histórico cultural goiano.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22471` | Lei nº 22471, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22472` | Lei nº 22472, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22473` | Lei nº 22473, de 2023 (Reconhece o cordão de girassol como símbolo para identificação da pessoa com deficiência oculta.) | 1 | 2023-12-13 to 2023-12-13 |
+| `lei-2023-22475` | Lei nº 22475, de 2023 (Dispõe sobre a criação do Fundo Rotativo da Secretaria de Estado do Entorno do Distrito Federal - SEDF.) | 1 | 2023-12-14 to 2023-12-14 |
+| `lei-2023-22476` | Lei nº 22476, de 2023 (Dá denominação ao próprio público que especifica.) | 1 | 2023-12-14 to 2023-12-14 |
+| `lei-2023-22477` | Lei nº 22477, de 2023 (Autoriza a abertura de crédito adicional especial à Secretaria de Estado da Infraestrutura - SEINFRA.) | 1 | 2023-12-14 to 2023-12-14 |
+| `lei-2023-22478` | Lei nº 22478, de 2023 | 1 | 2023-12-14 to 2023-12-14 |
+| `lei-2023-22479` | Lei nº 22479, de 2023 (Dispõe sobre o subsídio dos membros do Poder Judiciário do Estado de Goiás e dá outras providências.) | 1 | 2023-12-15 to 2023-12-15 |
+| `lei-2023-22480` | Lei nº 22480, de 2023 (Dispõe sobre o subsídio dos membros do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2023-12-19 to 2023-12-19 |
+| `lei-2023-22481` | Lei nº 22481, de 2023 | 1 | 2025-12-30 to 2025-12-30 |
+| `lei-2023-22483` | Lei nº 22483, de 2023 (Institui o regime de plantão da Procuradoria-Geral do Estado e altera a Lei nº 10.067, de 30 de junho de 1986.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22484` | Lei nº 22484, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22485` | Lei nº 22485, de 2023 (Altera a Lei nº 21.740, de 29 de dezembro de 2022, que disciplina o regime jurídico das organizações sociais da saúde - OSSs no Estado de Goiás.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22486` | Lei nº 22486, de 2023 (Institui o Programa de Volta para Casa.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22487` | Lei nº 22487, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22488` | Lei nº 22488, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22490` | Lei nº 22490, de 2023 | 1 | 2025-01-24 to 2025-01-24 |
+| `lei-2023-22491` | Lei nº 22491, de 2023 (Altera a Lei nº 13.266, de 16 de abril de 1998, que institui a carreira do fisco da Secretaria da Fazenda do Estado de Goiás e dá outras providências.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22492` | Lei nº 22492, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22493` | Lei nº 22493, de 2023 (Dispõe sobre o Plano de Carreira e Remuneração do Quadro Permanente de servidores administrativos da Secretaria de Estado da Educação.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22494` | Lei nº 22494, de 2023 (Autoriza a doação onerosa à União do imóvel que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22495` | Lei nº 22495, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22496` | Lei nº 22496, de 2023 (Autoriza os postos de abastecimento de combustíveis a disponibilizarem pontos de recarga de veículos elétricos e híbridos.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22497` | Lei nº 22497, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22498` | Lei nº 22498, de 2023 (Altera a Lei nº 16.970, de 20 de abril de 2010, que institui no Estado de Goiás a Campanha Anual de Prevenção ao Câncer de Pele.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22499` | Lei nº 22499, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22500` | Lei nº 22500, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22501` | Lei nº 22501, de 2023 (Cria e dá denominação de próprio público que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22502` | Lei nº 22502, de 2023 (Institui a Política Estadual de Integração Turismo e Motociclismo.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22503` | Lei nº 22503, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22504` | Lei nº 22504, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22505` | Lei nº 22505, de 2023 (Institui a Semana Estadual de Conscientização e Prevenção do Choque Anafilático.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22506` | Lei nº 22506, de 2023 (Declara de utilidade pública a entidade que especifica.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22507` | Lei nº 22507, de 2023 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o evento Action, realizado no Município de Goiânia/GO.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22508` | Lei nº 22508, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22509` | Lei nº 22509, de 2023 | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22510` | Lei nº 22510, de 2023 (Institui a Semana Estadual de Combate à Psicofobia.) | 1 | 2023-12-22 to 2023-12-22 |
+| `lei-2023-22511` | Lei nº 22511, de 2023 | 1 | 2023-12-26 to 2023-12-26 |
+| `lei-2023-22512` | Lei nº 22512, de 2023 | 1 | 2025-02-06 to 2025-02-06 |
+| `lei-2023-22513` | Lei nº 22513, de 2023 (Altera a Lei estadual nº 20.937, de 28 de dezembro de 2020, que altera e revoga as leis que especifica.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22514` | Lei nº 22514, de 2023 (Institui o Dia Estadual do Batalhão Rural da Polícia Militar do Estado de Goiás.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22515` | Lei nº 22515, de 2023 | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22516` | Lei nº 22516, de 2023 | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22517` | Lei nº 22517, de 2023 (Dispõe sobre a disponibilização de cardápios em formato físico nos locais que especifica.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22518` | Lei nº 22518, de 2023 (Confere ao Município de Nova Veneza/GO o título de "Capital Italiana de Goiás".) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22519` | Lei nº 22519, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22520` | Lei nº 22520, de 2023 (Veda a solicitação abusiva de dados pessoais do consumidor, na forma que especifica.) | 1 | 2026-04-08 to 2026-04-08 |
+| `lei-2023-22521` | Lei nº 22521, de 2023 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22522` | Lei nº 22522, de 2023 (Institui o Dia Estadual do Associativismo.) | 1 | 2023-12-28 to 2023-12-28 |
+| `lei-2023-22523` | Lei nº 22523, de 2023 | 1 | 2023-12-29 to 2023-12-29 |
+| `lei-2024-22525` | Lei nº 22525, de 2024 (Dispõe sobre a afixação de placa informativa, na forma e nos locais que especifica.) | 1 | 2024-01-03 to 2024-01-03 |
+| `lei-2024-22524` | Lei nº 22524, de 2024 (Dispõe sobre o Plano de Carreira e Remuneração da Secretaria de Estado da Saúde.) | 1 | 2026-07-13 to 2026-07-13 |
+| `lei-2024-22526` | Lei nº 22526, de 2024 | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2024-22527` | Lei nº 22527, de 2024 (Dispõe sobre o Plano de Carreira e Remuneração do cargo de Pesquisador do Instituto Mauro Borges de Estatísticas e Estudos Socioeconômicos - IMB.) | 1 | 2024-01-05 to 2024-01-05 |
+| `lei-2024-22528` | Lei nº 22528, de 2024 | 1 | 2024-01-05 to 2024-01-05 |
+| `lei-2024-22529` | Lei nº 22529, de 2024 | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22530` | Lei nº 22530, de 2024 | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22531` | Lei nº 22531, de 2024 | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22532` | Lei nº 22532, de 2024 | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22533` | Lei nº 22533, de 2024 (Institui a Política Estadual de Incentivo à Produção de Café de Qualidade no Estado de Goiás e dá outras providências.) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22534` | Lei nº 22534, de 2024 (Altera a Lei nº 20.097, de 28 de maio de 2018, que institui, no Estado de Goiás, o "Selo Verde Ambiental".) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22535` | Lei nº 22535, de 2024 (Institui o Dia Estadual da Pamonha Goiana.) | 1 | 2024-01-08 to 2024-01-08 |
+| `lei-2024-22536` | Lei nº 22536, de 2024 (Estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.) | 1 | 2024-01-10 to 2024-01-10 |
+| `lei-2024-22537` | Lei nº 22537, de 2024 (Institui a Campanha de Conscientização contra o Aborto para as Mulheres no Estado de Goiás.) | 1 | 2024-01-11 to 2024-01-11 |
+| `lei-2024-22538` | Lei nº 22538, de 2024 (Institui a Campanha Estadual de Incentivo à Realização do Check-up Feminino.) | 1 | 2024-01-12 to 2024-01-12 |
+| `lei-2024-22541` | Lei nº 22541, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-02-01 to 2024-02-01 |
+| `lei-2024-22542` | Lei nº 22542, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-02-01 to 2024-02-01 |
+| `lei-2024-22540` | Lei nº 22540, de 2024 | 1 | 2024-02-01 to 2024-02-01 |
+| `lei-2024-22539` | Lei nº 22539, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-02-01 to 2024-02-01 |
+| `lei-2024-22543` | Lei nº 22543, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-02-15 to 2024-02-15 |
+| `lei-2024-22544` | Lei nº 22544, de 2024 (Dispõe sobre o reconhecimento dos bens que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-02-23 to 2024-02-23 |
+| `lei-2024-22545` | Lei nº 22545, de 2024 (Altera a Lei nº 17.139, de 27 de agosto de 2010, que institui o Estatuto do Portador de Câncer no Estado de Goiás.) | 1 | 2024-02-27 to 2024-02-27 |
+| `lei-2024-22546` | Lei nº 22546, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-02-27 to 2024-02-27 |
+| `lei-2024-22547` | Lei nº 22547, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-03-08 to 2024-03-08 |
+| `lei-2024-22548` | Lei nº 22548, de 2024 | 1 | 2024-03-08 to 2024-03-08 |
+| `lei-2024-22549` | Lei nº 22549, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Caiapônia/GO, dos imóveis que especifica.) | 1 | 2024-03-08 to 2024-03-08 |
+| `lei-2024-22550` | Lei nº 22550, de 2024 (Autoriza a aquisição, por doação onerosa por parte do Município de Caldas Novas/GO, do imóvel que especifica.) | 1 | 2024-03-08 to 2024-03-08 |
+| `lei-2024-22551` | Lei nº 22551, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-03-08 to 2024-03-08 |
+| `lei-2024-22552` | Lei nº 22552, de 2024 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2024-22556` | Lei nº 22556, de 2024 (Altera a Lei nº 17.909, de 27 de dezembro de 2012, que autoriza a alienação dos imóveis que especifica.) | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22553` | Lei nº 22553, de 2024 (Altera a Lei nº 11.180, de 19 de abril de 1990, que estabelece modificações no Fundo de Participação e Fomento do Estado de Goiás - FOMENTAR.) | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22554` | Lei nº 22554, de 2024 | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22555` | Lei nº 22555, de 2024 (Dispõe sobre a criação e a denominação do AGROCOLÉGIO ESTADUAL MAGUITO VILELA.) | 1 | 2026-09-16 to 2026-09-16 |
+| `lei-2024-22557` | Lei nº 22557, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22558` | Lei nº 22558, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22559` | Lei nº 22559, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.) | 1 | 2024-03-12 to 2024-03-12 |
+| `lei-2024-22560` | Lei nº 22560, de 2024 (Institui o Programa Bolsa-Uniforme na Polícia Militar do Estado de Goiás.) | 1 | 2024-03-14 to 2024-03-14 |
+| `lei-2024-22561` | Lei nº 22561, de 2024 | 1 | 2024-03-14 to 2024-03-14 |
+| `lei-2024-22562` | Lei nº 22562, de 2024 (Altera a Lei nº 19.767, de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.) | 1 | 2024-03-14 to 2024-03-14 |
+| `lei-2024-22563` | Lei nº 22563, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-03-14 to 2024-03-14 |
+| `lei-2024-22564` | Lei nº 22564, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-03-14 to 2024-03-14 |
+| `lei-2024-22565` | Lei nº 22565, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Bom Jesus da Lapa, realizada no Município de Anápolis/GO.) | 1 | 2024-03-18 to 2024-03-18 |
+| `lei-2024-22566` | Lei nº 22566, de 2024 (Institui o Dia Estadual do Atleta Paralímpico.) | 1 | 2024-03-18 to 2024-03-18 |
+| `lei-2024-22567` | Lei nº 22567, de 2024 (Altera a Lei nº 20.694, de 26 de dezembro de 2019, que dispõe sobre normas gerais para o Licenciamento Ambiental do Estado de Goiás e dá outras providências.) | 1 | 2024-04-03 to 2024-04-03 |
+| `lei-2024-22568` | Lei nº 22568, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Valparaíso Rodeio Show, realizado no Município de Valparaíso de Goiás/GO.) | 1 | 2024-03-18 to 2024-03-18 |
+| `lei-2024-22569` | Lei nº 22569, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-03-18 to 2024-03-18 |
+| `lei-2024-22570` | Lei nº 22570, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival do Limão Taiti.) | 1 | 2024-03-18 to 2024-03-18 |
+| `lei-2024-22573` | Lei nº 22573, de 2024 (Altera a Lei nº 20.253, de 01 de agosto de 2018, que institui o Estatuto do Portador de Diabetes no Estado de Goiás.) | 1 | 2024-03-19 to 2024-03-19 |
+| `lei-2024-22572` | Lei nº 22572, de 2024 | 1 | 2024-10-25 to 2024-10-25 |
+| `lei-2024-22571` | Lei nº 22571, de 2024 | 1 | 2024-10-25 to 2024-10-25 |
+| `lei-2024-22574` | Lei nº 22574, de 2024 (Revoga a Lei nº 22.482, de 22 de dezembro de 2023, que dispõe sobre o exercício do controle externo pela Assembleia Legislativa do Estado de Goiás.) | 1 | 2024-03-19 to 2024-03-19 |
+| `lei-2024-22575` | Lei nº 22575, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás - CTE.) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22576` | Lei nº 22576, de 2024 (Altera a Lei nº 16.897, de 26 de janeiro de 2010, que dispõe sobre a criação de classes e níveis de subsídios nas carreiras e cargos que especifica.) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22577` | Lei nº 22577, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22581` | Lei nº 22581, de 2024 (Altera a Lei nº 20.253, de 01 de agosto de 2018, que institui o Estatuto do Portador de Diabetes no Estado de Goiás.) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22578` | Lei nº 22578, de 2024 | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22579` | Lei nº 22579, de 2024 (Institui a Política Estadual de Incentivo à Transição Energética.) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22580` | Lei nº 22580, de 2024 (Institui a Política Estadual de Proteção aos "Órfãos do Feminicídio".) | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22582` | Lei nº 22582, de 2024 | 1 | 2024-03-25 to 2024-03-25 |
+| `lei-2024-22583` | Lei nº 22583, de 2024 | 1 | 2024-03-27 to 2024-03-27 |
+| `lei-2024-22584` | Lei nº 22584, de 2024 (Institui a Política Estadual de Reeducação dos Autores de Violência Doméstica.) | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22585` | Lei nº 22585, de 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22586` | Lei nº 22586, de 2024 (Institui a Campanha "Vida Animal", no âmbito do Estado de Goiás, e dá outras providências.) | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22587` | Lei nº 22587, de 2024 (Altera a Lei nº 13.463, de 31 de maio de 1999, que dispõe sobre a Política estadual do idoso e dá outras providências.) | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22588` | Lei nº 22588, de 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22589` | Lei nº 22589, de 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22590` | Lei nº 22590, de 2024 | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22591` | Lei nº 22591, de 2024 (Altera a Lei nº 21.676, de 9 de dezembro de 2022, que institui a Política Estadual pela Primeira Infância e dá outras providências.) | 1 | 2024-04-01 to 2024-04-01 |
+| `lei-2024-22592` | Lei nº 22592, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22593` | Lei nº 22593, de 2024 (Institui a Política Estadual de Incentivo à Economia Circular e dá outras providências.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22594` | Lei nº 22594, de 2024 (Altera a Lei nº 19.790, de 24 de julho de 2017, que institui a Política Estadual de Prevenção à Violência Obstétrica no Estado de Goiás.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22595` | Lei nº 22595, de 2024 (Institui a Semana Estadual de Conscientização sobre a Relação entre os Maus-tratos contra os Animais e a Violência Doméstica.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22596` | Lei nº 22596, de 2024 (Altera a Lei nº 18.320, de 30 de dezembro de 2013, para dispor sobre a educação de povos tradicionais e dá outras providências.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22597` | Lei nº 22597, de 2024 (Institui o "Selo Pró-Mulher".) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22598` | Lei nº 22598, de 2024 (Institui a Política Estadual de Apoio aos Catadores de Materiais Recicláveis.) | 1 | 2024-04-05 to 2024-04-05 |
+| `lei-2024-22599` | Lei nº 22599, de 2024 | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22600` | Lei nº 22600, de 2024 | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22601` | Lei nº 22601, de 2024 (Altera a Lei nº 14.586, de 17 de novembro de 2003, que cria fundos rotativos na Secretaria de Estado da Saúde e dá outras providências.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22602` | Lei nº 22602, de 2024 (Dispõe sobre a obrigatoriedade de identificação de crianças e adolescentes em estabelecimentos de hotelaria e hospitalidade e dá outras providências.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22603` | Lei nº 22603, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22604` | Lei nº 22604, de 2024 (Altera a Lei nº 21.104, de 23 de setembro de 2021, que institui o Código de Bem-Estar Animal e dá outras providências.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22605` | Lei nº 22605, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22606` | Lei nº 22606, de 2024 (Altera a Lei nº 19.037, de 08 de outubro de 2015, que institui a Política Estadual de Aleitamento Materno.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22607` | Lei nº 22607, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-04-10 to 2024-04-10 |
+| `lei-2024-22608` | Lei nº 22608, de 2024 (Altera a Lei nº 7.371, de 20 de agosto de 1971, que baixa normas para declaração, como de utilidade pública, das entidades civis constituídas no Estado.) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22609` | Lei nº 22609, de 2024 (Altera a Lei nº 21.518, de 26 de julho de 2022, que institui a Política Estadual de Redução do Desperdício de Alimentos.) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22610` | Lei nº 22610, de 2024 (Autoriza a cessão de uso dos ginásios e praças esportivas estaduais e dá outras providências.) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22611` | Lei nº 22611, de 2024 (Institui o selo "Cidade Amiga do Autista".) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22612` | Lei nº 22612, de 2024 | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22613` | Lei nº 22613, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jataí/GO.) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22614` | Lei nº 22614, de 2024 | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22615` | Lei nº 22615, de 2024 (Altera a Lei nº 11.651, de 26 de dezembro de 1991, que institui o Código Tributário do Estado de Goiás.) | 1 | 2024-04-11 to 2024-04-11 |
+| `lei-2024-22618` | Lei nº 22618, de 2024 | 1 | 2024-04-16 to 2024-04-16 |
+| `lei-2024-22619` | Lei nº 22619, de 2024 | 1 | 2024-04-16 to 2024-04-16 |
+| `lei-2024-22616` | Lei nº 22616, de 2024 (Proíbe o ingresso de representantes de agências de modelos no ambiente escolar, na forma que especifica.) | 1 | 2024-04-16 to 2024-04-16 |
+| `lei-2024-22617` | Lei nº 22617, de 2024 (Institui a Política Estadual de Atenção Integral à Saúde da Pessoa com Albinismo.) | 1 | 2024-04-16 to 2024-04-16 |
+| `lei-2024-22620` | Lei nº 22620, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-04-17 to 2024-04-17 |
+| `lei-2024-22621` | Lei nº 22621, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-04-17 to 2024-04-17 |
+| `lei-2024-22622` | Lei nº 22622, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-04-17 to 2024-04-17 |
+| `lei-2024-22623` | Lei nº 22623, de 2024 (Altera a Lei nº 20.707, de 14 de janeiro de 2020, que dispõe sobre a realização do exame de detecção de mutação genética que especifica.) | 1 | 2024-04-17 to 2024-04-17 |
+| `lei-2024-22624` | Lei nº 22624, de 2024 (Proíbe a participação de crianças e adolescentes nos eventos que especifica.) | 1 | 2024-04-18 to 2024-04-18 |
+| `lei-2024-22625` | Lei nº 22625, de 2024 | 1 | 2024-04-25 to 2024-04-25 |
+| `lei-2024-22628` | Lei nº 22628, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22629` | Lei nº 22629, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22630` | Lei nº 22630, de 2024 (Dispõe sobre a afixação da placa informativa que especifica nos órgãos da administração pública estadual.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22631` | Lei nº 22631, de 2024 (Institui o Dia Estadual de Conscientização do Câncer de Pele.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22634` | Lei nº 22634, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22632` | Lei nº 22632, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22633` | Lei nº 22633, de 2024 (Altera a Lei nº 20.097, de 28 de maio de 2018, que institui o "Selo Verde Ambiental" e o "Selo Investimento Verde".) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22635` | Lei nº 22635, de 2024 (Altera a Lei nº 20.854, de 29 de setembro de 2020, que institui o selo "Empresa Amiga da Mulher" no âmbito do Estado de Goiás.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22636` | Lei nº 22636, de 2024 (Altera a Lei nº 19.767, de 18 de julho de 2017, que institui a Política Estadual de Compra da Produção da Agricultura Familiar.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22627` | Lei nº 22627, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Tributo ao Coração de Cristo Rei, realizado no Município de Goiânia/GO.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22626` | Lei nº 22626, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-04-26 to 2024-04-26 |
+| `lei-2024-22637` | Lei nº 22637, de 2024 | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22638` | Lei nº 22638, de 2024 | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22639` | Lei nº 22639, de 2024 (Altera a Lei nº 16.899, de 26 de janeiro de 2010, que fixa o efetivo do Corpo de Bombeiros Militar do Estado de Goiás e dá outras providências.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22641` | Lei nº 22641, de 2024 | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22642` | Lei nº 22642, de 2024 (Altera a Lei nº 21.835, de 27 de março de 2023, que institui a Política Estadual de Incentivo à Agroindústria e dá outras providências.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22643` | Lei nº 22643, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22644` | Lei nº 22644, de 2024 (Autoriza o Poder Executivo a celebrar contratos de cessão onerosa de direito à nomeação de eventos e equipamentos públicos no Estado de Goiás ( Naming Rights).) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22645` | Lei nº 22645, de 2024 (Institui a Política Estadual do Emprego Apoiado no Estado de Goiás.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22646` | Lei nº 22646, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o aniversário da emancipação do Município de Terezópolis de Goiás/GO.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22647` | Lei nº 22647, de 2024 | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22648` | Lei nº 22648, de 2024 (Dispõe sobre o monitoramento permanente e a transparência do Poder Público estadual acerca das condições de trafegabilidade de rodovias estaduais.) | 1 | 2024-04-29 to 2024-04-29 |
+| `lei-2024-22649` | Lei nº 22649, de 2024 (Autoriza o Chefe do Poder Executivo a instituir na Secretaria de Estado da Educação o Bônus por Resultado no ano de 2024.) | 1 | 2024-04-30 to 2024-04-30 |
+| `lei-2024-22650` | Lei nº 22650, de 2024 (Institui o Circuito do Encontro das Coroas do Divino Espírito Santo e dá outras providências.) | 1 | 2024-04-30 to 2024-04-30 |
+| `lei-2024-22651` | Lei nº 22651, de 2024 (Confere ao Município de Jaraguá o título de "Capital Estadual do Voo Livre".) | 1 | 2024-04-30 to 2024-04-30 |
+| `lei-2024-22652` | Lei nº 22652, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-02 to 2024-05-02 |
+| `lei-2024-22653` | Lei nº 22653, de 2024 | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22654` | Lei nº 22654, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22655` | Lei nº 22655, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22656` | Lei nº 22656, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22657` | Lei nº 22657, de 2024 (Institui o Dia Estadual do Residente Multiprofissional.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22658` | Lei nº 22658, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22659` | Lei nº 22659, de 2024 (Assegura a disponibilização de pódio adaptado nas competições esportivas que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22660` | Lei nº 22660, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22661` | Lei nº 22661, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22662` | Lei nº 22662, de 2024 (Confere ao Município de Terezópolis de Goiás/GO o título de "Capital Gastronômica de Goiás".) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22663` | Lei nº 22663, de 2024 (Institui a Política Estadual de Apoio e Incentivo à Mulher no Esporte.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22664` | Lei nº 22664, de 2024 (Institui o Dia Estadual do Médico Ortopedista.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22665` | Lei nº 22665, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-05-06 to 2024-05-06 |
+| `lei-2024-22666` | Lei nº 22666, de 2024 (Institui a Política Estadual Combustíveis de Goiás.) | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2024-22667` | Lei nº 22667, de 2024 (Institui o Dia Estadual de Combate ao Etarismo e dá outras providências.) | 1 | 2024-05-07 to 2024-05-07 |
+| `lei-2024-22668` | Lei nº 22668, de 2024 (Dispõe sobre as diretrizes de incentivo às entidades que desenvolvem e fomentam o esporte amador no Estado de Goiás e dá outras providências.) | 1 | 2024-05-07 to 2024-05-07 |
+| `lei-2024-22669` | Lei nº 22669, de 2024 (Assegura a realização de rastreamento dos sinais precoces do Transtorno do Espectro Autista - TEA, na forma que especifica.) | 1 | 2024-05-07 to 2024-05-07 |
+| `lei-2024-22670` | Lei nº 22670, de 2024 (Assegura a disponibilização de legendagem no conteúdo audiovisual que especifica.) | 1 | 2024-05-08 to 2024-05-08 |
+| `lei-2024-22671` | Lei nº 22671, de 2024 (Autoriza a aquisição, por doação onerosa por parte do Município de Goianira/GO, do imóvel que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22672` | Lei nº 22672, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22673` | Lei nº 22673, de 2024 (Institui a Política Estadual de Conscientização e Tratamento da Afasia e a Semana Estadual de Conscientização sobre a Afasia.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22674` | Lei nº 22674, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Expoagro, realizada no Município de Campos Belos/GO.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22675` | Lei nº 22675, de 2024 | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22676` | Lei nº 22676, de 2024 (Institui a Política Estadual de Proteção à Saúde Bucal da Pessoa com Deficiência.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22677` | Lei nº 22677, de 2024 (Estabelece sanções administrativas em casos de invasão de propriedades privadas, na forma que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22678` | Lei nº 22678, de 2024 (Confere ao Município de Jandaia-GO o título de "Capital Estadual do Parapente".) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22679` | Lei nº 22679, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22680` | Lei nº 22680, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22681` | Lei nº 22681, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22682` | Lei nº 22682, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22683` | Lei nº 22683, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22684` | Lei nº 22684, de 2024 (Dispõe sobre a Política Estadual de Diagnóstico Precoce e Atendimento Multiprofissional às Pessoas com Síndrome de Down.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22685` | Lei nº 22685, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22686` | Lei nº 22686, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-10 to 2024-05-10 |
+| `lei-2024-22687` | Lei nº 22687, de 2024 (Institui o Dia Estadual de Conscientização da Doença de Osteogênese Imperfeita.) | 1 | 2024-05-14 to 2024-05-14 |
+| `lei-2024-22688` | Lei nº 22688, de 2024 (Institui o Dia Estadual do Advogado Previdenciário.) | 1 | 2024-05-14 to 2024-05-14 |
+| `lei-2024-22689` | Lei nº 22689, de 2024 | 1 | 2024-05-14 to 2024-05-14 |
+| `lei-2024-22690` | Lei nº 22690, de 2024 (Institui o Dia Estadual de Conscientização contra o Aborto.) | 1 | 2024-05-21 to 2024-05-21 |
+| `lei-2024-22691` | Lei nº 22691, de 2024 (Dispõe sobre a obrigatoriedade de inclusão de leite na merenda escolar das unidades educacionais da rede pública estadual.) | 1 | 2024-05-21 to 2024-05-21 |
+| `lei-2024-22699` | Lei nº 22699, de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22698` | Lei nº 22698, de 2024 (Concede revisão geral anual da remuneração dos servidores do Ministério Público do Estado de Goiás.) | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22697` | Lei nº 22697, de 2024 (Concede revisão geral anual da remuneração dos servidores do Poder Judiciário do Estado de Goiás.) | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22696` | Lei nº 22696, de 2024 (Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas do Estado de Goiás, e dá outras providências.) | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22695` | Lei nº 22695, de 2024 (Concede revisão geral anual da remuneração dos servidores da Defensoria Pública do Estado de Goiás.) | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22694` | Lei nº 22694, de 2024 (Concede revisão geral anual da remuneração dos servidores do Tribunal de Contas dos Municípios do Estado de Goiás e dá outras providências.) | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22693` | Lei nº 22693, de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22692` | Lei nº 22692, de 2024 | 1 | 2024-05-15 to 2024-05-15 |
+| `lei-2024-22700` | Lei nº 22700, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22701` | Lei nº 22701, de 2024 (Institui o Dia Estadual do Médico Geriatra no âmbito do Estado de Goiás.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22702` | Lei nº 22702, de 2024 (Institui a Campanha Estadual de Prevenção ao Câncer de Tireoide.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22703` | Lei nº 22703, de 2024 (Institui a Política Estadual contra o Etarismo e dá outras providências.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22704` | Lei nº 22704, de 2024 (Institui o selo "Empresa Amiga da Inclusão".) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22705` | Lei nº 22705, de 2024 (Altera a Lei nº 21.995, de 6 de junho de 2023, que institui a Política Estadual "Mulher Qualificada e Valorizada para o Mercado de Trabalho".) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22706` | Lei nº 22706, de 2024 (Altera a Lei nº 18.242, de 28 de novembro de 2013, que institui o Dia Estadual de Conscientização do Autismo.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22707` | Lei nº 22707, de 2024 (Institui o Dia Estadual do Samba e estabelece medidas para sua promoção e difusão no Estado de Goiás.) | 1 | 2024-05-20 to 2024-05-20 |
+| `lei-2024-22709` | Lei nº 22709, de 2024 | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22710` | Lei nº 22710, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Itaguari/GO.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22711` | Lei nº 22711, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jandaia/GO.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22712` | Lei nº 22712, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22713` | Lei nº 22713, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22714` | Lei nº 22714, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22708` | Lei nº 22708, de 2024 | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22715` | Lei nº 22715, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22716` | Lei nº 22716, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22717` | Lei nº 22717, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22718` | Lei nº 22718, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-05-22 to 2024-05-22 |
+| `lei-2024-22719` | Lei nº 22719, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-2024-22720` | Lei nº 22720, de 2024 (Altera a Lei nº 16.901, de 26 de janeiro de 2010, que dispõe sobre a Lei Orgânica da Polícia Civil do Estado de Goiás.) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-2024-22721` | Lei nº 22721, de 2024 (Institui o Dia Estadual da Agroindústria e dá outras providências.) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-2024-22722` | Lei nº 22722, de 2024 (Institui o Dia Estadual do Romeiro de Nossa Senhora da Penha e dá outras providências.) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-2024-22723` | Lei nº 22723, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-28 to 2024-05-28 |
+| `lei-2024-22724` | Lei nº 22724, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22725` | Lei nº 22725, de 2024 (Autoriza o Chefe do Poder Executivo a alienar, mediante doação onerosa, o imóvel que especifica ao Município de Jaupaci/GO.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22726` | Lei nº 22726, de 2024 (Altera a Lei nº 22.417, de 25 de novembro de 2023, que dá denominação ao próprio público que especifica.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22727` | Lei nº 22727, de 2024 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22728` | Lei nº 22728, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22729` | Lei nº 22729, de 2024 | 1 | 2024-05-29 to 2024-05-29 |
+| `lei-2024-22730` | Lei nº 22730, de 2024 (Autoriza a abertura de crédito especial à Fundação de Amparo à Pesquisa do Estado de Goiás - FAPEG.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22731` | Lei nº 22731, de 2024 (Institui o Dia Estadual do Romeiro do Divino Pai Eterno e dá outras providências.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22732` | Lei nº 22732, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22736` | Lei nº 22736, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22733` | Lei nº 22733, de 2024 | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22734` | Lei nº 22734, de 2024 | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22735` | Lei nº 22735, de 2024 (Institui o Dia Estadual do Servidor da Defesa Agropecuária e dá outras providências.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22737` | Lei nº 22737, de 2024 (Institui o Dia Estadual do Agente Comunitário de Saúde e do Agente de Combate a Endemias.) | 1 | 2024-06-04 to 2024-06-04 |
+| `lei-2024-22738` | Lei nº 22738, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22739` | Lei nº 22739, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22740` | Lei nº 22740, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22741` | Lei nº 22741, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22742` | Lei nº 22742, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22743` | Lei nº 22743, de 2024 (Institui o Dia Estadual do Movimentador de Mercadoria e dá outras providências.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22744` | Lei nº 22744, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22745` | Lei nº 22745, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22746` | Lei nº 22746, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22747` | Lei nº 22747, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22748` | Lei nº 22748, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22749` | Lei nº 22749, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22750` | Lei nº 22750, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22751` | Lei nº 22751, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22752` | Lei nº 22752, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22753` | Lei nº 22753, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22754` | Lei nº 22754, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22755` | Lei nº 22755, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22756` | Lei nº 22756, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22757` | Lei nº 22757, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-06 to 2024-06-06 |
+| `lei-2024-22758` | Lei nº 22758, de 2024 (Institui a Política Estadual de Conscientização sobre o Puerpério.) | 1 | 2024-06-07 to 2024-06-07 |
+| `lei-2024-22759` | Lei nº 22759, de 2024 (Institui o Dia Estadual da Agricultura Irrigada.) | 1 | 2024-06-07 to 2024-06-07 |
+| `lei-2024-22760` | Lei nº 22760, de 2024 | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22771` | Lei nº 22771, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22772` | Lei nº 22772, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22773` | Lei nº 22773, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22774` | Lei nº 22774, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22775` | Lei nº 22775, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22776` | Lei nº 22776, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22777` | Lei nº 22777, de 2024 (Institui o Dia Estadual do Técnico e Auxiliar em Saúde Bucal e dá outras providências.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22778` | Lei nº 22778, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22779` | Lei nº 22779, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22761` | Lei nº 22761, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22762` | Lei nº 22762, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22763` | Lei nº 22763, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22764` | Lei nº 22764, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-07 to 2024-06-07 |
+| `lei-2024-22765` | Lei nº 22765, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22766` | Lei nº 22766, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22767` | Lei nº 22767, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22768` | Lei nº 22768, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22769` | Lei nº 22769, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22770` | Lei nº 22770, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-10 to 2024-06-10 |
+| `lei-2024-22780` | Lei nº 22780, de 2024 (Autoriza a aquisição, por doação onerosa do Município de Caldas Novas/GO, do imóvel que especifica.) | 1 | 2024-06-11 to 2024-06-11 |
+| `lei-2024-22781` | Lei nº 22781, de 2024 (Autoriza a execução e a conclusão do objeto de emendas parlamentares.) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-2024-22782` | Lei nº 22782, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-2024-22783` | Lei nº 22783, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-2024-22784` | Lei nº 22784, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-13 to 2024-06-13 |
+| `lei-2024-22785` | Lei nº 22785, de 2024 (Abre crédito adicional especial à Secretaria de Estado da Infraestrutura - SEINFRA e cria produtos no PPA 2024/2027.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22786` | Lei nº 22786, de 2024 (Institui o Plano Estadual de Cultura de Goiás - PECGO para o decênio 2024-2033.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22787` | Lei nº 22787, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22788` | Lei nº 22788, de 2024 (Confere ao Município de Goianápolis/GO o título de Capital Estadual do Tomate.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22791` | Lei nº 22791, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa da Sagrada Família, realizada no Município de Goiânia/GO.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22793` | Lei nº 22793, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, os Festejos do Mês de Agosto, realizados no Município de São Domingos/GO.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22795` | Lei nº 22795, de 2024 | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22796` | Lei nº 22796, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22789` | Lei nº 22789, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22790` | Lei nº 22790, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22792` | Lei nº 22792, de 2024 (Institui a Política Estadual de Incentivo à Reinserção Social de Pessoas Encontradas após o Desaparecimento.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22794` | Lei nº 22794, de 2024 (Institui o Dia Estadual da Música Gospel.) | 1 | 2024-06-17 to 2024-06-17 |
+| `lei-2024-22797` | Lei nº 22797, de 2024 (Altera a Lei nº 14.711, de 30 de janeiro de 2004, que institui, no Gabinete Militar da Governadoria, a Medalha do Guardião.) | 1 | 2024-06-21 to 2024-06-21 |
+| `lei-2024-22798` | Lei nº 22798, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Tomate, realizada no Município de Goianápolis/GO.) | 1 | 2024-06-21 to 2024-06-21 |
+| `lei-2024-22799` | Lei nº 22799, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2024-06-21 to 2024-06-21 |
+| `lei-2024-22800` | Lei nº 22800, de 2024 (Confere ao Município de Cristalina/GO o título de Capital Goiana dos Cristais.) | 1 | 2024-06-21 to 2024-06-21 |
+| `lei-2024-22801` | Lei nº 22801, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do AGRO + Negócios, realizada no Município de Santa Helena de Goiás/GO.) | 1 | 2024-06-22 to 2024-06-22 |
+| `lei-2024-22802` | Lei nº 22802, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-06-22 to 2024-06-22 |
+| `lei-2024-22809` | Lei nº 22809, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22808` | Lei nº 22808, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Milho, realizada no Município de Jataí/GO.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22807` | Lei nº 22807, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22803` | Lei nº 22803, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa Folclórica do Povoado Barreirão, realizada no Município de Campos Belos/GO.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22804` | Lei nº 22804, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22805` | Lei nº 22805, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22806` | Lei nº 22806, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-25 to 2024-06-25 |
+| `lei-2024-22810` | Lei nº 22810, de 2024 (Estabelece o dever de informação ao consumidor sobre a política de cancelamento e reembolso de pacote turístico.) | 1 | 2024-06-26 to 2024-06-26 |
+| `lei-2024-22811` | Lei nº 22811, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-26 to 2024-06-26 |
+| `lei-2024-22812` | Lei nº 22812, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-06-26 to 2024-06-26 |
+| `lei-2024-22813` | Lei nº 22813, de 2024 (Dispõe sobre o funcionamento da sede simbólica da Capital do Estado de Goiás no Município de Trindade, na data que especifica.) | 1 | 2024-06-27 to 2024-06-27 |
+| `lei-2024-22816` | Lei nº 22816, de 2024 (Dispõe sobre o Plano de Carreira e Remuneração do cargo de Docente de Ensino Superior da Universidade Estadual de Goiás.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22817` | Lei nº 22817, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22818` | Lei nº 22818, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22819` | Lei nº 22819, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22820` | Lei nº 22820, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22821` | Lei nº 22821, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22822` | Lei nº 22822, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22824` | Lei nº 22824, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22814` | Lei nº 22814, de 2024 | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22815` | Lei nº 22815, de 2024 (Altera a Lei nº 21.070, de 9 de agosto de 2021, que cria o Programa Mães de Goiás e dá outras providências.) | 1 | 2024-06-28 to 2024-06-28 |
+| `lei-2024-22825` | Lei nº 22825, de 2024 | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22826` | Lei nº 22826, de 2024 (Altera a Lei nº 14.308, de 12 de novembro de 2002, que institui o Programa de Incentivo ao Atleta de Rendimento - PRÓ-ATLETA e dá outras providências.) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22827` | Lei nº 22827, de 2024 (Institui a Política Estadual de Incentivo aos Projetos Audiovisuais de Produção Independente.) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22828` | Lei nº 22828, de 2024 (Institui a Política Estadual de Incentivo à Folia de Reis.) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22829` | Lei nº 22829, de 2024 (Institui o Dia Estadual do Diabetes.) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22830` | Lei nº 22830, de 2024 (Altera a Lei nº 20.456, de 22 de abril de 2019, que institui a Semana Estadual de Combate e Prevenção à Obesidade Infantil.) | 1 | 2024-07-04 to 2024-07-04 |
+| `lei-2024-22831` | Lei nº 22831, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-05 to 2024-07-05 |
+| `lei-2024-22832` | Lei nº 22832, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-05 to 2024-07-05 |
+| `lei-2024-22834` | Lei nº 22834, de 2024 (Dispõe sobre a instituição do Programa de Recuperação, Ampliação e Monitoramento das Aprendizagens dos Estudantes da Rede Estadual de Ensino.) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-2024-22835` | Lei nº 22835, de 2024 (Abre crédito especial ao Fundo Estadual do Trabalho.) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-2024-22836` | Lei nº 22836, de 2024 (Altera a Lei nº 22.536, de 9 de janeiro de 2024, que estima a receita e fixa a despesa do Estado de Goiás para o exercício de 2024.) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-2024-22837` | Lei nº 22837, de 2024 (Institui a Campanha Estadual de Valorização dos Agricultores Goianos.) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-2024-22838` | Lei nº 22838, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-11 to 2024-07-11 |
+| `lei-2024-22839` | Lei nº 22839, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22840` | Lei nº 22840, de 2024 (Confere ao Município de Jataí o título de Capital Goiana da Agroindústria.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22841` | Lei nº 22841, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22842` | Lei nº 22842, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22843` | Lei nº 22843, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22844` | Lei nº 22844, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22845` | Lei nº 22845, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22846` | Lei nº 22846, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22847` | Lei nº 22847, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22848` | Lei nº 22848, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22849` | Lei nº 22849, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22850` | Lei nº 22850, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22851` | Lei nº 22851, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22852` | Lei nº 22852, de 2024 (Institui o selo de incentivo a empresas que promovem o voluntariado.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22853` | Lei nº 22853, de 2024 (Altera a Lei nº 21.505, de 14 de julho de 2022, que institui a Política Estadual de Estímulo ao Empreendedorismo Feminino.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22854` | Lei nº 22854, de 2024 (Altera a Lei nº 21.877, de 17 de abril de 2023, que institui o Dia Estadual da Juventude.) | 1 | 2024-07-15 to 2024-07-15 |
+| `lei-2024-22855` | Lei nº 22855, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22856` | Lei nº 22856, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22857` | Lei nº 22857, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22858` | Lei nº 22858, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22859` | Lei nº 22859, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22860` | Lei nº 22860, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22861` | Lei nº 22861, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22862` | Lei nº 22862, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22863` | Lei nº 22863, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22864` | Lei nº 22864, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22865` | Lei nº 22865, de 2024 (Altera a Lei nº 21.292, de 6 de abril de 2022, que institui a Política Estadual de Atenção, Cuidados e Proteção da Saúde Mental.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22866` | Lei nº 22866, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22867` | Lei nº 22867, de 2024 (Institui o Dia Estadual da Avosidade.) | 1 | 2024-07-16 to 2024-07-16 |
+| `lei-2024-22868` | Lei nº 22868, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-19 to 2024-07-19 |
+| `lei-2024-22869` | Lei nº 22869, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-07-19 to 2024-07-19 |
+| `lei-2024-22870` | Lei nº 22870, de 2024 | 1 | 2024-07-19 to 2024-07-19 |
+| `lei-2024-22871` | Lei nº 22871, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-19 to 2024-07-19 |
+| `lei-2024-22872` | Lei nº 22872, de 2024 (Institui a Política Estadual "Jovem Monitor Cultural".) | 1 | 2024-07-19 to 2024-07-19 |
+| `lei-2024-22873` | Lei nº 22873, de 2024 | 1 | 2024-07-24 to 2024-07-24 |
+| `lei-2024-22874` | Lei nº 22874, de 2024 (Dispõe sobre as diretrizes para a elaboração e a execução da Lei Orçamentária referente ao exercício de 2025 e dá outras providências.) | 1 | 2025-11-24 to 2025-11-24 |
+| `lei-2024-22875` | Lei nº 22875, de 2024 | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22876` | Lei nº 22876, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22877` | Lei nº 22877, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22878` | Lei nº 22878, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Exposição Agropecuária de Uruaçu, realizada no Município de Uruaçu/GO.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22879` | Lei nº 22879, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22880` | Lei nº 22880, de 2024 (Institui, no Estado de Goiás, o Ano do Centenário da Festa do Senhor Bom Jesus, realizada no Município de Aragarças/GO, e dá outras providências.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22881` | Lei nº 22881, de 2024 (Institui a Semana da Arte Goiana.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22882` | Lei nº 22882, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22883` | Lei nº 22883, de 2024 (Declara de utilidade pública a entidade que especifica.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22884` | Lei nº 22884, de 2024 (Altera a Lei nº 21.855, de 11 de abril de 2023, que dispõe sobre o reconhecimento do bem imaterial que especifica como patrimônio cultural goiano.) | 1 | 2024-07-26 to 2024-07-26 |
+| `lei-2024-22886` | Lei nº 22886, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-07-30 to 2024-07-30 |
+| `lei-2024-22885` | Lei nº 22885, de 2024 (Dá denominação ao próprio público que especifica.) | 1 | 2024-07-30 to 2024-07-30 |
+| `lei-2024-22887` | Lei nº 22887, de 2024 | 1 | 2024-07-30 to 2024-07-30 |
+| `lei-2024-22896` | Lei nº 22896, de 2024 (Institui o Dia Estadual do Biomédico.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22895` | Lei nº 22895, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Expoagro realizada no Município de Joviânia/GO.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22894` | Lei nº 22894, de 2024 (Institui a Política Estadual de Atenção, Diagnóstico e Tratamento da Retinopatia Diabética.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22893` | Lei nº 22893, de 2024 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Cavalgada Cavaleiros de Sant'Ana, realizada no Município de Uruaçu/GO.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22892` | Lei nº 22892, de 2024 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22891` | Lei nº 22891, de 2024 (Institui o Dia Estadual do Gerontólogo.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22889` | Lei nº 22889, de 2024 | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22890` | Lei nº 22890, de 2024 (Altera a Lei nº 20.253, de 01 de agosto de 2018, que institui o Estatuto do Portador de Diabetes no Estado de Goiás, para dispor sobre a retinopatia diabética.) | 1 | 2024-08-05 to 2024-08-05 |
+| `lei-2024-22888` | Lei nº 22888, de 2024 (Institui o Mês Estadual "Outubro Branco".) | 1 | 2024-08-06 to 2024-08-06 |
+| `lei-2024-22897` | Lei nº 22897, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22898` | Lei nº 22898, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22899` | Lei nº 22899, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22900` | Lei nº 22900, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
+| `lei-2024-22901` | Lei nº 22901, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
 | `lei-2024-22902` | Lei nº 22902, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
 | `lei-2024-22903` | Lei nº 22903, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
 | `lei-2024-22904` | Lei nº 22904, de 2024 (Concede o título de cidadania que especifica.) | 1 | 2024-08-07 to 2024-08-07 |
@@ -1947,19 +2759,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-24599` | Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.) | 1 | 2026-11-04 to 2026-11-04 |
 | `lei-2026-24600` | Lei nº 24600, de 2026 (Institui os Meses Estaduais "Outubro Rosa Pet" e "Novembro Azul Pet".) | 1 | 2026-11-04 to 2026-11-04 |
 
-The build made 1893 commits:
+The build made 2689 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 1893 | first version of an act |
+| 2689 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 1893 laws in the record.
-- 3722 tags.
+- 2689 laws in the record.
+- 5287 tags.
 
 ## Dates
 
@@ -1971,7 +2783,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ea9587d1d38f55986c706b2edfb0b75937ef7649d3d426a6d70e1e1030d93d4b` (9905353 bytes).
+- Corpus: sha256 `0d005285e66d61fd06ed413181ba562691c886129ba76c8b40bfc7002ebd5259` (12843553 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -2143,6 +2955,70 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
 - One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -2153,6 +3029,22 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
