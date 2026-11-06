@@ -27,6 +27,11 @@ This file is written by the build on 2026-11-06, the day the source data was ret
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 | Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
+| Legisla Goiás (Secretaria de Estado da Casa Civil de Goiás): the record of each act | <https://legisla.casacivil.go.gov.br> | 2026-11-06 | Texts: Legisla Goiás, Secretaria de Estado da Casa Civil de Goiás, legisla.casacivil.go.gov.br. Lei 9.610/1998 art. 8 IV: the texts of laws and other official acts are not protected by copyright. Non-official text: only the Diário Oficial do Estado is authoritative. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -233,6 +238,256 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lc-2022-171` | Lei Complementar nº 171, de 2022 | 1 | 2022-03-31 to 2022-03-31 |
 | `lc-2025-204` | Lei Complementar nº 204, de 2025 (Altera a Lei Complementar nº 25, de 6 de julho de 1998, que institui a Lei Orgânica do Ministério Público do Estado de Goiás e dá outras providências.) | 1 | 2025-03-31 to 2025-03-31 |
 | `lc-2023-189` | Lei Complementar nº 189, de 2023 | 1 | 2023-10-31 to 2023-10-31 |
+| `lei-2025-23604` | Lei nº 23604, de 2025 (Institui o Mês Estadual "Julho Neon", dedicado à democratização do acesso à saúde bucal, e dá outras providências.) | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-23605` | Lei nº 23605, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-23606` | Lei nº 23606, de 2025 (Confere ao Município de Goianésia/GO o título de "Capital Goiana da Produção Sucroalcooleira".) | 1 | 2025-08-29 to 2025-08-29 |
+| `lei-2025-23607` | Lei nº 23607, de 2025 | 1 | 2025-09-01 to 2025-09-01 |
+| `lei-2025-23608` | Lei nº 23608, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23609` | Lei nº 23609, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23610` | Lei nº 23610, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23611` | Lei nº 23611, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23612` | Lei nº 23612, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23613` | Lei nº 23613, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23614` | Lei nº 23614, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23615` | Lei nº 23615, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23616` | Lei nº 23616, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23617` | Lei nº 23617, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23618` | Lei nº 23618, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23619` | Lei nº 23619, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23620` | Lei nº 23620, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23621` | Lei nº 23621, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23622` | Lei nº 23622, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23623` | Lei nº 23623, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23624` | Lei nº 23624, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23625` | Lei nº 23625, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23626` | Lei nº 23626, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23627` | Lei nº 23627, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23628` | Lei nº 23628, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23629` | Lei nº 23629, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-02 to 2025-09-02 |
+| `lei-2025-23630` | Lei nº 23630, de 2025 (Autoriza os municípios a instalarem faixas elevadas para travessia de pedestres - lombofaixas - nas rodovias estaduais que atravessam o perímetro urbano.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23631` | Lei nº 23631, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23632` | Lei nº 23632, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23633` | Lei nº 23633, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23634` | Lei nº 23634, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23635` | Lei nº 23635, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23636` | Lei nº 23636, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23637` | Lei nº 23637, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23638` | Lei nº 23638, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23639` | Lei nº 23639, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23640` | Lei nº 23640, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23641` | Lei nº 23641, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23642` | Lei nº 23642, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23643` | Lei nº 23643, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-05 to 2025-09-05 |
+| `lei-2025-23644` | Lei nº 23644, de 2025 | 1 | 2025-09-08 to 2025-09-08 |
+| `lei-2025-23645` | Lei nº 23645, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23646` | Lei nº 23646, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23647` | Lei nº 23647, de 2025 (Institui o Dia Estadual do Bombeiro Militar Veterano e dá outras providências.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23648` | Lei nº 23648, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23649` | Lei nº 23649, de 2025 (Dá denominação ao próprio público que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23650` | Lei nº 23650, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23651` | Lei nº 23651, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23652` | Lei nº 23652, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23653` | Lei nº 23653, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23654` | Lei nº 23654, de 2025 (Institui a Política de Conscientização sobre a Depressão na Pessoa Idosa no âmbito do Estado de Goiás.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23655` | Lei nº 23655, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23656` | Lei nº 23656, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23657` | Lei nº 23657, de 2025 (Estabelece a Política Estadual de Gerenciamento Adequado de Resíduos Sólidos gerados em eventos e dá outras providências.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23658` | Lei nº 23658, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23659` | Lei nº 23659, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23660` | Lei nº 23660, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23661` | Lei nº 23661, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-09 to 2025-09-09 |
+| `lei-2025-23662` | Lei nº 23662, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-11 to 2025-09-11 |
+| `lei-2025-23663` | Lei nº 23663, de 2025 (Institui a Política de Incentivo aos Esportes de Rua no Estado de Goiás e dá outras providências.) | 1 | 2025-09-11 to 2025-09-11 |
+| `lei-2025-23664` | Lei nº 23664, de 2025 (Reorganiza a estrutura administrativa básica da Fundação de Amparo à Pesquisa de Goiás - FAPEG e de seu Conselho Superior, e dá outras providências.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23665` | Lei nº 23665, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23666` | Lei nº 23666, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23667` | Lei nº 23667, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Fenashow, realizada no Município de Pontalina/GO.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23668` | Lei nº 23668, de 2025 (Institui o Dia Estadual da Juventude Empreendedora e dá outras providências.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23669` | Lei nº 23669, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23679` | Lei nº 23679, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Salão Nacional de Artes de Jataí.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23678` | Lei nº 23678, de 2025 (Institui a Política Estadual de Fomento à Cadeia Produtiva da Uva.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23677` | Lei nº 23677, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23676` | Lei nº 23676, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Projeto Estrelas do Araguaia.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23675` | Lei nº 23675, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá Pé de Serra, realizado no Município de Mairipotaba/GO.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23674` | Lei nº 23674, de 2025 (Institui o Dia Estadual do Torcedor do Vila Nova.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23673` | Lei nº 23673, de 2025 (Institui o Calendário Estadual de Corridas de Rua e dá outras providências.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23672` | Lei nº 23672, de 2025 (Institui o Dia Estadual do Árbitro de Várzea.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23671` | Lei nº 23671, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23670` | Lei nº 23670, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-16 to 2025-09-16 |
+| `lei-2025-23680` | Lei nº 23680, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-09-17 to 2025-09-17 |
+| `lei-2025-23681` | Lei nº 23681, de 2025 (Institui o Dia Estadual do Sistema S e dá outras providências.) | 1 | 2025-09-17 to 2025-09-17 |
+| `lei-2025-23682` | Lei nº 23682, de 2025 (Institui a Política Estadual de Controle Parental do Acesso de Crianças e Adolescentes à Internet.) | 1 | 2025-09-17 to 2025-09-17 |
+| `lei-2025-23683` | Lei nº 23683, de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-23684` | Lei nº 23684, de 2025 | 1 | 2025-09-18 to 2025-09-18 |
+| `lei-2025-23685` | Lei nº 23685, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23686` | Lei nº 23686, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23687` | Lei nº 23687, de 2025 (Institui a Política Estadual de Atenção Integral à Doença de Huntington e o Dia Estadual de Conscientização sobre a Doença de Huntington.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23688` | Lei nº 23688, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23689` | Lei nº 23689, de 2025 | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23690` | Lei nº 23690, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o "Goianésia Rodeio Festival", realizado no Município de Goianésia/GO.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23691` | Lei nº 23691, de 2025 (Institui a Política Estadual de Incentivo à Contratação de Trabalhador com Síndrome de Down.) | 1 | 2025-09-24 to 2025-09-24 |
+| `lei-2025-23692` | Lei nº 23692, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23693` | Lei nº 23693, de 2025 (Institui a Semana Estadual de Acessibilidade.) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23694` | Lei nº 23694, de 2025 (Institui a Política Estadual "Qualifica Mulher".) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23695` | Lei nº 23695, de 2025 (Institui a Política Estadual de Fomento e Incentivo aos Cursos Sociais, Populares e Comunitários.) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23696` | Lei nº 23696, de 2025 | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23697` | Lei nº 23697, de 2025 (Institui a Política Estadual de Incentivo ao Empreendedorismo Turístico e dá outras providências.) | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23698` | Lei nº 23698, de 2025 | 1 | 2025-09-29 to 2025-09-29 |
+| `lei-2025-23699` | Lei nº 23699, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Arraiá da Advocacia, realizado no Município de Aparecida de Goiânia/GO.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23700` | Lei nº 23700, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23701` | Lei nº 23701, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23702` | Lei nº 23702, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23703` | Lei nº 23703, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23704` | Lei nº 23704, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23705` | Lei nº 23705, de 2025 (Confere ao Município de Itaguaru/GO o título de "Capital Goiana da Festa da Banana".) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23706` | Lei nº 23706, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23707` | Lei nº 23707, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23708` | Lei nº 23708, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23709` | Lei nº 23709, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23710` | Lei nº 23710, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23711` | Lei nº 23711, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23712` | Lei nº 23712, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23713` | Lei nº 23713, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23714` | Lei nº 23714, de 2025 (Altera a Lei nº 20.735, de 17 de janeiro de 2020, que institui a Política Estadual de Incentivo à Prática de Compostagem.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23715` | Lei nº 23715, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23716` | Lei nº 23716, de 2025 (Institui o Dia Estadual do Médico-Veterinário.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23717` | Lei nº 23717, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23718` | Lei nº 23718, de 2025 (Institui, no Estado de Goiás, o "Ano Escritor Bernardo Élis" e dá outras providências.) | 1 | 2025-09-30 to 2025-09-30 |
+| `lei-2025-23719` | Lei nº 23719, de 2025 | 1 | 2025-10-01 to 2025-10-01 |
+| `lei-2025-23720` | Lei nº 23720, de 2025 (Altera a denominação do estabelecimento de ensino que especifica.) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-2025-23721` | Lei nº 23721, de 2025 (Institui o Dia Estadual do Agente de Viagem e dá outras providências.) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-2025-23722` | Lei nº 23722, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-2025-23723` | Lei nº 23723, de 2025 (Institui a Política Estadual de Combate ao Suicídio de Crianças e Adolescentes.) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-2025-23724` | Lei nº 23724, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-03 to 2025-10-03 |
+| `lei-2025-23725` | Lei nº 23725, de 2025 (Autoriza o Chefe do Poder Executivo a instituir, na Secretaria de Estado da Educação - SEDUC, o Prêmio Matemática Enem.) | 1 | 2025-10-06 to 2025-10-06 |
+| `lei-2025-23726` | Lei nº 23726, de 2025 (Altera a Lei nº 13.194, de 26 de dezembro de 1997, que trata de matéria tributária.) | 1 | 2025-10-06 to 2025-10-06 |
+| `lei-2025-23727` | Lei nº 23727, de 2025 (Autoriza a aquisição, por doação onerosa do Município de Águas Lindas de Goiás/GO, do imóvel que especifica.) | 1 | 2025-10-06 to 2025-10-06 |
+| `lei-2025-23728` | Lei nº 23728, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-10-10 to 2025-10-10 |
+| `lei-2025-23729` | Lei nº 23729, de 2025 (Institui a Política Estadual de Incentivo à Agricultura e à Economia Regenerativas.) | 1 | 2025-10-10 to 2025-10-10 |
+| `lei-2025-23730` | Lei nº 23730, de 2025 | 1 | 2025-10-13 to 2025-10-13 |
+| `lei-2025-23731` | Lei nº 23731, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Montes Claros de Goiás/GO.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23732` | Lei nº 23732, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica ao Município de Hidrolina/GO.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23733` | Lei nº 23733, de 2025 | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23734` | Lei nº 23734, de 2025 (Institui o Dia Estadual do Orgulho Autista e dá outras providências.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23735` | Lei nº 23735, de 2025 (Institui o Dia Estadual do Psicólogo.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23736` | Lei nº 23736, de 2025 (Institui o Dia Estadual do Biólogo e dá outras providências.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23737` | Lei nº 23737, de 2025 (Institui a Semana Estadual de Conscientização e Prevenção de Quedas de Pessoas Idosas em Ambiente Doméstico.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23738` | Lei nº 23738, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23739` | Lei nº 23739, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23740` | Lei nº 23740, de 2025 (Institui a Política Estadual de Amparo à Saúde da Mulher em Uso Abusivo de Álcool.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23741` | Lei nº 23741, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23742` | Lei nº 23742, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23743` | Lei nº 23743, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23744` | Lei nº 23744, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23745` | Lei nº 23745, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23746` | Lei nº 23746, de 2025 (Confere ao Município de Rubiataba/GO o título de "Capital Goiana do Polo Moveleiro".) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23747` | Lei nº 23747, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23748` | Lei nº 23748, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-14 to 2025-10-14 |
+| `lei-2025-23749` | Lei nº 23749, de 2025 (Estabelece o prazo de vida útil para veículos utilizados no transporte escolar no Estado de Goiás.) | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-23750` | Lei nº 23750, de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-23751` | Lei nº 23751, de 2025 | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-23752` | Lei nº 23752, de 2025 (Institui o Selo ASG de incentivo às empresas que invistam em ações e projetos de motivação ambiental, social e de governança.) | 1 | 2025-10-15 to 2025-10-15 |
+| `lei-2025-23753` | Lei nº 23753, de 2025 | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-23754` | Lei nº 23754, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Dia Estadual e a Semana Estadual da Segurança e Prevenção de Acidentes no Trabalho.) | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-23755` | Lei nº 23755, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-23756` | Lei nº 23756, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Encontro Motociclístico de Hidrolândia, realizado no Município de Hidrolândia/GO.) | 1 | 2025-10-23 to 2025-10-23 |
+| `lei-2025-23757` | Lei nº 23757, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23758` | Lei nº 23758, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23759` | Lei nº 23759, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23760` | Lei nº 23760, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23761` | Lei nº 23761, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23762` | Lei nº 23762, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23763` | Lei nº 23763, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23764` | Lei nº 23764, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23765` | Lei nº 23765, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23766` | Lei nº 23766, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23767` | Lei nº 23767, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23768` | Lei nº 23768, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23769` | Lei nº 23769, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23770` | Lei nº 23770, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23771` | Lei nº 23771, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-10-28 to 2025-10-28 |
+| `lei-2025-23772` | Lei nº 23772, de 2025 (Dá denominação ao próprio público que especifica.) | 1 | 2025-10-31 to 2025-10-31 |
+| `lei-2025-23773` | Lei nº 23773, de 2025 (Institui o Fundo Estadual de Gestão e Monitoramento dos Recursos do Propag.) | 1 | 2025-10-31 to 2025-10-31 |
+| `lei-2025-23774` | Lei nº 23774, de 2025 (Institui o Programa de Auxílio-Alimentação na Superintendência de Proteção aos Direitos do Consumidor.) | 1 | 2025-10-31 to 2025-10-31 |
+| `lei-2025-23775` | Lei nº 23775, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23776` | Lei nº 23776, de 2025 (Institui a Semana Estadual de Valorização das Congadas.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23777` | Lei nº 23777, de 2025 | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23778` | Lei nº 23778, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Festa do Peão, realizada no Município de Professor Jamil/GO.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23779` | Lei nº 23779, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23780` | Lei nº 23780, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23781` | Lei nº 23781, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23782` | Lei nº 23782, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23783` | Lei nº 23783, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23784` | Lei nº 23784, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23785` | Lei nº 23785, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23786` | Lei nº 23786, de 2025 (Confere ao Município de Catalão/GO o título de "Capital Goiana da Congada".) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23787` | Lei nº 23787, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23788` | Lei nº 23788, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23789` | Lei nº 23789, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23790` | Lei nº 23790, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23791` | Lei nº 23791, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23792` | Lei nº 23792, de 2025 (Institui a Política Estadual "Aluno Presente".) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23793` | Lei nº 23793, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-03 to 2025-11-03 |
+| `lei-2025-23794` | Lei nº 23794, de 2025 (Dá denominação ao próprio público que especifica e dá outras providências.) | 1 | 2025-11-04 to 2025-11-04 |
+| `lei-2025-23795` | Lei nº 23795, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-05 to 2025-11-05 |
+| `lei-2025-23796` | Lei nº 23796, de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23797` | Lei nº 23797, de 2025 (Abre crédito especial ao Corpo de Bombeiros Militar do Estado de Goiás.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23798` | Lei nº 23798, de 2025 | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23799` | Lei nº 23799, de 2025 (Institui a Semana Estadual da Segurança e Prevenção de Acidentes no Trabalho.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23800` | Lei nº 23800, de 2025 (Altera a Lei nº 19.241, de 13 de abril de 2016, que institui a Semana Estadual de Conscientização da Doação de Órgãos e Tecidos.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23801` | Lei nº 23801, de 2025 (Institui o Dia Estadual da Segurança e Prevenção de Acidentes no Trabalho.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23802` | Lei nº 23802, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, o Festival Gastronômico Josephina's, realizado no Município de Niquelândia/GO.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23803` | Lei nº 23803, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Feira de Indústria, Comércio e Turismo, realizada no Município de Uruaçu/GO.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23804` | Lei nº 23804, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23805` | Lei nº 23805, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23806` | Lei nº 23806, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23807` | Lei nº 23807, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23808` | Lei nº 23808, de 2025 (Institui a Campanha "Plante uma Árvore", a ser realizada nas unidades da rede pública estadual de ensino.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23809` | Lei nº 23809, de 2025 (Institui a Semana Estadual de Conscientização sobre a Importância da Preservação da Fauna.) | 1 | 2025-11-06 to 2025-11-06 |
+| `lei-2025-23810` | Lei nº 23810, de 2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2025-23811` | Lei nº 23811, de 2025 | 1 | 2025-11-07 to 2025-11-07 |
+| `lei-2025-23816` | Lei nº 23816, de 2025 (Dá denominação ao próprio público que especifica.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23817` | Lei nº 23817, de 2025 | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23818` | Lei nº 23818, de 2025 (Institui o Dia Estadual das Ligas Acadêmicas.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23819` | Lei nº 23819, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23820` | Lei nº 23820, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23821` | Lei nº 23821, de 2025 | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23822` | Lei nº 23822, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23823` | Lei nº 23823, de 2025 (Institui o Dia Estadual do Catequista.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23824` | Lei nº 23824, de 2025 | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23812` | Lei nº 23812, de 2025 (Abre crédito especial à Polícia Civil.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23813` | Lei nº 23813, de 2025 (Autoriza a aquisição, por doação onerosa, por parte do Município de Hidrolândia/GO, do imóvel que especifica.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23814` | Lei nº 23814, de 2025 (Dispõe sobre a criação e a denominação do estabelecimento de ensino que especifica.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23815` | Lei nº 23815, de 2025 (Autoriza o Chefe do Poder Executivo a alienar, por doação onerosa, o imóvel que especifica, com suas benfeitorias, à Universidade Estadual de Goiás - UEG.) | 1 | 2025-11-11 to 2025-11-11 |
+| `lei-2025-23825` | Lei nº 23825, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-12 to 2025-11-12 |
+| `lei-2025-23826` | Lei nº 23826, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-12 to 2025-11-12 |
+| `lei-2025-23827` | Lei nº 23827, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-13 to 2025-11-13 |
+| `lei-2025-23828` | Lei nº 23828, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23829` | Lei nº 23829, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23830` | Lei nº 23830, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23831` | Lei nº 23831, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23832` | Lei nº 23832, de 2025 (Institui o Dia Estadual do Agente de Defesa Ambiental.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23833` | Lei nº 23833, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23834` | Lei nº 23834, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23835` | Lei nº 23835, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23836` | Lei nº 23836, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23837` | Lei nº 23837, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23838` | Lei nº 23838, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23839` | Lei nº 23839, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23840` | Lei nº 23840, de 2025 (Institui o Dia Estadual da Conservação do Cerrado no Estado de Goiás.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23841` | Lei nº 23841, de 2025 (Institui a Política Estadual de Cooperação Luso-Goiana para Inovação e Empreendedorismo.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23842` | Lei nº 23842, de 2025 (Altera a Lei nº 7.308, de 07 de maio de 1971, que dispõe sobre denominação de próprios estaduais e dá outras providências.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23843` | Lei nº 23843, de 2025 (Declara de utilidade pública a entidade que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23844` | Lei nº 23844, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23845` | Lei nº 23845, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23846` | Lei nº 23846, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23847` | Lei nº 23847, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23848` | Lei nº 23848, de 2025 | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23849` | Lei nº 23849, de 2025 (Inclui, no Calendário Cívico, Cultural e Turístico do Estado de Goiás, a Campus Party Goiás, realizada no Município de Goiânia/GO.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23850` | Lei nº 23850, de 2025 (Dispõe sobre o reconhecimento do bem que especifica como patrimônio cultural imaterial goiano e dá outras providências.) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23851` | Lei nº 23851, de 2025 (Institui a Campanha Estadual "Dirija como uma Mulher".) | 1 | 2025-11-14 to 2025-11-14 |
+| `lei-2025-23863` | Lei nº 23863, de 2025 | 1 | 2025-11-19 to 2025-11-19 |
+| `lei-2025-23862` | Lei nº 23862, de 2025 | 1 | 2025-11-19 to 2025-11-19 |
 | `lei-2025-23861` | Lei nº 23861, de 2025 (Concede o título de cidadania que especifica.) | 1 | 2025-11-19 to 2025-11-19 |
 | `lei-2025-23860` | Lei nº 23860, de 2025 (Institui o Dia Estadual do Procurador Municipal e dá outras providências.) | 1 | 2025-11-19 to 2025-11-19 |
 | `lei-2025-23859` | Lei nº 23859, de 2025 (Estabelece regras a serem atendidas pelos estabelecimentos comerciais que prestam serviço de hospedagem de animais domésticos.) | 1 | 2025-11-19 to 2025-11-19 |
@@ -979,19 +1234,19 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `lei-2026-24599` | Lei nº 24599, de 2026 (Autoriza a aquisição, por doação onerosa por parte do Município de Santa Rita do Novo Destino/GO, dos imóveis que especifica.) | 1 | 2026-11-04 to 2026-11-04 |
 | `lei-2026-24600` | Lei nº 24600, de 2026 (Institui os Meses Estaduais "Outubro Rosa Pet" e "Novembro Azul Pet".) | 1 | 2026-11-04 to 2026-11-04 |
 
-The build made 944 commits:
+The build made 1194 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 944 | first version of an act |
+| 1194 | first version of an act |
 | 0 | one law on its in-force day |
 | 0 | changes no amendment note explains, credited to the publisher |
 
 Other counts:
 - 0 commits on the branch `futuro`: laws not yet in force on 2026-11-06.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 944 laws in the record.
-- 1838 tags.
+- 1194 laws in the record.
+- 2338 tags.
 
 ## Dates
 
@@ -1003,7 +1258,7 @@ When a law gives no date of its own, the default rule applies: Decreto-Lei 4.657
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `ccde6cfaf278ceb741b978affb178c48767eadb0a12914ba2d57a042277e39df` (6148796 bytes).
+- Corpus: sha256 `c25e84a0d60bb34727823eeaff9d8f84c050e155b72703ab597186a8a10e4a6b` (6833479 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
 - Python 3.14.4; git version 2.53.0.
 
@@ -1099,6 +1354,26 @@ No second build of this corpus has been compared yet.
 - The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
 - One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
 - Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
+- An act the Casa Civil shows no alteration note for is given as enacted, credited to the act itself and dated by its publication in the Diário Oficial do Estado (the Constituição by its promulgation, 5 October 1989). An altered act is given only as its text in force, credited to the publisher as the oldest version available and dated by the latest date its alteration notes cite. The wordings in between are not reconstructed yet, so no earlier version is given rather than a wrong one.
+- The text in force leaves out the earlier wordings the compiled text shows struck through or in red (each followed by a note such as "- Redação original") and the publisher's notes (in Arial Black, such as "- Redação dada pela Emenda Constitucional nº 46, de 9-9-2010, D.O. de 7-12-2010", the green "Vide" notes and the <nota> elements of newer pages). "Vide" notes do not date a version. The notice "Este texto não substitui o publicado no D.O. de ..." is left out. In an act with no alteration note, what is struck through is the act's own rendering of what it deletes from the law it amends (in its quoted annexes and tables) and is left out; such an act is given as enacted. An altered act whose notes cite no date is left out.
+- One file per Art. (articles of the Ato das Disposições Constitucionais Transitórias as adt-*); headings of the Títulos, Capítulos and Seções stand above the first article under them; "000-titulo" holds the title, the ementa and the preamble. Text after the last article (place, date, signatures) stays with the last article.
+- Tables are one line per row, cells separated by " | "; images are left out.
 
 ## What AI did and did not do
 
@@ -1109,6 +1384,11 @@ No model wrote, translated or corrected legal text. No model runs at build time.
 The commit messages are written by `build.py` from the source data.
 
 Model use at data-build time:
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
+- Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
 - Claude Code (claude-opus-5-5) wrote Lexifina's code and chose the sources. No model output is used as legal text or dates: every word comes from the Legisla Goiás records.
